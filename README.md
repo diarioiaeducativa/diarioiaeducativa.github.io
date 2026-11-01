@@ -1,13 +1,13 @@
-# Tiza y Algoritmo · Guix i Algorisme
+# Diario de IA Educativa · Diari d'IA Educativa
 
-Diario de IA educativa: lo que el profesorado prueba y debate en tres comunidades abiertas de
-Telegram, [ChatGPT-IA-edu](https://t.me/ChatGPTedu),
+Lo que el profesorado prueba y debate en tres comunidades abiertas de Telegram, [ChatGPT-IA-edu](https://t.me/ChatGPTedu),
 [Vibe Coding Educativo](https://t.me/vceduca) y [EduMedia-IAG](https://t.me/EduMediaIAG).
-Sale cada mañana a las 7:00, en castellano y, como *Guix i Algorisme*, en catalán.
+Sale cada mañana a las 7:00, en castellano y, como *Diari d'IA Educativa*, en catalán. Su viñeta
+diaria la protagonizan Tiza y Algoritmo.
 
-- Castellano: https://tizayalgoritmo.github.io/
-- Català: https://tizayalgoritmo.github.io/ca/
-- RSS: [castellano](https://tizayalgoritmo.github.io/feed.xml) · [català](https://tizayalgoritmo.github.io/ca/feed.xml)
+- Castellano: https://diarioiaeducativa.github.io/
+- Català: https://diarioiaeducativa.github.io/ca/
+- RSS: [castellano](https://diarioiaeducativa.github.io/feed.xml) · [català](https://diarioiaeducativa.github.io/ca/feed.xml)
 
 ## Cómo se hace
 

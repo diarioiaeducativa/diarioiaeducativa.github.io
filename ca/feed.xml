@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Guix i Algorisme</title>
-  <link>https://tizayalgoritmo.github.io/ca/</link>
-  <atom:link href="https://tizayalgoritmo.github.io/ca/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>Diari d&#x27;IA educativa: el que el professorat prova i debat en tres comunitats obertes</description>
+  <title>Diari d&#x27;IA Educativa</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>El que el professorat prova i debat en tres comunitats obertes</description>
   <language>ca</language>
   <item>
     <title>El sector editorial adverteix d&#x27;una «cacera de bruixes» pels detectors de textos amb IA</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-11-01/detectores-caza-brujas.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-11-01/detectores-caza-brujas.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</guid>
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debats</category>
     <description>Un reportatge de La Vanguardia recull acusacions d&#x27;ús d&#x27;IA basades en detectors que es contradiuen amb el temps. El debat arriba a l&#x27;educació: com comprovar l&#x27;autoria sense perseguir.</description>
   </item>
   <item>
     <title>Una escola de Catalunya comparteix una aplicació per a l&#x27;autoavaluació de l&#x27;alumnat i la valoració docent</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-11-01/la-teva-veu.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-11-01/la-teva-veu.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/la-teva-veu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/la-teva-veu.html</guid>
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«La teva veu», creada per Felip Sarroca per a l&#x27;Escola Ramon Pont, genera informes en PDF per a famílies i professorat.</description>
   </item>
   <item>
     <title>Una publicació orienta les famílies quan la IA fa els deures</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-11-01/familias-deberes-ia.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-11-01/familias-deberes-ia.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/familias-deberes-ia.html</guid>
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debats</category>
     <description>Chema Falcó proposa una prova senzilla i una regla comuna per distingir fer servir la IA per aprendre de delegar-li l&#x27;aprenentatge.</description>
   </item>
   <item>
     <title>Una websèrie de terror feta amb IA documenta pas a pas el seu flux de treball</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-31/webserie-never-sleep-again.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-31/webserie-never-sleep-again.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-31/webserie-never-sleep-again.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-31/webserie-never-sleep-again.html</guid>
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimèdia</category>
     <description>«Never Sleep Again», set episodis publicats entre el 25 i el 31 d&#x27;octubre, explica al seu web com combina Blender, Claude, un generador de vídeo i DaVinci Resolve.</description>
   </item>
   <item>
     <title>Un laboratori interactiu guia l&#x27;alumnat de 2n de Batxillerat pel potencial gravitatori</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-31/mapa-potencial-gravitatorio.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-31/mapa-potencial-gravitatorio.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-31/mapa-potencial-gravitatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-31/mapa-potencial-gravitatorio.html</guid>
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>L&#x27;aplicació «Mapa de potencial gravitatorio», compartida pel professor Antonio González, inclou una guia didàctica de nou passos i calcula el treball entre dos punts.</description>
   </item>
   <item>
     <title>Una activitat interactiva ensenya a escriure els símbols del teclat espanyol</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-31/teclado-espanol.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-31/teclado-espanol.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-31/teclado-espanol.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-31/teclado-espanol.html</guid>
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>La pràctica, compartida per Toni Magraner, entrena símbols, accents i dreceres amb un mode de prova i un altre d&#x27;entrenament.</description>
   </item>
   <item>
     <title>Eductia ofereix una IA de pagament per preparar materials docents a Catalunya</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-30/eductia.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-30/eductia.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/eductia.html</guid>
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Eines</category>
     <description>El servei genera situacions d&#x27;aprenentatge, activitats i instruments d&#x27;avaluació alineats amb la normativa catalana, i planteja el dubte de què aporta davant d&#x27;una IA d&#x27;ús general.</description>
   </item>
   <item>
     <title>La Comissió Europea actualitza DigCompEdu per incorporar-hi la IA i el benestar digital</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-30/digcompedu.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-30/digcompedu.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/digcompedu.html</guid>
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Novetats oficials</category>
     <description>El marc europeu de competència digital del professorat s&#x27;està revisant, amb versió final prevista per a la primavera de 2027 i consultes al professorat.</description>
   </item>
   <item>
     <title>Docents comparen com mantenir les mateixes skills i projectes en diversos ordinadors</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-30/skills-sincronizar.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-30/skills-sincronizar.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/skills-sincronizar.html</guid>
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Qui programa amb assistents d&#x27;IA en diversos equips descriu tres enfocaments: repositori Git, sincronització contínua i una carpeta compartida al núvol.</description>
   </item>
   <item>
     <title>EDUmind ofereix dictats en gallec i castellà amb veus sintètiques de codi obert</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-29/dictados-voz-gallego.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-29/dictados-voz-gallego.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-29/dictados-voz-gallego.html</guid>
     <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Una aplicació web gratuïta, creada per Luis Vilela Acuña, reuneix dictats en gallec i castellà per a sisè de primària, amb veus sintètiques de llicència oberta.</description>
   </item>
   <item>
     <title>Google presenta Gemini 4 Carbon, de moment només per a especialistes en ciberseguretat</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-28/gemini4carbon.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-28/gemini4carbon.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/gemini4carbon.html</guid>
     <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     <category>Novetats oficials</category>
     <description>Google DeepMind ha anunciat el seu nou model de frontera, que per ara només fa servir un grup reduït de professionals de la defensa informàtica. No hi ha data per al públic general.</description>
   </item>
   <item>
     <title>Plec genera dictats plegables en català, amb àudio, perquè l&#x27;alumnat s&#x27;autocorregeixi</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-28/plec-dictados.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-28/plec-dictados.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/plec-dictados.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/plec-dictados.html</guid>
     <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Una aplicació oberta crea llistes de paraules o pseudoparaules per dictar a classe, que s&#x27;imprimeixen en un full plegat perquè l&#x27;alumnat corregeixi les seves pròpies respostes.</description>
   </item>
   <item>
     <title>Un prompt per crear lliçons 3D interactives inspirades en «Every Joule»</title>
-    <link>https://tizayalgoritmo.github.io/ca/2026-10-28/everyjoule-prompt.html</link>
-    <guid isPermaLink="true">https://tizayalgoritmo.github.io/ca/2026-10-28/everyjoule-prompt.html</guid>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/everyjoule-prompt.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/everyjoule-prompt.html</guid>
     <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Un membre dels grups va compartir un prompt extens perquè una IA generi una lliçó interactiva en 3D amb l&#x27;estil d&#x27;un llibre de física sobre energia.</description>
