@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Tiza y Algoritmo</title>
+  <link>https://tizayalgoritmo.github.io/</link>
+  <atom:link href="https://tizayalgoritmo.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Diario de IA educativa: lo que el profesorado prueba y debate en tres comunidades abiertas</description>
+  <language>es</language>
+  <item>
+    <title>El sector editorial advierte de una «caza de brujas» por los detectores de textos con IA</title>
+    <link>https://tizayalgoritmo.github.io/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Un reportaje de La Vanguardia recoge acusaciones de uso de IA basadas en detectores que se contradicen con el tiempo. El debate llega a la educación: cómo comprobar la autoría sin perseguir.</description>
+  </item>
+  <item>
+    <title>Una escuela de Cataluña comparte una aplicación para la autoevaluación del alumnado y la valoración docente</title>
+    <link>https://tizayalgoritmo.github.io/2026-11-01/la-teva-veu.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-11-01/la-teva-veu.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>«La teva veu», creada por Felip Sarroca para la Escola Ramon Pont, genera informes en PDF para familias y profesorado.</description>
+  </item>
+  <item>
+    <title>Una publicación orienta a las familias cuando la IA hace los deberes</title>
+    <link>https://tizayalgoritmo.github.io/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>Chema Falcó propone una prueba sencilla y una regla común para distinguir usar la IA para aprender de delegarle el aprendizaje.</description>
+  </item>
+  <item>
+    <title>Una webserie de terror hecha con IA documenta paso a paso su flujo de trabajo</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-31/webserie-never-sleep-again.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-31/webserie-never-sleep-again.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>«Never Sleep Again», siete episodios publicados entre el 25 y el 31 de octubre, explica en su web cómo combina Blender, Claude, un generador de vídeo y DaVinci Resolve.</description>
+  </item>
+  <item>
+    <title>Un laboratorio interactivo guía al alumnado de 2.º de Bachillerato por el potencial gravitatorio</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-31/mapa-potencial-gravitatorio.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-31/mapa-potencial-gravitatorio.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>La aplicación «Mapa de potencial gravitatorio», compartida por el profesor Antonio González, incluye una guía didáctica de nueve pasos y calcula el trabajo entre dos puntos.</description>
+  </item>
+  <item>
+    <title>Una actividad interactiva enseña a escribir los símbolos del teclado español</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-31/teclado-espanol.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-31/teclado-espanol.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>La práctica, compartida por Toni Magraner, entrena símbolos, acentos y atajos con un modo de prueba y otro de entrenamiento.</description>
+  </item>
+  <item>
+    <title>Eductia ofrece una IA de pago para preparar materiales docentes en Cataluña</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>El servicio genera situaciones de aprendizaje, actividades e instrumentos de evaluación alineados con la normativa catalana, y plantea la duda de qué aporta frente a una IA de uso general.</description>
+  </item>
+  <item>
+    <title>La Comisión Europea actualiza DigCompEdu para incorporar la IA y el bienestar digital</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Novedades oficiales</category>
+    <description>El marco europeo de competencia digital del profesorado se está revisando, con versión final prevista para la primavera de 2027 y consultas al profesorado.</description>
+  </item>
+  <item>
+    <title>Docentes comparan cómo mantener las mismas skills y proyectos en varios ordenadores</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-30/skills-sincronizar.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>Quien programa con asistentes de IA en varios equipos describe tres enfoques: repositorio Git, sincronización continua y una carpeta compartida en la nube.</description>
+  </item>
+  <item>
+    <title>EDUmind ofrece dictados en gallego y castellano con voces sintéticas de código abierto</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-29/dictados-voz-gallego.html</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>Una aplicación web gratuita, creada por Luis Vilela Acuña, reúne dictados en gallego y castellano para sexto de primaria, con voces sintéticas de licencia abierta.</description>
+  </item>
+  <item>
+    <title>Google presenta Gemini 4 Carbon, de momento solo para especialistas en ciberseguridad</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Novedades oficiales</category>
+    <description>Google DeepMind ha anunciado su nuevo modelo de frontera, que por ahora solo usa un grupo reducido de profesionales de la defensa informática. No hay fecha para el público general.</description>
+  </item>
+  <item>
+    <title>Plec genera dictados plegables en catalán, con audio, para que el alumnado se autocorrija</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-28/plec-dictados.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-28/plec-dictados.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Hecho en la comunidad</category>
+    <description>Una aplicación abierta crea listas de palabras o pseudopalabras para dictar en clase, que se imprimen en un folio plegado para que el alumnado corrija sus propias respuestas.</description>
+  </item>
+  <item>
+    <title>Un prompt para crear lecciones 3D interactivas inspiradas en «Every Joule»</title>
+    <link>https://tizayalgoritmo.github.io/2026-10-28/everyjoule-prompt.html</link>
+    <guid isPermaLink="true">https://tizayalgoritmo.github.io/2026-10-28/everyjoule-prompt.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Un miembro de los grupos compartió un prompt extenso para que una IA genere una lección interactiva en 3D con el estilo de un libro de física sobre energía.</description>
+  </item>
+</channel>
+</rss>

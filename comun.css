@@ -1,0 +1,204 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later
+   Base común de las dos maquetas: colores, letra, ilustraciones y conmutador de tema.
+   Tinta de imprenta sobre papel blanco, con el azul del bolígrafo y el rojo de corregir:
+   el rojo marca solo lo comprobado y el número de la edición. */
+
+:root {
+  --papel: #fbfbf9;
+  --papel-2: #f1f2f4;
+  --tinta: #16181d;
+  --tinta-2: #4f5562;
+  --filete: #cfd2d8;
+  --azul: #1c3faa;
+  --azul-hondo: #142a6e;
+  --rojo: #c8202c;
+  --sobre-azul: #f4f6ff;
+  --ilu-tinta: var(--tinta);
+  --ilu-azul: var(--azul);
+  --ilu-rojo: var(--rojo);
+  --ilu-relleno: #dfe5f7;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --papel: #13151a;
+    --papel-2: #1b1e25;
+    --tinta: #e8e9ec;
+    --tinta-2: #a4a9b4;
+    --filete: #343944;
+    --azul: #93a9ff;
+    --azul-hondo: #1d2c63;
+    --rojo: #ff6e6e;
+    --sobre-azul: #eef1ff;
+    --ilu-relleno: #26315a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --papel: #13151a;
+  --papel-2: #1b1e25;
+  --tinta: #e8e9ec;
+  --tinta-2: #a4a9b4;
+  --filete: #343944;
+  --azul: #93a9ff;
+  --azul-hondo: #1d2c63;
+  --rojo: #ff6e6e;
+  --sobre-azul: #eef1ff;
+  --ilu-relleno: #26315a;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: 'Newsreader', Georgia, serif;
+  font-optical-sizing: auto;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+  hyphens: auto;
+}
+a { color: var(--azul); text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--azul); outline-offset: 3px; border-radius: 2px; }
+img, svg { max-width: 100%; }
+.solo-lector { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Ilustraciones: dibujo a tinta, se adaptan al tema por sus clases */
+.ilu svg { display: block; width: 100%; height: auto; }
+.ilu .t { stroke: var(--ilu-tinta); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.ilu .a { stroke: var(--ilu-azul); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.ilu .r { stroke: var(--ilu-rojo); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.ilu .fa { fill: var(--ilu-relleno); stroke: none; }
+.ilu .ft { fill: var(--ilu-tinta); stroke: none; }
+.ilu .fz { fill: var(--ilu-azul); stroke: none; }
+.ilu .lbl { fill: var(--ilu-tinta); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px; }
+
+/* Marca de bolígrafo rojo: lo comprobado */
+.comprobado {
+  margin-top: 2.2rem;
+  padding: 1rem 1.1rem 1.1rem 3.2rem;
+  border-top: 1px solid var(--filete);
+  position: relative;
+  font-size: 0.95rem;
+  color: var(--tinta-2);
+}
+.comprobado::before {
+  content: "";
+  position: absolute; left: 0.6rem; top: 0.9rem;
+  width: 1.9rem; height: 1.6rem;
+  background: var(--rojo);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 38 32'%3E%3Cpath d='M3 17c4 2 7 6 9 11C17 17 25 8 35 3' fill='none' stroke='black' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat center / contain;
+          mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 38 32'%3E%3Cpath d='M3 17c4 2 7 6 9 11C17 17 25 8 35 3' fill='none' stroke='black' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat center / contain;
+}
+.comprobado h2 { font-size: 1rem; margin: 0 0 0.35rem; color: var(--tinta); font-weight: 600; }
+.comprobado ul { margin: 0; padding-left: 1.1rem; }
+.comprobado li { margin: 0.2rem 0; }
+
+/* Conmutador de tema, como el de Sirena */
+.tema {
+  appearance: none; border: 1px solid var(--filete); background: transparent; color: var(--tinta);
+  width: 2.5rem; height: 2.5rem; border-radius: 50%; display: inline-grid; place-items: center; cursor: pointer;
+}
+.tema svg { width: 1.2rem; height: 1.2rem; }
+.tema .sol { display: none; }
+:root[data-theme="dark"] .tema .sol { display: block; }
+:root[data-theme="dark"] .tema .luna { display: none; }
+
+/* Iconos de sección (Lucide, ISC) */
+.ico { width: 1.05em; height: 1.05em; vertical-align: -0.15em; stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+@media print {
+  :root, :root[data-theme="dark"] { --papel: #fff; --papel-2: #fff; --tinta: #000; --tinta-2: #333; --filete: #999; --azul: #000; --rojo: #000; }
+  .tema, .navegacion, .pie-unete { display: none !important; }
+}
+
+/* Viñeta: Tiza y Algoritmo. La tiza es blanca en los dos temas; el cursor, azul. */
+:root { --tiza: #ffffff; --cara: #16181d; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --tiza: #f1f1ec; } }
+:root[data-theme="dark"] { --tiza: #f1f1ec; }
+.vineta svg { display: block; width: 100%; height: auto; }
+.vineta .marco { fill: var(--papel); stroke: var(--tinta); stroke-width: 2.5; }
+.vineta .t, .vineta .a { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.vineta .t { stroke: var(--tinta); }
+.vineta .a { stroke: var(--azul); }
+.vineta .fino { stroke-width: 1.6; }
+.vineta .discontinuo { stroke-dasharray: 4 5; stroke-width: 2; }
+.vineta .fa { fill: var(--ilu-relleno); }
+.vineta .ft { fill: var(--tinta); stroke: none; }
+.vineta .fz { fill: var(--azul); stroke: none; }
+.vineta .tz { fill: var(--tiza); stroke: var(--tinta); stroke-width: 2.5; stroke-linejoin: round; }
+.vineta .cara { fill: none; stroke: var(--cara); stroke-width: 2.2; stroke-linecap: round; }
+.vineta .fcara { fill: var(--cara); }
+.vineta .ojo { fill: var(--papel); }
+.vineta .fpupila { fill: var(--tinta); }
+.vineta .sp { fill: none; stroke: var(--papel); stroke-width: 2.4; stroke-linecap: round; }
+.vineta .fsp { fill: var(--papel); }
+.vineta .polvo { opacity: 0.5; }
+.vineta .globo { fill: var(--papel); stroke: var(--tinta); stroke-width: 2; }
+.vineta .globo-cola { fill: var(--papel); stroke: var(--tinta); stroke-width: 2; stroke-linejoin: round; }
+.vineta .bocadillo-texto { fill: var(--tinta); font-family: 'Newsreader', Georgia, serif; font-size: 17px; }
+.vineta .cartela { fill: var(--papel-2); stroke: var(--tinta); stroke-width: 2; }
+.vineta .cartela-texto { fill: var(--tinta); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 16px; }
+.vineta .tira { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.8rem; }
+@media (max-width: 40rem) { .vineta .tira { grid-template-columns: 1fr; max-width: 26rem; margin-inline: auto; } }
+
+/* Controles de la cabecera: la otra edición (como en un periódico) y el tema */
+.controles { display: inline-flex; align-items: center; gap: 0.9rem; justify-self: end; }
+.edicion { font-style: italic; color: var(--tinta-2); text-decoration-color: var(--filete); white-space: nowrap; }
+.edicion:hover { color: var(--tinta); }
+
+/* Un color por sección, como los periódicos que distinguen sus secciones por color.
+   Paleta de material escolar: bolígrafo azul, lápiz naranja, pizarra verde, rotulador
+   morado y subrayador amarillo. El rojo queda para las marcas de corrección. */
+:root {
+  --c-herramientas: #1c3faa; --t-herramientas: #e6ebf8; --m-herramientas: #c9d4f2;
+  --c-debates: #b04f0c;      --t-debates: #fbeadb;      --m-debates: #f3cdaa;
+  --c-comunidad: #1d7547;    --t-comunidad: #e2f1e8;    --m-comunidad: #bfe0cc;
+  --c-novedades: #6a3d9e;    --t-novedades: #eee6f7;    --m-novedades: #d8c6ee;
+  --c-vineta: #8a6400;       --t-vineta: #fff3c4;       --m-vineta: #ffe27a;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --c-herramientas: #93a9ff; --t-herramientas: #1c2440; --m-herramientas: #2c3a6b;
+    --c-debates: #ffa766;      --t-debates: #35251a;      --m-debates: #5a3b22;
+    --c-comunidad: #6fd4a0;    --t-comunidad: #16302a;    --m-comunidad: #22503c;
+    --c-novedades: #c9a3ff;    --t-novedades: #2a2140;    --m-novedades: #45346b;
+    --c-vineta: #ffd84d;       --t-vineta: #33300f;       --m-vineta: #5c5214;
+  }
+}
+:root[data-theme="dark"] {
+  --c-herramientas: #93a9ff; --t-herramientas: #1c2440; --m-herramientas: #2c3a6b;
+  --c-debates: #ffa766;      --t-debates: #35251a;      --m-debates: #5a3b22;
+  --c-comunidad: #6fd4a0;    --t-comunidad: #16302a;    --m-comunidad: #22503c;
+  --c-novedades: #c9a3ff;    --t-novedades: #2a2140;    --m-novedades: #45346b;
+  --c-vineta: #ffd84d;       --t-vineta: #33300f;       --m-vineta: #5c5214;
+}
+.sec-herramientas { --sec: var(--c-herramientas); --sec-tinte: var(--t-herramientas); --sec-medio: var(--m-herramientas); }
+.sec-debates      { --sec: var(--c-debates);      --sec-tinte: var(--t-debates);      --sec-medio: var(--m-debates); }
+.sec-comunidad    { --sec: var(--c-comunidad);    --sec-tinte: var(--t-comunidad);    --sec-medio: var(--m-comunidad); }
+.sec-novedades    { --sec: var(--c-novedades);    --sec-tinte: var(--t-novedades);    --sec-medio: var(--m-novedades); }
+.sec-vineta       { --sec: var(--c-vineta);       --sec-tinte: var(--t-vineta);       --sec-medio: var(--m-vineta); }
+.sec-breves       { --sec: var(--tinta); }
+/* Las ilustraciones toman el color de su sección: fondo teñido y trazos destacados */
+[class*="sec-"] .ilu { --ilu-azul: var(--sec); --ilu-relleno: var(--sec-medio); background: var(--sec-tinte) !important; }
+[class*="sec-"] .seccion { color: var(--sec); }
+
+/* Escenarios de la viñeta: trazo suave al fondo para que manden los personajes */
+.vineta .fondo { fill: none; stroke: var(--tinta-2); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; opacity: 0.6; }
+.vineta .mueble { fill: var(--papel-2); stroke: var(--tinta-2); stroke-width: 1.8; stroke-linejoin: round; }
+.vineta .mesa { fill: var(--m-novedades); stroke: var(--tinta); stroke-width: 2; }
+.vineta .pizarra-verde { fill: var(--m-comunidad); stroke: var(--tinta-2); stroke-width: 1.8; }
+.vineta .tiza-linea { fill: none; stroke: var(--tiza); stroke-width: 2; stroke-linecap: round; opacity: 0.9; }
+.vineta .corcho { fill: var(--m-debates); stroke: var(--tinta-2); stroke-width: 1.8; }
+.vineta .nota { fill: var(--m-vineta); stroke: var(--tinta-2); stroke-width: 1.2; }
+.vineta .ventana { fill: var(--t-herramientas); stroke: var(--tinta-2); stroke-width: 1.8; }
+.vineta .luna { fill: var(--m-vineta); stroke: none; }
+.vineta .fr { fill: var(--rojo); }
+.vineta .r { fill: none; stroke: var(--rojo); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+.vineta .rubor { fill: none; stroke: var(--rojo); stroke-width: 1.8; stroke-linecap: round; opacity: 0.75; }
