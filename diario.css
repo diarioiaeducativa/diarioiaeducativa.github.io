@@ -182,3 +182,16 @@
 /* Subtítulo de la viñeta */
 .vineta-sub { display: block; margin-top: 0.15rem; font-size: 0.95rem; font-weight: 400; color: var(--tinta-2); }
 .vineta-sub-pagina { margin: 0 0 0.6rem; font-style: italic; color: var(--tinta-2); font-size: 1.1rem; }
+
+/* «Desde la redacción»: la presentación del número 1, en una franja a todo el ancho */
+.editorial {
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center;
+  margin-bottom: 1.8rem; padding: 1.4rem 1.6rem; background: var(--papel-2); border-left: 5px solid var(--rojo);
+}
+.editorial .antetitulo { color: var(--rojo); font-style: italic; }
+.editorial .titular { font-size: clamp(1.6rem, 3vw, 2.2rem); margin: 0.2rem 0 0.5rem; }
+.editorial .entradilla { font-size: 1.1rem; line-height: 1.5; }
+.editorial .leer { margin: 0.8rem 0 0; font-weight: 600; }
+.editorial .ilu { margin: 0; }
+.presentacion { margin-top: 2rem; font-weight: 600; }
+@media (max-width: 52rem) { .editorial { grid-template-columns: 1fr; padding: 1.1rem; } }
