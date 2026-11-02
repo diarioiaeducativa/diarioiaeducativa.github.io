@@ -39,7 +39,7 @@
   
 </header>
 <main class="articulo">
-  <article>
+  <article class="sec-vibecoding">
     <p class="seccion"><span><a href="../vibecoding.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</a></span> <span class="fecha-pieza">31 de octubre</span></p>
   <p class="antetitulo">Trabajo con agentes</p>
     <h1 class="titular">Docentes comparan cómo mantener las mismas skills y proyectos en varios ordenadores</h1>
@@ -47,8 +47,10 @@
     
     <div class="cuerpo"><p class="capitular">Quien trabaja con asistentes de programación en más de un ordenador se encuentra con un problema práctico: mantener iguales las skills (instrucciones reutilizables), la configuración y los proyectos. En el grupo se compararon varias soluciones.</p><p>La primera, que sugirió el propio asistente, es separar las cosas: los proyectos en un repositorio privado de GitHub, con subida y descarga en cada sesión, y la configuración con una herramienta de sincronización como Syncthing. Syncthing es de código abierto y, según su web, no usa servidor central: los datos permanecen en los equipos del usuario. Un participante advirtió de que una sincronización espejo propaga también los borrados, así que no sustituye a una copia de seguridad, y que GitHub encaja mejor como copia que como sincronización.</p><p>Otros dos enfoques parten de una carpeta de Google Drive que contiene las skills, la configuración de servidores MCP y las herramientas de línea de comandos; al abrir el asistente en un equipo nuevo se le pide revisar esa carpeta y actualizar su configuración. Uno de ellos añade un índice de skills con documentación y un selector por proyecto, de modo que solo se instalan las necesarias, sin sincronización automática. La conclusión provisional de quien planteó la duda fue centralizar los proyectos y pasar a mano las mejoras de skills.</p></div>
     <p class="origen"><a href="https://t.me/vceduca/14401" target="_blank" rel="noopener">Lee la conversación original en Vibe Coding Educativo</a></p>
+    <p class="acciones"><button type="button" class="compartir" data-copiado="Enlace copiado"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg><span>Compartir</span></button></p>
     <section class="comprobado" aria-labelledby="comp-skills-sincronizar"><h2 id="comp-skills-sincronizar">Comprobado en</h2><ul><li><a href="https://syncthing.net/" target="_blank" rel="noopener">Syncthing</a></li></ul></section>
   </article>
+  <aside class="mas sec-vibecoding" aria-labelledby="t-mas"><h2 id="t-mas">Más en Vibe coding</h2><ul><li><span class="fecha-pieza">2 de noviembre</span><a href="../2026-11-01/la-teva-veu.html">Una escuela de Cataluña comparte una aplicación para la autoevaluación del alumnado y la valoración docente</a></li><li><span class="fecha-pieza">1 de noviembre</span><a href="../2026-10-31/mapa-potencial-gravitatorio.html">Un laboratorio interactivo guía al alumnado de 2.º de Bachillerato por el potencial gravitatorio</a></li><li><span class="fecha-pieza">1 de noviembre</span><a href="../2026-10-31/teclado-espanol.html">Una actividad interactiva enseña a escribir los símbolos del teclado español</a></li></ul></aside>
   <p class="volver"><a href="../">Volver a la portada</a></p>
 </main>
 <footer class="pie">
@@ -61,6 +63,7 @@
   <nav class="pie-archivo" aria-label="Archivo por días">
     <h2>Archivo por días</h2>
     <ul><li><a href="../2026-11-01/">Lunes, 2 de noviembre de 2026</a></li><li><a href="../2026-10-31/">Domingo, 1 de noviembre de 2026</a></li><li><a href="../2026-10-30/" aria-current="page">Sábado, 31 de octubre de 2026</a></li><li><a href="../2026-10-29/">Viernes, 30 de octubre de 2026</a></li><li><a href="../2026-10-28/">Jueves, 29 de octubre de 2026</a></li></ul>
+    <p class="pie-hemeroteca"><a href="../archivo.html">Hemeroteca: todos los números</a></p>
   </nav>
   <div class="pie-creditos">
     <p>Redactado con IA a partir de las conversaciones de los grupos. Cada dato se comprueba en su fuente original, enlazada al final de cada pieza; las opiniones de los miembros no se atribuyen a nadie.</p>
@@ -82,6 +85,20 @@
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
     a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});
+  });
+  // En el móvil las secciones se deslizan: la sección abierta, a la vista
+  var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
+  if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
+  // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
+  document.querySelectorAll('.compartir').forEach(function(b){
+    b.addEventListener('click',function(){
+      var datos={title:document.title,url:location.href}, r=b.querySelector('span');
+      if(navigator.share){navigator.share(datos).catch(function(){});return;}
+      if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.disabled=false;},1800);
+      });}
+    });
   });
 })();
 </script>

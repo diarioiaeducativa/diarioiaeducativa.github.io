@@ -48,7 +48,7 @@
   <h2 class="titular"><a href="../2026-10-30/eductia.html">Eductia ofereix una IA de pagament per preparar materials docents a Catalunya</a></h2>
   <p class="entradilla">El servei genera situacions d&#x27;aprenentatge, activitats i instruments d&#x27;avaluació alineats amb la normativa catalana, i planteja el dubte de què aporta davant d&#x27;una IA d&#x27;ús general.</p>
   </div>
-</article><div class="fila fila-destacadas" style="--n:1"><article class="pieza destacada sec-novedades">
+</article><div class="fila fila-destacadas sola" style="--n:1"><article class="pieza destacada sec-novedades">
   <figure class="ilu"><svg role="img" aria-label="Sis cercles al voltant d&#x27;un centre, que representa el criteri docent, envoltats per un anell discontinu que simbolitza la IA present en tot el marc; a la dreta, un eix de benestar amb tres icones: un rellotge, una pantalla i un botó d&#x27;apagada." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><circle class="a" cx="240" cy="175" r="142" stroke-dasharray="7 7"/><text class="lbl" x="240" y="24" text-anchor="middle">IA a totes</text><path class="t" d="M240 137 L240 107"/><circle class="fa" cx="240" cy="83" r="24"/><circle class="t" cx="240" cy="83" r="24"/><path class="t" d="M272.9 156 L298.9 141"/><circle class="fa" cx="319.7" cy="129" r="24"/><circle class="t" cx="319.7" cy="129" r="24"/><path class="t" d="M272.9 194 L298.9 209"/><circle class="fa" cx="319.7" cy="221" r="24"/><circle class="t" cx="319.7" cy="221" r="24"/><path class="t" d="M240 213 L240 243"/><circle class="fa" cx="240" cy="267" r="24"/><circle class="t" cx="240" cy="267" r="24"/><path class="t" d="M207.1 194 L181.1 209"/><circle class="fa" cx="160.3" cy="221" r="24"/><circle class="t" cx="160.3" cy="221" r="24"/><path class="t" d="M207.1 156 L181.1 141"/><circle class="fa" cx="160.3" cy="129" r="24"/><circle class="t" cx="160.3" cy="129" r="24"/><circle class="fa" cx="240" cy="175" r="38"/><circle class="a" cx="240" cy="175" r="38"/><circle class="t" cx="240" cy="175" r="38"/><text class="lbl" x="240" y="181" text-anchor="middle">Criteri</text><path class="a" d="M382 175 L440 175"/><path class="a" d="M440 60 L440 290"/><path class="a" d="M440 90 L466 90"/><path class="a" d="M440 175 L466 175"/><path class="a" d="M440 250 L466 250"/><circle class="t" cx="500" cy="90" r="18"/><path class="t" d="M500 78 V90 L508 96"/><rect class="t" x="480" y="158" width="40" height="26" rx="3"/><path class="t" d="M500 184 L500 194"/><path class="t" d="M488 194 L512 194"/><path class="t" d="M490 237 a14 14 0 1 0 20 0"/><path class="t" d="M500 233 L500 250"/><text class="lbl" x="480" y="318" text-anchor="middle">Benestar</text></svg></figure>
   <div class="texto">
   <p class="seccion"><span><a href="../novedades.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><line x1="3" x2="21" y1="22" y2="22"/><line x1="6" x2="6" y1="18" y2="11"/><line x1="10" x2="10" y1="18" y2="11"/><line x1="14" x2="14" y1="18" y2="11"/><line x1="18" x2="18" y1="18" y2="11"/><polygon points="12 2 20 7 4 7"/></svg> Novetats oficials</a></span></p>
@@ -86,6 +86,7 @@
   <nav class="pie-archivo" aria-label="Arxiu per dies">
     <h2>Arxiu per dies</h2>
     <ul><li><a href="../2026-11-01/">Dilluns, 2 de novembre de 2026</a></li><li><a href="../2026-10-31/">Diumenge, 1 de novembre de 2026</a></li><li><a href="../2026-10-30/" aria-current="page">Dissabte, 31 d'octubre de 2026</a></li><li><a href="../2026-10-29/">Divendres, 30 d'octubre de 2026</a></li><li><a href="../2026-10-28/">Dijous, 29 d'octubre de 2026</a></li></ul>
+    <p class="pie-hemeroteca"><a href="../archivo.html">Hemeroteca: tots els números</a></p>
   </nav>
   <div class="pie-creditos">
     <p>Redactat amb IA a partir de les converses dels grups. Cada dada es comprova a la seva font original, enllaçada al final de cada peça; les opinions dels membres no s'atribueixen a ningú.</p>
@@ -107,6 +108,20 @@
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
     a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});
+  });
+  // En el móvil las secciones se deslizan: la sección abierta, a la vista
+  var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
+  if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
+  // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
+  document.querySelectorAll('.compartir').forEach(function(b){
+    b.addEventListener('click',function(){
+      var datos={title:document.title,url:location.href}, r=b.querySelector('span');
+      if(navigator.share){navigator.share(datos).catch(function(){});return;}
+      if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.disabled=false;},1800);
+      });}
+    });
   });
 })();
 </script>

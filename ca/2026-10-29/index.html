@@ -64,6 +64,7 @@
   <nav class="pie-archivo" aria-label="Arxiu per dies">
     <h2>Arxiu per dies</h2>
     <ul><li><a href="../2026-11-01/">Dilluns, 2 de novembre de 2026</a></li><li><a href="../2026-10-31/">Diumenge, 1 de novembre de 2026</a></li><li><a href="../2026-10-30/">Dissabte, 31 d'octubre de 2026</a></li><li><a href="../2026-10-29/" aria-current="page">Divendres, 30 d'octubre de 2026</a></li><li><a href="../2026-10-28/">Dijous, 29 d'octubre de 2026</a></li></ul>
+    <p class="pie-hemeroteca"><a href="../archivo.html">Hemeroteca: tots els números</a></p>
   </nav>
   <div class="pie-creditos">
     <p>Redactat amb IA a partir de les converses dels grups. Cada dada es comprova a la seva font original, enllaçada al final de cada peça; les opinions dels membres no s'atribueixen a ningú.</p>
@@ -85,6 +86,20 @@
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
     a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});
+  });
+  // En el móvil las secciones se deslizan: la sección abierta, a la vista
+  var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
+  if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
+  // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
+  document.querySelectorAll('.compartir').forEach(function(b){
+    b.addEventListener('click',function(){
+      var datos={title:document.title,url:location.href}, r=b.querySelector('span');
+      if(navigator.share){navigator.share(datos).catch(function(){});return;}
+      if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.disabled=false;},1800);
+      });}
+    });
   });
 })();
 </script>

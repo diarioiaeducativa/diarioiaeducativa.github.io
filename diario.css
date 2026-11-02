@@ -12,6 +12,8 @@
 }
 .cabecera-fila .cuando { justify-self: start; text-align: left; }
 .cabecera-fila .controles { justify-self: end; }
+/* «Año I · Núm. 1»: el año de la cabecera clásica y, rodeado, el número */
+.edicion-num { display: inline-flex; align-items: center; gap: 0.5rem; white-space: nowrap; font-size: 1.05rem; }
 .numero { position: relative; padding: 0.3rem 0.9rem; white-space: nowrap; font-size: 1.05rem; }
 .numero b { font-weight: 600; color: var(--tinta); }
 /* Lo nuevo del día, rodeado a mano con el bolígrafo rojo */
@@ -60,7 +62,7 @@
 
 /* Portada */
 .portada { padding-top: 1.6rem; }
-.principal { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 1.5rem 2.6rem; align-items: center; }
+.principal { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center; }
 .principal .texto { grid-column: 1; grid-row: 1; }
 .principal .ilu { grid-column: 2; grid-row: 1; margin: 0; background: var(--papel-2); padding: 1rem; }
 .principal:not(:has(.ilu)) .texto { grid-column: 1 / -1; max-width: 48rem; }
@@ -74,6 +76,9 @@
 }
 .fila-menores { border-top-width: 1px; }
 .destacada .ilu { margin: 0 0 0.9rem; background: var(--papel-2); padding: 0.6rem; }
+/* Una destacada sola (un día de archivo con dos piezas) se compone como la apertura, no a todo el ancho */
+.fila.sola .destacada { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center; }
+.fila.sola .destacada .ilu { order: 2; margin: 0; }
 .destacada .titular { font-size: 1.45rem; }
 .menor .titular { font-size: 1.2rem; }
 .menor .entradilla { font-size: 1rem; color: var(--tinta-2); }
@@ -95,6 +100,41 @@
 }
 .origen { margin-top: 1.4rem; font-style: italic; }
 .volver { margin: 2rem 0 0; }
+/* Compartir: el menú del dispositivo o, si no lo hay, el enlace copiado */
+.acciones { margin: 1.2rem 0 0; }
+.compartir {
+  appearance: none; display: inline-flex; align-items: center; gap: 0.45rem;
+  border: 1px solid var(--tinta); border-radius: 999px; background: transparent; color: var(--tinta);
+  padding: 0.4rem 1rem; font: inherit; font-size: 0.95rem; font-weight: 600; cursor: pointer;
+}
+.compartir:hover { background: var(--papel-2); }
+.compartir .ico { width: 1.1em; height: 1.1em; }
+/* «Más en esta sección», al pie del artículo */
+.mas { margin-top: 2.4rem; padding-top: 1rem; border-top: 3px solid var(--sec, var(--tinta)); }
+.mas h2 { margin: 0 0 0.6rem; font-size: 1.2rem; color: var(--sec, var(--tinta)); }
+.mas ul { margin: 0; padding: 0; list-style: none; }
+.mas li { padding: 0.45rem 0; border-top: 1px solid var(--filete); }
+.mas li:first-child { border-top: 0; padding-top: 0; }
+.mas .fecha-pieza { display: block; font-size: 0.88rem; }
+.mas a { color: var(--tinta); font-weight: 600; text-decoration: none; }
+.mas a:hover { text-decoration: underline; }
+
+/* Hemeroteca: todos los números, por meses */
+.hemeroteca { max-width: 44rem; }
+.hemeroteca h2 { margin: 1.8rem 0 0.4rem; font-size: 1.3rem; }
+.hemeroteca ul { margin: 0; padding: 0; list-style: none; }
+.hemeroteca li { padding: 0.55rem 0; border-top: 1px solid var(--filete); }
+.hemeroteca li a { font-weight: 600; color: var(--tinta); text-decoration: none; }
+.hemeroteca li a:hover { text-decoration: underline; }
+.hemeroteca .num { color: var(--tinta-2); font-style: italic; }
+.hemeroteca .abre { display: block; color: var(--tinta-2); font-size: 0.98rem; }
+.pie-hemeroteca { margin-top: 0.5rem; }
+
+/* Página no encontrada */
+.no-existe { max-width: 40rem; padding: 3rem 0; text-align: center; }
+.no-existe .titular { font-size: clamp(2rem, 5vw, 2.9rem); }
+.no-existe p { line-height: 1.6; }
+.no-existe .ca { font-style: italic; color: var(--tinta-2); }
 
 /* Pie */
 .pie {
@@ -116,9 +156,13 @@
   .fila { grid-template-columns: repeat(min(var(--n, 2), 2), minmax(0, 1fr)); }
 }
 @media (max-width: 52rem) {
+  /* En una columna, el dibujo va antes del titular, como en el papel */
   .principal { grid-template-columns: 1fr; }
   .principal .texto, .principal .ilu { grid-column: 1; }
-  .principal .ilu { grid-row: 2; }
+  .principal .ilu { grid-row: 1; }
+  .principal .texto { grid-row: 2; }
+  .fila.sola .destacada { grid-template-columns: 1fr; }
+  .fila.sola .destacada .ilu { order: 0; margin-bottom: 0.9rem; }
   .pie { grid-template-columns: 1fr; }
 }
 @media (max-width: 40rem) {
@@ -128,7 +172,7 @@
 @media (max-width: 34rem) {
   .cabecera-fila { grid-template-columns: 1fr auto; }
   .cabecera-fila .cuando { grid-column: 1 / -1; grid-row: 2; text-align: center; justify-self: center; }
-  .cabecera-fila .numero { justify-self: start; }
+  .cabecera-fila .edicion-num { justify-self: start; }
   .principal .ilu, .articulo .ilu { padding: 0.5rem; }
 }
 
@@ -149,8 +193,17 @@
 .vacio { color: var(--tinta-2); font-style: italic; }
 .pag-seccion .vineta:first-of-type { margin-top: 0.8rem; }
 @media (max-width: 40rem) {
-  .secciones { justify-content: center; text-align: center; }
-  .secciones-lista { justify-content: center; }
+  /* En el móvil, la cabecera deja ver la primera noticia: sin lema, las secciones en una fila
+     que se desliza y «La redacción» solo en el pie */
+  .lema { display: none; }
+  .secciones { padding-bottom: 0; }
+  .secciones .quees { display: none; }
+  .secciones-lista {
+    position: relative; flex: 1 1 100%; min-width: 0; flex-wrap: nowrap; gap: 1.3rem;
+    overflow-x: auto; padding: 0.1rem 0 0.55rem; scrollbar-width: none; -webkit-overflow-scrolling: touch;
+  }
+  .secciones-lista::-webkit-scrollbar { display: none; }
+  .secciones-lista a { flex: 0 0 auto; }
 }
 
 /* Portada por bloques de sección: el título a la izquierda, en su color, sobre un filete de su color */
@@ -163,6 +216,8 @@
 .bloque-titulo a:hover { text-decoration: underline; }
 .bloque-titulo .ico { width: 0.9em; height: 0.9em; }
 .bloque-piezas { display: grid; grid-template-columns: repeat(var(--n, 3), minmax(0, 1fr)); gap: 1.6rem 2.2rem; }
+/* Una pieza sola no se estira a todo el ancho: líneas de lectura como las de una columna */
+.bloque-piezas > * { max-width: 38rem; }
 .bloque .breve { font-size: 0.98rem; }
 .bloque .breve .fecha-pieza { display: block; font-size: 0.88rem; }
 /* La viñeta, con el amarillo del subrayador */

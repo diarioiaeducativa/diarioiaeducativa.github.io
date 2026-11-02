@@ -60,8 +60,10 @@ body {
   line-height: 1.6;
   font-kerning: normal;
   font-variant-ligatures: common-ligatures;
-  hyphens: auto;
+  hyphens: manual;
 }
+/* Partición de palabras solo en el texto corrido: en titulares, entradillas y breves parte nombres propios */
+.cuerpo, .que-es p { hyphens: auto; }
 a { color: var(--azul); text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
 a:hover { text-decoration-thickness: 2px; }
 :focus-visible { outline: 3px solid var(--azul); outline-offset: 3px; border-radius: 2px; }

@@ -30,7 +30,7 @@
 <header class="cabecera">
   <div class="cabecera-fila">
     <span class="cuando"><time datetime="2026-11-02">Lunes, 2 de noviembre de 2026</time></span>
-    <span class="numero"><span class="solo-lector">Número </span><span aria-hidden="true">Núm.&nbsp;</span><b>1</b></span>
+    <span class="edicion-num"><span class="anyo">Año I</span><span class="numero"><span class="solo-lector">Número </span><span aria-hidden="true">Núm.&nbsp;</span><b>1</b></span></span>
     <span class="controles"><a class="edicion" href="ca/vineta.html" lang="ca" hreflang="ca" data-idioma="ca">Edició en català</a><button type="button" class="tema" id="tema" title="Cambiar entre tema claro y oscuro" aria-label="Cambiar entre tema claro y oscuro"><svg class="luna" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg><svg class="sol" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg></button></span>
   </div>
   <p class="mancheta"><a href="">Diario de IA Educativa</a></p>
@@ -73,6 +73,7 @@
   <nav class="pie-archivo" aria-label="Archivo por días">
     <h2>Archivo por días</h2>
     <ul><li><a href="2026-11-01/">Lunes, 2 de noviembre de 2026</a></li><li><a href="2026-10-31/">Domingo, 1 de noviembre de 2026</a></li><li><a href="2026-10-30/">Sábado, 31 de octubre de 2026</a></li><li><a href="2026-10-29/">Viernes, 30 de octubre de 2026</a></li><li><a href="2026-10-28/">Jueves, 29 de octubre de 2026</a></li></ul>
+    <p class="pie-hemeroteca"><a href="archivo.html">Hemeroteca: todos los números</a></p>
   </nav>
   <div class="pie-creditos">
     <p>Redactado con IA a partir de las conversaciones de los grupos. Cada dato se comprueba en su fuente original, enlazada al final de cada pieza; las opiniones de los miembros no se atribuyen a nadie.</p>
@@ -94,6 +95,20 @@
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
     a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});
+  });
+  // En el móvil las secciones se deslizan: la sección abierta, a la vista
+  var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
+  if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
+  // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
+  document.querySelectorAll('.compartir').forEach(function(b){
+    b.addEventListener('click',function(){
+      var datos={title:document.title,url:location.href}, r=b.querySelector('span');
+      if(navigator.share){navigator.share(datos).catch(function(){});return;}
+      if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.disabled=false;},1800);
+      });}
+    });
   });
 })();
 </script>
