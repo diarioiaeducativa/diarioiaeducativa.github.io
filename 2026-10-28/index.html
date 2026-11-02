@@ -73,7 +73,7 @@
 </article></div>
 </section><section class="bloque sec-breves" aria-labelledby="b-breves">
   <h2 id="b-breves" class="bloque-titulo">En breve</h2>
-  <div class="bloque-piezas" style="--n:2"><div class="breve">La AEPD publicó el 27 de octubre un decálogo para quien usa asistentes y agentes de IA. Recomienda que el agente prepare y la persona apruebe, con los permisos justos y confirmación antes de enviar, compartir o pagar. <a href="https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-publica-un-decalogo-para-delegar-tareas-en-asistentes" target="_blank" rel="noopener">Fuente</a> <a href="https://t.me/ChatGPTedu/53752" target="_blank" rel="noopener">Conversación</a></div><div class="breve">La documentación de GitHub indica que el profesorado verificado en GitHub Education puede acceder gratis a Copilot Pro, y que la elegibilidad se reevalúa cada mes. <a href="https://docs.github.com/es/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-teachers-and-os-maintainers" target="_blank" rel="noopener">Fuente</a> <a href="https://t.me/vceduca/14352" target="_blank" rel="noopener">Conversación</a></div></div>
+  <div class="bloque-piezas" style="--n:2"><div class="breve">La AEPD publicó el 27 de octubre un decálogo para quien usa asistentes y agentes de IA. Recomienda que el agente prepare y la persona apruebe, con los permisos justos y confirmación antes de enviar, compartir o pagar. <a href="https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-publica-un-decalogo-para-delegar-tareas-en-asistentes" target="_blank" rel="noopener">Fuente</a> <a href="https://t.me/ChatGPTedu/53752" target="_blank" rel="noopener">Conversación</a> <button type="button" class="compartir solo-icono" data-url="https://diarioiaeducativa.github.io/2026-10-28/breve-1.html" data-titulo="La AEPD publicó el 27 de octubre un decálogo para quien usa asistentes y agentes de IA." data-copiado="Enlace copiado" title="Compartir este breve" aria-label="Compartir este breve"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg><span></span></button></div><div class="breve">La documentación de GitHub indica que el profesorado verificado en GitHub Education puede acceder gratis a Copilot Pro, y que la elegibilidad se reevalúa cada mes. <a href="https://docs.github.com/es/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-teachers-and-os-maintainers" target="_blank" rel="noopener">Fuente</a> <a href="https://t.me/vceduca/14352" target="_blank" rel="noopener">Conversación</a> <button type="button" class="compartir solo-icono" data-url="https://diarioiaeducativa.github.io/2026-10-28/breve-2.html" data-titulo="La documentación de GitHub indica que el profesorado verificado en GitHub Education puede acceder gratis a…" data-copiado="Enlace copiado" title="Compartir este breve" aria-label="Compartir este breve"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg><span></span></button></div></div>
 </section>
 </main>
 <footer class="pie">
@@ -115,11 +115,11 @@
   // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
   document.querySelectorAll('.compartir').forEach(function(b){
     b.addEventListener('click',function(){
-      var datos={title:document.title,url:location.href}, r=b.querySelector('span');
+      var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}
-      if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){
-        var antes=r.textContent; r.textContent=b.dataset.copiado; b.disabled=true;
-        setTimeout(function(){r.textContent=antes;b.disabled=false;},1800);
+      if(navigator.clipboard){navigator.clipboard.writeText(url).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.classList.add('hecho'); b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.classList.remove('hecho');b.disabled=false;},1800);
       });}
     });
   });

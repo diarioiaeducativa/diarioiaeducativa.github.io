@@ -93,11 +93,11 @@
   // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
   document.querySelectorAll('.compartir').forEach(function(b){
     b.addEventListener('click',function(){
-      var datos={title:document.title,url:location.href}, r=b.querySelector('span');
+      var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}
-      if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){
-        var antes=r.textContent; r.textContent=b.dataset.copiado; b.disabled=true;
-        setTimeout(function(){r.textContent=antes;b.disabled=false;},1800);
+      if(navigator.clipboard){navigator.clipboard.writeText(url).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.classList.add('hecho'); b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.classList.remove('hecho');b.disabled=false;},1800);
       });}
     });
   });

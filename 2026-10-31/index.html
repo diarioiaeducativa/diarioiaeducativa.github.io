@@ -73,7 +73,7 @@
 </article></div>
 </section><section class="bloque sec-breves" aria-labelledby="b-breves">
   <h2 id="b-breves" class="bloque-titulo">En breve</h2>
-  <div class="bloque-piezas" style="--n:1"><div class="breve">Sincronizar carpetas no es hacer copia de seguridad, recordó un hilo sobre Syncthing. INCIBE recomienda la regla 3-2-1: tres copias, en dos soportes distintos y una de ellas fuera de casa. <a href="https://www.incibe.es/ciudadania/blog/definiendo-mi-estrategia-de-copias-de-seguridad" target="_blank" rel="noopener">Fuente</a> <a href="https://t.me/vceduca/14401" target="_blank" rel="noopener">Conversación</a></div></div>
+  <div class="bloque-piezas" style="--n:1"><div class="breve">Sincronizar carpetas no es hacer copia de seguridad, recordó un hilo sobre Syncthing. INCIBE recomienda la regla 3-2-1: tres copias, en dos soportes distintos y una de ellas fuera de casa. <a href="https://www.incibe.es/ciudadania/blog/definiendo-mi-estrategia-de-copias-de-seguridad" target="_blank" rel="noopener">Fuente</a> <a href="https://t.me/vceduca/14401" target="_blank" rel="noopener">Conversación</a> <button type="button" class="compartir solo-icono" data-url="https://diarioiaeducativa.github.io/2026-10-31/breve-1.html" data-titulo="Sincronizar carpetas no es hacer copia de seguridad, recordó un hilo sobre Syncthing." data-copiado="Enlace copiado" title="Compartir este breve" aria-label="Compartir este breve"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg><span></span></button></div></div>
 </section>
 </main>
 <footer class="pie">
@@ -115,11 +115,11 @@
   // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
   document.querySelectorAll('.compartir').forEach(function(b){
     b.addEventListener('click',function(){
-      var datos={title:document.title,url:location.href}, r=b.querySelector('span');
+      var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}
-      if(navigator.clipboard){navigator.clipboard.writeText(location.href).then(function(){
-        var antes=r.textContent; r.textContent=b.dataset.copiado; b.disabled=true;
-        setTimeout(function(){r.textContent=antes;b.disabled=false;},1800);
+      if(navigator.clipboard){navigator.clipboard.writeText(url).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.classList.add('hecho'); b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.classList.remove('hecho');b.disabled=false;},1800);
       });}
     });
   });

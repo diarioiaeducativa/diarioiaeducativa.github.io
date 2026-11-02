@@ -109,6 +109,19 @@
 }
 .compartir:hover { background: var(--papel-2); }
 .compartir .ico { width: 1.1em; height: 1.1em; }
+/* En un breve, solo el icono, al final de sus enlaces; al copiar, el aviso aparece a su lado */
+.compartir.solo-icono {
+  border: 0; padding: 0.15rem 0.25rem; margin-left: 0.15rem; border-radius: 4px;
+  color: var(--tinta-2); font-weight: 400; font-size: 0.88rem; vertical-align: -0.1em; gap: 0.3rem;
+}
+.compartir.solo-icono:hover { color: var(--tinta); background: var(--papel-2); }
+.compartir.solo-icono .ico { width: 1em; height: 1em; }
+.compartir.solo-icono span:empty { display: none; }
+.compartir.solo-icono.hecho { color: var(--tinta); }
+@media (pointer: coarse) { .compartir.solo-icono { padding: 0.4rem 0.5rem; margin: -0.25rem 0 -0.25rem 0; } }  /* que el dedo lo acierte */
+/* La página de un breve */
+.breve-pagina .breve-texto { font-size: 1.35rem; line-height: 1.5; margin: 0.4rem 0 0.8rem; }
+.breve-pagina .breve-enlaces { margin: 0; }
 /* «Más en esta sección», al pie del artículo */
 .mas { margin-top: 2.4rem; padding-top: 1rem; border-top: 3px solid var(--sec, var(--tinta)); }
 .mas h2 { margin: 0 0 0.6rem; font-size: 1.2rem; color: var(--sec, var(--tinta)); }
