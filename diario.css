@@ -298,3 +298,11 @@
 .proceso li + li { margin-top: 0.55rem; }
 /* Qué es cada sección, bajo su título */
 .descripcion-seccion { max-width: 46rem; margin: 0 0 1.6rem; font-size: 1.08rem; line-height: 1.55; color: var(--tinta-2); }
+
+/* La página de todos los breves, agrupados por día */
+.pagina-breves h2 { margin: 1.6rem 0 0.5rem; font-size: 1.15rem; }
+.pagina-breves h2 a { color: var(--tinta); text-decoration: none; }
+.pagina-breves h2 a:hover { text-decoration: underline; }
+.lista-breves { max-width: 46rem; }
+.lista-breves .breve { padding: 0.6rem 0; border-top: 1px solid var(--filete); line-height: 1.55; }
+.lista-breves .breve:first-child { border-top: 0; padding-top: 0; }

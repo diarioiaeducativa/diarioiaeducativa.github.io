@@ -79,6 +79,14 @@
     <description>MotionVideo ofereix vídeos fets amb IA acompanyats del prompt, i skills que ensenyen un agent de programació a fer disseny en moviment.</description>
   </item>
   <item>
+    <title>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar. Al grup es va valorar com a idea per a la divulgació.</description>
+  </item>
+  <item>
     <title>El sector editorial adverteix d&#x27;una «cacera de bruixes» pels detectors de textos amb IA</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</guid>
@@ -101,6 +109,22 @@
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debats</category>
     <description>Chema Falcó proposa una prova senzilla i una regla comuna per distingir fer servir la IA per aprendre de delegar-li l&#x27;aprenentatge.</description>
+  </item>
+  <item>
+    <title>El client d&#x27;accés compartit de rclone a Google Drive deixarà de funcionar el 2026, segons la seva…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/breve-1.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>El client d&#x27;accés compartit de rclone a Google Drive deixarà de funcionar el 2026, segons la seva documentació (en anglès). Crear-ne un de propi, que a més evita el límit de consultes compartit, es considera ja obligatori.</description>
+  </item>
+  <item>
+    <title>La UVic-UCC va coorganitzar a Lleida una jornada sobre integritat en l&#x27;activitat docent i la IA.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/breve-2.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La UVic-UCC va coorganitzar a Lleida una jornada sobre integritat en l&#x27;activitat docent i la IA. La notícia de la universitat no recull conclusions concretes.</description>
   </item>
   <item>
     <title>Delegar tasques en un agent d&#x27;IA obliga a decidir abans què pot veure, recordar i fer</title>
@@ -135,6 +159,14 @@
     <description>La pràctica, compartida per Toni Magraner, entrena símbols, accents i dreceres amb un mode de prova i un altre d&#x27;entrenament.</description>
   </item>
   <item>
+    <title>Sincronitzar carpetes no és fer còpia de seguretat, va recordar un fil sobre Syncthing.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-31/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-31/breve-1.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Sincronitzar carpetes no és fer còpia de seguretat, va recordar un fil sobre Syncthing. L&#x27;INCIBE recomana la regla 3-2-1: tres còpies, en dos suports diferents i una d&#x27;elles fora de casa.</description>
+  </item>
+  <item>
     <title>Eductia ofereix una IA de pagament per preparar materials docents a Catalunya</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-10-30/eductia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/eductia.html</guid>
@@ -157,6 +189,14 @@
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Qui programa amb assistents d&#x27;IA en diversos equips descriu tres enfocaments: repositori Git, sincronització contínua i una carpeta compartida al núvol.</description>
+  </item>
+  <item>
+    <title>Al grup es va distingir el vibe coding, crear recursos digitals amb IA i llenguatge natural, de la IA…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/breve-1.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Al grup es va distingir el vibe coding, crear recursos digitals amb IA i llenguatge natural, de la IA agèntica, que persegueix objectius de manera autònoma. És una explicació d&#x27;ús corrent, no una definició oficial.</description>
   </item>
   <item>
     <title>EDUmind ofereix dictats en gallec i castellà amb veus sintètiques de codi obert</title>
@@ -189,6 +229,22 @@
     <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Un membre dels grups va compartir un prompt extens perquè una IA generi una lliçó interactiva en 3D amb l&#x27;estil d&#x27;un llibre de física sobre energia.</description>
+  </item>
+  <item>
+    <title>L&#x27;AEPD va publicar el 27 d&#x27;octubre un decàleg per a qui fa servir assistents i agents d&#x27;IA.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/breve-1.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>L&#x27;AEPD va publicar el 27 d&#x27;octubre un decàleg per a qui fa servir assistents i agents d&#x27;IA. Recomana que l&#x27;agent prepari i la persona aprovi, amb els permisos justos i confirmació abans d&#x27;enviar, compartir o pagar.</description>
+  </item>
+  <item>
+    <title>La documentació de GitHub indica que el professorat verificat a GitHub Education pot accedir gratis a…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/breve-2.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La documentació de GitHub indica que el professorat verificat a GitHub Education pot accedir gratis a Copilot Pro, i que l&#x27;elegibilitat es reavalua cada mes.</description>
   </item>
 </channel>
 </rss>
