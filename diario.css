@@ -285,3 +285,16 @@
 .reportaje-franja .seccion, .reportaje .seccion { flex-wrap: wrap; gap: 0.1rem 1rem; }
 .reportaje-franja .seccion > span:first-child, .reportaje .seccion > span:first-child { white-space: nowrap; }
 @media (max-width: 52rem) { .reportaje-franja { grid-template-columns: minmax(0, 1fr); } }
+
+/* La Biblioteca digital (ADR 0006): la ficha del documento en cada artículo */
+.ficha-doc { margin: 0 0 1.6rem; padding: 0.9rem 1.1rem; background: var(--sec-tinte, var(--papel-2)); border-left: 4px solid var(--sec, var(--azul)); }
+.ficha-doc h2 { margin: 0 0 0.5rem; font-size: 1rem; color: var(--sec, var(--azul)); }
+.ficha-doc dl { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 0.25rem 1rem; margin: 0; font-size: 0.95rem; }
+.ficha-doc dt { color: var(--tinta-2); }
+.ficha-doc dd { margin: 0; overflow-wrap: anywhere; }
+.ficha-doc .doc-leer { margin: 0.7rem 0 0; font-weight: 600; }
+@media (max-width: 30rem) { .ficha-doc dl { grid-template-columns: 1fr; } .ficha-doc dd + dt { margin-top: 0.35rem; } }
+.proceso { padding-left: 1.4rem; line-height: 1.6; }
+.proceso li + li { margin-top: 0.55rem; }
+/* Qué es cada sección, bajo su título */
+.descripcion-seccion { max-width: 46rem; margin: 0 0 1.6rem; font-size: 1.08rem; line-height: 1.55; color: var(--tinta-2); }
