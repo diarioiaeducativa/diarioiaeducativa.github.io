@@ -7,6 +7,46 @@
   <description>Lo que el profesorado prueba y debate en tres comunidades abiertas</description>
   <language>es</language>
   <item>
+    <title>Un docente recomienda crear infografías en HTML y SVG antes que como imágenes generadas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/infografias-svg-html.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/infografias-svg-html.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Un miembro de Vibe Coding Educativo defiende que, para ilustrar conceptos, conviene que la IA genere formas SVG e iconos en una página HTML y que las imágenes generadas queden para cuando sean pedagógicamente necesarias.</description>
+  </item>
+  <item>
+    <title>El MIT publica un informe que pide replantear enseñanza y evaluación ante la IA</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Novedades oficiales</category>
+    <description>El comité creado por el MIT para estudiar el uso de la IA en docencia, aprendizaje y formación en investigación recomienda procesos educativos adaptados a la IA y revisar evaluaciones y normas.</description>
+  </item>
+  <item>
+    <title>El profesorado como diseñador de la enseñanza centra el debate sobre la IA en el aula</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Tras una jornada sobre IA y educación, se plantea si el docente deja de ser fuente de información y cómo evitar que el alumnado delegue su razonamiento.</description>
+  </item>
+  <item>
+    <title>Dar acceso total a un agente de consola exige proteger los datos del alumnado</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/agentes-consola-acceso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/agentes-consola-acceso.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un docente con experiencia explicó qué puede hacer un agente de IA con control completo de un equipo y qué información conviene mantener fuera de su alcance.</description>
+  </item>
+  <item>
+    <title>Una web reúne vídeos de motion graphics con sus prompts y skills para agentes</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/motionvideo-skills.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/motionvideo-skills.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>MotionVideo ofrece vídeos hechos con IA acompañados del prompt, y skills que enseñan a un agente de programación a hacer diseño en movimiento.</description>
+  </item>
+  <item>
     <title>El sector editorial advierte de una «caza de brujas» por los detectores de textos con IA</title>
     <link>https://diarioiaeducativa.github.io/2026-11-01/detectores-caza-brujas.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-01/detectores-caza-brujas.html</guid>
