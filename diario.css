@@ -271,7 +271,6 @@
 .equipo li { margin: 0.35rem 0; }
 
 /* El reportaje del domingo (ADR 0004): franja como la editorial, con filete azul; página con ladillos y claves */
-.sec-reportaje { --sec: var(--azul); }
 .reportaje-franja { border-left-color: var(--azul); }
 .reportaje-franja .seccion { margin-bottom: 0.3rem; }
 .reportaje-franja .antetitulo { color: var(--azul); }
