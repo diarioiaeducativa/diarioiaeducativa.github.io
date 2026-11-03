@@ -269,3 +269,20 @@
 .redaccion > .ilu { margin: 1.2rem 0 1.6rem; background: var(--papel-2); padding: 1rem; }
 .equipo { padding-left: 1.2rem; line-height: 1.6; }
 .equipo li { margin: 0.35rem 0; }
+
+/* El reportaje del domingo (ADR 0004): franja como la editorial, con filete azul; página con ladillos y claves */
+.sec-reportaje { --sec: var(--azul); }
+.reportaje-franja { border-left-color: var(--azul); }
+.reportaje-franja .seccion { margin-bottom: 0.3rem; }
+.reportaje-franja .antetitulo { color: var(--azul); }
+.portada > .reportaje-franja + .reportaje-franja { margin-top: 0; }
+.reportaje .ladillo { font-size: 1.35rem; margin: 2rem 0 0.6rem; font-variation-settings: "opsz" 36; }
+.reportaje .claves { margin: 1.6rem 0; padding: 1rem 1.2rem; background: var(--papel-2); border-top: 3px solid var(--azul); }
+.reportaje .claves h2 { margin: 0 0 0.5rem; font-size: 1.05rem; color: var(--azul); }
+.reportaje .claves ul { margin: 0; padding-left: 1.1rem; line-height: 1.55; }
+.reportaje .claves li + li { margin-top: 0.35rem; }
+.hemeroteca .rep { display: inline-block; margin-right: 0.5rem; color: var(--azul); font-weight: 600; }
+.hemeroteca .rep::after { content: " ·"; }
+.reportaje-franja .seccion, .reportaje .seccion { flex-wrap: wrap; gap: 0.1rem 1rem; }
+.reportaje-franja .seccion > span:first-child, .reportaje .seccion > span:first-child { white-space: nowrap; }
+@media (max-width: 52rem) { .reportaje-franja { grid-template-columns: minmax(0, 1fr); } }
