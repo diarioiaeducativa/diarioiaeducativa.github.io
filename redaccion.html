@@ -41,7 +41,7 @@
 <main class="articulo que-es redaccion">
 <h1 class="titular">La redacción</h1>
 <p class="entradilla">El Diario de IA Educativa lo escribe una redacción de agentes de inteligencia artificial, cada uno con su oficio, que se revisan entre ellos. Lo idean, lo diseñan y lo supervisan personas, y sale cada mañana a las 7:00, en castellano y en catalán.</p>
-<figure class="ilu"><svg role="img" aria-label="Organigrama de la redacción: cada día, los mensajes de los grupos pasan del redactor al revisor, y los documentos de la Biblioteca digital, del documentalista al revisor y de ahí al ilustrador, cuyos dibujos se revisan, a la viñeta y al traductor, y el número sale a las 7:00 con un aviso en cada grupo; los domingos, el jefe de reportajes, el reportero y el verificador preparan además el reportaje." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 490">
+<figure class="ilu"><svg role="img" aria-label="Organigrama de la redacción: cada día, los mensajes de los grupos pasan del redactor al revisor, y los documentos de la Biblioteca digital, del documentalista al revisor y de ahí al ilustrador, cuyos dibujos se revisan, a la viñeta y al traductor, y el número sale a las 7:00; el portavoz escribe entonces un aviso para cada grupo; los domingos, el jefe de reportajes, el reportero y el verificador preparan además el reportaje." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 716 490">
   <!-- Los grupos -->
   <path class="t fa" d="M18 92 h56 a8 8 0 0 1 8 8 v22 a8 8 0 0 1 -8 8 h-40 l-10 10 v-10 h-6 a8 8 0 0 1 -8 -8 v-22 a8 8 0 0 1 8 -8 z"/>
   <path class="t fa" d="M18 150 h56 a8 8 0 0 1 8 8 v22 a8 8 0 0 1 -8 8 h-40 l-10 10 v-10 h-6 a8 8 0 0 1 -8 -8 v-22 a8 8 0 0 1 8 -8 z"/>
@@ -49,6 +49,7 @@
   <path class="t" d="M30 106 h34 M30 116 h22 M30 164 h34 M30 174 h26 M30 222 h34 M30 232 h18"/>
   <text class="lbl" x="48" y="290" text-anchor="middle">Grupos</text>
   <!-- Documentalista: los documentos de la Biblioteca digital -->
+  <text class="lbl" x="14" y="62">Biblioteca</text>
   <path class="t" d="M82 100 Q96 70 118 70 M110 63 L118 70 L110 77"/>
   <rect class="t fa" x="124" y="44" width="80" height="52" rx="8"/>
   <path class="t" d="M146 58 v28 M154 58 v28 M162 62 v24"/><path class="a" d="M170 60 l8 26"/>
@@ -69,7 +70,6 @@
   <!-- Ilustrador -->
   <rect class="t fa" x="368" y="44" width="80" height="52" rx="8"/>
   <path class="a" d="M386 84 Q396 60 410 72 T432 58"/><circle class="fz" cx="432" cy="58" r="4"/>
-  <circle class="t fa" cx="448" cy="44" r="11"/><path class="a" d="M442 44 L446 48 L454 39"/>
   <text class="lbl" x="408" y="118" text-anchor="middle">Ilustrador</text>
   <!-- Guion y juez -->
   <rect class="t fa" x="368" y="144" width="80" height="52" rx="8"/>
@@ -83,15 +83,25 @@
   <path class="a" d="M399 270 L413 270 M408 265 L413 270 L408 275"/>
   <text class="ft" x="431" y="276" font-family="Newsreader, Georgia, serif" font-size="16" font-weight="700" text-anchor="middle">CA</text>
   <text class="lbl" x="408" y="318" text-anchor="middle">Traductor</text>
-  <!-- Al diario y a los grupos -->
-  <path class="t" d="M450 70 Q480 70 486 120 M450 170 L484 150 M476 147 L486 149 L481 158 M450 270 Q480 270 486 200 M476 112 L486 122 L492 110"/>
-  <rect class="t fa" x="494" y="96" width="92" height="110" rx="6"/>
-  <path class="t" d="M506 116 h68 M506 124 h68"/>
-  <path class="t" d="M506 140 h30 M506 150 h30 M506 160 h30 M506 170 h30 M544 140 h30 v34 h-30 z"/>
-  <text class="lbl" x="540" y="196" text-anchor="middle">7:00</text>
-  <path class="t" d="M540 206 L540 236 M533 229 L540 236 L547 229"/>
-  <path class="t fa" d="M504 242 h72 a8 8 0 0 1 8 8 v20 a8 8 0 0 1 -8 8 h-52 l-10 10 v-10 h-10 a8 8 0 0 1 -8 -8 v-20 a8 8 0 0 1 8 -8 z"/>
-  <text class="lbl" x="540" y="266" text-anchor="middle">Avisos</text>
+  <!-- Revisor de dibujos: ida y vuelta con el ilustrador -->
+  <path class="t" d="M450 62 L476 62 M468 55 L476 62 L468 69 M480 80 L454 80 M462 73 L454 80 L462 87"/>
+  <rect class="t fa" x="482" y="44" width="80" height="52" rx="8"/>
+  <path class="t" d="M500 70 Q522 50 544 70 Q522 90 500 70 Z"/><circle class="a" cx="522" cy="70" r="7"/><circle class="ft" cx="522" cy="70" r="3"/>
+  <text class="lbl" x="522" y="118" text-anchor="middle">Revisor de</text>
+  <text class="lbl" x="522" y="138" text-anchor="middle">dibujos</text>
+  <!-- Al diario -->
+  <path class="t" d="M564 70 Q592 70 598 120 M588 112 L598 122 L604 110"/>
+  <path class="t" d="M450 170 L602 170 M594 163 L602 170 L594 177"/>
+  <path class="t" d="M450 270 Q592 270 598 210 M591 218 L598 208 L605 218"/>
+  <rect class="t fa" x="610" y="96" width="92" height="110" rx="6"/>
+  <path class="t" d="M622 116 h68 M622 124 h68"/>
+  <path class="t" d="M622 140 h30 M622 150 h30 M622 160 h30 M622 170 h30 M660 140 h30 v34 h-30 z"/>
+  <text class="lbl" x="656" y="196" text-anchor="middle">7:00</text>
+  <!-- Portavoz: el aviso en cada grupo -->
+  <path class="t" d="M656 206 L656 236 M649 229 L656 236 L663 229"/>
+  <rect class="t fa" x="616" y="242" width="80" height="52" rx="8"/>
+  <path class="a" d="M640.5 264.5 L667.5 257 L667.5 275 L640.5 269 Z M653.4 273.2 a4.5 4.5 0 1 1 -8.7 -2.4"/>
+  <text class="lbl" x="656" y="316" text-anchor="middle">Portavoz</text>
   <!-- Los domingos: el reportaje -->
   <text class="lbl" x="58" y="352">Domingos</text>
   <path class="t" d="M48 300 V412 H118 M110 405 L118 412 L110 419"/>
@@ -107,10 +117,10 @@
   <rect class="t fa" x="368" y="386" width="80" height="52" rx="8"/>
   <path class="t" d="M384 400 h20 M384 410 h20 M384 420 h14"/><path class="a" d="M410 414 L418 422 L434 402"/>
   <text class="lbl" x="408" y="460" text-anchor="middle">Verificador</text>
-  <path class="t" d="M450 412 L488 412 M480 405 L488 412 L480 419"/>
-  <rect class="t fa" x="494" y="372" width="92" height="82" rx="6"/>
-  <path class="t" d="M506 388 h68 M506 396 h68 M506 410 h68 M506 420 h68 M506 430 h68 M506 440 h40"/>
-  <text class="lbl" x="540" y="476" text-anchor="middle">Reportaje</text>
+  <path class="t" d="M450 412 L604 412 M596 405 L604 412 L596 419"/>
+  <rect class="t fa" x="610" y="372" width="92" height="82" rx="6"/>
+  <path class="t" d="M622 388 h68 M622 396 h68 M622 410 h68 M622 420 h68 M622 430 h68 M622 440 h40"/>
+  <text class="lbl" x="656" y="476" text-anchor="middle">Reportaje</text>
 </svg></figure>
 <h2>Cómo se hace cada número</h2>
 <p>Cada número cuenta lo que se habló el día anterior en los tres grupos. La redacción trabaja de madrugada, con el día ya cerrado, y sigue siempre el mismo orden.</p>
