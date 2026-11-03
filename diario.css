@@ -325,3 +325,33 @@
 .resultado .extracto { margin: 0; color: var(--tinta-2); line-height: 1.55; }
 .resultado mark { background: var(--sec-tinte, var(--papel-2)); color: var(--tinta); padding: 0 0.1em; }
 .mas-resultados { appearance: none; border: 1px solid var(--filete); background: transparent; color: var(--tinta); font: inherit; padding: 0.45rem 1.1rem; border-radius: 999px; cursor: pointer; }
+
+/* El Repositorio de VCE (ADR 0008): la captura del recurso en lugar del dibujo, y su visor */
+.ilu.captura { padding: 0 !important; background: none !important; }
+.ilu.captura img { display: block; width: 100%; height: auto; border: 1px solid var(--filete); }
+.ilu.captura .ampliar { display: block; width: 100%; padding: 0; border: 0; background: none; cursor: zoom-in; }
+.ilu.captura .ampliar:focus-visible { outline: 3px solid var(--sec, var(--azul)); outline-offset: 3px; }
+.recurso { margin-top: 2rem; }
+.recurso .ladillo { font-size: 1.3rem; margin: 0 0 0.3rem; font-variation-settings: "opsz" 36; }
+.recurso .recurso-datos { margin: 0 0 0.8rem; color: var(--tinta-2); font-size: 0.95rem; }
+.recurso .ilu.captura { margin: 0 0 1rem; }
+.recurso-texto > p:first-child { margin-top: 0; }
+/* En la semana del repositorio, cada captura al lado de su texto en pantallas anchas; en el móvil, encima */
+@media (min-width: 40rem) {
+  .recurso-cuerpo { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 0 1.4rem; align-items: start; }
+  .recurso-cuerpo .ilu.captura { grid-column: 2; grid-row: 1; margin: 0.3rem 0 0; }
+  .recurso-texto { grid-column: 1; grid-row: 1; }
+}
+.recurso .recurso-enlaces { font-weight: 600; font-size: 0.95rem; }
+.visor { position: fixed; inset: 0; z-index: 50; display: flex; align-items: center; justify-content: center;
+         padding: 3.2rem 1rem 1rem; background: rgb(10 12 16 / 0.88); cursor: zoom-out; }
+.visor img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; cursor: default; box-shadow: 0 4px 24px rgb(0 0 0 / 0.5); }
+.visor .cerrar { position: absolute; top: 0.6rem; right: 0.6rem; width: 2.6rem; height: 2.6rem; display: grid; place-items: center;
+                 border: 0; border-radius: 50%; background: rgb(255 255 255 / 0.14); color: #fff; cursor: pointer; }
+.visor .cerrar:hover, .visor .cerrar:focus-visible { background: rgb(255 255 255 / 0.28); outline: 2px solid #fff; outline-offset: 2px; }
+.visor .cerrar svg { width: 1.4rem; height: 1.4rem; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
+body.con-visor { overflow: hidden; }
+
+/* Página de sección: la pieza sin dibujo lleva el icono de su sección en un recuadro de la misma proporción */
+.ilu.relleno { aspect-ratio: 380 / 223; display: grid; place-items: center; }
+.ilu.relleno .ico { width: 26%; height: auto; fill: none; stroke: var(--sec); stroke-width: 1.2; opacity: 0.55; }

@@ -24,7 +24,7 @@
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="comun.css?v=881fc4b6">
-<link rel="stylesheet" href="diario.css?v=3d764cac">
+<link rel="stylesheet" href="diario.css?v=9d2bacff">
 </head>
 <body class="pag-seccion">
 <header class="cabecera">
@@ -57,8 +57,8 @@
   <h2 class="titular"><a href="2026-11-01/detectores-caza-brujas.html">El sector editorial advierte de una «caza de brujas» por los detectores de textos con IA</a></h2>
   <p class="entradilla">Un reportaje de La Vanguardia recoge acusaciones de uso de IA basadas en detectores que se contradicen con el tiempo. El debate llega a la educación: cómo comprobar la autoría sin perseguir.</p>
   </div>
-</article><article class="pieza menor sec-debates">
-  
+</article><article class="pieza destacada sec-debates">
+  <figure class="ilu"><svg role="img" aria-label="Tres pasos enlazados con flechas, pensar con un lápiz, preguntar con un bocadillo y verificar con una marca de comprobación, y debajo un alumno que explica con sus palabras una hoja de deberes." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><circle class="fa" cx="100" cy="95" r="52"/><circle class="t" cx="100" cy="95" r="52"/><circle class="fa" cx="300" cy="95" r="52"/><circle class="t" cx="300" cy="95" r="52"/><circle class="fa" cx="500" cy="95" r="52"/><circle class="a" cx="500" cy="95" r="52"/><path class="t" d="M80 115 L84 101 L111 74 L121 84 L94 111 Z"/><path class="t" d="M106 79 L116 89"/><path class="t" d="M80 115 L84 101 L94 111 Z"/><path class="t" d="M272 72 H328 a6 6 0 0 1 6 6 V102 a6 6 0 0 1 -6 6 H302 L288 120 V108 H272 a6 6 0 0 1 -6 -6 V78 a6 6 0 0 1 6 -6 Z"/><path class="t" d="M293 87 a7 7 0 1 1 10 6 q-3 2 -3 6"/><circle class="ft" cx="300" cy="104" r="2.5"/><path class="a" d="M476 97 L492 113 L526 75"/><path class="a" d="M162 95 H236 M226 85 L236 95 L226 105"/><path class="a" d="M362 95 H436 M426 85 L436 95 L426 105"/><text class="lbl" x="100" y="180" text-anchor="middle">Pensar</text><text class="lbl" x="300" y="180" text-anchor="middle">Preguntar</text><text class="lbl" x="500" y="180" text-anchor="middle">Verificar</text><rect class="t" x="40" y="214" width="520" height="96" rx="10"/><circle class="fa" cx="105" cy="246" r="15"/><circle class="t" cx="105" cy="246" r="15"/><path class="fa" d="M78 292 Q78 266 105 266 Q132 266 132 292 Z"/><path class="t" d="M78 292 Q78 266 105 266 Q132 266 132 292 Z"/><path class="t" d="M155 236 H340 a8 8 0 0 1 8 8 V266 a8 8 0 0 1 -8 8 H175 L158 288 V274 a8 8 0 0 1 -3 -8 V244 a8 8 0 0 1 0 -8 Z"/><text class="lbl" x="252" y="262" text-anchor="middle">Con tus palabras</text><rect class="fa" x="420" y="232" width="90" height="62" rx="4"/><rect class="t" x="420" y="232" width="90" height="62" rx="4"/><path class="t" d="M435 250 H495 M435 262 H495 M435 274 H475"/><path class="r" d="M486 274 L492 280 L504 266"/></svg></figure>
   <div class="texto">
   <p class="seccion"><span></span> <span class="fecha-pieza">2 de noviembre</span></p>
   <p class="antetitulo">Guía para familias</p>
@@ -103,6 +103,20 @@
   // En el móvil las secciones se deslizan: la sección abierta, a la vista
   var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
   if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
+  // Ampliar una captura: sobre la propia página, al mayor tamaño que quepa, con la X arriba a la derecha
+  document.querySelectorAll('button.ampliar').forEach(function(b){
+    b.addEventListener('click',function(){
+      var img=b.querySelector('img'), v=document.createElement('div'), x=document.createElement('button'), g=img.cloneNode();
+      v.className='visor'; v.setAttribute('role','dialog'); v.setAttribute('aria-modal','true'); v.setAttribute('aria-label',img.alt);
+      x.type='button'; x.className='cerrar'; x.setAttribute('aria-label',b.dataset.cerrar||'Cerrar'); x.title=x.getAttribute('aria-label');
+      x.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>';
+      g.removeAttribute('loading'); v.append(g,x); document.body.append(v); document.body.classList.add('con-visor'); x.focus();
+      function fuera(){v.remove();document.body.classList.remove('con-visor');document.removeEventListener('keydown',tecla);b.focus();}
+      function tecla(ev){if(ev.key==='Escape')fuera();}
+      v.addEventListener('click',function(ev){if(ev.target!==g)fuera();});
+      document.addEventListener('keydown',tecla);
+    });
+  });
   // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
   document.querySelectorAll('.compartir').forEach(function(b){
     b.addEventListener('click',function(){
