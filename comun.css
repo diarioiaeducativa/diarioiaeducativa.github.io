@@ -102,11 +102,12 @@ img, svg { max-width: 100%; }
 .comprobado li { margin: 0.2rem 0; }
 
 /* Conmutador de tema, como el de Sirena */
-.tema {
+.tema, .lupa {
   appearance: none; border: 1px solid var(--filete); background: transparent; color: var(--tinta);
   width: 2.5rem; height: 2.5rem; border-radius: 50%; display: inline-grid; place-items: center; cursor: pointer;
 }
-.tema svg { width: 1.2rem; height: 1.2rem; }
+.tema svg, .lupa svg { width: 1.2rem; height: 1.2rem; }
+.lupa:hover, .tema:hover { border-color: var(--tinta-2); }
 .tema .sol { display: none; }
 :root[data-theme="dark"] .tema .sol { display: block; }
 :root[data-theme="dark"] .tema .luna { display: none; }
@@ -117,7 +118,7 @@ img, svg { max-width: 100%; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 @media print {
   :root, :root[data-theme="dark"] { --papel: #fff; --papel-2: #fff; --tinta: #000; --tinta-2: #333; --filete: #999; --azul: #000; --rojo: #000; }
-  .tema, .navegacion, .pie-unete { display: none !important; }
+  .tema, .lupa, .navegacion, .pie-unete { display: none !important; }
 }
 
 /* Viñeta: Tiza y Algoritmo. La tiza es blanca en los dos temas; el cursor, azul. */
@@ -217,3 +218,9 @@ img, svg { max-width: 100%; }
 .vineta .fr { fill: var(--rojo); }
 .vineta .r { fill: none; stroke: var(--rojo); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
 .vineta .rubor { fill: none; stroke: var(--rojo); stroke-width: 1.8; stroke-linecap: round; opacity: 0.75; }
+/* Con la lupa, los tres controles de la cabecera no caben en 360 px con la separación normal */
+.edicion .corto { display: none; }
+@media (max-width: 26rem) {
+  .controles { gap: 0.45rem; } .tema, .lupa { width: 2.3rem; height: 2.3rem; }
+  .edicion .largo { display: none; } .edicion .corto { display: inline; }   /* en el móvil, solo el nombre de la lengua */
+}
