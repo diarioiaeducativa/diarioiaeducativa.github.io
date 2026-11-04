@@ -162,6 +162,10 @@
 .pie-grupos li { margin-bottom: 0.35rem; }
 .pie-grupo-desc { color: var(--tinta-2); }
 .pie [aria-current] { font-weight: 600; text-decoration: none; color: var(--tinta); }
+/* Instalar como app (ADR 0013): un botón con aspecto de enlace, como los de al lado */
+.pie .instalar { font: inherit; color: var(--azul); background: none; border: 0; padding: 0; cursor: pointer;
+  text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+.pie .instalar:hover { text-decoration-thickness: 2px; }
 
 /* Página de elección de maqueta */
 .eleccion { max-width: 40rem; padding: 3rem 0; text-align: center; }

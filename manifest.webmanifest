@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "name": "Diario de IA Educativa",
+  "short_name": "Diario IA",
+  "description": "La inteligencia artificial, contada desde tres comunidades docentes",
+  "lang": "es",
+  "dir": "ltr",
+  "display": "standalone",
+  "background_color": "#16181d",
+  "theme_color": "#16181d",
+  "icons": [
+    {
+      "src": "/icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
