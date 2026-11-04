@@ -102,12 +102,23 @@ img, svg { max-width: 100%; }
 .comprobado li { margin: 0.2rem 0; }
 
 /* Conmutador de tema, como el de Sirena */
+/* Sin borde visible, en el gris de la fecha: la cabecera es de periódico (04-11-2026). La zona que se
+   pulsa sigue siendo de 2,5 rem y al pasar por encima se marca. */
 .tema, .lupa {
-  appearance: none; border: 1px solid var(--filete); background: transparent; color: var(--tinta);
+  appearance: none; border: 1px solid transparent; background: transparent; color: var(--tinta-2);
   width: 2.5rem; height: 2.5rem; border-radius: 50%; display: inline-grid; place-items: center; cursor: pointer;
 }
 .tema svg, .lupa svg { width: 1.2rem; height: 1.2rem; }
-.lupa:hover, .tema:hover { border-color: var(--tinta-2); }
+.lupa:hover, .tema:hover { color: var(--tinta); background: var(--papel-2); }
+/* La lupa con su rótulo, para que se vea que hay buscador (04-11-2026); en el móvil, solo la lupa */
+.lupa { text-decoration: none; }
+.lupa svg { flex-shrink: 0; }
+@media (min-width: 40.01rem) {
+  .lupa { width: auto; display: inline-flex; align-items: center; gap: 0.35rem; padding: 0 0.5rem; border-radius: 0.4rem; }
+  .lupa:hover { background: transparent; }
+  .lupa:hover .lupa-rotulo { text-decoration: underline; text-underline-offset: 0.2em; }
+}
+@media (max-width: 40rem) { .lupa-rotulo { display: none; } }
 .tema .sol { display: none; }
 :root[data-theme="dark"] .tema .sol { display: block; }
 :root[data-theme="dark"] .tema .luna { display: none; }
@@ -153,8 +164,8 @@ img, svg { max-width: 100%; }
 
 /* Controles de la cabecera: la otra edición (como en un periódico) y el tema */
 .controles { display: inline-flex; align-items: center; gap: 0.9rem; justify-self: end; }
-.edicion { font-style: italic; color: var(--tinta-2); text-decoration-color: var(--filete); white-space: nowrap; }
-.edicion:hover { color: var(--tinta); }
+.edicion { color: var(--tinta-2); text-decoration: none; white-space: nowrap; display: inline-flex; align-items: center; min-height: 2.5rem; padding: 0 0.3rem; }
+.edicion:hover { color: var(--tinta); text-decoration: underline; text-underline-offset: 0.2em; }
 
 /* Un color por sección, como los periódicos que distinguen sus secciones por color.
    Paleta de material escolar: bolígrafo azul (Herramientas), pizarra verde (Vibe coding),
@@ -221,6 +232,6 @@ img, svg { max-width: 100%; }
 /* Con la lupa, los tres controles de la cabecera no caben en 360 px con la separación normal */
 .edicion .corto { display: none; }
 @media (max-width: 26rem) {
-  .controles { gap: 0.45rem; } .tema, .lupa { width: 2.3rem; height: 2.3rem; }
+  .controles { gap: 0.45rem; } .tema, .lupa { width: 2.3rem; height: 2.3rem; } .edicion { min-height: 2.3rem; }
   .edicion .largo { display: none; } .edicion .corto { display: inline; }   /* en el móvil, solo el nombre de la lengua */
 }
