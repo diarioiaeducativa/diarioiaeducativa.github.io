@@ -40,11 +40,11 @@
   border-bottom: 1px solid var(--tinta);
   font-size: 1rem;
 }
-.secciones-lista { display: flex; flex-wrap: wrap; gap: 0.3rem 1.4rem; }
+.secciones-lista { display: flex; flex-wrap: wrap; gap: 0.3rem 1.4rem; flex: 1 1 auto; }
 .secciones a { color: var(--tinta); text-decoration: none; font-weight: 600; }
 .secciones a:hover { text-decoration: underline; }
 .secciones a[aria-current] { color: var(--sec, var(--azul)); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.3em; }
-.secciones .quees { font-weight: 400; font-style: italic; color: var(--tinta-2); }
+.secciones .quees { margin-left: auto; font-weight: 400; font-style: italic; color: var(--tinta-2); }
 /* Navegación entre días, debajo de la barra, solo donde hace falta */
 .navegacion { display: flex; gap: 1.4rem; padding: 0.4rem 0; border-bottom: 1px solid var(--filete); font-size: 0.95rem; }
 .navegacion .sig { margin-left: auto; }
@@ -159,6 +159,8 @@
 .pie h2 { margin: 0 0 0.4rem; font-size: 1.1rem; color: var(--tinta); }
 .pie p { margin: 0 0 0.6rem; }
 .pie ul { margin: 0; padding-left: 1.1rem; }
+.pie-grupos li { margin-bottom: 0.35rem; }
+.pie-grupo-desc { color: var(--tinta-2); }
 .pie [aria-current] { font-weight: 600; text-decoration: none; color: var(--tinta); }
 
 /* Página de elección de maqueta */
@@ -206,11 +208,10 @@
 .vacio { color: var(--tinta-2); font-style: italic; }
 .pag-seccion .vineta:first-of-type { margin-top: 0.8rem; }
 @media (max-width: 40rem) {
-  /* En el móvil, la cabecera deja ver la primera noticia: sin lema, las secciones en una fila
-     que se desliza y «La redacción» solo en el pie */
+  /* En el móvil, la cabecera deja ver la primera noticia: sin lema y las secciones en una fila
+     que se desliza, con «La redacción» al final */
   .lema { display: none; }
   .secciones { padding-bottom: 0; }
-  .secciones .quees { display: none; }
   .secciones-lista {
     position: relative; flex: 1 1 100%; min-width: 0; flex-wrap: nowrap; gap: 1.3rem;
     overflow-x: auto; padding: 0.1rem 0 0.55rem; scrollbar-width: none; -webkit-overflow-scrolling: touch;
