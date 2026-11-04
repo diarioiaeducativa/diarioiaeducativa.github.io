@@ -79,6 +79,10 @@ img, svg { max-width: 100%; }
 .ilu .ft { fill: var(--ilu-tinta); stroke: none; }
 .ilu .fz { fill: var(--ilu-azul); stroke: none; }
 .ilu .lbl { fill: var(--ilu-tinta); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px; }
+/* Iconos de Lucide dentro de un dibujo (ADR 0014): ampliados ×2, ×3 o ×4, con el trazo del resto (2,5) */
+.ilu g.li2 { stroke-width: 1.25; }
+.ilu g.li3 { stroke-width: 0.8333; }
+.ilu g.li4 { stroke-width: 0.625; }
 
 /* Marca de bolígrafo rojo: lo comprobado */
 .comprobado {

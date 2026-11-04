@@ -25,8 +25,8 @@
 <meta name="apple-mobile-web-app-title" content="Diario IA">
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="fuentes.css?v=e8b00d22">
-<link rel="stylesheet" href="comun.css?v=04adfb24">
-<link rel="stylesheet" href="diario.css?v=8d145b03">
+<link rel="stylesheet" href="comun.css?v=d0e6016b">
+<link rel="stylesheet" href="diario.css?v=158cacc4">
 </head>
 <body class="pag-que-es">
 <header class="cabecera">
@@ -43,7 +43,7 @@
 <main class="articulo que-es redaccion">
 <h1 class="titular">La redacción</h1>
 <p class="entradilla">El Diario de IA Educativa lo escribe una redacción de agentes de inteligencia artificial, cada uno con su oficio, que se revisan entre ellos. Lo idean, lo diseñan y lo supervisan personas, y sale cada mañana a las 7:00, en castellano y en catalán.</p>
-<figure class="ilu"><svg role="img" aria-label="Organigrama de la redacción, en el que los agentes de IA van en cajas rellenas y los mensajes y lo publicado, solo con contorno: cada día, los mensajes de los grupos pasan del redactor al revisor, y los documentos de la Biblioteca digital y los recursos del repositorio, del documentalista al revisor. Del revisor salen dos caminos: el guionista y el juez de humor preparan la viñeta, y el ilustrador dibuja lo que explica cada noticia, con el revisor de dibujos, que le devuelve lo que no se ve bien. Todo acaba en el traductor, y el número sale a las 7:00 con un aviso del portavoz para cada grupo. Los domingos, el jefe de reportajes, el reportero y el verificador preparan el reportaje, que pasa también por el ilustrador, el revisor de dibujos y el traductor y sale dentro del número." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 716 620">
+<figure class="ilu"><button type="button" class="ampliar" aria-label="Ampliar la imagen: Organigrama de la redacción, en el que los agentes de IA van en cajas rellenas y los mensajes y lo publicado, solo con contorno: cada día, los mensajes de los grupos pasan del redactor al revisor, y los documentos de la Biblioteca digital y los recursos del repositorio, del documentalista al revisor. Del revisor salen dos caminos: el guionista y el juez de humor preparan la viñeta, y el ilustrador dibuja lo que explica cada noticia, con el revisor de dibujos, que le devuelve lo que no se ve bien. Todo acaba en el traductor, y el número sale a las 7:00 con un aviso del portavoz para cada grupo. Los domingos, el jefe de reportajes, el reportero y el verificador preparan el reportaje, que pasa también por el ilustrador, el revisor de dibujos y el traductor y sale dentro del número." title="Ampliar la imagen" data-cerrar="Cerrar"><svg role="img" aria-label="Organigrama de la redacción, en el que los agentes de IA van en cajas rellenas y los mensajes y lo publicado, solo con contorno: cada día, los mensajes de los grupos pasan del redactor al revisor, y los documentos de la Biblioteca digital y los recursos del repositorio, del documentalista al revisor. Del revisor salen dos caminos: el guionista y el juez de humor preparan la viñeta, y el ilustrador dibuja lo que explica cada noticia, con el revisor de dibujos, que le devuelve lo que no se ve bien. Todo acaba en el traductor, y el número sale a las 7:00 con un aviso del portavoz para cada grupo. Los domingos, el jefe de reportajes, el reportero y el verificador preparan el reportaje, que pasa también por el ilustrador, el revisor de dibujos y el traductor y sale dentro del número." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 716 620">
   <!-- Convención: caja rellena = agente de IA; solo contorno = lo que entra (mensajes) y lo que se publica -->
   <!-- Los grupos -->
   <path class="t" d="M18 112 h56 a8 8 0 0 1 8 8 v22 a8 8 0 0 1 -8 8 h-40 l-10 10 v-10 h-6 a8 8 0 0 1 -8 -8 v-22 a8 8 0 0 1 8 -8 z"/>
@@ -132,7 +132,7 @@
   <text class="lbl" x="168" y="604">Agente de IA</text>
   <rect class="t" x="330" y="586" width="34" height="24" rx="6"/>
   <text class="lbl" x="374" y="604">Lo que entra y lo que se publica</text>
-</svg></figure>
+</svg></button></figure>
 <h2>Cómo se hace cada número</h2>
 <p>Cada número cuenta lo que se habló el día anterior en los tres grupos. La redacción trabaja de madrugada, con el día ya cerrado, y sigue siempre el mismo orden.</p>
 <ol class="proceso"><li>A la 1:00, un programa recoge los mensajes del día en los tres grupos y los ordena por grupo y por tema. En este paso no interviene la inteligencia artificial.</li><li>El redactor elige los temas que pueden interesar fuera de los grupos y escribe las piezas, comprobando cada dato en su fuente original. Después, el revisor vuelve a abrir cada fuente y quita lo que no puede confirmar.</li><li>El ilustrador dibuja cada pieza mientras el guionista escribe cinco guiones para la viñeta. Un programa abre cada dibujo en su página, en tema claro y oscuro, y mide sus colores, su contraste y sus rótulos; después, el revisor de dibujos mira el resultado y devuelve al ilustrador lo que no se ve bien. El juez de humor elige el mejor guion, o ninguno, y un programa dibuja la viñeta.</li><li>Si ese día ha entrado algún documento en la <a href="https://t.me/ChatGPTedu/21753" target="_blank" rel="noopener">Biblioteca digital</a> de ChatGPT-IA-edu, el documentalista escribe su artículo y el revisor lo contrasta con el documento. Si el número se queda corto, con menos de cuatro piezas, el documentalista escribe además sobre recursos del <a href="https://vibe-coding-educativo.github.io/app_edu/" target="_blank" rel="noopener">Repositorio de recursos</a> de Vibe Coding Educativo, y el sábado repasa los que han entrado en la semana. La noche del sábado se prepara, además, el reportaje del domingo.</li><li>El traductor prepara la edición en catalán, y el portavoz escribe el mensaje que recibirá cada grupo.</li><li>Un programa monta la web con todo lo anterior y la publica a las 6:55. A las 7:00, el bot de los grupos publica el aviso en cada uno de ellos.</li></ol>
@@ -181,17 +181,37 @@
   // En el móvil las secciones se deslizan: la sección abierta, a la vista
   var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
   if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
-  // Ampliar una captura: sobre la propia página, al mayor tamaño que quepa, con la X arriba a la derecha
+  // Ampliar una captura o un dibujo: sobre la propia página, al mayor tamaño que quepa, con la X arriba a la derecha
   document.querySelectorAll('button.ampliar').forEach(function(b){
     b.addEventListener('click',function(){
-      var img=b.querySelector('img'), v=document.createElement('div'), x=document.createElement('button'), g=img.cloneNode();
-      v.className='visor'; v.setAttribute('role','dialog'); v.setAttribute('aria-modal','true'); v.setAttribute('aria-label',img.alt);
+      var img=b.querySelector('img'), dib=b.querySelector('svg'), v=document.createElement('div'), x=document.createElement('button'), g;
+      v.className='visor'; v.setAttribute('role','dialog'); v.setAttribute('aria-modal','true');
+      if(img){ g=img.cloneNode(); v.setAttribute('aria-label',img.alt); }
+      else {   // un dibujo: en su marco, con los colores de su sección y tan grande como quepa
+        var sec=b.closest('[class*="sec-"]'), c=sec&&[].find.call(sec.classList,function(k){return k.indexOf('sec-')===0;}), vb=dib.viewBox.baseVal;
+        if(c) v.classList.add(c);
+        g=document.createElement('div'); g.className='ilu'; g.append(dib.cloneNode(true)); v.setAttribute('aria-label',dib.getAttribute('aria-label')||'');
+        g.style.width='min(100%, calc((100dvh - 6.2rem) * '+(vb&&vb.height?vb.width/vb.height:16/9)+' + 2rem))';
+      }
       x.type='button'; x.className='cerrar'; x.setAttribute('aria-label',b.dataset.cerrar||'Cerrar'); x.title=x.getAttribute('aria-label');
       x.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>';
       g.removeAttribute('loading'); v.append(g,x); document.body.append(v); document.body.classList.add('con-visor'); x.focus();
-      function fuera(){v.remove();document.body.classList.remove('con-visor');document.removeEventListener('keydown',tecla);b.focus();}
+      // La imagen crece desde donde está en la página y vuelve a su sitio al cerrar; sin movimiento
+      // si el sistema pide reducirlo
+      var origen=img||b.closest('.ilu')||b, cerrando=false;
+      var suave=g.animate&&!matchMedia('(prefers-reduced-motion: reduce)').matches;
+      function zoom(abre){
+        var a=origen.getBoundingClientRect(), z=g.getBoundingClientRect(), op={duration:300,easing:'cubic-bezier(.2,.8,.2,1)',fill:'both'};
+        var pag='translate('+(a.left-z.left)+'px,'+(a.top-z.top)+'px) scale('+(a.width/z.width)+','+(a.height/z.height)+')';
+        var k=[{transform:pag},{transform:'none'}], f=[{backgroundColor:'rgba(10,12,16,0)'},{backgroundColor:'rgba(10,12,16,0.88)'}], o=[{opacity:0},{opacity:1}];
+        if(!abre){k.reverse();f.reverse();o.reverse();}
+        g.style.transformOrigin='0 0'; v.animate(f,op); x.animate(o,op); return g.animate(k,op);
+      }
+      if(suave) zoom(true);
+      function quitar(){v.remove();document.body.classList.remove('con-visor');document.removeEventListener('keydown',tecla);b.focus();}
+      function fuera(){if(cerrando)return; cerrando=true; if(suave) zoom(false).onfinish=quitar; else quitar();}
       function tecla(ev){if(ev.key==='Escape')fuera();}
-      v.addEventListener('click',function(ev){if(ev.target!==g)fuera();});
+      v.addEventListener('click',function(ev){if(!g.contains(ev.target))fuera();});
       document.addEventListener('keydown',tecla);
     });
   });
