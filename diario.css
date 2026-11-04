@@ -277,6 +277,8 @@
 .reportaje-franja .antetitulo { color: var(--azul); }
 .portada > .reportaje-franja + .reportaje-franja { margin-top: 0; }
 .reportaje .ladillo { font-size: 1.35rem; margin: 2rem 0 0.6rem; font-variation-settings: "opsz" 36; }
+/* Nota de corrección de una pieza ya publicada */
+.correccion { margin: 1.4rem 0 0; padding: 0.7rem 1rem; border-left: 4px solid var(--rojo); background: var(--papel-2); font-size: 0.95rem; font-style: italic; color: var(--tinta-2); }
 .reportaje .claves { margin: 1.6rem 0; padding: 1rem 1.2rem; background: var(--papel-2); border-top: 3px solid var(--azul); }
 .reportaje .claves h2 { margin: 0 0 0.5rem; font-size: 1.05rem; color: var(--azul); }
 .reportaje .claves ul { margin: 0; padding-left: 1.1rem; line-height: 1.55; }
