@@ -136,7 +136,7 @@ img, svg { max-width: 100%; }
 :root { --tiza: #ffffff; --cara: #16181d; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --tiza: #f1f1ec; } }
 :root[data-theme="dark"] { --tiza: #f1f1ec; }
-.vineta svg { display: block; width: 100%; height: auto; }
+.vineta .tira svg { display: block; width: 100%; height: auto; }
 .vineta .marco { fill: var(--papel); stroke: var(--tinta); stroke-width: 2.5; }
 .vineta .t, .vineta .a { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
 .vineta .t { stroke: var(--tinta); }
