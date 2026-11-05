@@ -403,3 +403,10 @@ body.con-visor { overflow: hidden; }
 .semana-piezas a:hover { text-decoration: underline; }
 .semana-franja .video-pantalla { margin-top: 0.8rem; color: var(--tinta-2); }
 @media (max-width: 52rem) { .semana-franja { grid-template-columns: minmax(0, 1fr); } .semana-franja video { max-width: 20rem; margin: 0 auto; } }
+
+/* El día que la redacción falló y el número salió con una pieza de reserva (ADR 0021) */
+.aviso-reserva {
+  margin: 1rem 0 0.4rem; padding: 0.6rem 0.9rem;
+  border-left: 4px solid var(--rojo); background: var(--papel-2);
+  font-size: 1.02rem; line-height: 1.45;
+}
