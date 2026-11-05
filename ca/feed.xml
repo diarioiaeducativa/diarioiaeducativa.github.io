@@ -7,6 +7,46 @@
   <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
   <language>ca</language>
   <item>
+    <title>Un membre del grup converteix el mòbil i les ulleres de realitat virtual en una càmera virtual per a Blender</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/camara-virtual-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/camara-virtual-blender.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Raül Torres descriu com ha fet, amb l&#x27;ajuda de Claude, un sistema que grava moviments de càmera reals a Blender per guiar després un generador de vídeo amb IA.</description>
+  </item>
+  <item>
+    <title>Un projecte obert ofereix 54 lliçons interactives en 3D de ciències per a Batxillerat, en xinès</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/tongjiang-lab-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/tongjiang-lab-3d.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Tongjiang Lab reuneix lliçons de física, química, biologia i geografia en fitxers HTML que funcionen sense connexió; al grup es va assenyalar com a exemple del que es podrà fer amb IA.</description>
+  </item>
+  <item>
+    <title>Una eina forma a l&#x27;atzar els grups base i d&#x27;experts de la tècnica Jigsaw</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Rompecabezas – Técnica Jigsaw» rep la llista de l&#x27;alumnat i els subtemes i reparteix els grups de manera equilibrada. S&#x27;obre al navegador i està disponible en cinc llengües.</description>
+  </item>
+  <item>
+    <title>Un editor de programació per blocs, basat en TurboWarp i compatible amb Scratch, per aprendre a programar</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/edutictac-blocs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/edutictac-blocs.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>EduTicTac Blocs és un entorn de programació visual compatible amb projectes de Scratch i amb plantilles per a l&#x27;aula; segons la seva web, sense publicitat ni rastrejadors.</description>
+  </item>
+  <item>
+    <title>Raül Torres va compartir a EduMedia-IAG un passeig en mode videojoc per Girona fet amb Claude, amb llocs…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/breve-1.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Raül Torres va compartir a EduMedia-IAG un passeig en mode videojoc per Girona fet amb Claude, amb llocs presos del mapa real i viatge en el temps des del Paleolític fins al 2026. S&#x27;executa des del web i no consta enllaç públic.</description>
+  </item>
+  <item>
     <title>Docents debaten l&#x27;anunci de Google que desactiva per defecte la IA i el cercador en comptes escolars</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</guid>
