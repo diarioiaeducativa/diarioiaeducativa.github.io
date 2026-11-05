@@ -365,3 +365,41 @@ body.con-visor { overflow: hidden; }
 /* Página de sección: la pieza sin dibujo lleva el icono de su sección en un recuadro de la misma proporción */
 .ilu.relleno { aspect-ratio: 380 / 223; display: grid; place-items: center; }
 .ilu.relleno .ico { width: 26%; height: auto; fill: none; stroke: var(--sec); stroke-width: 1.2; opacity: 0.55; }
+
+/* Vídeos (ADR 0016): verticales, sin reproducción automática, con lo que dicen en pantalla */
+.video { margin: 1.6rem auto; max-width: 22rem; }
+.video video { display: block; width: 100%; height: auto; aspect-ratio: 9 / 16; background: var(--papel-2); border-radius: 6px; }
+.video-titulo { font-size: 1.15rem; line-height: 1.25; margin: 0 0 0.6rem; }
+.video figcaption { margin-top: 0.6rem; font-size: 0.95rem; color: var(--tinta-2); }
+.video figcaption p { margin: 0 0 0.4rem; }
+.video-meta { font-size: 0.85rem; }
+.video-pantalla summary { cursor: pointer; font-size: 0.9rem; }
+.video-pantalla ol { margin: 0.4rem 0 0; padding-left: 1.3rem; font-size: 0.9rem; }
+.lista-videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 2.4rem 2rem; align-items: start; }
+.lista-videos .video-titulo { order: 2; font-size: 1.1rem; margin: 0.8rem 0 0.3rem; }
+.lista-videos .video { display: flex; flex-direction: column; }
+.lista-videos .video > video { order: 1; }
+.lista-videos .video figcaption { order: 3; margin-top: 0; }
+.lista-videos .video { margin: 0; max-width: none; }
+@media (min-width: 48rem) {
+  .video { display: grid; grid-template-columns: 18rem minmax(0, 1fr); grid-template-areas: "v t" "v c"; grid-template-rows: auto 1fr;
+    column-gap: 1.6rem; max-width: none; margin-left: 0; align-items: start; }
+  .video > video { grid-area: v; }
+  .video-titulo { grid-area: t; font-size: 1.35rem; }
+  .video figcaption { grid-area: c; margin-top: 0; }
+  .lista-videos .video { display: flex; }
+}
+
+/* «La semana en vídeo», franja del domingo como la del reportaje (ADR 0016) */
+.semana-franja { grid-template-columns: 15rem minmax(0, 1fr); align-items: start; border-left-color: var(--tinta); margin-top: 1.8rem; }
+.semana-franja video { display: block; width: 100%; height: auto; aspect-ratio: 9 / 16; border-radius: 6px; background: var(--tinta); }
+.semana-franja .seccion a { color: var(--tinta); text-decoration: none; }
+.semana-franja .seccion .ico { width: 1em; height: 1em; vertical-align: -0.12em; fill: none; stroke: currentColor; stroke-width: 2; }
+.semana-franja .titular { margin-top: 0.3rem; }
+.semana-piezas { list-style: none; margin: 1rem 0 0; padding: 0; display: grid; gap: 0.7rem; }
+.semana-piezas li { border-left: 4px solid var(--sec, var(--azul)); padding-left: 0.8rem; line-height: 1.3; }
+.semana-piezas .s { display: block; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--sec, var(--azul)); }
+.semana-piezas a { font-weight: 600; color: var(--tinta); text-decoration: none; }
+.semana-piezas a:hover { text-decoration: underline; }
+.semana-franja .video-pantalla { margin-top: 0.8rem; color: var(--tinta-2); }
+@media (max-width: 52rem) { .semana-franja { grid-template-columns: minmax(0, 1fr); } .semana-franja video { max-width: 20rem; margin: 0 auto; } }
