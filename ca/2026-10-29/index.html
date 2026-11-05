@@ -35,7 +35,7 @@
     <span></span>
     <span class="controles"><a class="ico-video" href="../videos.html" title="Vídeos" aria-label="Vídeos"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 9.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997A1 1 0 0 1 9 14.996z"/><circle cx="12" cy="12" r="10"/></svg></a><a class="lupa" href="../buscar.html" title="Cerca al diari" aria-label="Cerca al diari"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="lupa-rotulo">Cerca</span></a><a class="edicion" href="../../2026-10-29/" lang="es" hreflang="es" data-idioma="es"><span class="largo">Edición en castellano</span><span class="corto">Castellano</span></a><button type="button" class="tema" id="tema" title="Canviar entre tema clar i fosc" aria-label="Canviar entre tema clar i fosc"><svg class="luna" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg><svg class="sol" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg></button></span>
   </div>
-  <p class="mancheta"><a href="../">Diari d'IA Educativa</a></p>
+  <h1 class="mancheta"><a href="../">Diari d'IA Educativa</a><span class="solo-lector">, divendres, 30 d'octubre de 2026</span></h1>
   <p class="lema">La intel·ligència artificial, explicada des de tres comunitats docents</p>
   <nav class="secciones" aria-label="Seccions"><div class="secciones-lista"><a href="../">Portada</a><a class="sec-herramientas" href="../herramientas.html">Eines</a><a class="sec-vibecoding" href="../vibecoding.html">Vibe coding</a><a class="sec-multimedia" href="../multimedia.html">Multimèdia</a><a class="sec-debates" href="../debates.html">Debats</a><a class="sec-novedades" href="../novedades.html">Novetats oficials</a><a class="sec-biblioteca" href="../biblioteca.html">Biblioteca</a><a class="sec-reportaje" href="../reportajes.html">Reportatges</a><a class="sec-vineta" href="../vineta.html">La vinyeta</a><a class="quees" href="../redaccion.html">La redacció</a></div></nav>
   <nav class="navegacion" aria-label="Navegació"><a class="ant" href="../2026-10-28/">Dia anterior</a><a class="sig" href="../2026-10-30/">Dia següent</a></nav>
@@ -74,7 +74,7 @@
     <p>Redactat amb IA a partir de les converses dels grups. Cada dada es comprova a la seva font original, enllaçada al final de cada peça; les opinions dels membres no s'atribueixen a ningú.</p>
     <p>Traducció automàtica amb IA de l'edició en castellà (Diario de IA Educativa), sense revisió professional.</p>
     <p>© 2026 <a href="https://bilateria.org" target="_blank" rel="noopener">Juan José de Haro</a> i <a href="https://raultorres-ia.github.io/apps/raul-torres-ai-portfolio/" target="_blank" rel="noopener">Raül Torres</a>. Textos i il·lustracions amb llicència <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</p>
-    <p>Lletra <a href="https://github.com/productiontype/Newsreader" target="_blank" rel="noopener">Newsreader</a> (Production Type, OFL). Icones <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a> (ISC).</p>
+    <p>Lletra <a href="https://github.com/productiontype/Newsreader" target="_blank" rel="noopener">Newsreader</a> (Production Type, <a href="../fuentes/OFL.txt">OFL</a>). Icones <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a> (<a href="../LICENSE-LUCIDE.txt">ISC</a>).</p>
   </div>
 </footer>
 <script>
@@ -123,7 +123,8 @@
       if(suave) zoom(true);
       function quitar(){v.remove();document.body.classList.remove('con-visor');document.removeEventListener('keydown',tecla);b.focus();}
       function fuera(){if(cerrando)return; cerrando=true; if(suave) zoom(false).onfinish=quitar; else quitar();}
-      function tecla(ev){if(ev.key==='Escape')fuera();}
+      // El visor es modal: con el tabulador, el foco se queda en su único control, la X
+      function tecla(ev){if(ev.key==='Escape')fuera(); else if(ev.key==='Tab'){ev.preventDefault();x.focus();}}
       v.addEventListener('click',function(ev){if(!g.contains(ev.target))fuera();});
       document.addEventListener('keydown',tecla);
     });

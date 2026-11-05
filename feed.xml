@@ -7,7 +7,7 @@
   <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
   <language>es</language>
   <item>
-    <title>Un miembro del grupo convierte el móvil y las gafas de realidad virtual en una cámara virtual para Blender</title>
+    <title>El administrador de EduMedia-IAG convierte el móvil y las gafas de realidad virtual en una cámara virtual para Blender</title>
     <link>https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</guid>
     <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
@@ -15,7 +15,7 @@
     <description>Raül Torres describe cómo ha hecho, con ayuda de Claude, un sistema que graba movimientos de cámara reales en Blender para guiar después a un generador de vídeo con IA.</description>
   </item>
   <item>
-    <title>Un proyecto abierto ofrece 54 lecciones interactivas en 3D de ciencias para Bachillerato, en chino</title>
+    <title>Un proyecto abierto ofrece 54 lecciones interactivas en 3D de ciencias para secundaria superior, en chino</title>
     <link>https://diarioiaeducativa.github.io/2026-11-04/tongjiang-lab-3d.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/tongjiang-lab-3d.html</guid>
     <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
@@ -100,7 +100,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/breve-1.html</guid>
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breves</category>
-    <description>En EduMedia-IAG se explicó cómo usar las skills de MotionVideo: se instala la skill en la IA, se la invoca y se le da la instrucción con los datos del vídeo que se quiere crear. Cada vídeo de ejemplo de la web lleva su prompt, como contó la pieza del 2 de noviembre.</description>
+    <description>En EduMedia-IAG se explicó cómo usar las skills de MotionVideo: se instala la skill en la IA, se la invoca y se le da la instrucción con los datos del vídeo que se quiere crear. Cada vídeo de ejemplo de la web lleva su prompt, como contó la pieza del 3 de noviembre.</description>
   </item>
   <item>
     <title>En Estados Unidos, el distrito escolar de Los Ángeles bloqueó en septiembre el acceso del alumnado a la IA…</title>

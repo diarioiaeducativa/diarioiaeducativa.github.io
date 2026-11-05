@@ -43,7 +43,7 @@
 <main class="portada hemeroteca">
 <h1 class="titulo-seccion">Hemeroteca</h1>
 <p class="vineta-sub-pagina">Todos los números, por meses.</p>
-<h2>Noviembre de 2026</h2><ul><li><a href="2026-11-04/">Jueves, 5 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;4</span><span class="abre">Un miembro del grupo convierte el móvil y las gafas de realidad virtual en una cámara virtual para Blender</span></li><li><a href="2026-11-03/">Miércoles, 4 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;3</span><span class="abre">Docentes debaten el anuncio de Google que desactiva por defecto la IA y el buscador en cuentas escolares</span></li><li><a href="2026-11-02/">Martes, 3 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;2</span><span class="abre">Un docente recomienda crear infografías en HTML y SVG antes que como imágenes generadas</span></li><li><a href="2026-11-01/">Lunes, 2 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;1</span><span class="abre">El sector editorial advierte de una «caza de brujas» por los detectores de textos con IA</span></li><li><a href="2026-10-31/">Domingo, 1 de noviembre de 2026</a><span class="abre"><span class="rep">El reportaje del domingo</span>Delegar tareas en un agente de IA obliga a decidir antes qué puede ver, recordar y hacer</span></li></ul><h2>Octubre de 2026</h2><ul><li><a href="2026-10-30/">Sábado, 31 de octubre de 2026</a><span class="abre">Eductia ofrece una IA de pago para preparar materiales docentes en Cataluña</span></li><li><a href="2026-10-29/">Viernes, 30 de octubre de 2026</a><span class="abre">EDUmind ofrece dictados en gallego y castellano con voces sintéticas de código abierto</span></li><li><a href="2026-10-28/">Jueves, 29 de octubre de 2026</a><span class="abre">Google presenta Gemini 4 Carbon, de momento solo para especialistas en ciberseguridad</span></li></ul>
+<h2>Noviembre de 2026</h2><ul><li><a href="2026-11-04/">Jueves, 5 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;4</span><span class="abre">El administrador de EduMedia-IAG convierte el móvil y las gafas de realidad virtual en una cámara virtual para Blender</span></li><li><a href="2026-11-03/">Miércoles, 4 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;3</span><span class="abre">Docentes debaten el anuncio de Google que desactiva por defecto la IA y el buscador en cuentas escolares</span></li><li><a href="2026-11-02/">Martes, 3 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;2</span><span class="abre">Un docente recomienda crear infografías en HTML y SVG antes que como imágenes generadas</span></li><li><a href="2026-11-01/">Lunes, 2 de noviembre de 2026</a> <span class="num">· Núm.&nbsp;1</span><span class="abre">El sector editorial advierte de una «caza de brujas» por los detectores de textos con IA</span></li><li><a href="2026-10-31/">Domingo, 1 de noviembre de 2026</a><span class="abre"><span class="rep">El reportaje del domingo</span>Delegar tareas en un agente de IA obliga a decidir antes qué puede ver, recordar y hacer</span></li></ul><h2>Octubre de 2026</h2><ul><li><a href="2026-10-30/">Sábado, 31 de octubre de 2026</a><span class="abre">Eductia ofrece una IA de pago para preparar materiales docentes en Cataluña</span></li><li><a href="2026-10-29/">Viernes, 30 de octubre de 2026</a><span class="abre">EDUmind ofrece dictados en gallego y castellano con voces sintéticas de código abierto</span></li><li><a href="2026-10-28/">Jueves, 29 de octubre de 2026</a><span class="abre">Google presenta Gemini 4 Carbon, de momento solo para especialistas en ciberseguridad</span></li></ul>
 </main>
 <footer class="pie">
   <div class="pie-unete">
@@ -62,7 +62,7 @@
     <p>Redactado con IA a partir de las conversaciones de los grupos. Cada dato se comprueba en su fuente original, enlazada al final de cada pieza; las opiniones de los miembros no se atribuyen a nadie.</p>
     
     <p>© 2026 <a href="https://bilateria.org" target="_blank" rel="noopener">Juan José de Haro</a> y <a href="https://raultorres-ia.github.io/apps/raul-torres-ai-portfolio/" target="_blank" rel="noopener">Raül Torres</a>. Textos e ilustraciones con licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</p>
-    <p>Letra <a href="https://github.com/productiontype/Newsreader" target="_blank" rel="noopener">Newsreader</a> (Production Type, OFL). Iconos <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a> (ISC).</p>
+    <p>Letra <a href="https://github.com/productiontype/Newsreader" target="_blank" rel="noopener">Newsreader</a> (Production Type, <a href="fuentes/OFL.txt">OFL</a>). Iconos <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a> (<a href="LICENSE-LUCIDE.txt">ISC</a>).</p>
   </div>
 </footer>
 <script>
@@ -111,7 +111,8 @@
       if(suave) zoom(true);
       function quitar(){v.remove();document.body.classList.remove('con-visor');document.removeEventListener('keydown',tecla);b.focus();}
       function fuera(){if(cerrando)return; cerrando=true; if(suave) zoom(false).onfinish=quitar; else quitar();}
-      function tecla(ev){if(ev.key==='Escape')fuera();}
+      // El visor es modal: con el tabulador, el foco se queda en su único control, la X
+      function tecla(ev){if(ev.key==='Escape')fuera(); else if(ev.key==='Tab'){ev.preventDefault();x.focus();}}
       v.addEventListener('click',function(ev){if(!g.contains(ev.target))fuera();});
       document.addEventListener('keydown',tecla);
     });

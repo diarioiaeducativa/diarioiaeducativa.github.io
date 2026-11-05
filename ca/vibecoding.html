@@ -48,7 +48,7 @@
   <div class="texto">
   <p class="seccion"><span></span> <span class="fecha-pieza">5 de novembre</span></p>
   <p class="antetitulo">Ciència en 3D</p>
-  <h2 class="titular"><a href="2026-11-04/tongjiang-lab-3d.html">Un projecte obert ofereix 54 lliçons interactives en 3D de ciències per a Batxillerat, en xinès</a></h2>
+  <h2 class="titular"><a href="2026-11-04/tongjiang-lab-3d.html">Un projecte obert ofereix 54 lliçons interactives en 3D de ciències per a secundària superior, en xinès</a></h2>
   <p class="entradilla">Tongjiang Lab reuneix lliçons de física, química, biologia i geografia en fitxers HTML que funcionen sense connexió; al grup es va assenyalar com a exemple del que es podrà fer amb IA.</p>
   </div>
 </article><article class="pieza destacada sec-vibecoding">
@@ -60,7 +60,7 @@
   <p class="entradilla">«Rompecabezas – Técnica Jigsaw» rep la llista de l&#x27;alumnat i els subtemes i reparteix els grups de manera equilibrada. S&#x27;obre al navegador i està disponible en cinc llengües.</p>
   </div>
 </article><article class="pieza destacada sec-vibecoding">
-  <figure class="ilu captura"><img src="../capturas/2026-11-04-edutictac-blocs.jpg" alt="Editor de blocs amb l&#x27;escenari i els seus controls de bandera, pausa i parada, un avís verd d&#x27;inici i els botons «Empieza con una plantilla» i «Explora la galería»." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <figure class="ilu captura"><img src="../capturas/2026-11-04-edutictac-blocs.jpg" alt="Projecte d&#x27;exemple amb el botó «Ver dentro» i l&#x27;escenari i els seus controls de bandera, pausa i parada, un avís verd d&#x27;inici i els botons «Empieza con una plantilla» i «Explora la galería»." width="1280" height="800" loading="lazy" decoding="async"></figure>
   <div class="texto">
   <p class="seccion"><span></span> <span class="fecha-pieza">5 de novembre</span></p>
   <p class="antetitulo">Nou al repositori</p>
@@ -182,7 +182,7 @@
     <p>Redactat amb IA a partir de les converses dels grups. Cada dada es comprova a la seva font original, enllaçada al final de cada peça; les opinions dels membres no s'atribueixen a ningú.</p>
     <p>Traducció automàtica amb IA de l'edició en castellà (Diario de IA Educativa), sense revisió professional.</p>
     <p>© 2026 <a href="https://bilateria.org" target="_blank" rel="noopener">Juan José de Haro</a> i <a href="https://raultorres-ia.github.io/apps/raul-torres-ai-portfolio/" target="_blank" rel="noopener">Raül Torres</a>. Textos i il·lustracions amb llicència <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</p>
-    <p>Lletra <a href="https://github.com/productiontype/Newsreader" target="_blank" rel="noopener">Newsreader</a> (Production Type, OFL). Icones <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a> (ISC).</p>
+    <p>Lletra <a href="https://github.com/productiontype/Newsreader" target="_blank" rel="noopener">Newsreader</a> (Production Type, <a href="fuentes/OFL.txt">OFL</a>). Icones <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a> (<a href="LICENSE-LUCIDE.txt">ISC</a>).</p>
   </div>
 </footer>
 <script>
@@ -231,7 +231,8 @@
       if(suave) zoom(true);
       function quitar(){v.remove();document.body.classList.remove('con-visor');document.removeEventListener('keydown',tecla);b.focus();}
       function fuera(){if(cerrando)return; cerrando=true; if(suave) zoom(false).onfinish=quitar; else quitar();}
-      function tecla(ev){if(ev.key==='Escape')fuera();}
+      // El visor es modal: con el tabulador, el foco se queda en su único control, la X
+      function tecla(ev){if(ev.key==='Escape')fuera(); else if(ev.key==='Tab'){ev.preventDefault();x.focus();}}
       v.addEventListener('click',function(ev){if(!g.contains(ev.target))fuera();});
       document.addEventListener('keydown',tecla);
     });

@@ -16,12 +16,13 @@ grupos y lo redacta. Cada dato se comprueba en su fuente original, enlazada al f
 pieza, y otra IA repasa las piezas antes de publicarlas. La edición catalana es una traducción
 automática con IA, sin revisión profesional. La idea del diario es de Raül Torres.
 
-Este repositorio guarda el sitio ya generado; se publica con GitHub Pages.
+Este repositorio guarda el sitio ya generado; se publica con GitHub Pages. El código que lo genera
+y los encargos de los agentes están en [diarioiaeducativa/periodico](https://github.com/diarioiaeducativa/periodico).
 
 ## Licencias
 
-- Textos e ilustraciones: [CC BY-SA 4.0](LICENSE). © 2026 Juan José de Haro.
+- Textos e ilustraciones: [CC BY-SA 4.0](LICENSE). © 2026 Juan José de Haro y Raül Torres.
 - Código del sitio (HTML, CSS y JavaScript): [AGPL-3.0-or-later](LICENSE-CODIGO).
 - Letra [Newsreader](https://github.com/productiontype/Newsreader), de Production Type:
   [SIL Open Font License 1.1](fuentes/OFL.txt).
-- Iconos de [Lucide](https://lucide.dev), con licencia ISC.
+- Iconos de [Lucide](https://lucide.dev): [licencia ISC](LICENSE-LUCIDE.txt).
