@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Diario de IA Educativa</title>
+  <link>https://diarioiaeducativa.github.io/gl/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/gl/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>A intelixencia artificial, contada desde tres comunidades docentes</description>
+  <language>gl</language>
+  <item>
+    <title>Gemini permite exportar cun clic as súas aplicacións interactivas a un sitio de Google Sites</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Ferramentas</category>
+    <description>Google habilitou que unha aplicación interactiva creada na app de Gemini se publique como un sitio de Google Sites. No grupo discutiuse a súa utilidade real para o profesorado.</description>
+  </item>
+  <item>
+    <title>MechSimulator reúne simuladores gratuítos de enxeñaría mecánica que se usan no navegador</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/mechsimulator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/mechsimulator.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un membro do grupo destacou esta web de simulacións 2D e 3D como exemplo do que pode lograr unha soa persoa.</description>
+  </item>
+  <item>
+    <title>Fil i compte permite preparar fichas imprimibles de problemas de matemáticas en catalán e en castelán, con solucionario</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/fil-i-compte.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/fil-i-compte.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un banco de 252 problemas permite ao profesorado de Primaria e dos primeiros cursos da ESO elixir enunciados, ordenalos e imprimir a ficha ou gardala en PDF.</description>
+  </item>
+  <item>
+    <title>Google presenta Gemini Omni 1.2 Flash, que xera e edita vídeos de ata 15 segundos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/gemini-omni-1-2-flash.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/gemini-omni-1-2-flash.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>A nova versión do modelo de vídeo de Google amplía a duración dos clips e permite refinalos en varios turnos. En EduMedia-IAG compartiuse o anuncio.</description>
+  </item>
+  <item>
+    <title>A páxina de XTEC sobre IA enlaza como documento de orientacións o de 2024, coa nota «Actualització…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/breve-1.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A páxina de XTEC sobre IA enlaza como documento de orientacións o de 2024, coa nota «Actualització prevista: des.26», e non recolle as 45 orientacións de Cataluña que o diario contou.</description>
+  </item>
+  <item>
+    <title>OpenAI presentou Images 2.6, que segundo o seu anuncio acelera a xeración de imaxes, permite crear GIF en…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/breve-2.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>OpenAI presentou Images 2.6, que segundo o seu anuncio acelera a xeración de imaxes, permite crear GIF en ChatGPT e mellora a edición. Compartiuse en EduMedia-IAG; a páxina de OpenAI non cargou e a descrición oficial lese na súa vista previa.</description>
+  </item>
+  <item>
+    <title>Raül Torres, autor da cámara virtual para Blender que o diario contou, publicou un exemplo coa súa…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/breve-3.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Raül Torres, autor da cámara virtual para Blender que o diario contou, publicou un exemplo coa súa ferramenta VirtuCam e unhas lentes Meta Quest 3: cinco planos gravados en VR serviron de referencia de cámara a Seedance 2.5. Segundo el, o modelo seguiu os cortes case fotograma a fotograma, aínda que engadiu planos non gravados.</description>
+  </item>
+  <item>
+    <title>Unha ferramenta converte o móbil e as lentes de realidade virtual nunha cámara virtual para Blender</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/camara-virtual-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/camara-virtual-blender.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Raül Torres describe como fixo, coa axuda de Claude, un sistema que grava movementos de cámara reais en Blender para guiar despois un xerador de vídeo con IA.</description>
+  </item>
+  <item>
+    <title>Un proxecto aberto ofrece 54 leccións interactivas en 3D de ciencias para bacharelato, en chinés</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/tongjiang-lab-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/tongjiang-lab-3d.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Tongjiang Lab reúne leccións de física, química, bioloxía e xeografía en ficheiros HTML que funcionan sen conexión; no grupo sinalouse como exemplo do que se poderá facer con IA.</description>
+  </item>
+  <item>
+    <title>Unha ferramenta forma ao chou os grupos base e de expertos da técnica Jigsaw</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Rompecabezas – Técnica Jigsaw» recibe a lista do alumnado e os subtemas e reparte os grupos de forma equilibrada. Ábrese no navegador e está dispoñible en cinco linguas.</description>
+  </item>
+  <item>
+    <title>Un editor de programación por bloques, baseado en TurboWarp e compatible con Scratch, para aprender a programar</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/edutictac-blocs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/edutictac-blocs.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>EduTicTac Blocs é un contorno de programación visual compatible con proxectos de Scratch e con modelos para a aula; segundo a súa web, sen publicidade nin rastreadores.</description>
+  </item>
+  <item>
+    <title>Raül Torres compartiu en EduMedia-IAG un paseo en modo videoxogo por Girona feito con Claude, con lugares…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/breve-1.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Raül Torres compartiu en EduMedia-IAG un paseo en modo videoxogo por Girona feito con Claude, con lugares tomados do mapa real e viaxe no tempo desde o Paleolítico ata 2026. Execútase desde a web e non consta ligazón pública.</description>
+  </item>
+  <item>
+    <title>Docentes debaten o anuncio de Google que desactiva por defecto a IA e o buscador nas contas escolares</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/google-ia-cuentas-escolares.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/google-ia-cuentas-escolares.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Google anunciou que Gemini e a busca con IA estarán desactivados nas contas do alumnado de primaria e secundaria ata que os administradores os activen. Nos grupos, a noticia abriu unha discusión sobre quen decide o uso da IA nun centro.</description>
+  </item>
+  <item>
+    <title>Unha actividade gamificada leva o campo gravitatorio de 2.º de Bacharelato a nove misións orbitais</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/misiones-orbitales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/misiones-orbitales.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Misiones orbitales», de El profe de la bata, propón ao alumnado crear un astronauta e resolver nove misións con simuladores interactivos. A versión de práctica funciona no navegador, sen contas.</description>
+  </item>
+  <item>
+    <title>Un comité do MIT pide redeseñar obxectivos, avaliación e comunidade presencial ante unha IA que xa resolve case calquera traballo escrito</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/mit-comite-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/mit-comite-ia.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>O comité ad hoc do Instituto Tecnolóxico de Massachusetts propón oito principios e un conxunto de recomendacións para adaptar o ensino universitario á IA xenerativa.</description>
+  </item>
+  <item>
+    <title>Un laboratorio en catalán permite practicar a formulación inorgánica con preguntas, pistas e retos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/laboratori-de-formulacio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/laboratori-de-formulacio.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Laboratori de formulació», creada por Felip Sarroca i Gil, ofrece exercicios de nomenclatura inorgánica para Secundaria e Bacharelato, con tres modos de traballo e marcador de progreso.</description>
+  </item>
+  <item>
+    <title>FoQo xera tests de formulación orgánica e dá o nome dunha estrutura debuxada</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/foqo-formulacion-quimica-organica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/foqo-formulacion-quimica-organica.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A aplicación de FiQuiPedia permite practicar a nomenclatura de química orgánica con tests configurables e unha ferramenta que pasa da fórmula ao nome.</description>
+  </item>
+  <item>
+    <title>Un profesor de Xeografía crea con Gemini un contador de nacementos e mortes no mundo</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/pulso-demografico.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/pulso-demografico.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Pulso Demográfico Mundial en Tiempo Real», de Ricardo Chao Prieto, simula ao ritmo real os nacementos e as defuncións de cada país a partir das proxeccións de poboación da ONU para 2026.</description>
+  </item>
+  <item>
+    <title>En EduMedia-IAG explicouse como usar as skills de MotionVideo: instálase a skill na IA, invócase e dáselle…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/breve-1.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>En EduMedia-IAG explicouse como usar as skills de MotionVideo: instálase a skill na IA, invócase e dáselle a instrución cos datos do vídeo que se quere crear. Cada vídeo de exemplo da web leva o seu prompt, como contou a peza do 3 de novembro.</description>
+  </item>
+  <item>
+    <title>Nos Estados Unidos, o distrito escolar de Los Ángeles bloqueou en setembro o acceso do alumnado á IA…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/breve-2.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Nos Estados Unidos, o distrito escolar de Los Ángeles bloqueou en setembro o acceso do alumnado á IA xenerativa nos seus dispositivos, e a FCC revisa as axudas E-Rate á conexión das escolas en plena polémica polo tempo de pantalla. No grupo compartíronse como contexto do anuncio de Google.</description>
+  </item>
+  <item>
+    <title>Un docente recomenda crear infografías en HTML e SVG antes que como imaxes xeradas</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/infografias-svg-html.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/infografias-svg-html.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Un membro de Vibe Coding Educativo defende que, para ilustrar conceptos, convén que a IA xere formas SVG e iconas nunha páxina HTML e que as imaxes xeradas queden para cando sexan pedagoxicamente necesarias.</description>
+  </item>
+  <item>
+    <title>O MIT publica un informe que pide replantear ensino e avaliación ante a IA</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Novidades oficiais</category>
+    <description>O comité creado polo MIT para estudar o uso da IA en docencia, aprendizaxe e formación en investigación recomenda procesos educativos adaptados á IA e revisar avaliacións e normas.</description>
+  </item>
+  <item>
+    <title>O profesorado como deseñador do ensino centra o debate sobre a IA na aula</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Tras unha xornada sobre IA e educación, plantéxase se o docente deixa de ser fonte de información e como evitar que o alumnado delegue o seu razoamento.</description>
+  </item>
+  <item>
+    <title>Dar acceso total a un axente de consola esixe protexer os datos do alumnado</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/agentes-consola-acceso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/agentes-consola-acceso.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un docente con experiencia explicou que pode facer un axente de IA con control completo dun equipo e que información convén manter fóra do seu alcance.</description>
+  </item>
+  <item>
+    <title>Un informe para a UNESCO propón substituír «A que idade?» por «Para que e con que evidencia?» ao usar a IA na aula</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/unesco-edad-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/unesco-edad-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Sonia Livingstone e tres coautoras sosteñen que non hai unha idade correcta única para usar a IA na educación e piden decidir segundo o desenvolvemento infantil e obxectivos educativos claros.</description>
+  </item>
+  <item>
+    <title>O Foro Económico Mundial fixa sete prácticas para que a IA sexa segura para a infancia sen pecharlle o acceso á aprendizaxe</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/wef-infancia-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/wef-infancia-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Un documento de setembro de 2026 da Global Coalition for Digital Safety toma o benestar infantil, e non só a ausencia de incidentes, como obxectivo, e propón prácticas para quen deseña IA e incentivos para que se cumpran.</description>
+  </item>
+  <item>
+    <title>Cataluña fixa en 45 orientacións que usos da IA promover e cales limitar nos centros educativos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/cat-orientacions-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/cat-orientacions-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>O Departament d’Educació i Formació Professional publica en setembro de 2026 unha guía que desaconsella o uso autónomo de IA xeral por menores de 14 anos, a cualificación con IA e os detectores de texto xerado.</description>
+  </item>
+  <item>
+    <title>Cataluña ofrece criterios para decidir cando unha tecnoloxía achega valor en primaria e ESO, e sitúa a IA en 4.º</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/cat-tecnologies-educatives.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/cat-tecnologies-educatives.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>A guía do Departament d’Educació sitúa a tecnoloxía ao servizo da aprendizaxe con táboas de decisión, progresión por ciclos, benestar dixital e criterios de selección de recursos.</description>
+  </item>
+  <item>
+    <title>Unha web reúne vídeos de motion graphics cos seus prompts e skills para axentes</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/motionvideo-skills.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/motionvideo-skills.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>MotionVideo ofrece vídeos feitos con IA acompañados do prompt, e skills que ensinan a un axente de programación a facer deseño en movemento.</description>
+  </item>
+  <item>
+    <title>A web do novo libro de Ethan Mollick inclúe un «cursor con IA» que acompaña a lectura e pode desactivarse.</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/breve-1.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A web do novo libro de Ethan Mollick inclúe un «cursor con IA» que acompaña a lectura e pode desactivarse. No grupo valorouse como idea para a divulgación.</description>
+  </item>
+  <item>
+    <title>O sector editorial advirte dunha «caza de bruxas» polos detectores de textos con IA</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Unha reportaxe de La Vanguardia recolle acusacións de uso de IA baseadas en detectores que se contradín co paso do tempo. O debate chega á educación: como comprobar a autoría sen perseguir.</description>
+  </item>
+  <item>
+    <title>Unha escola de Cataluña comparte unha aplicación para a autoavaliación do alumnado e a valoración docente</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«La teva veu», creada por Felip Sarroca para a Escola Ramon Pont, xera informes en PDF para familias e profesorado.</description>
+  </item>
+  <item>
+    <title>Unha publicación orienta as familias cando a IA fai os deberes</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Chema Falcó propón unha proba sinxela e unha regra común para distinguir usar a IA para aprender de delegarlle a aprendizaxe.</description>
+  </item>
+  <item>
+    <title>O cliente de acceso compartido de rclone a Google Drive deixará de funcionar en 2026, segundo a súa…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/breve-1.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>O cliente de acceso compartido de rclone a Google Drive deixará de funcionar en 2026, segundo a súa documentación. Crear un propio, que ademais evita o límite de consultas compartido, considérase xa obrigatorio.</description>
+  </item>
+  <item>
+    <title>A UVic-UCC coorganizou en Lleida unha xornada sobre integridade na actividade docente e a IA.</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/breve-2.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A UVic-UCC coorganizou en Lleida unha xornada sobre integridade na actividade docente e a IA. A noticia da universidade non recolle conclusións concretas.</description>
+  </item>
+  <item>
+    <title>Delegar tarefas nun axente de IA obriga a decidir antes que pode ver, lembrar e facer</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A reportaxe do domingo</category>
+    <description>Os asistentes de intelixencia artificial xa non se limitan a responder: abren cartafoles, len o correo e actúan en nome de quen os usa. A Axencia Española de Protección de Datos acaba de publicar un decálogo para delegar sen perder o control. Este reportaxe explica que cambia, que din as empresas e as administracións e que pode configurar un docente antes de conceder permisos a un axente.</description>
+  </item>
+  <item>
+    <title>Unha serie web de terror feita con IA documenta paso a paso o seu fluxo de traballo</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/webserie-never-sleep-again.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/webserie-never-sleep-again.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>«Never Sleep Again», sete episodios publicados entre o 25 e o 31 de outubro, explica na súa web como combina Blender, Claude, un xerador de vídeo e DaVinci Resolve.</description>
+  </item>
+  <item>
+    <title>Un laboratorio interactivo guía o alumnado de 2.º de Bacharelato polo potencial gravitatorio</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/mapa-potencial-gravitatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/mapa-potencial-gravitatorio.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A aplicación «Mapa de potencial gravitatorio», compartida polo profesor Antonio González, inclúe unha guía didáctica de nove pasos e calcula o traballo entre dous puntos.</description>
+  </item>
+  <item>
+    <title>Unha actividade interactiva ensina a escribir os símbolos do teclado español</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/teclado-espanol.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/teclado-espanol.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A práctica, compartida por Toni Magraner, adestra símbolos, acentos e atallos cun modo de proba e outro de adestramento.</description>
+  </item>
+  <item>
+    <title>Sincronizar cartafoles non é facer copia de seguranza, lembrou un fío sobre Syncthing.</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/breve-1.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Sincronizar cartafoles non é facer copia de seguranza, lembrou un fío sobre Syncthing. INCIBE recomenda a regra 3-2-1: tres copias, en dous soportes distintos e unha delas fóra da casa.</description>
+  </item>
+  <item>
+    <title>Eductia ofrece unha IA de pago para preparar materiais docentes en Cataluña</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Ferramentas</category>
+    <description>O servizo xera situacións de aprendizaxe, actividades e instrumentos de avaliación aliñados coa normativa catalá, e suscita a dúbida de que achega fronte a unha IA de uso xeral.</description>
+  </item>
+  <item>
+    <title>A Comisión Europea actualiza DigCompEdu para incorporar a IA e o benestar dixital</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Novidades oficiais</category>
+    <description>O marco europeo de competencia dixital do profesorado está en revisión, con versión final prevista para a primavera de 2027 e consultas ao profesorado.</description>
+  </item>
+  <item>
+    <title>Docentes comparan como manter as mesmas skills e proxectos en varios ordenadores</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-30/skills-sincronizar.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Quen programa con asistentes de IA en varios equipos describe tres enfoques: repositorio Git, sincronización continua e un cartafol compartido na nube.</description>
+  </item>
+  <item>
+    <title>No grupo distinguiuse o vibe coding, crear recursos dixitais con IA e linguaxe natural, da IA axéntica,…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-30/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-30/breve-1.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>No grupo distinguiuse o vibe coding, crear recursos dixitais con IA e linguaxe natural, da IA axéntica, que persegue obxectivos de forma autónoma. É unha explicación de uso corrente, non unha definición oficial.</description>
+  </item>
+  <item>
+    <title>EDUmind ofrece ditados en galego e castelán con voces sintéticas de código aberto</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-29/dictados-voz-gallego.html</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Unha aplicación web gratuíta, creada por Luis Vilela Acuña, reúne ditados en galego e castelán para sexto de primaria, con voces sintéticas de licenza aberta.</description>
+  </item>
+  <item>
+    <title>Google presenta Gemini 4 Carbon, polo momento só para especialistas en ciberseguridade</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Novidades oficiais</category>
+    <description>Google DeepMind anunciou o seu novo modelo de fronteira, que por agora só usa un grupo reducido de profesionais da defensa informática. Non hai data para o público xeral.</description>
+  </item>
+  <item>
+    <title>Plec xera ditados despregables en catalán, con audio, para que o alumnado se autocorrixa</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/plec-dictados.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/plec-dictados.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Unha aplicación aberta crea listas de palabras ou pseudopalabras para ditar na aula, que se imprimen nun folio dobrado para que o alumnado corrixa as súas propias respostas.</description>
+  </item>
+  <item>
+    <title>Un prompt para crear leccións 3D interactivas inspiradas en «Every Joule»</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/everyjoule-prompt.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/everyjoule-prompt.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un membro dos grupos compartiu un prompt extenso para que unha IA xere unha lección interactiva en 3D co estilo dun libro de física sobre enerxía.</description>
+  </item>
+  <item>
+    <title>A AEPD publicou o 27 de outubro un decálogo para quen usa asistentes e axentes de IA.</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/breve-1.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A AEPD publicou o 27 de outubro un decálogo para quen usa asistentes e axentes de IA. Recomenda que o axente prepare e a persoa aprobe, cos permisos xustos e confirmación antes de enviar, compartir ou pagar.</description>
+  </item>
+  <item>
+    <title>A documentación de GitHub indica que o profesorado verificado en GitHub Education pode acceder gratis a…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/breve-2.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A documentación de GitHub indica que o profesorado verificado en GitHub Education pode acceder gratis a Copilot Pro, e que a elixibilidade se reavalía cada mes.</description>
+  </item>
+</channel>
+</rss>

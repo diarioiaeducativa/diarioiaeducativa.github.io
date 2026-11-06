@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Educational AI Daily</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <item>
+    <title>Gemini lets users export their interactive apps to a Google Sites site with one click</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>Google has made it possible to publish an interactive app created in the Gemini app as a Google Sites site. The group discussed how useful it really is for teachers.</description>
+  </item>
+  <item>
+    <title>MechSimulator brings together free mechanical engineering simulators that run in the browser</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/mechsimulator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/mechsimulator.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A group member highlighted this website of 2D and 3D simulations as an example of what one person can achieve.</description>
+  </item>
+  <item>
+    <title>Fil i compte lets teachers prepare printable maths problem sheets in Catalan and Spanish, with an answer key</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/fil-i-compte.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/fil-i-compte.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A bank of 252 problems lets primary and lower secondary teachers pick problems, put them in order and print the worksheet or save it as a PDF.</description>
+  </item>
+  <item>
+    <title>Google unveils Gemini Omni 1.2 Flash, which generates and edits videos of up to 15 seconds</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/gemini-omni-1-2-flash.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/gemini-omni-1-2-flash.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>The new version of Google’s video model extends clip length and allows clips to be refined over several turns. The announcement was shared in EduMedia-IAG.</description>
+  </item>
+  <item>
+    <title>The XTEC page on AI links to the 2024 document as its guidance, with the note “Actualització prevista:…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/breve-1.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>The XTEC page on AI links to the 2024 document as its guidance, with the note “Actualització prevista: des.26” (update expected: December 2026), and does not include the 45 guidelines from Catalonia that the paper reported.</description>
+  </item>
+  <item>
+    <title>OpenAI unveiled Images 2.6, which, according to its announcement, speeds up image generation, allows GIFs…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/breve-2.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>OpenAI unveiled Images 2.6, which, according to its announcement, speeds up image generation, allows GIFs to be created in ChatGPT and improves editing. It was shared in EduMedia-IAG; OpenAI’s page would not load, so the official description was read from its preview.</description>
+  </item>
+  <item>
+    <title>Raül Torres, author of the virtual camera for Blender that the paper reported, posted an example made with…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/breve-3.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Raül Torres, author of the virtual camera for Blender that the paper reported, posted an example made with his VirtuCam tool and a Meta Quest 3 headset: five shots recorded in VR served as the camera reference for Seedance 2.5. According to him, the model followed the cuts almost frame by frame, although it added shots that were never recorded.</description>
+  </item>
+  <item>
+    <title>A tool turns a mobile phone and VR headset into a virtual camera for Blender</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-04/camara-virtual-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/camara-virtual-blender.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Raül Torres describes how, with help from Claude, he built a system that records real camera movements in Blender to then guide an AI video generator.</description>
+  </item>
+  <item>
+    <title>An open project offers 54 interactive 3D science lessons for upper secondary school, in Chinese</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-04/tongjiang-lab-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/tongjiang-lab-3d.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Tongjiang Lab brings together physics, chemistry, biology and geography lessons in HTML files that work offline; in the group it was pointed to as an example of what will be possible with AI.</description>
+  </item>
+  <item>
+    <title>A tool randomly forms the home and expert groups for the Jigsaw technique</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“Rompecabezas – Técnica Jigsaw” takes a list of students and subtopics and splits them into balanced groups. It opens in the browser and is available in five languages.</description>
+  </item>
+  <item>
+    <title>A block-based programming editor, built on TurboWarp and compatible with Scratch, for learning to code</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-04/edutictac-blocs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/edutictac-blocs.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>EduTicTac Blocs is a visual programming environment compatible with Scratch projects and with classroom templates; according to its website, it has no advertising or trackers.</description>
+  </item>
+  <item>
+    <title>Raül Torres shared in EduMedia-IAG a video-game-style walk through Girona made with Claude, with places…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-04/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/breve-1.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Raül Torres shared in EduMedia-IAG a video-game-style walk through Girona made with Claude, with places taken from the real map and time travel from the Palaeolithic to 2026. It runs from the web and no public link is available.</description>
+  </item>
+  <item>
+    <title>Teachers debate Google’s announcement that switches off AI and search by default in school accounts</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/google-ia-cuentas-escolares.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/google-ia-cuentas-escolares.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Google has announced that Gemini and AI-powered search will be switched off in primary and secondary school student accounts until administrators turn them on. In the groups, the news sparked a discussion about who decides how AI is used in a school.</description>
+  </item>
+  <item>
+    <title>A gamified activity takes the gravitational field in Year 13 Physics to nine orbital missions</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/misiones-orbitales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/misiones-orbitales.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“Misiones orbitales”, by El profe de la bata, asks students to create an astronaut and complete nine missions using interactive simulators. The practice version runs in the browser, with no accounts.</description>
+  </item>
+  <item>
+    <title>An MIT committee calls for rethinking aims, assessment and the in-person community in the face of an AI that can already do almost any written work</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The ad hoc committee of the Massachusetts Institute of Technology proposes eight principles and a set of recommendations for adapting university teaching to generative AI.</description>
+  </item>
+  <item>
+    <title>A Catalan-language lab lets students practise inorganic formulation with questions, hints and challenges</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/laboratori-de-formulacio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/laboratori-de-formulacio.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“Laboratori de formulació”, created by Felip Sarroca i Gil, offers inorganic nomenclature exercises for Secondary and Upper Secondary students, with three working modes and a progress counter.</description>
+  </item>
+  <item>
+    <title>FoQo generates organic formulation tests and gives the name of a drawn structure</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/foqo-formulacion-quimica-organica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/foqo-formulacion-quimica-organica.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>FiQuiPedia’s app lets users practise organic chemistry nomenclature with configurable tests and a tool that goes from formula to name.</description>
+  </item>
+  <item>
+    <title>A Geography teacher uses Gemini to build a counter of births and deaths around the world</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“Pulso Demográfico Mundial en Tiempo Real”, by Ricardo Chao Prieto, simulates in real time the births and deaths in each country, based on the UN’s population projections for 2026.</description>
+  </item>
+  <item>
+    <title>In EduMedia-IAG, members explained how to use MotionVideo’s skills: you install the skill in the AI,…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/breve-1.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>In EduMedia-IAG, members explained how to use MotionVideo’s skills: you install the skill in the AI, invoke it and give it the instruction with the details of the video you want to create. Each example video on the site comes with its prompt, as the piece of 3 November reported.</description>
+  </item>
+  <item>
+    <title>In the United States, the Los Angeles school district blocked students’ access to generative AI on their…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>In the United States, the Los Angeles school district blocked students’ access to generative AI on their devices in September, and the FCC is reviewing E-Rate subsidies for school internet connections amid the row over screen time. They were shared in the group as context for Google’s announcement.</description>
+  </item>
+  <item>
+    <title>A teacher recommends building infographics in HTML and SVG rather than as generated images</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/infografias-svg-html.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/infografias-svg-html.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>A member of Vibe Coding Educativo argues that, to illustrate concepts, AI should generate SVG shapes and icons in an HTML page, with generated images kept for when they are pedagogically necessary.</description>
+  </item>
+  <item>
+    <title>MIT report calls for rethinking teaching and assessment in the age of AI</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Official news</category>
+    <description>The committee set up by MIT to study the use of AI in teaching, learning and research training recommends AI-aware educational processes and a review of assessments and policies.</description>
+  </item>
+  <item>
+    <title>Teachers as designers of learning are at the heart of the debate on AI in the classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>After a conference on AI and education, members ask whether teachers stop being a source of information and how to prevent students from delegating their reasoning.</description>
+  </item>
+  <item>
+    <title>Giving a command-line agent full access means protecting students’ data</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>An experienced teacher explained what an AI agent with full control of a computer can do and what information should be kept out of its reach.</description>
+  </item>
+  <item>
+    <title>A report for UNESCO proposes replacing “at what age?” with “for what purpose and on what evidence?” when using AI in the classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>Sonia Livingstone and three co-authors argue that there is no single right age for using AI in education and call for decisions based on child development and clear educational aims.</description>
+  </item>
+  <item>
+    <title>The World Economic Forum sets out seven practices to make AI safe for children without shutting them out of learning</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>A September 2026 document from the Global Coalition for Digital Safety takes children’s well-being, and not merely the absence of incidents, as its goal, and proposes practices for those who design AI and incentives to ensure they are followed.</description>
+  </item>
+  <item>
+    <title>Catalonia sets out 45 guidelines on which uses of AI to promote and which to limit in schools</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The Department of Education and Vocational Training publishes a guide in September 2026 that advises against autonomous use of general-purpose AI by under-14s, grading with AI and AI-text detectors.</description>
+  </item>
+  <item>
+    <title>Catalonia offers criteria for deciding when a technology adds value in primary and ESO, and places AI in the fourth year</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The Department of Education’s guide puts technology at the service of learning, with decision tables, progression by cycle, digital well-being and criteria for selecting resources.</description>
+  </item>
+  <item>
+    <title>A website gathers motion-graphics videos with their prompts and skills for agents</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/motionvideo-skills.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/motionvideo-skills.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>MotionVideo offers AI-made videos accompanied by their prompts, and skills that teach a coding agent how to do motion design.</description>
+  </item>
+  <item>
+    <title>The website for Ethan Mollick’s new book includes an “AI cursor” that accompanies the reading and can be…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/breve-1.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>The website for Ethan Mollick’s new book includes an “AI cursor” that accompanies the reading and can be switched off. Members rated it as an idea for popularising the subject.</description>
+  </item>
+  <item>
+    <title>Publishing industry warns of a “witch hunt” over AI text detectors</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>A La Vanguardia report describes accusations of AI use based on detectors whose verdicts contradict themselves over time. The debate reaches education: how to check authorship without hunting for culprits.</description>
+  </item>
+  <item>
+    <title>A Catalan school shares an app for student self-assessment and teacher feedback</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/la-teva-veu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/la-teva-veu.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“La teva veu” (“Your voice”), created by Felip Sarroca for Escola Ramon Pont, generates PDF reports for families and teaching staff.</description>
+  </item>
+  <item>
+    <title>A publication offers guidance to families when AI does the homework</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Chema Falcó proposes a simple test and a shared rule for telling apart using AI to learn from handing the learning over to it.</description>
+  </item>
+  <item>
+    <title>rclone’s shared Google Drive access client will stop working in 2026, according to its documentation.</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/breve-1.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>rclone’s shared Google Drive access client will stop working in 2026, according to its documentation. Creating your own, which also avoids the shared query limit, is now considered essential.</description>
+  </item>
+  <item>
+    <title>UVic-UCC co-organised a conference in Lleida on integrity in teaching and AI.</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/breve-2.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>UVic-UCC co-organised a conference in Lleida on integrity in teaching and AI. The university’s news item gives no specific conclusions.</description>
+  </item>
+  <item>
+    <title>Handing tasks to an AI agent means deciding first what it can see, remember and do</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>The Sunday feature</category>
+    <description>Artificial intelligence assistants no longer just answer questions: they open folders, read email and act on behalf of the people who use them. Spain’s data protection authority has just published a ten-point guide to delegating without losing control. This report explains what changes, what companies and administrations say, and what a teacher can configure before granting an agent any permissions.</description>
+  </item>
+  <item>
+    <title>An AI-made horror web series documents its workflow step by step</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-31/webserie-never-sleep-again.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/webserie-never-sleep-again.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>“Never Sleep Again”, seven episodes released between 25 and 31 October, explains on its website how it combines Blender, Claude, a video generator and DaVinci Resolve.</description>
+  </item>
+  <item>
+    <title>An interactive lab guides Year 13 students through gravitational potential</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-31/mapa-potencial-gravitatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/mapa-potencial-gravitatorio.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The app “Mapa de potencial gravitatorio”, shared by teacher Antonio González, includes a nine-step teaching guide and calculates the work done between two points.</description>
+  </item>
+  <item>
+    <title>An interactive activity teaches how to type the symbols on the Spanish keyboard</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-31/teclado-espanol.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/teclado-espanol.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The exercise, shared by Toni Magraner, trains symbols, accents and shortcuts with a test mode and a training mode.</description>
+  </item>
+  <item>
+    <title>Syncing folders is not the same as backing up, a thread about Syncthing reminded members.</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-31/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/breve-1.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Syncing folders is not the same as backing up, a thread about Syncthing reminded members. INCIBE recommends the 3-2-1 rule: three copies, on two different media, with one of them off-site.</description>
+  </item>
+  <item>
+    <title>Eductia offers a paid AI tool for preparing teaching materials in Catalonia</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>The service generates learning situations, activities and assessment instruments aligned with Catalan regulations, and raises the question of what it offers over a general-purpose AI.</description>
+  </item>
+  <item>
+    <title>European Commission updates DigCompEdu to include AI and digital wellbeing</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Official news</category>
+    <description>The European framework for teachers&#x27; digital competence is under revision, with a final version expected in spring 2027 and consultations with teachers.</description>
+  </item>
+  <item>
+    <title>Teachers compare ways to keep the same skills and projects across several computers</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/skills-sincronizar.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>People who code with AI assistants on several machines describe three approaches: a Git repository, continuous synchronisation and a shared cloud folder.</description>
+  </item>
+  <item>
+    <title>The group distinguished vibe coding, creating digital resources with AI and natural language, from agentic…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/breve-1.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>The group distinguished vibe coding, creating digital resources with AI and natural language, from agentic AI, which pursues goals autonomously. It is an everyday explanation, not an official definition.</description>
+  </item>
+  <item>
+    <title>EDUmind offers Galician and Spanish dictations with open-source synthetic voices</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-29/dictados-voz-gallego.html</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A free web app created by Luis Vilela Acuña gathers dictations in Galician and Spanish for the final year of primary school, with openly licensed synthetic voices.</description>
+  </item>
+  <item>
+    <title>Google unveils Gemini 4 Carbon, for now only for cybersecurity specialists</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Official news</category>
+    <description>Google DeepMind has announced its new frontier model, which for now is used only by a small group of cyber-defence professionals. There is no date for the general public.</description>
+  </item>
+  <item>
+    <title>Plec generates foldable Catalan dictations, with audio, so that students can mark their own work</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/plec-dictados.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/plec-dictados.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>An open app creates lists of words or pseudowords to dictate in class, printed on a folded sheet so that students can check their own answers.</description>
+  </item>
+  <item>
+    <title>A prompt for creating interactive 3D lessons inspired by “Every Joule”</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/everyjoule-prompt.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/everyjoule-prompt.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A member of the groups shared a long prompt for an AI to generate an interactive 3D lesson in the style of a physics book about energy.</description>
+  </item>
+  <item>
+    <title>On 27 October the AEPD (Spain’s data protection authority) published a ten-point guide for people who use…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/breve-1.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>On 27 October the AEPD (Spain’s data protection authority) published a ten-point guide for people who use AI assistants and agents. It recommends that the agent prepares and the person approves, with minimal permissions and confirmation before sending, sharing or paying.</description>
+  </item>
+  <item>
+    <title>GitHub’s documentation states that teachers verified on GitHub Education can access Copilot Pro for free,…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/breve-2.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>GitHub’s documentation states that teachers verified on GitHub Education can access Copilot Pro for free, and that eligibility is reassessed every month.</description>
+  </item>
+</channel>
+</rss>

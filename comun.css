@@ -134,7 +134,7 @@ img, svg { max-width: 100%; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 @media print {
   :root, :root[data-theme="dark"] { --papel: #fff; --papel-2: #fff; --tinta: #000; --tinta-2: #333; --filete: #999; --azul: #000; --rojo: #000; }
-  .tema, .lupa, .ico-video, .navegacion, .pie-unete { display: none !important; }
+  .tema, .lupa, .ico-video, .idiomas, .navegacion, .pie-unete { display: none !important; }
 }
 
 /* Viñeta: Tiza y Algoritmo. La tiza es blanca en los dos temas; el cursor, azul. */
@@ -146,6 +146,8 @@ img, svg { max-width: 100%; }
 .vineta .t, .vineta .a { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
 .vineta .t { stroke: var(--tinta); }
 .vineta .a { stroke: var(--azul); }
+/* El brazo de Algoritmo lleva debajo un borde del color del papel, para que se vea sobre su cuerpo azul */
+.vineta .a-borde { fill: none; stroke: var(--papel); stroke-width: 7; stroke-linecap: round; stroke-linejoin: round; }
 .vineta .fino { stroke-width: 1.6; }
 .vineta .discontinuo { stroke-dasharray: 4 5; stroke-width: 2; }
 .vineta .fa { fill: var(--ilu-relleno); }
@@ -167,10 +169,26 @@ img, svg { max-width: 100%; }
 .vineta .tira { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.8rem; }
 @media (max-width: 40rem) { .vineta .tira { grid-template-columns: 1fr; max-width: 26rem; margin-inline: auto; } }
 
-/* Controles de la cabecera: la otra edición (como en un periódico) y el tema */
+/* Controles de la cabecera: vídeos, buscador, idioma y tema */
 .controles { display: inline-flex; align-items: center; gap: 0.9rem; justify-self: end; }
-.edicion { color: var(--tinta-2); text-decoration: none; white-space: nowrap; display: inline-flex; align-items: center; min-height: 2.5rem; padding: 0 0.3rem; }
-.edicion:hover { color: var(--tinta); text-decoration: underline; text-underline-offset: 0.2em; }
+/* Selector de idioma (ADR 0026): el botón dice el idioma en uso y despliega los cinco, cada uno en su lengua */
+.idiomas { position: relative; display: inline-flex; }
+.idioma-boton {
+  appearance: none; border: 1px solid transparent; background: transparent; color: var(--tinta-2); cursor: pointer;
+  height: 2.5rem; padding: 0 0.45rem; border-radius: 0.4rem; display: inline-flex; align-items: center; gap: 0.3rem;
+  font: inherit; font-size: 0.9rem; letter-spacing: 0.04em;
+}
+.idioma-boton svg { width: 1.2rem; height: 1.2rem; }
+.idioma-boton:hover, .idioma-boton[aria-expanded="true"] { color: var(--tinta); background: var(--papel-2); }
+.idioma-menu {
+  position: absolute; right: 0; top: calc(100% + 0.3rem); z-index: 20; margin: 0; padding: 0.3rem 0; list-style: none;
+  min-width: 10rem; background: var(--papel); border: 1px solid var(--filete); border-radius: 0.5rem; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.idioma-menu[hidden] { display: none; }
+.idioma-menu a { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 2.5rem; padding: 0 0.9rem; color: var(--tinta); text-decoration: none; }
+.idioma-menu a:hover, .idioma-menu a:focus-visible { background: var(--papel-2); }
+.idioma-menu a[aria-current] { color: var(--azul); }
+.idioma-menu a[aria-current]::after { content: ""; width: 0.8rem; height: 0.4rem; border-left: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: translateY(-0.15rem) rotate(-45deg); }
 
 /* Un color por sección, como los periódicos que distinguen sus secciones por color.
    Paleta de material escolar: bolígrafo azul (Herramientas), pizarra verde (Vibe coding),
@@ -231,14 +249,18 @@ img, svg { max-width: 100%; }
 .vineta .nota { fill: var(--m-vineta); stroke: var(--tinta-2); stroke-width: 1.2; }
 .vineta .ventana { fill: var(--t-herramientas); stroke: var(--tinta-2); stroke-width: 1.8; }
 .vineta .luna { fill: var(--m-vineta); stroke: none; }
+.vineta .lomo-a { fill: var(--m-biblioteca); stroke: var(--tinta-2); stroke-width: 1.2; }
+.vineta .lomo-b { fill: var(--m-debates); stroke: var(--tinta-2); stroke-width: 1.2; }
+.vineta .lomo-c { fill: var(--m-novedades); stroke: var(--tinta-2); stroke-width: 1.2; }
+.vineta .pantalla { fill: var(--t-herramientas); stroke: var(--tinta-2); stroke-width: 2.2; }
+.vineta .cuadro { fill: var(--papel); stroke: var(--tinta-2); stroke-width: 1.2; }
+.vineta .apagada { fill: var(--tinta-2); stroke: var(--tinta-2); stroke-width: 1.2; opacity: 0.55; }
 .vineta .fr { fill: var(--rojo); }
 .vineta .r { fill: none; stroke: var(--rojo); stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
 .vineta .rubor { fill: none; stroke: var(--rojo); stroke-width: 1.8; stroke-linecap: round; opacity: 0.75; }
 /* Con la lupa, los tres controles de la cabecera no caben en 360 px con la separación normal */
-.edicion .corto { display: none; }
 @media (max-width: 26rem) {
-  .controles { gap: 0.25rem; } .tema, .lupa, .ico-video { width: 2.2rem; height: 2.3rem; } .edicion { min-height: 2.3rem; }
-  .edicion .largo { display: none; } .edicion .corto { display: inline; }   /* en el móvil, solo el nombre de la lengua */
+  .controles { gap: 0.25rem; } .tema, .lupa, .ico-video { width: 2.2rem; height: 2.3rem; } .idioma-boton { height: 2.3rem; padding: 0 0.3rem; gap: 0.2rem; }
 }
 /* Con el icono de vídeos, en los móviles más estrechos (320 px) el «Año I» deja sitio a los controles */
 @media (max-width: 21.5rem) { .edicion-num .anyo { display: none; } }

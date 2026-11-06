@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Hezkuntzako AA Egunkaria</title>
+  <link>https://diarioiaeducativa.github.io/eu/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/eu/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Adimen artifiziala, hiru irakasle-komunitatetatik kontatua</description>
+  <language>eu</language>
+  <item>
+    <title>Geminik klik batekin esportatzen uzten du bere aplikazio interaktiboak Google Sites gune batera</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Googlek ahalbidetu du Gemini aplikazioan sortutako aplikazio interaktibo bat Google Sites gune gisa argitaratzea. Taldean, irakasleentzat zenbateko erabilgarritasun erreala duen eztabaidatu zen.</description>
+  </item>
+  <item>
+    <title>MechSimulator-ek nabigatzailean erabiltzen diren ingeniaritza mekanikoko simulatzaile doakoak biltzen ditu</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/mechsimulator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/mechsimulator.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Taldeko kide batek 2Dko eta 3Dko simulazioen web hau nabarmendu zuen, pertsona bakar batek lor dezakeenaren adibide gisa.</description>
+  </item>
+  <item>
+    <title>Fil i compte tresnarekin, matematika-problemen fitxa inprimagarriak prestatu daitezke katalanez eta gaztelaniaz, soluzioekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/fil-i-compte.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/fil-i-compte.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>252 problemako banku batek aukera ematen die Lehen Hezkuntzako eta DBHko lehen mailetako irakasleei enuntziatuak aukeratzeko, ordenatzeko eta fitxa inprimatzeko edo PDF gisa gordetzeko.</description>
+  </item>
+  <item>
+    <title>Googlek Gemini Omni 1.2 Flash aurkeztu du, 15 segundora arteko bideoak sortu eta editatzen dituena</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/gemini-omni-1-2-flash.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/gemini-omni-1-2-flash.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Googleren bideo-ereduaren bertsio berriak klipen iraupena luzatzen du eta txandaka fintzeko aukera ematen du. EduMedia-IAG taldean iragarpena partekatu zen.</description>
+  </item>
+  <item>
+    <title>XTECen AAri buruzko orriak orientazio-dokumentu gisa 2024koa lotzen du, «Actualització prevista: des.26»…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/breve-1.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>XTECen AAri buruzko orriak orientazio-dokumentu gisa 2024koa lotzen du, «Actualització prevista: des.26» oharrarekin, eta ez ditu jasotzen egunkariak kontatu zituen Kataluniako 45 orientazioak.</description>
+  </item>
+  <item>
+    <title>OpenAIk Images 2.6 aurkeztu zuen; bere iragarpenaren arabera, irudien sorkuntza bizkortzen du, ChatGPTn…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/breve-2.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>OpenAIk Images 2.6 aurkeztu zuen; bere iragarpenaren arabera, irudien sorkuntza bizkortzen du, ChatGPTn GIFak sortzeko aukera ematen du eta edizioa hobetzen du. EduMedia-IAG taldean partekatu zen; OpenAIren orria ez zen kargatu eta deskribapen ofiziala aurrebistan irakurri zen.</description>
+  </item>
+  <item>
+    <title>Raül Torresek, egunkariak kontatu zuen Blenderrerako kamera birtualaren egileak, adibide bat argitaratu…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/breve-3.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Raül Torresek, egunkariak kontatu zuen Blenderrerako kamera birtualaren egileak, adibide bat argitaratu zuen bere VirtuCam tresnarekin eta Meta Quest 3 betaurrekoekin: VRn grabatutako bost planok kamera-erreferentzia gisa balio izan zioten Seedance 2.5ri. Haren arabera, ereduak mozketak ia fotograma-fotograma jarraitu zituen, nahiz eta grabatu gabeko planoak gehitu zituen.</description>
+  </item>
+  <item>
+    <title>Tresna batek mugikorra eta errealitate birtualeko betaurrekoak Blenderrerako kamera birtual bihurtzen ditu</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-04/camara-virtual-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-04/camara-virtual-blender.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Raül Torresek azaldu du Clauderen laguntzaz sistema bat egin duela Blenderren benetako kamera-mugimenduak grabatzeko eta, ondoren, AAren bideo-sortzaile bat gidatzeko.</description>
+  </item>
+  <item>
+    <title>Proiektu ireki batek 3D zientzia-ikasgai interaktiboak eskaintzen ditu, 54, batxilergorako, txineraz</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-04/tongjiang-lab-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-04/tongjiang-lab-3d.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Tongjiang Labek fisika, kimika, biologia eta geografiako ikasgaiak biltzen ditu konexiorik gabe funtzionatzen duten HTML fitxategietan; taldean, AArekin egin ahalko denaren adibide gisa aipatu zen.</description>
+  </item>
+  <item>
+    <title>Tresna batek ausaz osatzen ditu Jigsaw teknikaren oinarri-taldeak eta aditu-taldeak</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Rompecabezas – Técnica Jigsaw» tresnak ikasleen zerrenda eta azpigaiak jasotzen ditu, eta taldeak modu orekatuan banatzen ditu. Nabigatzailean irekitzen da eta bost hizkuntzatan dago eskuragarri.</description>
+  </item>
+  <item>
+    <title>TurboWarp-en oinarritutako eta Scratch-ekin bateragarria den bloke bidezko programazio-editore bat, programatzen ikasteko</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-04/edutictac-blocs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-04/edutictac-blocs.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>EduTicTac Blocs Scratch proiektuekin eta ikasgelarako txantiloiekin bateragarria den programazio bisualeko ingurune bat da; bere webgunearen arabera, publizitaterik eta aztarnaririk gabea.</description>
+  </item>
+  <item>
+    <title>Raül Torresek EduMedia-IAG taldean Gironan zehar videojokoaren moduko ibilbide bat partekatu zuen,…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-04/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-04/breve-1.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Raül Torresek EduMedia-IAG taldean Gironan zehar videojokoaren moduko ibilbide bat partekatu zuen, Clauderekin egina, benetako mapatik hartutako lekuekin eta Paleolitotik 2026ra bitarteko denboran bidaiatzeko aukerarekin. Webetik exekutatzen da eta ez dago esteka publikorik.</description>
+  </item>
+  <item>
+    <title>Irakasleek eztabaidatzen dute Googlek ikastetxeetako kontuetan AA eta bilatzailea lehenespenez desaktibatzeko egindako iragarpena</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/google-ia-cuentas-escolares.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/google-ia-cuentas-escolares.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>Googlek iragarri du Gemini eta AAdun bilaketa desaktibatuta egongo direla lehen eta bigarren hezkuntzako ikasleen kontuetan, administratzaileek aktibatu arte. Taldeetan, albisteak eztabaida ireki zuen ikastetxe batean nork erabakitzen duen AAren erabilera.</description>
+  </item>
+  <item>
+    <title>Jarduera gamifikatu batek Batxilergoko 2. mailako eremu grabitatorioa bederatzi misio orbitaletara eramaten du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/misiones-orbitales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/misiones-orbitales.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El profe de la bata-ren «Misiones orbitales» jarduerak ikasleei astronauta bat sortzea eta bederatzi misio ebaztea proposatzen die, simulagailu interaktiboekin. Praktika-bertsioak nabigatzailean funtzionatzen du, konturik gabe.</description>
+  </item>
+  <item>
+    <title>MITeko batzorde batek helburuak, ebaluazioa eta presentziazko komunitatea birdiseinatzea eskatzen du, AAk idatzizko ia edozein lan ebazten duen honetan</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/mit-comite-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/mit-comite-ia.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Liburutegia</category>
+    <description>Massachusetts Institute of Technology-ko ad hoc batzordeak zortzi printzipio eta hainbat gomendio proposatzen ditu unibertsitate-irakaskuntza AA sortzailera egokitzeko.</description>
+  </item>
+  <item>
+    <title>Katalanezko laborategi batek formulazio ez-organikoa praktikatzeko aukera ematen du, galderekin, aztarnekin eta erronkekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/laboratori-de-formulacio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/laboratori-de-formulacio.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gilek sortutako «Laboratori de formulació» tresnak nomenklatura ez-organikoko ariketak eskaintzen ditu Derrigorrezko Bigarren Hezkuntzarako eta Batxilergorako, hiru lan-modurekin eta aurrerapen-markagailuarekin.</description>
+  </item>
+  <item>
+    <title>FoQok formulazio organikoko testak sortzen ditu eta marraztutako egitura baten izena ematen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/foqo-formulacion-quimica-organica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/foqo-formulacion-quimica-organica.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>FiQuiPediaren aplikazioak kimika organikoaren nomenklatura praktikatzeko aukera ematen du, test konfiguragarriekin eta formulatik izenera pasatzen den tresna batekin.</description>
+  </item>
+  <item>
+    <title>Geografia irakasle batek Geminirekin munduko jaiotza eta heriotzen kontagailu bat sortu du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/pulso-demografico.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/pulso-demografico.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Ricardo Chao Prietoren «Pulso Demográfico Mundial en Tiempo Real» aplikazioak, benetako erritmoan, herrialde bakoitzeko jaiotzak eta heriotzak simulatzen ditu, NBEk 2026rako egindako biztanleria-proiekzioetan oinarrituta.</description>
+  </item>
+  <item>
+    <title>EduMedia-IAG taldean MotionVideoren skill-ak nola erabili azaldu zen: skill-a AAn instalatzen da, deitu…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/breve-1.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>EduMedia-IAG taldean MotionVideoren skill-ak nola erabili azaldu zen: skill-a AAn instalatzen da, deitu egiten zaio eta sortu nahi den bideoaren datuekin ematen zaio jarraibidea. Webeko adibide-bideo bakoitzak bere prompt-a dauka, azaroaren 3ko piezak kontatu zuen bezala.</description>
+  </item>
+  <item>
+    <title>Estatu Batuetan, Los Angelesko eskola-barrutiak irailean blokeatu zuen ikasleek AA sortzailea beren…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/breve-2.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Estatu Batuetan, Los Angelesko eskola-barrutiak irailean blokeatu zuen ikasleek AA sortzailea beren gailuetan erabiltzeko aukera, eta FCCk E-Rate laguntzak berrikusten ditu, eskolen konexiorako, pantaila-denborari buruzko polemikaren erdian. Taldean Googleren iragarpenaren testuinguru gisa partekatu ziren.</description>
+  </item>
+  <item>
+    <title>Irakasle batek infografiak HTMLn eta SVGn sortzea gomendatzen du, irudi sortuen ordez</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/infografias-svg-html.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/infografias-svg-html.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Vibe Coding Educativo taldeko kide batek defendatzen du kontzeptuak ilustratzeko komeni dela AAk SVG formak eta ikonoak sor ditzala HTML orri batean, eta sortutako irudiak pedagogikoki beharrezkoak direnerako uztea.</description>
+  </item>
+  <item>
+    <title>MITek txosten bat argitaratu du, AAren aurrean irakaskuntza eta ebaluazioa birplanteatzeko eskatzen duena</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Berri ofizialak</category>
+    <description>MITek irakaskuntzan, ikaskuntzan eta ikerketa-prestakuntzan AAren erabilera aztertzeko sortutako batzordeak AAra egokitutako hezkuntza-prozesuak gomendatzen ditu, eta ebaluazioak eta arauak berrikustea.</description>
+  </item>
+  <item>
+    <title>Irakasleak irakaskuntzaren diseinatzaile gisa, gelako AAren inguruko eztabaidaren muinean</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>AA eta hezkuntzari buruzko jardunaldi baten ostean, galdetzen da irakaslea informazio-iturri izateari uzten ote dion eta nola saihestu ikasleek beren arrazoibidea delegatzea.</description>
+  </item>
+  <item>
+    <title>Kontsola-agente bati sarbide osoa emateak ikasleen datuak babestea eskatzen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/agentes-consola-acceso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/agentes-consola-acceso.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Esperientzia duen irakasle batek azaldu zuen zer egin dezakeen AA agente batek ekipo baten kontrol osoarekin eta zer informazio komeni den bere eskumenetik kanpo uztea.</description>
+  </item>
+  <item>
+    <title>UNESCOrentzako txosten batek proposatzen du gelan AA erabiltzean «zer adinetan?» galderaren ordez «zertarako eta zer ebidentziarekin?» galdetzea</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/unesco-edad-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/unesco-edad-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Liburutegia</category>
+    <description>Sonia Livingstonek eta hiru egilekidek diote ez dagoela hezkuntzan AA erabiltzeko adin zuzen bakarrik, eta haurren garapenaren eta helburu hezitzaile argien arabera erabakitzeko eskatzen dute.</description>
+  </item>
+  <item>
+    <title>Munduko Ekonomia Foroak zazpi praktika finkatzen ditu AA haurrentzat segurua izan dadin, ikaskuntzarako sarbidea itxi gabe</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/wef-infancia-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/wef-infancia-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Liburutegia</category>
+    <description>Global Coalition for Digital Safety erakundearen 2026ko irailaren dokumentu batek haurren ongizatea hartzen du helburutzat, eta ez soilik gorabeherarik eza, eta AA diseinatzen dutenentzako praktikak eta betetzeko pizgarriak proposatzen ditu.</description>
+  </item>
+  <item>
+    <title>Kataluniak 45 orientaziotan finkatzen du ikastetxeetan AAren zer erabilera sustatu eta zeintzuk mugatu</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/cat-orientacions-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/cat-orientacions-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Liburutegia</category>
+    <description>Departament d’Educació i Formació Professional-ek 2026ko irailean gida bat argitaratu du, 14 urtetik beherakoek AA orokorra modu autonomoan erabiltzea, AAz kalifikatzea eta sortutako testuaren detektagailuak desaholkatzen dituena.</description>
+  </item>
+  <item>
+    <title>Kataluniak irizpideak ematen ditu teknologiak noiz ematen duen balioa erabakitzeko lehen hezkuntzan eta DBHn, eta AA 4. mailan kokatzen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/cat-tecnologies-educatives.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/cat-tecnologies-educatives.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Liburutegia</category>
+    <description>Departament d’Educació-ren gidak teknologia ikaskuntzaren zerbitzuan jartzen du, erabaki-taulekin, zikloz zikloko progresioarekin, ongizate digitalarekin eta baliabideak hautatzeko irizpideekin.</description>
+  </item>
+  <item>
+    <title>Web batek motion graphics bideoak biltzen ditu, bere prompt-ekin eta agenteentzako skill-ekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/motionvideo-skills.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/motionvideo-skills.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>MotionVideo-k AArekin egindako bideoak eskaintzen ditu, promptarekin batera, eta programazio-agente bati mugimenduzko diseinua egiten irakasten dioten skill-ak.</description>
+  </item>
+  <item>
+    <title>Ethan Mollick-en liburu berriaren webguneak «AAdun kurtsore» bat dauka, irakurketa laguntzen duena eta…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/breve-1.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Ethan Mollick-en liburu berriaren webguneak «AAdun kurtsore» bat dauka, irakurketa laguntzen duena eta desaktiba daitekeena. Taldean dibulgaziorako ideia gisa baloratu zen.</description>
+  </item>
+  <item>
+    <title>Argitaletxe-sektoreak «sorginen ehiza» baten aurka ohartarazi du, AAz idatzitako testuen detektagailuengatik</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>La Vanguardia egunkariko erreportaje batek AA erabiltzeaz egindako salaketak jasotzen ditu, denborarekin elkarren aurka doazen detektagailuetan oinarrituak. Eztabaida hezkuntzara iritsi da: nola egiaztatu egiletza jazarri gabe.</description>
+  </item>
+  <item>
+    <title>Kataluniako eskola batek ikasleen autoebaluaziorako eta irakasleen balorazioa egiteko aplikazio bat partekatu du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/la-teva-veu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/la-teva-veu.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarrocak Escola Ramon Pontentzat sortutako «La teva veu» aplikazioak PDF txostenak sortzen ditu familientzat eta irakasleentzat.</description>
+  </item>
+  <item>
+    <title>Argitalpen batek familiak gidatzen ditu AAk etxeko lanak egiten dituenean</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>Chema Falcók proba sinple bat eta arau komun bat proposatzen ditu, ikasteko AA erabiltzea eta ikaskuntza hari delegatzea bereizteko.</description>
+  </item>
+  <item>
+    <title>rclone-k Google Drive-rako erabiltzen duen sarbide partekatuko bezeroak funtzionatzeari utziko dio 2026an,…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/breve-1.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>rclone-k Google Drive-rako erabiltzen duen sarbide partekatuko bezeroak funtzionatzeari utziko dio 2026an, bere dokumentazioaren arabera. Berezko bat sortzea, partekatutako kontsulta-muga ere saihesten duena, derrigorrezkotzat jotzen da jada.</description>
+  </item>
+  <item>
+    <title>UVic-UCC unibertsitateak Lleidan antolatu zuen, beste erakunde batzuekin batera, irakaskuntza-jardueraren…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/breve-2.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>UVic-UCC unibertsitateak Lleidan antolatu zuen, beste erakunde batzuekin batera, irakaskuntza-jardueraren osotasunari eta AAri buruzko jardunaldi bat. Unibertsitatearen albisteak ez ditu ondorio zehatzik jasotzen.</description>
+  </item>
+  <item>
+    <title>Zeregin bat AA agente bati eskuordetzeko, lehenago erabaki behar da zer ikus, zer gogoratu eta zer egin dezakeen</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Igandeko erreportajea</category>
+    <description>Adimen artifizialeko laguntzaileak ez dira jada erantzutera mugatzen: karpetak irekitzen dituzte, posta irakurtzen dute eta erabiltzaileen izenean jarduten dute. Datuak Babesteko Espainiako Agentziak dekalogo bat argitaratu berri du, kontrola galdu gabe eskuordetzeko. Erreportaje honek azaltzen du zer aldatzen den, zer diote enpresek eta administrazioek eta zer konfigura dezakeen irakasle batek agente bati baimenak eman aurretik.</description>
+  </item>
+  <item>
+    <title>AArekin egindako beldurrezko webserie batek bere lan-fluxua urratsez urrats azaltzen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/webserie-never-sleep-again.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/webserie-never-sleep-again.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>«Never Sleep Again» serieak, urriaren 25etik 31ra argitaratutako zazpi atalekin, bere webgunean azaltzen du nola uztartzen dituen Blender, Claude, bideo-sortzaile bat eta DaVinci Resolve.</description>
+  </item>
+  <item>
+    <title>Laborategi interaktibo batek potentzial grabitatorioa erakusten die Batxilergoko 2. mailako ikasleei</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/mapa-potencial-gravitatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/mapa-potencial-gravitatorio.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Antonio González irakasleak partekatutako «Mapa de potencial gravitatorio» aplikazioak bederatzi urratseko gida didaktikoa dauka eta bi punturen arteko lana kalkulatzen du.</description>
+  </item>
+  <item>
+    <title>Jarduera interaktibo batek gaztelaniazko teklatuko ikurrak idazten irakasten du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/teclado-espanol.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/teclado-espanol.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Toni Magranerrek partekatutako praktikak ikurrak, azentuak eta lasterbideak lantzen ditu, proba-modu batekin eta entrenamendu-modu batekin.</description>
+  </item>
+  <item>
+    <title>Karpetak sinkronizatzea ez da segurtasun-kopia egitea, gogorarazi zuen Syncthing-i buruzko hari batek.</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/breve-1.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Karpetak sinkronizatzea ez da segurtasun-kopia egitea, gogorarazi zuen Syncthing-i buruzko hari batek. INCIBEk 3-2-1 araua gomendatzen du: hiru kopia, bi euskarri desberdinetan eta horietako bat etxetik kanpo.</description>
+  </item>
+  <item>
+    <title>Eductia-k ordainpeko AA eskaintzen du Katalunian irakasleek materialak prestatzeko</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Zerbitzuak Kataluniako araudiarekin bat datozen ikaskuntza-egoerak, jarduerak eta ebaluazio-tresnak sortzen ditu, eta zalantza pizten du: zer eskaintzen du helburu orokorreko AA batek ez duena?</description>
+  </item>
+  <item>
+    <title>Europako Batzordeak DigCompEdu eguneratu du, AA eta ongizate digitala txertatzeko</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Berri ofizialak</category>
+    <description>Irakasleen gaitasun digitalaren Europako esparrua berrikusten ari dira; azken bertsioa 2027ko udaberrirako espero da, eta irakasleei kontsultak egingo zaizkie.</description>
+  </item>
+  <item>
+    <title>Irakasleek konparatzen dute nola eduki skill eta proiektu berberak hainbat ordenagailutan</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/skills-sincronizar.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>AA laguntzaileekin hainbat ekipotan programatzen dutenek hiru ikuspegi deskribatzen dituzte: Git biltegia, etengabeko sinkronizazioa eta hodeiko karpeta partekatua.</description>
+  </item>
+  <item>
+    <title>Taldean bereizi zen vibe coding-a, hau da, baliabide digitalak AArekin eta hizkuntza naturalean sortzea,…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/breve-1.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Taldean bereizi zen vibe coding-a, hau da, baliabide digitalak AArekin eta hizkuntza naturalean sortzea, eta AA agentikoa, helburuak modu autonomoan lortzen dituena. Erabilera arruntean emandako azalpena da, ez definizio ofiziala.</description>
+  </item>
+  <item>
+    <title>EDUmind-ek diktaketak eskaintzen ditu galizieraz eta gaztelaniaz, kode irekiko ahots sintetikoekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-29/dictados-voz-gallego.html</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Vilela Acuñak sortutako web aplikazio doakoak galizierazko eta gaztelaniazko diktaketak biltzen ditu lehen hezkuntzako seigarren mailarako, lizentzia irekiko ahots sintetikoekin.</description>
+  </item>
+  <item>
+    <title>Googlek Gemini 4 Carbon aurkeztu du, oraingoz zibersegurtasuneko adituentzat bakarrik</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Berri ofizialak</category>
+    <description>Google DeepMindek bere muga-eredu berria iragarri du, eta oraingoz defentsa informatikoko profesional talde txiki batek bakarrik erabiltzen du. Publiko orokorrarentzat ez dago daturik.</description>
+  </item>
+  <item>
+    <title>Plecek katalanezko dikatu tolesgarriak sortzen ditu, audioarekin, ikasleek beren burua zuzen dezaten</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/plec-dictados.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/plec-dictados.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Aplikazio ireki batek ikasgelan dikta daitezkeen hitz- edo pseudohitz-zerrendak sortzen ditu, orri tolestu batean inprimatzeko, ikasleek beren erantzunak zuzen ditzaten.</description>
+  </item>
+  <item>
+    <title>«Every Joule»-n inspiratutako 3D ikasgai interaktiboak sortzeko prompt bat</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/everyjoule-prompt.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/everyjoule-prompt.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Taldeetako kide batek prompt luze bat partekatu du, AA batek energiari buruzko fisika-liburu baten estiloko 3D ikasgai interaktiboa sor dezan.</description>
+  </item>
+  <item>
+    <title>AEPDk urriaren 27an dekalogo bat argitaratu zuen AAren laguntzaileak eta agenteak erabiltzen dituztenentzat.</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/breve-1.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>AEPDk urriaren 27an dekalogo bat argitaratu zuen AAren laguntzaileak eta agenteak erabiltzen dituztenentzat. Agenteak prestatzea eta pertsonak onartzea gomendatzen du, baimen zehatzekin eta bidali, partekatu edo ordaindu aurretik berrespenarekin.</description>
+  </item>
+  <item>
+    <title>GitHubeko dokumentazioaren arabera, GitHub Educationen egiaztatutako irakasleek doan erabil dezakete…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/breve-2.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>GitHubeko dokumentazioaren arabera, GitHub Educationen egiaztatutako irakasleek doan erabil dezakete Copilot Pro, eta egokitasuna hilero berrebaluatzen da.</description>
+  </item>
+</channel>
+</rss>

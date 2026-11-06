@@ -1,0 +1,33 @@
+{
+  "id": "/eu/",
+  "start_url": "/eu/",
+  "scope": "/eu/",
+  "name": "Hezkuntzako AA Egunkaria",
+  "short_name": "AA Egunkaria",
+  "description": "Adimen artifiziala, hiru irakasle-komunitatetatik kontatua",
+  "lang": "eu",
+  "dir": "ltr",
+  "display": "standalone",
+  "background_color": "#16181d",
+  "theme_color": "#16181d",
+  "icons": [
+    {
+      "src": "/icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icono-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
