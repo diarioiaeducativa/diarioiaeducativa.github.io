@@ -161,6 +161,7 @@ img, svg { max-width: 100%; }
 .vineta .t { stroke: var(--tinta); }
 .vineta .a { stroke: var(--azul); }
 /* El brazo de Algoritmo lleva debajo un borde del color del papel, para que se vea sobre su cuerpo azul */
+/* Bajo el brazo que cruza el cuerpo de un personaje (Algoritmo y Tiza): un borde del color del papel */
 .vineta .a-borde { fill: none; stroke: var(--papel); stroke-width: 7; stroke-linecap: round; stroke-linejoin: round; }
 .vineta .fino { stroke-width: 1.6; }
 .vineta .discontinuo { stroke-dasharray: 4 5; stroke-width: 2; }
