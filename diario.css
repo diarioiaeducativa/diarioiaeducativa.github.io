@@ -160,6 +160,10 @@
 .pie p { margin: 0 0 0.6rem; }
 .pie ul { margin: 0; padding-left: 1.1rem; }
 .pie-grupos li { margin-bottom: 0.35rem; }
+/* El emblema de las comunidades: los tres círculos y el total de personas, que lleva a «La redacción» */
+.pie-comunidades a { display: inline-flex; align-items: center; gap: 0.6rem; }
+.pie-comunidades .emblema { width: 2.4rem; height: auto; flex: none; }
+.pie-comunidades .venn { stroke-width: 2.5; fill-opacity: .22; }
 .pie-grupo-desc { color: var(--tinta-2); }
 .pie [aria-current] { font-weight: 600; text-decoration: none; color: var(--tinta); }
 /* Instalar como app (ADR 0013): un botón con aspecto de enlace, como los de al lado */
@@ -199,6 +203,10 @@
 .que-es h2 { font-size: 1.5rem; margin: 2rem 0 0.5rem; }
 .que-es h2:first-child { margin-top: 0; }
 .que-es p { line-height: 1.7; }
+/* «Las comunidades»: el diagrama, como figura de periódico a la derecha del texto; en el móvil, debajo del título */
+.que-es .ilu.comunidades { float: right; width: 380px; margin: 0.3rem 0 1rem 1.5rem; }
+.que-es .presentacion, .que-es .volver { clear: both; }
+@media (max-width: 640px) { .que-es .ilu.comunidades { float: none; width: 100%; margin: 0.5rem 0 1rem; } }
 
 /* La viñeta, a todo el ancho entre las destacadas y el resto */
 .vineta { margin-top: 1.8rem; padding-top: 1.1rem; border-top: 3px solid var(--tinta); }

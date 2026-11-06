@@ -79,6 +79,20 @@ img, svg { max-width: 100%; }
 .ilu .ft { fill: var(--ilu-tinta); stroke: none; }
 .ilu .fz { fill: var(--ilu-azul); stroke: none; }
 .ilu .lbl { fill: var(--ilu-tinta); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px; }
+/* «Las comunidades» (La redacción): un círculo por grupo con el color de su sección; los cruces se oscurecen solos */
+.venn { stroke-width: 3; fill-opacity: .16; }
+.venn-chatgpt { stroke: var(--c-herramientas); fill: var(--c-herramientas); }
+.venn-vce { stroke: var(--c-comunidad); fill: var(--c-comunidad); }
+.venn-edumedia { stroke: var(--c-multimedia); fill: var(--c-multimedia); }
+.ilu .num { fill: var(--ilu-tinta); font-family: 'Newsreader', Georgia, serif; font-size: 34px; font-weight: 600; }
+.ilu .num-tres { font-size: 38px; font-weight: 700; }
+.ilu.comunidades .lbl { font-size: 28px; }
+/* El nombre de cada grupo, en su color: contraste de 5,1:1 a 10:1 sobre el fondo, en tema claro y oscuro */
+.ilu .nom-chatgpt { fill: var(--c-herramientas); }
+.ilu .nom-vce { fill: var(--c-comunidad); }
+.ilu .nom-edumedia { fill: var(--c-multimedia); }
+.ilu .total { fill: var(--ilu-tinta); font-family: 'Newsreader', Georgia, serif; font-size: 60px; font-weight: 700; }
+.ilu.comunidades figcaption { font-size: .8rem; line-height: 1.45; text-align: center; margin-top: .5em; opacity: .85; }
 /* Iconos de Lucide dentro de un dibujo (ADR 0014): ampliados ×2, ×3 o ×4, con el trazo del resto (2,5) */
 .ilu g.li2 { stroke-width: 1.25; }
 .ilu g.li3 { stroke-width: 0.8333; }
