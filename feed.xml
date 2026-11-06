@@ -7,6 +7,62 @@
   <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
   <language>es</language>
   <item>
+    <title>Gemini permite exportar con un clic sus aplicaciones interactivas a un sitio de Google Sites</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Google ha habilitado que una aplicación interactiva creada en la app de Gemini se publique como un sitio de Google Sites. En el grupo se discutió su utilidad real para el profesorado.</description>
+  </item>
+  <item>
+    <title>MechSimulator reúne simuladores gratuitos de ingeniería mecánica que se usan en el navegador</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/mechsimulator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/mechsimulator.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un miembro del grupo destacó esta web de simulaciones 2D y 3D como ejemplo de lo que puede lograr una sola persona.</description>
+  </item>
+  <item>
+    <title>Fil i compte permite preparar fichas imprimibles de problemas de matemáticas en catalán, con solucionario</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/fil-i-compte.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/fil-i-compte.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un banco de 252 problemas permite al profesorado de primaria y de los primeros cursos de ESO elegir enunciados, ordenarlos e imprimir la ficha o guardarla en PDF.</description>
+  </item>
+  <item>
+    <title>Google presenta Gemini Omni 1.2 Flash, que genera y edita vídeos de hasta 15 segundos</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-omni-1-2-flash.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-omni-1-2-flash.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>La nueva versión del modelo de vídeo de Google amplía la duración de los clips y permite refinarlos en varios turnos. En EduMedia-IAG se compartió el anuncio.</description>
+  </item>
+  <item>
+    <title>La página de XTEC sobre IA enlaza como documento de orientaciones el de 2024, con la nota «Actualització…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/breve-1.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>La página de XTEC sobre IA enlaza como documento de orientaciones el de 2024, con la nota «Actualització prevista: des.26», y no recoge las 45 orientaciones de Cataluña que el diario contó.</description>
+  </item>
+  <item>
+    <title>OpenAI presentó Images 2.6, que según su anuncio acelera la generación de imágenes, permite crear GIF en…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/breve-2.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>OpenAI presentó Images 2.6, que según su anuncio acelera la generación de imágenes, permite crear GIF en ChatGPT y mejora la edición. Se compartió en EduMedia-IAG; la página de OpenAI no cargó y la descripción oficial se leyó en su vista previa.</description>
+  </item>
+  <item>
+    <title>Raül Torres, autor de la cámara virtual para Blender que el diario contó, publicó un ejemplo con su…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/breve-3.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Raül Torres, autor de la cámara virtual para Blender que el diario contó, publicó un ejemplo con su herramienta VirtuCam y unas gafas Meta Quest 3: cinco planos grabados en VR sirvieron de referencia de cámara a Seedance 2.5. Según él, el modelo siguió los cortes casi cuadro a cuadro, aunque añadió planos no grabados.</description>
+  </item>
+  <item>
     <title>El administrador de EduMedia-IAG convierte el móvil y las gafas de realidad virtual en una cámara virtual para Blender</title>
     <link>https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</guid>
