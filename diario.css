@@ -55,6 +55,7 @@
 .seccion { display: flex; justify-content: space-between; gap: 1rem; margin: 0 0 0.2rem; color: var(--azul); font-size: 0.9rem; font-weight: 600; letter-spacing: 0.01em; }
 .fecha-pieza { color: var(--tinta-2); font-weight: 400; font-style: italic; white-space: nowrap; }
 .antetitulo { margin: 0; font-style: italic; color: var(--tinta-2); }
+.antetitulo a { color: inherit; text-decoration: underline; text-decoration-color: var(--sec, var(--filete)); text-underline-offset: 0.15em; }
 .titular { margin: 0.15rem 0 0.5rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.01em; text-wrap: balance; hyphens: manual; }
 .titular a { color: var(--tinta); text-decoration: none; }
 .titular a:hover { text-decoration: underline; text-decoration-thickness: 2px; }
@@ -92,6 +93,9 @@
 .articulo { max-width: 44rem; padding-top: 2rem; }
 .articulo .titular { font-size: clamp(2rem, 5vw, 2.9rem); font-variation-settings: "opsz" 60; margin-top: 0.3rem; }
 .articulo .entradilla { font-size: 1.3rem; line-height: 1.45; margin-bottom: 1.4rem; color: var(--tinta-2); }
+/* La línea fija de una serie (La semana del repositorio): qué es, con la franja de la sección */
+.articulo .serie { margin: -0.4rem 0 1.4rem; padding: 0.2rem 0 0.2rem 0.8rem; border-left: 3px solid var(--sec, var(--tinta)); font-size: 0.98rem; line-height: 1.5; color: var(--tinta-2); }
+.articulo .serie a { color: var(--tinta); }
 .articulo .ilu { margin: 0 0 1.6rem; background: var(--papel-2); padding: 1rem; }
 .cuerpo p { margin: 0 0 1rem; line-height: 1.7; }
 .cuerpo p.capitular::first-letter {
