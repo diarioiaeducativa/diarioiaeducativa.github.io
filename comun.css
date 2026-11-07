@@ -207,7 +207,7 @@ img, svg { max-width: 100%; }
 
 /* Un color por sección, como los periódicos que distinguen sus secciones por color.
    Paleta de material escolar: bolígrafo azul (Herramientas), pizarra verde (Vibe coding),
-   rotulador fucsia (Multimedia), lápiz naranja (Debates), rotulador morado (Novedades) y
+   rotulador fucsia (Multimedia), lápiz naranja (Debates), rotulador morado (Instituciones y empresas) y
    subrayador amarillo (la viñeta). El rojo queda para las marcas de corrección. */
 :root {
   --c-herramientas: #1c3faa; --t-herramientas: #e6ebf8; --m-herramientas: #c9d4f2;
