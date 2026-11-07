@@ -1,14 +1,16 @@
 # Aviso por Telegram de cada comentario nuevo del diario (ADR 0030 del repositorio diarioiaeducativa/periodico):
 # a Juanjo de Haro y a Raül Torres, el mismo mensaje por el Bot de IA Educativa. A nadie se le avisa de lo suyo.
 # Vive solo en este repositorio: la publicación diaria no toca .github/ (rsync --exclude .github).
-# El texto del comentario no pasa nunca por la shell: el programa lo lee del evento.
+# El programa, en .github/avisar-comentario.py; el texto del comentario no pasa nunca por la shell.
 name: Aviso de comentario
 
 on:
   discussion_comment:
     types: [created]
 
-permissions: {}
+permissions:
+  contents: read
+  discussions: read   # para pedir a GitHub el comentario ya convertido a HTML
 
 jobs:
   avisar:
@@ -16,62 +18,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github
       - name: Avisar por Telegram
         env:
+          GITHUB_TOKEN: ${{ github.token }}
           BOT_IAEDUCATIVA_TOKEN: ${{ secrets.BOT_IAEDUCATIVA_TOKEN }}
           JUANJO_CHAT: ${{ secrets.JUANJO_CHAT }}
           RAUL_CHAT: ${{ secrets.RAUL_CHAT }}
-        run: |
-          cat > /tmp/avisar.py <<'PY'
-          import html, json, os, re, sys, urllib.parse, urllib.request
-
-          ev = json.load(open(os.environ["GITHUB_EVENT_PATH"], encoding="utf-8"))
-          c, d = ev["comment"], ev["discussion"]
-          autor = c["user"]["login"]
-          WEB = "https://diarioiaeducativa.github.io/"
-          termino = d["title"].strip()   # giscus titula cada hilo con la ruta de la pieza: AAAA-MM-DD/id
-          pieza = WEB + termino + ".html" if re.fullmatch(r"\d{4}-\d{2}-\d{2}/[\w-]+", termino) else WEB
-          titulo = termino
-          try:   # el titular, de la propia página
-              pagina = urllib.request.urlopen(pieza, timeout=20).read().decode("utf-8")
-              m = re.search(r"<title>(.*?) \| ", pagina)
-              if m:
-                  titulo = html.unescape(m.group(1))
-          except Exception:
-              pass
-          texto = c["body"].strip()
-          tipo = "Respuesta nueva" if c.get("parent_id") else "Comentario nuevo"
-          # El comentario entero. Si no cabe en un mensaje (Telegram admite 4.096 caracteres), en varios,
-          # partido por párrafos o líneas; la cabecera en el primero y los enlaces en el último.
-          trozos, resto = [], texto
-          while len(resto) > 3000:
-              corte = max(resto.rfind("\n\n", 0, 3000), resto.rfind("\n", 0, 3000), resto.rfind(" ", 0, 3000))
-              corte = corte if corte > 1000 else 3000
-              trozos.append(resto[:corte].rstrip())
-              resto = resto[corte:].lstrip()
-          trozos.append(resto)
-          cabecera = f"<b>Diario de IA Educativa</b>\n\n<b>{tipo}</b> de {html.escape(autor)} en «{html.escape(titulo)}»:\n\n"
-          enlaces = f'\n\n<a href="{pieza}#t-comentarios">Ver en el diario</a> · <a href="{c["html_url"]}">Ver en GitHub</a>'
-          mensajes = [html.escape(x) for x in trozos]
-          mensajes[0] = cabecera + mensajes[0]
-          mensajes[-1] += enlaces
-          tok = os.environ["BOT_IAEDUCATIVA_TOKEN"]
-          destinos = [("JUANJO_CHAT", "jjdeharo"), ("RAUL_CHAT", "raultorres-ia")]   # (chat, su cuenta de GitHub)
-          fallos = []
-          for chat, cuenta in destinos:
-              if autor.lower() == cuenta or not os.environ.get(chat):
-                  continue
-              for mensaje in mensajes:
-                  datos = urllib.parse.urlencode({"chat_id": os.environ[chat], "text": mensaje,
-                                                  "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
-                  try:
-                      r = json.load(urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/sendMessage", datos, timeout=30))
-                      if not r.get("ok"):
-                          fallos.append(f"{chat}: {r}")
-                          break
-                  except Exception as e:
-                      fallos.append(f"{chat}: {e}")
-                      break
-          sys.exit("Telegram no aceptó: " + "; ".join(fallos) if fallos else 0)
-          PY
-          python3 /tmp/avisar.py
+        run: python3 .github/avisar-comentario.py
