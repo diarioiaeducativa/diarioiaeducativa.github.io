@@ -7,6 +7,54 @@
   <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
   <language>es</language>
   <item>
+    <title>Docentes debaten si hace falta la autorización de las familias para usar IA con el alumnado</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/autorizacion-familias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/autorizacion-familias-ia.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Un centro tiene limitada la IA generativa con el alumnado porque algunas familias no la autorizaron; otras posturas sostienen que basta con informar. La normativa lo aclara: hay que informar a las familias, pero entre los 14 y los 18 años no hace falta su consentimiento, salvo que la herramienta lo exija.</description>
+  </item>
+  <item>
+    <title>Un docente sustituye la sirena del centro por un timbre musical que se gestiona desde una hoja de cálculo</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/timbre-musical-escolar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/timbre-musical-escolar.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>David Cordones cuenta que, con ayuda de IA generativa, montó con una Raspberry Pi un timbre escolar que el claustro cambia desde Google Sheets.</description>
+  </item>
+  <item>
+    <title>Una subasta de frases, una guía de vibe coding responsable, química, música y libros ilustrados, nuevos en el repositorio</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Repositorio de recursos de Vibe Coding Educativo suma seis recursos: dos de Juanjo de Haro, uno de Felip Sarroca, uno de FiQuiPedia y dos de Samuel Soriano.</description>
+  </item>
+  <item>
+    <title>Anthropic prohíbe en su política de uso el maltrato sostenido y gratuito a sus modelos</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Novedades oficiales</category>
+    <description>La actualización, publicada el 8 de octubre de 2026, entra en vigor el 12 de noviembre y se aplicará solo en casos extremos.</description>
+  </item>
+  <item>
+    <title>EDUmind MiClase, un cuaderno del profesorado de código abierto, guarda los datos en el dispositivo y sincroniza sin servidor propio</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/edumind-miclase-sincronizacion.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/edumind-miclase-sincronizacion.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Su autor detalló en el grupo cómo sincroniza dos dispositivos y qué funciones dice haber añadido para evaluar según la LOMLOE.</description>
+  </item>
+  <item>
+    <title>Google Flow cobra en créditos por segundo los vídeos de Gemini Omni 1.2 Flash</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/omni-1-2-flash-creditos-flow.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/omni-1-2-flash-creditos-flow.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>La ayuda oficial de Flow detalla el coste de generar y editar clips con el modelo, que ya se puede elegir en la aplicación según comentaron en el grupo.</description>
+  </item>
+  <item>
     <title>Gemini permite exportar con un clic sus aplicaciones interactivas a un sitio de Google Sites</title>
     <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</guid>

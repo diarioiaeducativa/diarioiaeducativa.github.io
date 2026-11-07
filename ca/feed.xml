@@ -7,6 +7,54 @@
   <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
   <language>ca</language>
   <item>
+    <title>Docents debaten si cal l&#x27;autorització de les famílies per fer servir IA amb l&#x27;alumnat</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Un centre té limitada la IA generativa amb l&#x27;alumnat perquè algunes famílies no la van autoritzar; altres postures sostenen que n&#x27;hi ha prou amb informar. La normativa ho aclareix: cal informar les famílies, però entre els 14 i els 18 anys no cal el seu consentiment, tret que l&#x27;eina l&#x27;exigeixi.</description>
+  </item>
+  <item>
+    <title>Un docent substitueix la sirena del centre per un timbre musical que es gestiona des d&#x27;un full de càlcul</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/timbre-musical-escolar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/timbre-musical-escolar.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>David Cordones explica que, amb ajuda d&#x27;IA generativa, va muntar amb una Raspberry Pi un timbre escolar que el claustre canvia des de Google Sheets.</description>
+  </item>
+  <item>
+    <title>Una subhasta de frases, una guia de vibe coding responsable, química, música i llibres il·lustrats, nous al repositori</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Repositori de recursos de Vibe Coding Educativo suma sis recursos: dos de Juanjo de Haro, un de Felip Sarroca, un de FiQuiPedia i dos de Samuel Soriano.</description>
+  </item>
+  <item>
+    <title>Anthropic prohibeix a la seva política d&#x27;ús el maltractament sostingut i gratuït als seus models</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Novetats oficials</category>
+    <description>L&#x27;actualització, publicada el 8 d&#x27;octubre de 2026, entra en vigor el 12 de novembre i només s&#x27;aplicarà en casos extrems.</description>
+  </item>
+  <item>
+    <title>EDUmind MiClase, un quadern del professorat de codi obert, desa les dades al dispositiu i sincronitza sense servidor propi</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/edumind-miclase-sincronizacion.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/edumind-miclase-sincronizacion.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El seu autor va detallar al grup com sincronitza dos dispositius i quines funcions diu haver afegit per avaluar segons la LOMLOE.</description>
+  </item>
+  <item>
+    <title>Google Flow cobra en crèdits per segon els vídeos de Gemini Omni 1.2 Flash</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/omni-1-2-flash-creditos-flow.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/omni-1-2-flash-creditos-flow.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>L&#x27;ajuda oficial de Flow detalla el cost de generar i editar clips amb el model, que ja es pot triar a l&#x27;aplicació segons van comentar al grup.</description>
+  </item>
+  <item>
     <title>Gemini permet exportar amb un clic les seves aplicacions interactives a un lloc de Google Sites</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-05/gemini-google-sites.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-05/gemini-google-sites.html</guid>
