@@ -1,4 +1,5 @@
-# Aviso por Telegram de cada comentario nuevo del diario (ADR 0030 del repositorio diarioiaeducativa/periodico).
+# Aviso por Telegram de cada comentario nuevo del diario (ADR 0030 del repositorio diarioiaeducativa/periodico):
+# a Juanjo, por el bot «Agentes IA»; a Raül Torres, por el Bot de IA Educativa. A nadie se le avisa de lo suyo.
 # Vive solo en este repositorio: la publicación diaria no toca .github/ (rsync --exclude .github).
 # El texto del comentario no pasa nunca por la shell: el programa lo lee del evento.
 name: Aviso de comentario
@@ -19,12 +20,15 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+          BOT_IAEDUCATIVA_TOKEN: ${{ secrets.BOT_IAEDUCATIVA_TOKEN }}
+          RAUL_CHAT: ${{ secrets.RAUL_CHAT }}
         run: |
           cat > /tmp/avisar.py <<'PY'
           import datetime, html, json, os, re, sys, urllib.parse, urllib.request, zoneinfo
 
           ev = json.load(open(os.environ["GITHUB_EVENT_PATH"], encoding="utf-8"))
           c, d = ev["comment"], ev["discussion"]
+          autor = c["user"]["login"]
           WEB = "https://diarioiaeducativa.github.io/"
           termino = d["title"].strip()   # giscus titula cada hilo con la ruta de la pieza: AAAA-MM-DD/id
           pieza = WEB + termino + ".html" if re.fullmatch(r"\d{4}-\d{2}-\d{2}/[\w-]+", termino) else WEB
@@ -39,16 +43,28 @@ jobs:
           texto = c["body"].strip()
           if len(texto) > 700:
               texto = texto[:700].rstrip() + "…"
-          hora = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Madrid")).strftime("%H:%M")
           tipo = "Respuesta nueva" if c.get("parent_id") else "Comentario nuevo"
-          mensaje = (f"⚙️ <b>Diario de IA Educativa</b> · {hora} · <b>comentarios</b>\n\n"
-                     f"<b>{tipo}</b> de {html.escape(c['user']['login'])} en «{html.escape(titulo)}»:\n\n"
-                     f"{html.escape(texto)}\n\n"
-                     f'<a href="{pieza}#t-comentarios">Ver en el diario</a> · <a href="{c["html_url"]}">Ver en GitHub</a>')
-          datos = urllib.parse.urlencode({"chat_id": os.environ["TELEGRAM_CHAT"], "text": mensaje,
-                                          "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
-          url = f"https://api.telegram.org/bot{os.environ['TELEGRAM_TOKEN']}/sendMessage"
-          r = json.load(urllib.request.urlopen(url, datos, timeout=30))
-          sys.exit(0 if r.get("ok") else f"Telegram no lo aceptó: {r}")
+          cuerpo = (f"<b>{tipo}</b> de {html.escape(autor)} en «{html.escape(titulo)}»:\n\n{html.escape(texto)}\n\n"
+                    f'<a href="{pieza}#t-comentarios">Ver en el diario</a> · <a href="{c["html_url"]}">Ver en GitHub</a>')
+          hora = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Madrid")).strftime("%H:%M")
+          destinos = [   # (token, chat, cuenta de GitHub de quien recibe, mensaje)
+              ("TELEGRAM_TOKEN", "TELEGRAM_CHAT", "jjdeharo",
+               f"⚙️ <b>Diario de IA Educativa</b> · {hora} · <b>comentarios</b>\n\n{cuerpo}"),
+              ("BOT_IAEDUCATIVA_TOKEN", "RAUL_CHAT", "raultorres-ia",
+               f"<b>Diario de IA Educativa</b>\n\n{cuerpo}"),
+          ]
+          fallos = []
+          for tok, chat, cuenta, mensaje in destinos:
+              if autor.lower() == cuenta or not os.environ.get(tok) or not os.environ.get(chat):
+                  continue
+              datos = urllib.parse.urlencode({"chat_id": os.environ[chat], "text": mensaje,
+                                              "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
+              try:
+                  r = json.load(urllib.request.urlopen(f"https://api.telegram.org/bot{os.environ[tok]}/sendMessage", datos, timeout=30))
+                  if not r.get("ok"):
+                      fallos.append(f"{chat}: {r}")
+              except Exception as e:
+                  fallos.append(f"{chat}: {e}")
+          sys.exit("Telegram no aceptó: " + "; ".join(fallos) if fallos else 0)
           PY
           python3 /tmp/avisar.py
