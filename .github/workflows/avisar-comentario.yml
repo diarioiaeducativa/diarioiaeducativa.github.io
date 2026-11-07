@@ -1,5 +1,5 @@
 # Aviso por Telegram de cada comentario nuevo del diario (ADR 0030 del repositorio diarioiaeducativa/periodico):
-# a Juanjo, por el bot «Agentes IA»; a Raül Torres, por el Bot de IA Educativa. A nadie se le avisa de lo suyo.
+# a Juanjo de Haro y a Raül Torres, el mismo mensaje por el Bot de IA Educativa. A nadie se le avisa de lo suyo.
 # Vive solo en este repositorio: la publicación diaria no toca .github/ (rsync --exclude .github).
 # El texto del comentario no pasa nunca por la shell: el programa lo lee del evento.
 name: Aviso de comentario
@@ -18,13 +18,12 @@ jobs:
     steps:
       - name: Avisar por Telegram
         env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
           BOT_IAEDUCATIVA_TOKEN: ${{ secrets.BOT_IAEDUCATIVA_TOKEN }}
+          JUANJO_CHAT: ${{ secrets.JUANJO_CHAT }}
           RAUL_CHAT: ${{ secrets.RAUL_CHAT }}
         run: |
           cat > /tmp/avisar.py <<'PY'
-          import datetime, html, json, os, re, sys, urllib.parse, urllib.request, zoneinfo
+          import html, json, os, re, sys, urllib.parse, urllib.request
 
           ev = json.load(open(os.environ["GITHUB_EVENT_PATH"], encoding="utf-8"))
           c, d = ev["comment"], ev["discussion"]
@@ -46,21 +45,17 @@ jobs:
           tipo = "Respuesta nueva" if c.get("parent_id") else "Comentario nuevo"
           cuerpo = (f"<b>{tipo}</b> de {html.escape(autor)} en «{html.escape(titulo)}»:\n\n{html.escape(texto)}\n\n"
                     f'<a href="{pieza}#t-comentarios">Ver en el diario</a> · <a href="{c["html_url"]}">Ver en GitHub</a>')
-          hora = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Madrid")).strftime("%H:%M")
-          destinos = [   # (token, chat, cuenta de GitHub de quien recibe, mensaje)
-              ("TELEGRAM_TOKEN", "TELEGRAM_CHAT", "jjdeharo",
-               f"⚙️ <b>Diario de IA Educativa</b> · {hora} · <b>comentarios</b>\n\n{cuerpo}"),
-              ("BOT_IAEDUCATIVA_TOKEN", "RAUL_CHAT", "raultorres-ia",
-               f"<b>Diario de IA Educativa</b>\n\n{cuerpo}"),
-          ]
+          mensaje = f"<b>Diario de IA Educativa</b>\n\n{cuerpo}"
+          tok = os.environ["BOT_IAEDUCATIVA_TOKEN"]
+          destinos = [("JUANJO_CHAT", "jjdeharo"), ("RAUL_CHAT", "raultorres-ia")]   # (chat, su cuenta de GitHub)
           fallos = []
-          for tok, chat, cuenta, mensaje in destinos:
-              if autor.lower() == cuenta or not os.environ.get(tok) or not os.environ.get(chat):
+          for chat, cuenta in destinos:
+              if autor.lower() == cuenta or not os.environ.get(chat):
                   continue
               datos = urllib.parse.urlencode({"chat_id": os.environ[chat], "text": mensaje,
                                               "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
               try:
-                  r = json.load(urllib.request.urlopen(f"https://api.telegram.org/bot{os.environ[tok]}/sendMessage", datos, timeout=30))
+                  r = json.load(urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/sendMessage", datos, timeout=30))
                   if not r.get("ok"):
                       fallos.append(f"{chat}: {r}")
               except Exception as e:
