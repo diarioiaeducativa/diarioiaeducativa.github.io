@@ -1,0 +1,54 @@
+# Aviso por Telegram de cada comentario nuevo del diario (ADR 0030 del repositorio diarioiaeducativa/periodico).
+# Vive solo en este repositorio: la publicación diaria no toca .github/ (rsync --exclude .github).
+# El texto del comentario no pasa nunca por la shell: el programa lo lee del evento.
+name: Aviso de comentario
+
+on:
+  discussion_comment:
+    types: [created]
+
+permissions: {}
+
+jobs:
+  avisar:
+    if: github.event.discussion.category.name == 'Comentarios'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Avisar por Telegram
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+        run: |
+          cat > /tmp/avisar.py <<'PY'
+          import datetime, html, json, os, re, sys, urllib.parse, urllib.request, zoneinfo
+
+          ev = json.load(open(os.environ["GITHUB_EVENT_PATH"], encoding="utf-8"))
+          c, d = ev["comment"], ev["discussion"]
+          WEB = "https://diarioiaeducativa.github.io/"
+          termino = d["title"].strip()   # giscus titula cada hilo con la ruta de la pieza: AAAA-MM-DD/id
+          pieza = WEB + termino + ".html" if re.fullmatch(r"\d{4}-\d{2}-\d{2}/[\w-]+", termino) else WEB
+          titulo = termino
+          try:   # el titular, de la propia página
+              pagina = urllib.request.urlopen(pieza, timeout=20).read().decode("utf-8")
+              m = re.search(r"<title>(.*?) \| ", pagina)
+              if m:
+                  titulo = html.unescape(m.group(1))
+          except Exception:
+              pass
+          texto = c["body"].strip()
+          if len(texto) > 700:
+              texto = texto[:700].rstrip() + "…"
+          hora = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Madrid")).strftime("%H:%M")
+          tipo = "Respuesta nueva" if c.get("parent_id") else "Comentario nuevo"
+          mensaje = (f"⚙️ <b>Diario de IA Educativa</b> · {hora} · <b>comentarios</b>\n\n"
+                     f"<b>{tipo}</b> de {html.escape(c['user']['login'])} en «{html.escape(titulo)}»:\n\n"
+                     f"{html.escape(texto)}\n\n"
+                     f'<a href="{pieza}#t-comentarios">Ver en el diario</a> · <a href="{c["html_url"]}">Ver en GitHub</a>')
+          datos = urllib.parse.urlencode({"chat_id": os.environ["TELEGRAM_CHAT"], "text": mensaje,
+                                          "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
+          url = f"https://api.telegram.org/bot{os.environ['TELEGRAM_TOKEN']}/sendMessage"
+          r = json.load(urllib.request.urlopen(url, datos, timeout=30))
+          sys.exit(0 if r.get("ok") else f"Telegram no lo aceptó: {r}")
+          PY
+          python3 /tmp/avisar.py
