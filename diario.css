@@ -439,3 +439,9 @@ body.con-visor { overflow: hidden; }
   .reportaje .tabla td.vacio { display: none; }
   .reportaje .tabla td[data-col]::before { content: attr(data-col) ": "; font-weight: 600; color: var(--tinta-2); }
 }
+
+/* Comentarios (ADR 0030): al pie de la pieza, con giscus */
+.comentarios { margin-top: 2.4rem; padding-top: 1rem; border-top: 3px solid var(--tinta); }
+.comentarios h2 { margin: 0 0 0.4rem; font-size: 1.2rem; }
+.comentarios-aviso { margin: 0 0 1rem; color: var(--tinta-2); font-size: 0.95rem; }
+.comentarios-caja { min-height: 8rem; }
