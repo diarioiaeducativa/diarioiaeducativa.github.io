@@ -418,3 +418,20 @@ body.con-visor { overflow: hidden; }
   border-left: 4px solid var(--rojo); background: var(--papel-2);
   font-size: 1.02rem; line-height: 1.45;
 }
+
+/* Tabla de consulta dentro de un reportaje (generar.tabla); en el móvil, una ficha por fila */
+.reportaje .tabla { margin: 1.6rem 0; }
+.reportaje .tabla table { width: 100%; border-collapse: collapse; font-size: 0.95rem; line-height: 1.45; }
+.reportaje .tabla caption { text-align: left; font-weight: 700; padding-bottom: 0.5rem; }
+.reportaje .tabla thead th { text-align: left; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--tinta-2); border-bottom: 2px solid var(--tinta); padding: 0.35rem 0.5rem; }
+.reportaje .tabla tbody th, .reportaje .tabla td { text-align: left; vertical-align: top; border-bottom: 1px solid var(--filete); padding: 0.5rem; }
+.reportaje .tabla tbody th { font-weight: 700; width: 9.5rem; }
+.reportaje .tabla th { hyphens: manual; -webkit-hyphens: manual; }
+.reportaje .tabla-nota { margin: 1rem 0 0; padding: 0.9rem 1.1rem; background: var(--papel-2); border-left: 3px solid var(--azul); line-height: 1.55; }
+@media (max-width: 40rem) {
+  .reportaje .tabla thead { display: none; }
+  .reportaje .tabla tr { display: block; padding: 0.6rem 0; border-bottom: 1px solid var(--filete); }
+  .reportaje .tabla tbody th, .reportaje .tabla td { display: block; width: auto; border: 0; padding: 0.15rem 0; }
+  .reportaje .tabla td.vacio { display: none; }
+  .reportaje .tabla td[data-col]::before { content: attr(data-col) ": "; font-weight: 600; color: var(--tinta-2); }
+}

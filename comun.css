@@ -168,7 +168,7 @@ img, svg { max-width: 100%; }
 .vineta .fa { fill: var(--ilu-relleno); }
 .vineta .ft { fill: var(--tinta); stroke: none; }
 .vineta .fz { fill: var(--azul); stroke: none; }
-.vineta .tz { fill: var(--tiza); stroke: var(--tinta); stroke-width: 2.5; stroke-linejoin: round; }
+.vineta .tz { fill: var(--tiza); stroke: var(--cara); stroke-width: 2.5; stroke-linejoin: round; }
 .vineta .cara { fill: none; stroke: var(--cara); stroke-width: 2.2; stroke-linecap: round; }
 .vineta .fcara { fill: var(--cara); }
 .vineta .ojo { fill: var(--papel); }
