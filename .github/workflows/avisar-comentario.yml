@@ -40,26 +40,38 @@ jobs:
           except Exception:
               pass
           texto = c["body"].strip()
-          if len(texto) > 700:
-              texto = texto[:700].rstrip() + "…"
           tipo = "Respuesta nueva" if c.get("parent_id") else "Comentario nuevo"
-          cuerpo = (f"<b>{tipo}</b> de {html.escape(autor)} en «{html.escape(titulo)}»:\n\n{html.escape(texto)}\n\n"
-                    f'<a href="{pieza}#t-comentarios">Ver en el diario</a> · <a href="{c["html_url"]}">Ver en GitHub</a>')
-          mensaje = f"<b>Diario de IA Educativa</b>\n\n{cuerpo}"
+          # El comentario entero. Si no cabe en un mensaje (Telegram admite 4.096 caracteres), en varios,
+          # partido por párrafos o líneas; la cabecera en el primero y los enlaces en el último.
+          trozos, resto = [], texto
+          while len(resto) > 3000:
+              corte = max(resto.rfind("\n\n", 0, 3000), resto.rfind("\n", 0, 3000), resto.rfind(" ", 0, 3000))
+              corte = corte if corte > 1000 else 3000
+              trozos.append(resto[:corte].rstrip())
+              resto = resto[corte:].lstrip()
+          trozos.append(resto)
+          cabecera = f"<b>Diario de IA Educativa</b>\n\n<b>{tipo}</b> de {html.escape(autor)} en «{html.escape(titulo)}»:\n\n"
+          enlaces = f'\n\n<a href="{pieza}#t-comentarios">Ver en el diario</a> · <a href="{c["html_url"]}">Ver en GitHub</a>'
+          mensajes = [html.escape(x) for x in trozos]
+          mensajes[0] = cabecera + mensajes[0]
+          mensajes[-1] += enlaces
           tok = os.environ["BOT_IAEDUCATIVA_TOKEN"]
           destinos = [("JUANJO_CHAT", "jjdeharo"), ("RAUL_CHAT", "raultorres-ia")]   # (chat, su cuenta de GitHub)
           fallos = []
           for chat, cuenta in destinos:
               if autor.lower() == cuenta or not os.environ.get(chat):
                   continue
-              datos = urllib.parse.urlencode({"chat_id": os.environ[chat], "text": mensaje,
-                                              "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
-              try:
-                  r = json.load(urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/sendMessage", datos, timeout=30))
-                  if not r.get("ok"):
-                      fallos.append(f"{chat}: {r}")
-              except Exception as e:
-                  fallos.append(f"{chat}: {e}")
+              for mensaje in mensajes:
+                  datos = urllib.parse.urlencode({"chat_id": os.environ[chat], "text": mensaje,
+                                                  "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
+                  try:
+                      r = json.load(urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/sendMessage", datos, timeout=30))
+                      if not r.get("ok"):
+                          fallos.append(f"{chat}: {r}")
+                          break
+                  except Exception as e:
+                      fallos.append(f"{chat}: {e}")
+                      break
           sys.exit("Telegram no aceptó: " + "; ".join(fallos) if fallos else 0)
           PY
           python3 /tmp/avisar.py
