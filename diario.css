@@ -216,6 +216,9 @@
 .vineta { margin-top: 1.8rem; padding-top: 1.1rem; border-top: 3px solid var(--tinta); }
 .vineta-titulo { display: flex; justify-content: space-between; margin: 0 0 0.8rem; font-size: 1.25rem; font-style: italic; font-weight: 600; }
 .vineta-origen { margin: 0.6rem 0 0; font-size: 0.95rem; color: var(--tinta-2); font-style: italic; }
+/* Bajo su noticia (ADR 0035), la tira en vertical en todas las pantallas, como en el móvil: en fila, en la
+   columna de 44rem, los bocadillos se leían mal */
+.articulo > .vineta .tira { grid-template-columns: 1fr; max-width: 26rem; margin-inline: auto; }
 
 /* Páginas de sección */
 .titulo-seccion { margin: 0 0 0.4rem; font-size: clamp(2rem, 5vw, 3rem); font-weight: 800; font-variation-settings: "opsz" 72; letter-spacing: -0.02em; }
