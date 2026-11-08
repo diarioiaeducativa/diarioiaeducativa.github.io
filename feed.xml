@@ -7,6 +7,46 @@
   <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
   <language>es</language>
   <item>
+    <title>La edad para usar IA en clase depende de tres reglas distintas: las de las empresas, la ley y las administraciones educativas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-07/edad-ia-aula-tres-reglas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>El reportaje del domingo</category>
+    <description>Las condiciones de cada servicio, la ley de protección de datos y algunas administraciones educativas fijan edades diferentes para usar inteligencia artificial, y a menudo se confunden. Este reportaje explica qué dice cada una a 6 de noviembre de 2026, por qué la investigación pide cambiar la pregunta de la edad por la de la finalidad y cómo puede decidir un docente de primaria o ESO qué herramienta usar, con qué cuenta y quién la maneja.</description>
+  </item>
+  <item>
+    <title>Anthropic propone organizar la memoria de los agentes de IA en cuatro capas con un repaso periódico</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Un texto de investigación de Anthropic describe cómo dar memoria a un agente entre sesiones, y un docente del grupo ha adaptado su sistema a esa idea y lo explica en un artículo con instrucciones.</description>
+  </item>
+  <item>
+    <title>Holmio convierte la tabla periódica en un juego diario de detectives</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-07/holmio-juego-quimica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/holmio-juego-quimica.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Cada día hay un caso nuevo con 118 sospechosos, los elementos químicos, y seis acusaciones para dar con el culpable; según su autor, no requiere registro.</description>
+  </item>
+  <item>
+    <title>Una calculadora reparte la jornada del profesorado itinerante entre varios centros de la Generalitat Valenciana</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-07/itinerancias.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/itinerancias.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Itinerancias, creada por José Luis Miralles Bono, calcula cómo se reparten las horas complementarias entre los centros de un docente que comparte destino, según las horas lectivas que da en cada uno. Se abre en el navegador, en castellano y en valenciano, y ofrece también una hoja de Excel con el mismo cálculo.</description>
+  </item>
+  <item>
+    <title>Incluxat traslada al conservatorio las orientaciones de los informes psicopedagógicos</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-07/incluxat-conservatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/incluxat-conservatorio.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un asistente de IA adapta a la enseñanza musical unas orientaciones pensadas para centros ordinarios, con su base documental publicada para poder revisarlo.</description>
+  </item>
+  <item>
     <title>Docentes debaten si hace falta la autorización de las familias para usar IA con el alumnado</title>
     <link>https://diarioiaeducativa.github.io/2026-11-06/autorizacion-familias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/autorizacion-familias-ia.html</guid>
@@ -28,7 +68,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/semana-del-repositorio.html</guid>
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Desde el 27 de octubre, el Repositorio de recursos de Vibe Coding Educativo suma dieciséis recursos: diez ya tuvieron su artículo en el diario y seis se presentan aquí, dos de Juanjo de Haro, uno de Felip Sarroca, uno de FiQuiPedia y dos de Samuel Soriano.</description>
+    <description>Desde el 27 de octubre, el Repositorio de recursos de Vibe Coding Educativo suma dieciséis recursos: diez ya tuvieron su artículo en el diario y seis se presentan aquí, dos de Juan José de Haro, uno de Felip Sarroca, uno de FiQuiPedia y dos de Samuel Soriano.</description>
   </item>
   <item>
     <title>Anthropic prohíbe en su política de uso el maltrato sostenido y gratuito a sus modelos</title>

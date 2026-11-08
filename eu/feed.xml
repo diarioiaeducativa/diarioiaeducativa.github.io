@@ -7,6 +7,46 @@
   <description>Adimen artifiziala, hiru irakasle-komunitatetatik kontatua</description>
   <language>eu</language>
   <item>
+    <title>Ikasgelan AA erabiltzeko adina hiru arau desberdinen araberakoa da: enpresenak, legearenak eta hezkuntza-administrazioenak</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-07/edad-ia-aula-tres-reglas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Igandeko erreportajea</category>
+    <description>Zerbitzu bakoitzaren erabilera-baldintzek, datuen babesaren legeak eta hezkuntza-administrazio batzuek adin desberdinak ezartzen dituzte adimen artifiziala erabiltzeko, eta askotan nahasten dira. Erreportaje honek azaltzen du zer dioen bakoitzak 2026ko azaroaren 6an, zergatik eskatzen duen ikerketak adinari buruzko galdera helburuari buruzkoaren ordez aldatzea, eta nola erabaki dezakeen lehen hezkuntzako edo DBHko irakasle batek zer tresna erabili, zer konturekin eta nork maneiatzen duen.</description>
+  </item>
+  <item>
+    <title>Anthropic-ek AA agenteen memoria lau geruzatan antolatzea proposatu du, aldizkako errepasoarekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Anthropic-en ikerketa-testu batek azaltzen du nola eman memoria agente bati saioen artean, eta taldeko irakasle batek bere sistema ideia horretara egokitu du eta jarraibideekin azaltzen du artikulu batean.</description>
+  </item>
+  <item>
+    <title>Holmio-k taula periodikoa detektibeen eguneroko joko bihurtzen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-07/holmio-juego-quimica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-07/holmio-juego-quimica.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Egunero kasu berri bat dago, 118 susmagarrirekin, elementu kimikoekin, eta sei salaketa errudunari asmatzeko; bere egilearen arabera, ez du erregistrorik behar.</description>
+  </item>
+  <item>
+    <title>Kalkulagailu batek Valentziako Generalitateko hainbat ikastetxetan ibiltari diren irakasleen lanaldia banatzen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-07/itinerancias.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-07/itinerancias.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>José Luis Miralles Bonok sortutako Itinerancias-ek kalkulatzen du nola banatzen diren osagarri-orduak destino bat partekatzen duen irakasle baten ikastetxeen artean, ikastetxe bakoitzean ematen dituen lectivo-orduen arabera. Nabigatzailean irekitzen da, gaztelaniaz eta valentziaz, eta kalkulu bera duen Excel orri bat ere eskaintzen du.</description>
+  </item>
+  <item>
+    <title>Incluxat-ek txosten psikopedagogikoen orientabideak kontserbatoriora eramaten ditu</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-07/incluxat-conservatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-07/incluxat-conservatorio.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>AA laguntzaile batek ikastetxe arruntetarako pentsatutako orientabide batzuk musika-irakaskuntzara egokitzen ditu, bere oinarri dokumentala argitaratuta, berrikusi ahal izateko.</description>
+  </item>
+  <item>
     <title>Irakasleek eztabaidatzen dute ikasleekin AA erabiltzeko familien baimena behar den</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-06/autorizacion-familias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/autorizacion-familias-ia.html</guid>
@@ -28,7 +68,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/semana-del-repositorio.html</guid>
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Urriaren 27tik, Vibe Coding Educativoren Baliabideen biltegiak hamasei baliabide berri ditu: hamarrek dagoeneko izan dute beren artikulua egunkarian, eta sei hemen aurkezten dira: bi Juanjo de Harorenak, bat Felip Sarrocarena, bat FiQuiPediarena eta bi Samuel Sorianorenak.</description>
+    <description>Urriaren 27tik, Vibe Coding Educativoren Baliabideen biltegiak hamasei baliabide berri ditu: hamarrek dagoeneko izan dute beren artikulua egunkarian, eta sei hemen aurkezten dira: bi Juan José de Harorenak, bat Felip Sarrocarena, bat FiQuiPediarena eta bi Samuel Sorianorenak.</description>
   </item>
   <item>
     <title>Anthropicek bere erabilera-politikan debekatu du bere ereduei etengabeko eta debaldeko tratu txarra ematea</title>

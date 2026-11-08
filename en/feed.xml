@@ -7,6 +7,46 @@
   <description>Artificial intelligence, as told by three teaching communities</description>
   <language>en</language>
   <item>
+    <title>The age for using AI in class depends on three different rules: those of the companies, the law and the education authorities</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>The Sunday feature</category>
+    <description>Each service’s terms, data protection law and some education authorities set different ages for using artificial intelligence, and they are often confused. This report explains what each says as of 6 November 2026, why research asks us to swap the question of age for the question of purpose, and how a primary or secondary teacher can decide which tool to use, with which account, and who operates it.</description>
+  </item>
+  <item>
+    <title>Anthropic proposes organising AI agents&#x27; memory into four layers with a periodic review</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>An Anthropic research text describes how to give an agent memory between sessions, and a teacher in the group has adapted their own system to that idea and explains it in an article with instructions.</description>
+  </item>
+  <item>
+    <title>Holmio turns the periodic table into a daily detective game</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/holmio-juego-quimica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/holmio-juego-quimica.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Each day brings a new case with 118 suspects, the chemical elements, and six accusations to find the culprit; according to its author, no registration is required.</description>
+  </item>
+  <item>
+    <title>A calculator splits the working week of peripatetic teachers across several schools in the Valencian Community</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/itinerancias.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/itinerancias.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Itinerancias, created by José Luis Miralles Bono, calculates how the non-teaching hours are divided among the schools of a teacher who is shared between them, according to the teaching hours they give in each one. It opens in the browser, in Spanish and Valencian, and also offers an Excel spreadsheet with the same calculation.</description>
+  </item>
+  <item>
+    <title>Incluxat brings the guidance from educational psychology reports to the conservatoire</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/incluxat-conservatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/incluxat-conservatorio.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>An AI assistant adapts to music education guidance designed for mainstream schools, with its supporting documentation published so it can be reviewed.</description>
+  </item>
+  <item>
     <title>Teachers debate whether families’ authorisation is needed to use AI with students</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</guid>
@@ -28,7 +68,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/semana-del-repositorio.html</guid>
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Since 27 October, the Vibe Coding Educativo resource repository has added sixteen resources: ten have already had their own article in the paper and six are presented here, two by Juanjo de Haro, one by Felip Sarroca, one by FiQuiPedia and two by Samuel Soriano.</description>
+    <description>Since 27 October, the Vibe Coding Educativo resource repository has added sixteen resources: ten have already had their own article in the paper and six are presented here, two by Juan José de Haro, one by Felip Sarroca, one by FiQuiPedia and two by Samuel Soriano.</description>
   </item>
   <item>
     <title>Anthropic bans sustained, gratuitous abuse of its models in its usage policy</title>

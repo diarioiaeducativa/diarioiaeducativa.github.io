@@ -7,6 +7,46 @@
   <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
   <language>ca</language>
   <item>
+    <title>L&#x27;edat per usar IA a classe depèn de tres regles diferents: les de les empreses, la llei i les administracions educatives</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/edad-ia-aula-tres-reglas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>El reportatge del diumenge</category>
+    <description>Les condicions de cada servei, la llei de protecció de dades i algunes administracions educatives fixen edats diferents per usar intel·ligència artificial, i sovint es confonen. Aquest reportatge explica què diu cadascuna a 6 de novembre del 2026, per què la recerca demana canviar la pregunta de l&#x27;edat per la de la finalitat i com pot decidir un docent de primària o ESO quina eina fer servir, amb quin compte i qui la maneja.</description>
+  </item>
+  <item>
+    <title>Anthropic proposa organitzar la memòria dels agents d&#x27;IA en quatre capes amb una revisió periòdica</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Un text de recerca d&#x27;Anthropic descriu com donar memòria a un agent entre sessions, i un docent del grup ha adaptat el seu sistema a aquesta idea i l&#x27;explica en un article amb instruccions.</description>
+  </item>
+  <item>
+    <title>Holmio converteix la taula periòdica en un joc diari de detectius</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/holmio-juego-quimica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/holmio-juego-quimica.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Cada dia hi ha un cas nou amb 118 sospitosos, els elements químics, i sis acusacions per trobar el culpable; segons el seu autor, no requereix registre.</description>
+  </item>
+  <item>
+    <title>Una calculadora reparteix la jornada del professorat itinerant entre diversos centres de la Generalitat Valenciana</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/itinerancias.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/itinerancias.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Itinerancias, creada per José Luis Miralles Bono, calcula com es reparteixen les hores complementàries entre els centres d&#x27;un docent que comparteix destinació, segons les hores lectives que fa en cadascun. S&#x27;obre al navegador, en castellà i en valencià, i ofereix també un full d&#x27;Excel amb el mateix càlcul.</description>
+  </item>
+  <item>
+    <title>Incluxat trasllada al conservatori les orientacions dels informes psicopedagògics</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/incluxat-conservatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/incluxat-conservatorio.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un assistent d&#x27;IA adapta a l&#x27;ensenyament musical unes orientacions pensades per a centres ordinaris, amb la seva base documental publicada per poder revisar-lo.</description>
+  </item>
+  <item>
     <title>Docents debaten si cal l&#x27;autorització de les famílies per fer servir IA amb l&#x27;alumnat</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</guid>
@@ -28,7 +68,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/semana-del-repositorio.html</guid>
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Des del 27 d&#x27;octubre, el Repositori de recursos de Vibe Coding Educativo suma setze recursos: deu ja han tingut el seu article al diari i sis es presenten aquí, dos de Juanjo de Haro, un de Felip Sarroca, un de FiQuiPedia i dos de Samuel Soriano.</description>
+    <description>Des del 27 d&#x27;octubre, el Repositori de recursos de Vibe Coding Educativo suma setze recursos: deu ja han tingut el seu article al diari i sis es presenten aquí, dos de Juan José de Haro, un de Felip Sarroca, un de FiQuiPedia i dos de Samuel Soriano.</description>
   </item>
   <item>
     <title>Anthropic prohibeix a la seva política d&#x27;ús el maltractament sostingut i gratuït als seus models</title>
