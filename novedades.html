@@ -23,6 +23,16 @@
 <meta name="twitter:card" content="summary_large_image">
 <script>try{var t=localStorage.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;}catch(_){}</script>
 
+<script>try{(function(){
+var q=new URLSearchParams(location.search),k='diario.nocontar';
+if(q.get('nocontar')==='1')localStorage.setItem(k,'1');else if(q.get('nocontar')==='0')localStorage.removeItem(k);
+if(window.SALTO||navigator.webdriver||localStorage.getItem(k)||/bot|crawl|spider|slurp|preview|lighthouse|headless/i.test(navigator.userAgent))return;
+var v=JSON.parse(localStorage.getItem('diario.visita')||'null'),ahora=Date.now(),p=location.pathname,nueva=!v||!(ahora-v.t<18e5);
+if(nueva)v={t:ahora,p:[]};
+var cuenta=v.p.indexOf(p)<0;v.t=ahora;if(cuenta)v.p.push(p);
+localStorage.setItem('diario.visita',JSON.stringify(v));
+if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educativa/contar.php',new URLSearchParams({p:cuenta?p:'',n:nueva?'1':'0',t:document.title}));
+})();}catch(_){}</script>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
