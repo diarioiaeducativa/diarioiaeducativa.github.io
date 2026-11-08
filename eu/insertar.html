@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="eu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hezkuntzako AA Egunkaria</title>
+<meta name="robots" content="noindex">
+<script>try{var t=new URLSearchParams(location.search).get('tema');if(t==='claro')document.documentElement.dataset.theme='light';else if(t==='oscuro')document.documentElement.dataset.theme='dark';}catch(_){}</script>
+<link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
+<link rel="stylesheet" href="../comun.css?v=a06d8472">
+<style>
+html, body { height: 100%; }
+body.w { margin: 0; background: transparent; font-size: 1rem; line-height: 1.4; }
+.w-caja { box-sizing: border-box; height: 100%; display: flex; flex-direction: column; background: var(--papel);
+  border: 1px solid var(--filete); border-radius: 8px; overflow: hidden; }
+.w-cab { display: flex; align-items: baseline; justify-content: space-between; gap: .6rem; flex-wrap: wrap;
+  padding: .55rem .9rem .45rem; border-bottom: 3px double var(--tinta); }
+.w-h1 { margin: 0; font-size: 1rem; line-height: 1.3; }
+.w-marca { font-weight: 700; font-size: 1.15rem; color: var(--tinta); text-decoration: none; font-variation-settings: "opsz" 48; }
+.w-filtro { font-style: italic; color: var(--tinta-2); font-size: .9rem; }
+.w-contenido { flex: 1; min-height: 0; overflow: auto; padding: 0 .9rem; display: flex; flex-direction: column; }
+.w-pie { padding: .45rem .9rem .55rem; border-top: 1px solid var(--filete); font-size: .92rem; }
+.w-pie a, .w-titular a { color: var(--tinta); }
+.w-titular { font-size: 1.05rem; line-height: 1.3; margin: .1rem 0 0; font-weight: 600; }
+.w-titular a { text-decoration: none; }
+.w-titular a:hover, .w-titular a:focus-visible { text-decoration: underline; }
+.seccion { margin: 0; font-size: .82rem; font-weight: 600; display: flex; gap: .4rem; flex-wrap: wrap; }
+.fecha-pieza { color: var(--tinta-2); font-weight: 400; font-style: italic; }
+.w-lista, .w-tarjetas { list-style: none; margin: 0; padding: 0; }
+.w-lista li { padding: .6rem 0 .6rem .7rem; border-left: 3px solid var(--sec, var(--tinta)); margin: .55rem 0; }
+.w-tarjetas li { display: grid; grid-template-columns: minmax(6rem, 34%) 1fr; gap: .8rem; align-items: start;
+  padding: .7rem 0; border-bottom: 1px solid var(--filete); }
+.w-tarjetas li:last-child { border-bottom: 0; }
+.w-tarjetas .ilu { margin: 0; padding: .3rem; border-radius: 4px; }
+.w-tarjetas .ilu[hidden] + .w-texto { grid-column: 1 / -1; }
+.w-entradilla { margin: .3rem 0 0; color: var(--tinta-2); font-size: .92rem;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.w-pieza { flex: 1; min-height: 0; display: flex; flex-direction: column; padding: .8rem 0; }
+.w-pieza .ilu { position: relative; flex: 1 1 0; min-height: 7rem; margin: 0 0 .7rem; border-radius: 4px; }
+/* El dibujo llena el sitio que deja el texto, sin deformarse: con poco alto, se encoge */
+.w-pieza .ilu svg, .w-pieza .ilu img { position: absolute; inset: .5rem; width: calc(100% - 1rem); height: calc(100% - 1rem); object-fit: contain; }
+.w-pieza .antetitulo { margin: .3rem 0 0; font-style: italic; color: var(--tinta-2); font-size: .95rem; }
+.w-pieza .w-titular { font-size: 1.3rem; }
+.w-pieza .w-entradilla { -webkit-line-clamp: 4; font-size: 1rem; }
+.w-aviso { color: var(--tinta-2); font-style: italic; }
+.ilu img { display: block; width: 100%; height: auto; }
+@media (max-width: 22rem) { .w-tarjetas li { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body class="w">
+<div class="w-caja">
+<header class="w-cab"><h1 class="w-h1"><a class="w-marca" href="https://diarioiaeducativa.github.io/eu/" target="_blank" rel="noopener">Hezkuntzako AA Egunkaria</a></h1><span class="w-filtro" id="filtro"></span></header>
+<main class="w-contenido" id="contenido" aria-live="polite"></main>
+<footer class="w-pie"><a id="mas" href="https://diarioiaeducativa.github.io/eu/" target="_blank" rel="noopener">Albiste gehiago egunkarian →</a></footer>
+</div>
+<script>
+(function(){
+  var T={"w_sin": "Ez dago erakusteko albisterik.", "w_error": "Ezin izan dira albisteak kargatu.", "w_leer": "Irakurri egunkarian", "w_mas": "Albiste gehiago egunkarian", "titulo": "Hezkuntzako AA Egunkaria", "filtros": {"herramientas": "Tresnak", "vibecoding": "Vibe coding", "multimedia": "Multimedia", "debates": "Eztabaidak", "novedades": "Erakundeak eta enpresak", "biblioteca": "Liburutegia", "reportaje": "Erreportajeak", "breves": "Laburrak"}}, CLAVES=["herramientas", "vibecoding", "multimedia", "debates", "novedades", "biblioteca", "reportaje", "breves"], GR={"chatgpt": "ChatGPT-IA-edu", "vce": "Vibe Coding Educativo", "edumedia": "EduMedia-IAG"};
+  var q=new URLSearchParams(location.search), sec=q.get('seccion')||'', gr=q.get('grupo')||'', pieza=q.get('pieza')||'';
+  if(CLAVES.indexOf(sec)<0) sec=''; if(!GR[gr]) gr='';
+  if(!/^\d{4}-\d{2}-\d{2}\/[\w-]+$/.test(pieza)) pieza='';
+  var n=Math.min(20,Math.max(1,parseInt(q.get('n'),10)||5)), estilo=q.get('estilo')==='tarjetas'?'tarjetas':'lista';
+  var caja=document.getElementById('contenido'), mas=document.getElementById('mas'), filtro=document.getElementById('filtro');
+  function el(t,c,x){var e=document.createElement(t); if(c)e.className=c; if(x!=null)e.textContent=x; return e;}
+  function enlace(it,c){var a=el('a',c,it.titular); a.href=it.url; a.target='_blank'; a.rel='noopener'; return a;}
+  function rotulo(it){var p=el('p','seccion'); p.append(el('span','',it.seccion_nombre),' ',el('span','fecha-pieza',it.sale_texto)); return p;}
+  function dibujo(it){
+    var f=el('figure','ilu'); if(!it.imagen){f.hidden=true; return f;}
+    if(!/\.svg$/.test(it.imagen)){var i=el('img'); i.src=it.imagen; i.alt=it.imagen_alt||''; f.append(i); return f;}
+    // El dibujo, dentro de la página: así toma los colores del tema, también en oscuro
+    fetch(it.imagen).then(function(r){if(!r.ok)throw 0; return r.text();}).then(function(t){
+      var s=new DOMParser().parseFromString(t,'image/svg+xml').documentElement;
+      if(s.nodeName!=='svg')throw 0;
+      s.querySelectorAll('script,foreignObject').forEach(function(x){x.remove();});
+      s.setAttribute('role','img'); s.setAttribute('aria-label',it.imagen_alt||it.titular);
+      f.append(document.importNode(s,true));
+    }).catch(function(){f.hidden=true;});
+    return f;
+  }
+  function pinta(lista){
+    caja.replaceChildren();
+    if(pieza){
+      var it=lista.find(function(x){return x.id===pieza;});
+      if(!it){caja.append(el('p','w-aviso',T.w_sin)); return;}
+      document.title=T.titulo+': '+it.titular;
+      var a=el('article','w-pieza sec-'+it.seccion); a.append(dibujo(it),rotulo(it));
+      if(it.antetitulo) a.append(el('p','antetitulo',it.antetitulo));
+      var h=el('h2','w-titular'); h.append(enlace(it)); a.append(h);
+      if(it.entradilla) a.append(el('p','w-entradilla',it.entradilla));
+      caja.append(a); mas.href=it.url; mas.textContent=T.w_leer+' →'; return;
+    }
+    if(sec) lista=lista.filter(function(x){return sec==='biblioteca'?x.biblioteca:x.seccion===sec;});
+    if(gr) lista=lista.filter(function(x){return x.grupo===gr;});
+    lista=lista.slice(0,n);
+    if(!lista.length){caja.append(el('p','w-aviso',T.w_sin)); return;}
+    var ol=el('ol',estilo==='tarjetas'?'w-tarjetas':'w-lista');
+    lista.forEach(function(it){
+      var li=el('li','sec-'+it.seccion);
+      if(estilo==='tarjetas') li.append(dibujo(it));
+      var tx=el('div','w-texto'); tx.append(rotulo(it)); var h=el('h2','w-titular'); h.append(enlace(it)); tx.append(h);
+      if(estilo==='tarjetas'&&it.entradilla) tx.append(el('p','w-entradilla',it.entradilla));
+      li.append(tx); ol.append(li);
+    });
+    caja.append(ol);
+  }
+  var nombres=[]; if(sec) nombres.push(T.filtros[sec]); if(gr) nombres.push(GR[gr]);
+  filtro.textContent=pieza?'':nombres.join(' · ');
+  var origen=pieza?'datos/'+pieza.slice(0,7)+'.json':sec?'noticias-'+sec+'.json':gr?'noticias-'+gr+'.json':'noticias.json';
+  fetch(origen).then(function(r){if(!r.ok)throw 0; return r.json();}).then(function(d){pinta(d.noticias||[]);})
+    .catch(function(){caja.replaceChildren(el('p','w-aviso',T.w_error));});
+})();
+</script>
+</body>
+</html>

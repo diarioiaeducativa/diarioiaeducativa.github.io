@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · Institutions &amp; Industry</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-novedades.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Institutions &amp; Industry</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>Anthropic bans sustained, gratuitous abuse of its models in its usage policy</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The update, published on 8 October 2026, takes effect on 12 November and will be enforced only in extreme cases.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>A horizontal bar divided by a red line. On the left, labelled “Allowed”, three speech bubbles: two labelled “Frustration” and “Disagreement”. To the right of the line, a blue speech bubble labelled “Repeated cruelty” and, below it, a calendar labelled “From 12 Nov”.</media:description></media:content>
+  </item>
+  <item>
+    <title>MIT report calls for rethinking teaching and assessment in the age of AI</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The committee set up by MIT to study the use of AI in teaching, learning and research training recommends AI-aware educational processes and a review of assessments and policies.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>A “Report” from which three branches extend, each with its own icon: a sheet with a tick, “Assessment and rules”; two people, “People and campus”; and two arrows in a circle, “Continuous improvement”.</media:description></media:content>
+  </item>
+  <item>
+    <title>European Commission updates DigCompEdu to include AI and digital wellbeing</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The European framework for teachers&#x27; digital competence is under revision, with a final version expected in spring 2027 and consultations with teachers.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Six circles around a centre, “Judgement”, teachers&#x27; professional judgement, surrounded by a dashed ring, “AI throughout”, AI present across the whole framework; on the right, “Wellbeing”, an axis with three icons: a clock, a screen and a power button.</media:description></media:content>
+  </item>
+  <item>
+    <title>Google unveils Gemini 4 Carbon, for now only for cybersecurity specialists</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>Google DeepMind has announced its new frontier model, which for now is used only by a small group of cyber-defence professionals. There is no date for the general public.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>A staircase of three steps rising from left to right: the first, with a few people, is cybersecurity defence; the second, with more people, is trusted partners; the third, dashed and with a half-open padlock, is marked “no date”.</media:description></media:content>
+  </item>
+</channel>
+</rss>

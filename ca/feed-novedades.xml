@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diari d&#x27;IA Educativa · Institucions i empreses</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed-novedades.xml" rel="self" type="application/rss+xml"/>
+  <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
+  <language>ca</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Institucions i empreses</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
+  <item>
+    <title>Anthropic prohibeix a la seva política d&#x27;ús el maltractament sostingut i gratuït als seus models</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>L&#x27;actualització, publicada el 8 d&#x27;octubre de 2026, entra en vigor el 12 de novembre i només s&#x27;aplicarà en casos extrems.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Una barra horitzontal dividida per una ratlla vermella. A l&#x27;esquerra, amb el rètol «Permès», tres globus de conversa: dos amb els rètols «Frustració» i «Desacord». A la dreta de la ratlla, un globus blau amb el rètol «Crueltat repetida» i, a sota, un calendari amb el rètol «Des del 12 nov.».</media:description></media:content>
+  </item>
+  <item>
+    <title>El MIT publica un informe que demana replantejar l&#x27;ensenyament i l&#x27;avaluació davant la IA</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>El comitè creat pel MIT per estudiar l&#x27;ús de la IA en docència, aprenentatge i formació en recerca recomana processos educatius adaptats a la IA i revisar avaluacions i normes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>Un «Informe» del qual parteixen tres branques, cadascuna amb la seva icona: un full amb una marca, «Avaluació i normes»; dues persones, «Persones i campus», i dues fletxes en cercle, «Millora contínua».</media:description></media:content>
+  </item>
+  <item>
+    <title>La Comissió Europea actualitza DigCompEdu per incorporar-hi la IA i el benestar digital</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>El marc europeu de competència digital del professorat s&#x27;està revisant, amb versió final prevista per a la primavera de 2027 i consultes al professorat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Sis cercles al voltant d&#x27;un centre, «Criteri», el criteri docent, envoltats per un anell discontinu, «IA a totes», la IA present en tot el marc; a la dreta, «Benestar», un eix amb tres icones: un rellotge, una pantalla i un botó d&#x27;apagada.</media:description></media:content>
+  </item>
+  <item>
+    <title>Google presenta Gemini 4 Carbon, de moment només per a especialistes en ciberseguretat</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>Google DeepMind ha anunciat el seu nou model de frontera, que per ara només fa servir un grup reduït de professionals de la defensa informàtica. No hi ha data per al públic general.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>Escala de tres graons que puja d&#x27;esquerra a dreta: el primer, amb unes poques persones, és la defensa en ciberseguretat; el segon, amb més persones, els socis de confiança; el tercer, amb traç discontinu i un cadenat entreobert, queda marcat «sense data».</media:description></media:content>
+  </item>
+</channel>
+</rss>

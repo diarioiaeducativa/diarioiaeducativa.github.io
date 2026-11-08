@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Vibe Coding Educativo</title>
+  <link>https://diarioiaeducativa.github.io/gl/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/gl/feed-vce.xml" rel="self" type="application/rss+xml"/>
+  <description>A intelixencia artificial, contada desde tres comunidades docentes</description>
+  <language>gl</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
+  <item>
+    <title>Holmio converte a táboa periódica nun xogo diario de detectives</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/holmio-juego-quimica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/holmio-juego-quimica.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Cada día hai un caso novo con 118 sospeitosos, os elementos químicos, e seis acusacións para dar co culpable; segundo o seu autor, non require rexistro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>Unha cuadrícula de caselas que imita a táboa periódica, co rótulo «Caso do día» enriba e «118 elementos» debaixo; unha lupa azul sinala unha casela. Á dereita, seis círculos, un cunha cruz vermella, co rótulo «6 acusacións».</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha calculadora reparte a xornada do profesorado itinerante entre varios centros da Generalitat Valenciana</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/itinerancias.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/itinerancias.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Itinerancias, creada por José Luis Miralles Bono, calcula como se reparten as horas complementarias entre os centros dun docente que comparte destino, segundo as horas lectivas que imparte en cada un. Ábrese no navegador, en castelán e en valenciano, e ofrece tamén unha folla de Excel co mesmo cálculo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-07-itinerancias.jpg" medium="image" type="image/png"><media:description>Lapela «Tablas» de Itinerancias, con selector de horas complementarias e apartados despregables sobre o reparto proporcional e por bloques.</media:description></media:content>
+  </item>
+  <item>
+    <title>Incluxat leva ao conservatorio as orientacións dos informes psicopedagóxicos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/incluxat-conservatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/incluxat-conservatorio.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un asistente de IA adapta ao ensino musical unhas orientacións pensadas para centros ordinarios, coa súa base documental publicada para poder revisalo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>Un documento co rótulo «Informe», unha frecha cara a unha burbulla de chat co rótulo «Asistente» e outra frecha cara a un piano co rótulo «Conservatorio».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un docente substitúe a sirena do centro por un timbre musical que se xestiona desde unha folla de cálculo</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/timbre-musical-escolar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/timbre-musical-escolar.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>David Cordones conta que, coa axuda de IA xerativa, montou cunha Raspberry Pi un timbre escolar que o claustro cambia desde Google Sheets.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-timbre-musical-escolar.svg" medium="image" type="image/svg+xml"><media:description>Esquema de esquerda a dereita: unha folla de cálculo co rótulo «Folla de cálculo», unha frecha cara a un chip co rótulo «Raspberry Pi» e outra frecha cara a un altofalante co rótulo «Megafonía». Debaixo do chip, un arquivo de música co rótulo «Cartafol MP3» e unha frecha que sobe cara á Raspberry Pi.</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha poxa de frases, unha guía de vibe coding responsable, química, música e libros ilustrados, novos no repositorio</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Desde o 27 de outubro, o Repositorio de recursos de Vibe Coding Educativo suma dezaseis recursos: dez xa tiveron o seu artigo no diario e seis preséntanse aquí, dous de Juan José de Haro, un de Felip Sarroca, un de FiQuiPedia e dous de Samuel Soriano.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-06-subasta-de-frases.jpg" medium="image" type="image/png"><media:description>Páxina de inicio de Subasta de frases, cos botóns «Crear una actividad» e «Unirse a una sesión» e tres tarxetas: Conocimiento, Valores y prioridades, Roles y conceptos.</media:description></media:content>
+  </item>
+  <item>
+    <title>EDUmind MiClase, un caderno do profesorado de código aberto, garda os datos no dispositivo e sincroniza sen servidor propio</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/edumind-miclase-sincronizacion.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/edumind-miclase-sincronizacion.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>O seu autor detallou no grupo como sincroniza dous dispositivos e que funcións di ter engadido para avaliar segundo a LOMLOE.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-edumind-miclase-sincronizacion.svg" medium="image" type="image/svg+xml"><media:description>Un portátil co rótulo «Portátil» e un móbil co rótulo «Móbil», unidos por unha frecha de dobre sentido cun símbolo wifi e o rótulo «A mesma wifi». Debaixo, un servidor debuxado con trazo descontinuo e riscado cunha cruz vermella, co rótulo «Sen servidor».</media:description></media:content>
+  </item>
+  <item>
+    <title>Luis Vilela Acuña publicou o código aberto de Liga de Valores, a súa aplicación de ligas escolares de…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/breve-1.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Luis Vilela Acuña publicou o código aberto de Liga de Valores, a súa aplicación de ligas escolares de Educación Física na que tamén puntúan o xogo limpo, a arbitraxe e a bancada, cun instalador para usala na rede do centro sen servidor externo. Preséntaa nun artigo da Revista Española de Educación Física y Deportes.</description>
+  </item>
+  <item>
+    <title>Antigravity, o contorno de programación con axentes de Google, executa desde a súa versión 2.29 (3 de…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/breve-2.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Antigravity, o contorno de programación con axentes de Google, executa desde a súa versión 2.29 (3 de novembro) proxectos na nube que se manexan desde o navegador, en lugar de facelo no propio ordenador; segundo o seu rexistro de cambios, estase a despregar para subscritores de Google AI Pro e Ultra.</description>
+  </item>
+  <item>
+    <title>MechSimulator reúne simuladores gratuítos de enxeñaría mecánica que se usan no navegador</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/mechsimulator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/mechsimulator.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un membro do grupo destacou esta web de simulacións 2D e 3D como exemplo do que pode lograr unha soa persoa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-05-mechsimulator.svg" medium="image" type="image/svg+xml"><media:description>Unha xanela de navegador cunha engrenaxe, unha regra e unha chave, e unha curva de flexión debaixo, co rótulo «No navegador»; unha frecha leva a unha cuadrícula de puntos, un deles destacado en azul, co rótulo «Máis de 150».</media:description></media:content>
+  </item>
+  <item>
+    <title>Fil i compte permite preparar fichas imprimibles de problemas de matemáticas en catalán e en castelán, con solucionario</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/fil-i-compte.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/fil-i-compte.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un banco de 252 problemas permite ao profesorado de Primaria e dos primeiros cursos da ESO elixir enunciados, ordenalos e imprimir a ficha ou gardala en PDF.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-05-fil-i-compte.jpg" medium="image" type="image/png"><media:description>Pantalla do banco de problemas con filtros de nivel, dificultade e contidos á esquerda e tarxetas de problemas en catalán á dereita.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un proxecto aberto ofrece 54 leccións interactivas en 3D de ciencias para bacharelato, en chinés</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/tongjiang-lab-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/tongjiang-lab-3d.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Tongjiang Lab reúne leccións de física, química, bioloxía e xeografía en ficheiros HTML que funcionan sen conexión; no grupo sinalouse como exemplo do que se poderá facer con IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-04-tongjiang-lab-3d.svg" medium="image" type="image/svg+xml"><media:description>Unha barra dividida en catro tramos de ancho proporcional, baixo o rótulo «54 leccións»; sobre cada tramo unha icona: un átomo sobre «Física», un matraz sobre «Química» (o tramo máis longo, en azul), unha hélice de ADN sobre «Bioloxía» (o máis curto) e un globo terráqueo sobre «Xeografía».</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha ferramenta forma ao chou os grupos base e de expertos da técnica Jigsaw</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Rompecabezas – Técnica Jigsaw» recibe a lista do alumnado e os subtemas e reparte os grupos de forma equilibrada. Ábrese no navegador e está dispoñible en cinco linguas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio cun cadro para escribir os nomes do alumnado, catro subtemas con cores, un campo de tema xeral e o botón «Formar grupos».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un editor de programación por bloques, baseado en TurboWarp e compatible con Scratch, para aprender a programar</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-04/edutictac-blocs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-04/edutictac-blocs.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>EduTicTac Blocs é un contorno de programación visual compatible con proxectos de Scratch e con modelos para a aula; segundo a súa web, sen publicidade nin rastreadores.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Proxecto de exemplo co botón «Ver dentro» e o escenario cos seus controis de bandeira, pausa e parada, un aviso verde de inicio e os botóns «Empieza con una plantilla» e «Explora la galería».</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha actividade gamificada leva o campo gravitatorio de 2.º de Bacharelato a nove misións orbitais</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/misiones-orbitales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/misiones-orbitales.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Misiones orbitales», de El profe de la bata, propón ao alumnado crear un astronauta e resolver nove misións con simuladores interactivos. A versión de práctica funciona no navegador, sen contas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta rodeado por unha órbita elíptica azul con nove puntos, un por misión («9 misións»), e á dereita tres estrelas que se obteñen cun erro inferior ao 5 % («Erro &lt; 5 %»).</media:description></media:content>
+  </item>
+  <item>
+    <title>Un laboratorio en catalán permite practicar a formulación inorgánica con preguntas, pistas e retos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/laboratori-de-formulacio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/laboratori-de-formulacio.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Laboratori de formulació», creada por Felip Sarroca i Gil, ofrece exercicios de nomenclatura inorgánica para Secundaria e Bacharelato, con tres modos de traballo e marcador de progreso.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-laboratori-de-formulacio.jpg" medium="image" type="image/png"><media:description>Pantalla do modo Practica coa pregunta «Quina és la fórmula de: sulfur de bari» e catro opcións (BaS, Ba2S2, BaCl2, PbCl2), botóns de pista e solución, e á dereita a lista de tipos de actividade.</media:description></media:content>
+  </item>
+  <item>
+    <title>FoQo xera tests de formulación orgánica e dá o nome dunha estrutura debuxada</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/foqo-formulacion-quimica-organica.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/foqo-formulacion-quimica-organica.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A aplicación de FiQuiPedia permite practicar a nomenclatura de química orgánica con tests configurables e unha ferramenta que pasa da fórmula ao nome.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio titulada «Formulación Química» cos botóns Tests, F → N e Panel, logotipos de IUPAC e CAS, ligazóns a bibliotecas e unha fila de grupos funcionais.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un docente recomenda crear infografías en HTML e SVG antes que como imaxes xeradas</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/infografias-svg-html.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/infografias-svg-html.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Un membro de Vibe Coding Educativo defende que, para ilustrar conceptos, convén que a IA xere formas SVG e iconas nunha páxina HTML e que as imaxes xeradas queden para cando sexan pedagoxicamente necesarias.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Esquema no que unha «Idea» se bifurca en dous camiños: un remata nun bloque opaco tachado, a «Imaxe xerada», e outro nunha infografía de formas e iconas, «HTML e SVG», da que saen dúas vantaxes: «Lector de pantalla» e «Claro e escuro».</media:description></media:content>
+  </item>
+  <item>
+    <title>Dar acceso total a un axente de consola esixe protexer os datos do alumnado</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/agentes-consola-acceso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/agentes-consola-acceso.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un docente con experiencia explicou que pode facer un axente de IA con control completo dun equipo e que información convén manter fóra do seu alcance.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Unha xanela de terminal, o axente, ten unha frecha cara a un cartafol de traballo dentro dun equipo, mentres o seu camiño cara ao cartafol de datos do alumnado, cun cadeado, queda cortado por unha cruz vermella.</media:description></media:content>
+  </item>
+  <item>
+    <title>A web do novo libro de Ethan Mollick inclúe un «cursor con IA» que acompaña a lectura e pode desactivarse.</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/breve-1.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A web do novo libro de Ethan Mollick inclúe un «cursor con IA» que acompaña a lectura e pode desactivarse. No grupo valorouse como idea para a divulgación.</description>
+  </item>
+  <item>
+    <title>Unha escola de Cataluña comparte unha aplicación para a autoavaliación do alumnado e a valoración docente</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«La teva veu», creada por Felip Sarroca para a Escola Ramon Pont, xera informes en PDF para familias e profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Un grupo de figuras, «Alumnado», pasa por un funil coa cifra «15» e o rótulo «Mínimo de respostas», e chega a un informe con barras e unha liña de referencia, «Informe docente».</media:description></media:content>
+  </item>
+  <item>
+    <title>O cliente de acceso compartido de rclone a Google Drive deixará de funcionar en 2026, segundo a súa…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/breve-1.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>O cliente de acceso compartido de rclone a Google Drive deixará de funcionar en 2026, segundo a súa documentación. Crear un propio, que ademais evita o límite de consultas compartido, considérase xa obrigatorio.</description>
+  </item>
+  <item>
+    <title>Delegar tarefas nun axente de IA obriga a decidir antes que pode ver, lembrar e facer</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A reportaxe do domingo</category>
+    <description>Os asistentes de intelixencia artificial xa non se limitan a responder: abren cartafoles, len o correo e actúan en nome de quen os usa. A Axencia Española de Protección de Datos acaba de publicar un decálogo para delegar sen perder o control. Este reportaxe explica que cambia, que din as empresas e as administracións e que pode configurar un docente antes de conceder permisos a un axente.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-agentes-ia-permisos-datos-alumnado.svg" medium="image" type="image/svg+xml"><media:description>Tres círculos que se cruzan, «Le contido alleo», «Datos sensibles» e «Actúa só»; nas intersecciones de dous, as salvagardas «Só lectura», «Sen nomes» e «Pedir confirmación», e no centro, onde coinciden os tres, un aspa vermello de «Risco inaceptable»; ao pé, unha tira con cinco iconas (ollo, caderno, cursor, sobre e dúas persoas) para as cinco preguntas da AEPD antes de delegar.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un laboratorio interactivo guía o alumnado de 2.º de Bacharelato polo potencial gravitatorio</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/mapa-potencial-gravitatorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/mapa-potencial-gravitatorio.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A aplicación «Mapa de potencial gravitatorio», compartida polo profesor Antonio González, inclúe unha guía didáctica de nove pasos e calcula o traballo entre dous puntos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, curvas de igual potencial arredor dunha masa con dous puntos, A e B, unidos por dous camiños distintos; á dereita, o mesmo potencial como un funil visto de lado, con A e B a dúas alturas e unha frecha vermella co rótulo «Mesmo traballo»: o traballo é o mesmo por calquera camiño.</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha actividade interactiva ensina a escribir os símbolos do teclado español</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/teclado-espanol.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/teclado-espanol.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A práctica, compartida por Toni Magraner, adestra símbolos, acentos e atallos cun modo de proba e outro de adestramento.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>Arriba, dúas filas dun teclado coa tecla do 2 e a tecla AltGr resaltadas en azul; debaixo, a combinación AltGr máis 2, cun signo igual en vermello, que dá como resultado o símbolo @.</media:description></media:content>
+  </item>
+  <item>
+    <title>Sincronizar cartafoles non é facer copia de seguranza, lembrou un fío sobre Syncthing.</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/breve-1.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Sincronizar cartafoles non é facer copia de seguranza, lembrou un fío sobre Syncthing. INCIBE recomenda a regra 3-2-1: tres copias, en dous soportes distintos e unha delas fóra da casa.</description>
+  </item>
+  <item>
+    <title>Docentes comparan como manter as mesmas skills e proxectos en varios ordenadores</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-30/skills-sincronizar.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Quen programa con asistentes de IA en varios equipos describe tres enfoques: repositorio Git, sincronización continua e un cartafol compartido na nube.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Dous ordenadores, cada un cun cartafol de skills, unidos por tres camiños: arriba, «Git», unha cadea de puntos que representa un repositorio; no medio, «Syncthing», dúas frechas de ida e volta da sincronización continua, e abaixo, «Nube», un cartafol compartido.</media:description></media:content>
+  </item>
+  <item>
+    <title>No grupo distinguiuse o vibe coding, crear recursos dixitais con IA e linguaxe natural, da IA axéntica,…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-30/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-30/breve-1.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>No grupo distinguiuse o vibe coding, crear recursos dixitais con IA e linguaxe natural, da IA axéntica, que persegue obxectivos de forma autónoma. É unha explicación de uso corrente, non unha definición oficial.</description>
+  </item>
+  <item>
+    <title>EDUmind ofrece ditados en galego e castelán con voces sintéticas de código aberto</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-29/dictados-voz-gallego.html</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Unha aplicación web gratuíta, creada por Luis Vilela Acuña, reúne ditados en galego e castelán para sexto de primaria, con voces sintéticas de licenza aberta.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Esquema dun ditado: un texto na pantalla da aula pasa a unha voz sintética, representada por unha onda de son coas etiquetas «Galego» e «Castelán», e a unha folla de regras imprimible; debaixo, tres selos de licenza aberta para textos, programa e modelos de voz.</media:description></media:content>
+  </item>
+  <item>
+    <title>Plec xera ditados despregables en catalán, con audio, para que o alumnado se autocorrixa</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/plec-dictados.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/plec-dictados.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Unha aplicación aberta crea listas de palabras ou pseudopalabras para ditar na aula, que se imprimen nun folio dobrado para que o alumnado corrixa as súas propias respostas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-28-plec-dictados.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres momentos: «Dítase», cun altofalante; «Escríbese», cun folio dobrado onde o alumnado anota as súas respostas coa solución oculta, e «Corríxese», co folio despregado, as respostas xunto á solución e marcas de acerto e de erro.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un prompt para crear leccións 3D interactivas inspiradas en «Every Joule»</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/everyjoule-prompt.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/everyjoule-prompt.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un membro dos grupos compartiu un prompt extenso para que unha IA xere unha lección interactiva en 3D co estilo dun libro de física sobre enerxía.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres pasos: «Prompt», unha folla cun oco descontinuo para o tema; «Libro 3D», un libro aberto cunha solapa levantada que deixa ver a resposta, e «Selo», cunha marca de comprobación ao completar a lección.</media:description></media:content>
+  </item>
+  <item>
+    <title>A documentación de GitHub indica que o profesorado verificado en GitHub Education pode acceder gratis a…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/breve-2.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A documentación de GitHub indica que o profesorado verificado en GitHub Education pode acceder gratis a Copilot Pro, e que a elixibilidade se reavalía cada mes.</description>
+  </item>
+</channel>
+</rss>

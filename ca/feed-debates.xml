@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diari d&#x27;IA Educativa · Debats</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed-debates.xml" rel="self" type="application/rss+xml"/>
+  <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
+  <language>ca</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Debats</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
+  <item>
+    <title>Docents debaten si cal l&#x27;autorització de les famílies per fer servir IA amb l&#x27;alumnat</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Un centre té limitada la IA generativa amb l&#x27;alumnat perquè algunes famílies no la van autoritzar; altres postures sostenen que n&#x27;hi ha prou amb informar. La normativa ho aclareix: cal informar les famílies, però entre els 14 i els 18 anys no cal el seu consentiment, tret que l&#x27;eina l&#x27;exigeixi.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Infografia en dos panells. A l&#x27;esquerra, «Menys de 14», amb una pissarra i el rètol «A Catalunya, el docent fa servir la IA». A la dreta, «De 14 a 18», amb quatre files: un megàfon, «Informar: sempre»; una balança, «Consentiment: no cal»; un document amb una marca de verificació, «Autorització: la recomana Catalunya»; i un document amb un llapis, «Obligatòria si l&#x27;eina la demana». A sota, una franja amb una persona ratllada: «Si una família s&#x27;hi oposa, només afecta el seu fill o filla».</media:description></media:content>
+  </item>
+  <item>
+    <title>Docents debaten l&#x27;anunci de Google que desactiva per defecte la IA i el cercador en comptes escolars</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Google ha anunciat que Gemini i la cerca amb IA estaran desactivats als comptes de l&#x27;alumnat de primària i secundària fins que els administradors els activin. Als grups, la notícia va obrir una discussió sobre qui decideix l&#x27;ús de la IA en un centre.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, un interruptor general de tot o res ratllat amb una creu vermella; a la dreta, quatre interruptors individuals (Gemini, Notebook, Classroom i Cerca), dos encesos en blau i dos apagats.</media:description></media:content>
+  </item>
+  <item>
+    <title>El professorat com a dissenyador de l&#x27;ensenyament centra el debat sobre la IA a l&#x27;aula</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Després d&#x27;una jornada sobre IA i educació, es planteja si el docent deixa de ser font d&#x27;informació i com evitar que l&#x27;alumnat delegui el seu raonament.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, «Font»: un docent transmet informació amb fletxes cap a tres estudiants; a la dreta, «Dissenyador i guia»: un altre docent amb un interrogant dissenya un recorregut d&#x27;etapes que porta a una bandera amb el rètol «Judici crític».</media:description></media:content>
+  </item>
+  <item>
+    <title>El sector editorial adverteix d&#x27;una «cacera de bruixes» pels detectors de textos amb IA</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Un reportatge de La Vanguardia recull acusacions d&#x27;ús d&#x27;IA basades en detectors que es contradiuen amb el temps. El debat arriba a l&#x27;educació: com comprovar l&#x27;autoria sense perseguir.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Balança que pesa, en un plat, «Detector», un informe de detector d&#x27;IA marcat amb un interrogant, i en l&#x27;altre, «Conversa i regles», la conversa amb la persona i unes regles clares d&#x27;ús; a baix, una lupa i el rètol «Indici, no prova».</media:description></media:content>
+  </item>
+  <item>
+    <title>Una publicació orienta les famílies quan la IA fa els deures</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Chema Falcó proposa una prova senzilla i una regla comuna per distingir fer servir la IA per aprendre de delegar-li l&#x27;aprenentatge.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-01-familias-deberes-ia.svg" medium="image" type="image/svg+xml"><media:description>Tres passos enllaçats amb fletxes, «Pensar», amb un llapis; «Preguntar», amb un globus de diàleg, i «Verificar», amb una marca de comprovació, i a sota un alumne que explica un full de deures, «Amb les teves paraules».</media:description></media:content>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Debates</title>
+  <link>https://diarioiaeducativa.github.io/gl/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/gl/feed-debates.xml" rel="self" type="application/rss+xml"/>
+  <description>A intelixencia artificial, contada desde tres comunidades docentes</description>
+  <language>gl</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Debates</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
+  <item>
+    <title>Docentes debaten se fai falta a autorización das familias para usar IA co alumnado</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/autorizacion-familias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/autorizacion-familias-ia.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Un centro ten limitada a IA xerativa co alumnado porque algunhas familias non a autorizaron; outras posturas sosteñen que abonda con informar. A normativa é clara: hai que informar as familias, pero entre os 14 e os 18 anos non fai falta o seu consentimento, agás que a ferramenta o esixa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Infografía en dous paneis. Á esquerda, «Menos de 14», cun encerado e o rótulo «En Cataluña, o docente manexa a IA». Á dereita, «De 14 a 18», con catro filas: un megáfono, «Informar: sempre»; unha balanza, «Consentimento: non fai falta»; un documento cunha marca de verificación, «Autorización: recoméndaa Cataluña»; e un documento cun lapis, «Obrigatoria se a ferramenta a pide». Debaixo, unha franxa cunha persoa riscada: «Se unha familia se opón, só afecta ao seu fillo ou filla».</media:description></media:content>
+  </item>
+  <item>
+    <title>Docentes debaten o anuncio de Google que desactiva por defecto a IA e o buscador nas contas escolares</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/google-ia-cuentas-escolares.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/google-ia-cuentas-escolares.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Google anunciou que Gemini e a busca con IA estarán desactivados nas contas do alumnado de primaria e secundaria ata que os administradores os activen. Nos grupos, a noticia abriu unha discusión sobre quen decide o uso da IA nun centro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, un interruptor xeral de todo ou nada riscado cun aspa vermella; á dereita, catro interruptores individuais (Gemini, Notebook, Classroom e Busca), dous acesos en azul e dous apagados.</media:description></media:content>
+  </item>
+  <item>
+    <title>O profesorado como deseñador do ensino centra o debate sobre a IA na aula</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Tras unha xornada sobre IA e educación, plantéxase se o docente deixa de ser fonte de información e como evitar que o alumnado delegue o seu razoamento.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, «Fonte»: un docente transmite información con frechas cara a tres estudantes; á dereita, «Deseñador e guía»: outro docente cunha interrogante deseña un percorrido de etapas que leva a unha bandeira co rótulo «Xuízo crítico».</media:description></media:content>
+  </item>
+  <item>
+    <title>O sector editorial advirte dunha «caza de bruxas» polos detectores de textos con IA</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Unha reportaxe de La Vanguardia recolle acusacións de uso de IA baseadas en detectores que se contradín co paso do tempo. O debate chega á educación: como comprobar a autoría sen perseguir.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Balanza que pesa, nun prato, «Detector», un informe de detector de IA marcado cun interrogante, e no outro, «Conversa e regras», a conversa coa persoa e unhas regras claras de uso; abaixo, unha lupa e o rótulo «Indicio, non proba».</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha publicación orienta as familias cando a IA fai os deberes</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Chema Falcó propón unha proba sinxela e unha regra común para distinguir usar a IA para aprender de delegarlle a aprendizaxe.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-familias-deberes-ia.svg" medium="image" type="image/svg+xml"><media:description>Tres pasos enlazados con frechas, «Pensar», cun lapis; «Preguntar», cun bocadillo, e «Verificar», cunha marca de comprobación, e debaixo un alumno que explica unha folla de deberes, «Coas túas palabras».</media:description></media:content>
+  </item>
+</channel>
+</rss>

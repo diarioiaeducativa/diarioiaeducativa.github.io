@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Multimedia</title>
+  <link>https://diarioiaeducativa.github.io/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/feed-multimedia.xml" rel="self" type="application/rss+xml"/>
+  <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
+  <language>es</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Multimedia</title><link>https://diarioiaeducativa.github.io/</link></image>
+  <item>
+    <title>Google Flow cobra en créditos por segundo los vídeos de Gemini Omni 1.2 Flash</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/omni-1-2-flash-creditos-flow.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/omni-1-2-flash-creditos-flow.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>La ayuda oficial de Flow detalla el coste de generar y editar clips con el modelo, que ya se puede elegir en la aplicación según comentaron en el grupo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-06-omni-1-2-flash-creditos-flow.svg" medium="image" type="image/svg+xml"><media:description>Gráfico de dos barras: la baja, con el rótulo «360p», lleva encima «1 crédito/s» y la alta, con el rótulo «720p», lleva «3 créditos/s». A la derecha, una claqueta de cine y, bajo unas monedas, el rótulo «50 al día».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google presenta Gemini Omni 1.2 Flash, que genera y edita vídeos de hasta 15 segundos</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-omni-1-2-flash.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-omni-1-2-flash.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>La nueva versión del modelo de vídeo de Google amplía la duración de los clips y permite refinarlos en varios turnos. En EduMedia-IAG se compartió el anuncio.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-05-gemini-omni-1-2-flash.svg" medium="image" type="image/svg+xml"><media:description>Dos barras comparan la duración: «Omni 1.1: 10 s» y, más larga, «Omni 1.2: 15 s». Debajo, tres cámaras de vídeo unidas por flechas con el rótulo «Turno a turno» muestran el clip refinado paso a paso, y una etiqueta con el rótulo «SynthID» marca la salida.</media:description></media:content>
+  </item>
+  <item>
+    <title>Una herramienta convierte el móvil y las gafas de realidad virtual en una cámara virtual para Blender</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Raül Torres describe cómo ha hecho, con ayuda de Claude, un sistema que graba movimientos de cámara reales en Blender para guiar después a un generador de vídeo con IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-04-camara-virtual-blender.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres pasos de izquierda a derecha: un móvil con un punto rojo y el rótulo REC, bajo el rótulo «Móvil o gafas»; una flecha hacia un cubo 3D con una cámara al final de una trayectoria de puntos, bajo el rótulo «Escena en Blender»; y otra flecha hacia un fotograma de vídeo con un paisaje, bajo el rótulo «Vídeo con IA».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un docente recomienda crear infografías en HTML y SVG antes que como imágenes generadas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/infografias-svg-html.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/infografias-svg-html.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Un miembro de Vibe Coding Educativo defiende que, para ilustrar conceptos, conviene que la IA genere formas SVG e iconos en una página HTML y que las imágenes generadas queden para cuando sean pedagógicamente necesarias.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Esquema en el que una «Idea» se bifurca en dos caminos: uno acaba en un bloque opaco tachado, la «Imagen generada», y otro en una infografía de formas e iconos, «HTML y SVG», de la que salen dos ventajas: «Lector de pantalla» y «Claro y oscuro».</media:description></media:content>
+  </item>
+  <item>
+    <title>Una web reúne vídeos de motion graphics con sus prompts y skills para agentes</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/motionvideo-skills.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/motionvideo-skills.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>MotionVideo ofrece vídeos hechos con IA acompañados del prompt, y skills que enseñan a un agente de programación a hacer diseño en movimiento.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-motionvideo-skills.svg" medium="image" type="image/svg+xml"><media:description>Tres cuadros enlazados por flechas: un prompt escrito, una skill con forma de ventana de terminal y un vídeo con botón de reproducción y una trayectoria de movimiento roja debajo.</media:description></media:content>
+  </item>
+  <item>
+    <title>Una webserie de terror hecha con IA documenta paso a paso su flujo de trabajo</title>
+    <link>https://diarioiaeducativa.github.io/2026-10-31/webserie-never-sleep-again.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-31/webserie-never-sleep-again.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>«Never Sleep Again», siete episodios publicados entre el 25 y el 31 de octubre, explica en su web cómo combina Blender, Claude, un generador de vídeo y DaVinci Resolve.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-31-webserie-never-sleep-again.svg" medium="image" type="image/svg+xml"><media:description>Esquema horizontal de cinco pasos: «Casa 3D», una casa modelada en 3D; «Referencia», un clip gris con el recorrido de cámara; «Vídeo IA», la generación de vídeo; «Revisión», con una flecha que vuelve atrás, y «Montaje», una línea de tiempo; debajo, una figura humana unida a todos los pasos.</media:description></media:content>
+  </item>
+</channel>
+</rss>

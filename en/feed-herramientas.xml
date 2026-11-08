@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · Tools</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-herramientas.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Tools</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>Anthropic proposes organising AI agents&#x27; memory into four layers with a periodic review</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>An Anthropic research text describes how to give an agent memory between sessions, and a teacher in the group has adapted their own system to that idea and explains it in an article with instructions.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Four stacked layers, from top to bottom labelled “Profile”, “Notes”, “Wiki” and “Conversations”, and a curved blue arrow rising from the conversations to the profile, next to a moon labelled “Night review”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini lets users export their interactive apps to a Google Sites site with one click</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>Google has made it possible to publish an interactive app created in the Gemini app as a Google Sites site. The group discussed how useful it really is for teachers.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Diagram: a speech bubble labelled “Gemini” leads, via an arrow labelled “One click”, to a web page with a padlock labelled “Private draft”; a second dashed arrow, crossed out in red, points to a dashed box labelled “Existing site”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Eductia offers a paid AI tool for preparing teaching materials in Catalonia</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>The service generates learning situations, activities and assessment instruments aligned with Catalan regulations, and raises the question of what it offers over a general-purpose AI.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Diagram in three layers: at the top, “Teacher”, a person in front of a web window; in the middle, “Eductia”, the service&#x27;s own layer with documents and chained steps; at the bottom, two model providers, “OpenAI” and “Anthropic”, connected by a dashed line ending in a red question mark, “Country?”, over the country where the data is processed.</media:description></media:content>
+  </item>
+</channel>
+</rss>

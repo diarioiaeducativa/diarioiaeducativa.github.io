@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diari d&#x27;IA Educativa · Biblioteca</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed-biblioteca.xml" rel="self" type="application/rss+xml"/>
+  <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
+  <language>ca</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Biblioteca</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
+  <item>
+    <title>Un comitè del MIT demana redissenyar objectius, avaluació i comunitat presencial davant d&#x27;una IA que ja resol gairebé qualsevol treball escrit</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/mit-comite-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/mit-comite-ia.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>El comitè ad hoc de l&#x27;Institut Tecnològic de Massachusetts proposa vuit principis i un conjunt de recomanacions per adaptar l&#x27;ensenyament universitari a la IA generativa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema amb una barra superior de vuit principis de la qual surten tres fletxes cap a tres columnes: processos educatius (examen oral, portafolis), comunitat (grup de persones) i estructures de suport (organigrama i eines).</media:description></media:content>
+  </item>
+  <item>
+    <title>Un informe per a la UNESCO proposa substituir «A quina edat?» per «Per a què i amb quina evidència?» a l&#x27;hora d&#x27;usar IA a l&#x27;aula</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/unesco-edad-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/unesco-edad-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Sonia Livingstone i tres coautores sostenen que no hi ha una única edat correcta per usar IA en educació i demanen decidir segons el desenvolupament infantil i uns objectius educatius clars.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>Un requadre amb la pregunta «A quina edat?» ratllada en vermell i una fletxa cap a tres preguntes en columna («Per a què?», «Condicions», «Evidència»); a sota, «Sobre / amb IA», una balança amb un llibre en un plat i una pantalla a l&#x27;altre.</media:description></media:content>
+  </item>
+  <item>
+    <title>El Fòrum Econòmic Mundial fixa set pràctiques perquè la IA sigui segura per a la infància sense tancar-li l&#x27;accés a l&#x27;aprenentatge</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/wef-infancia-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/wef-infancia-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Un document del setembre del 2026 de la Global Coalition for Digital Safety pren el benestar infantil, i no només l&#x27;absència d&#x27;incidents, com a objectiu, i proposa pràctiques per a qui dissenya IA i incentius perquè es compleixin.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>Un temple esquemàtic: el frontó porta «Benestar infantil»; a sota, «Set pràctiques», set columnes, i sobre una llosa, «Set incentius», set blocs amb icones (informe, contracte, moneda, matràs, edifici públic, cadenat i cicle) que el sostenen.</media:description></media:content>
+  </item>
+  <item>
+    <title>Catalunya fixa en 45 orientacions quins usos de la IA promoure i quins limitar als centres educatius</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/cat-orientacions-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/cat-orientacions-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>El Departament d’Educació i Formació Professional publica el setembre de 2026 una guia que desaconsella l&#x27;ús autònom d&#x27;IA general per menors de 14 anys, la qualificació amb IA i els detectors de text generat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dues columnes: a l&#x27;esquerra, «Menys de 14», un docent maneja la pantalla i l&#x27;alumnat observa; a la dreta, «De 14 a 18», l&#x27;alumne fa servir la pantalla amb un document d&#x27;autorització familiar. A sota, usos en avaluació: «Permès», crear instruments i corregir respostes tancades, i «Prohibit», qualificar i fer servir detectors.</media:description></media:content>
+  </item>
+  <item>
+    <title>Catalunya ofereix criteris per decidir quan una tecnologia aporta valor a primària i ESO, i situa la IA a 4t</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/cat-tecnologies-educatives.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/cat-tecnologies-educatives.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>La guia del Departament d’Educació situa la tecnologia al servei de l&#x27;aprenentatge amb taules de decisió, progressió per cicles, benestar digital i criteris de selecció de recursos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>Un embut amb «Set criteris» de decisió deixa sortir una fletxa cap a una escala de cinc graons, «Autonomia creixent» de l&#x27;alumnat; només l&#x27;últim graó apareix destacat: «IA a 4t», d&#x27;ESO.</media:description></media:content>
+  </item>
+</channel>
+</rss>

@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Diario de IA Educativa</title>
   <link>https://diarioiaeducativa.github.io/gl/</link>
   <atom:link href="https://diarioiaeducativa.github.io/gl/feed.xml" rel="self" type="application/rss+xml"/>
   <description>A intelixencia artificial, contada desde tres comunidades docentes</description>
   <language>gl</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
     <title>A idade para usar IA na aula depende de tres regras distintas: as das empresas, a lei e as administracións educativas</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-07/edad-ia-aula-tres-reglas.html</link>
@@ -13,6 +15,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>A reportaxe do domingo</category>
     <description>As condicións de cada servizo, a lei de protección de datos e algunhas administracións educativas fixan idades diferentes para usar intelixencia artificial, e a miúdo confúndense. Este reportaxe explica que di cada unha a 6 de novembro de 2026, por que a investigación pide cambiar a pregunta da idade pola da finalidade e como pode decidir un docente de primaria ou ESO que ferramenta usar, con que conta e quen a manexa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infografía sobre unha regra de idades de 0 a 18 anos, con marcas en 13, 14 e 18, en tres bloques. «Empresas»: «OpenAI e Microsoft: desde 13», cunha liña de 13 a 18; «Anthropic: desde 18», cun punto en 18; e «Gemini con conta do centro: todas as idades», cunha barra de 0 a 18. «Lei de datos»: «Consentimento propio: desde 14», cunha liña descontinua ata os 14 e continua desde aí; e «No centro, sen consentimento: función educativa», cunha barra de 0 a 18. «Algunhas administracións educativas»: «Cataluña: o docente manexa a IA», cunha liña vermella ata os 14, e «Desde 14: informar, autorización recomendable», cunha liña desde os 14; e «Euskadi: chatbots desde 13», cunha cruz antes dos 13 e unha liña desde aí; e «Murcia: acceso autónomo desde 3.º de ESO», cunha liña descontinua ata os 14 e continua desde aí. Ao pé, «Para que? Con que conta? Quen a manexa?».</media:description></media:content>
   </item>
   <item>
     <title>Anthropic propón organizar a memoria dos axentes de IA en catro capas cun repaso periódico</title>
@@ -21,6 +24,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>Ferramentas</category>
     <description>Un texto de investigación de Anthropic describe como dar memoria a un axente entre sesións, e un docente do grupo adaptou o seu sistema a esa idea e explícao nun artigo con instrucións.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Catro capas apiladas, de arriba abaixo cos rótulos «Perfil», «Notas», «Wiki» e «Conversacións», e unha frecha azul curva que sobe desde as conversacións ata o perfil, xunto a unha lúa co rótulo «Repaso nocturno».</media:description></media:content>
   </item>
   <item>
     <title>Holmio converte a táboa periódica nun xogo diario de detectives</title>
@@ -29,6 +33,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Cada día hai un caso novo con 118 sospeitosos, os elementos químicos, e seis acusacións para dar co culpable; segundo o seu autor, non require rexistro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>Unha cuadrícula de caselas que imita a táboa periódica, co rótulo «Caso do día» enriba e «118 elementos» debaixo; unha lupa azul sinala unha casela. Á dereita, seis círculos, un cunha cruz vermella, co rótulo «6 acusacións».</media:description></media:content>
   </item>
   <item>
     <title>Unha calculadora reparte a xornada do profesorado itinerante entre varios centros da Generalitat Valenciana</title>
@@ -37,6 +42,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Itinerancias, creada por José Luis Miralles Bono, calcula como se reparten as horas complementarias entre os centros dun docente que comparte destino, segundo as horas lectivas que imparte en cada un. Ábrese no navegador, en castelán e en valenciano, e ofrece tamén unha folla de Excel co mesmo cálculo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-07-itinerancias.jpg" medium="image" type="image/png"><media:description>Lapela «Tablas» de Itinerancias, con selector de horas complementarias e apartados despregables sobre o reparto proporcional e por bloques.</media:description></media:content>
   </item>
   <item>
     <title>Incluxat leva ao conservatorio as orientacións dos informes psicopedagóxicos</title>
@@ -45,6 +51,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Un asistente de IA adapta ao ensino musical unhas orientacións pensadas para centros ordinarios, coa súa base documental publicada para poder revisalo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>Un documento co rótulo «Informe», unha frecha cara a unha burbulla de chat co rótulo «Asistente» e outra frecha cara a un piano co rótulo «Conservatorio».</media:description></media:content>
   </item>
   <item>
     <title>Docentes debaten se fai falta a autorización das familias para usar IA co alumnado</title>
@@ -53,6 +60,7 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debates</category>
     <description>Un centro ten limitada a IA xerativa co alumnado porque algunhas familias non a autorizaron; outras posturas sosteñen que abonda con informar. A normativa é clara: hai que informar as familias, pero entre os 14 e os 18 anos non fai falta o seu consentimento, agás que a ferramenta o esixa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Infografía en dous paneis. Á esquerda, «Menos de 14», cun encerado e o rótulo «En Cataluña, o docente manexa a IA». Á dereita, «De 14 a 18», con catro filas: un megáfono, «Informar: sempre»; unha balanza, «Consentimento: non fai falta»; un documento cunha marca de verificación, «Autorización: recoméndaa Cataluña»; e un documento cun lapis, «Obrigatoria se a ferramenta a pide». Debaixo, unha franxa cunha persoa riscada: «Se unha familia se opón, só afecta ao seu fillo ou filla».</media:description></media:content>
   </item>
   <item>
     <title>Un docente substitúe a sirena do centro por un timbre musical que se xestiona desde unha folla de cálculo</title>
@@ -61,6 +69,7 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>David Cordones conta que, coa axuda de IA xerativa, montou cunha Raspberry Pi un timbre escolar que o claustro cambia desde Google Sheets.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-timbre-musical-escolar.svg" medium="image" type="image/svg+xml"><media:description>Esquema de esquerda a dereita: unha folla de cálculo co rótulo «Folla de cálculo», unha frecha cara a un chip co rótulo «Raspberry Pi» e outra frecha cara a un altofalante co rótulo «Megafonía». Debaixo do chip, un arquivo de música co rótulo «Cartafol MP3» e unha frecha que sobe cara á Raspberry Pi.</media:description></media:content>
   </item>
   <item>
     <title>Unha poxa de frases, unha guía de vibe coding responsable, química, música e libros ilustrados, novos no repositorio</title>
@@ -69,6 +78,7 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Desde o 27 de outubro, o Repositorio de recursos de Vibe Coding Educativo suma dezaseis recursos: dez xa tiveron o seu artigo no diario e seis preséntanse aquí, dous de Juan José de Haro, un de Felip Sarroca, un de FiQuiPedia e dous de Samuel Soriano.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-06-subasta-de-frases.jpg" medium="image" type="image/png"><media:description>Páxina de inicio de Subasta de frases, cos botóns «Crear una actividad» e «Unirse a una sesión» e tres tarxetas: Conocimiento, Valores y prioridades, Roles y conceptos.</media:description></media:content>
   </item>
   <item>
     <title>Anthropic prohibe na súa política de uso o maltrato sostido e gratuíto aos seus modelos</title>
@@ -77,6 +87,7 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Institucións e empresas</category>
     <description>A actualización, publicada o 8 de outubro de 2026, entra en vigor o 12 de novembro e aplicarase só en casos extremos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Unha barra horizontal dividida por unha raia vermella. Á esquerda, co rótulo «Permitido», tres bocadillos de conversa: dous cos rótulos «Frustración» e «Desacordo». Á dereita da raia, un bocadillo azul co rótulo «Crueldade repetida» e, debaixo, un calendario co rótulo «Desde o 12 nov».</media:description></media:content>
   </item>
   <item>
     <title>EDUmind MiClase, un caderno do profesorado de código aberto, garda os datos no dispositivo e sincroniza sen servidor propio</title>
@@ -85,6 +96,7 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>O seu autor detallou no grupo como sincroniza dous dispositivos e que funcións di ter engadido para avaliar segundo a LOMLOE.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-edumind-miclase-sincronizacion.svg" medium="image" type="image/svg+xml"><media:description>Un portátil co rótulo «Portátil» e un móbil co rótulo «Móbil», unidos por unha frecha de dobre sentido cun símbolo wifi e o rótulo «A mesma wifi». Debaixo, un servidor debuxado con trazo descontinuo e riscado cunha cruz vermella, co rótulo «Sen servidor».</media:description></media:content>
   </item>
   <item>
     <title>Google Flow cobra en créditos por segundo os vídeos de Gemini Omni 1.2 Flash</title>
@@ -93,6 +105,7 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimedia</category>
     <description>A axuda oficial de Flow detalla o custo de xerar e editar clips co modelo, que xa se pode elixir na aplicación segundo comentaron no grupo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-omni-1-2-flash-creditos-flow.svg" medium="image" type="image/svg+xml"><media:description>Gráfico de dúas barras: a baixa, co rótulo «360p», leva enriba «1 crédito/s» e a alta, co rótulo «720p», leva «3 créditos/s». Á dereita, unha claqueta de cinema e, baixo unhas moedas, o rótulo «50 ao día».</media:description></media:content>
   </item>
   <item>
     <title>Luis Vilela Acuña publicou o código aberto de Liga de Valores, a súa aplicación de ligas escolares de…</title>
@@ -117,6 +130,7 @@
     <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
     <category>Ferramentas</category>
     <description>Google habilitou que unha aplicación interactiva creada na app de Gemini se publique como un sitio de Google Sites. No grupo discutiuse a súa utilidade real para o profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un globo de conversa co rótulo «Gemini» leva unha frecha rotulada «Un clic» ata unha páxina web cun cadeado e o rótulo «Borrador privado»; unha segunda frecha de trazos, riscada en vermello, apunta a un recadro de trazos co rótulo «Sitio existente».</media:description></media:content>
   </item>
   <item>
     <title>MechSimulator reúne simuladores gratuítos de enxeñaría mecánica que se usan no navegador</title>
@@ -125,6 +139,7 @@
     <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Un membro do grupo destacou esta web de simulacións 2D e 3D como exemplo do que pode lograr unha soa persoa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-05-mechsimulator.svg" medium="image" type="image/svg+xml"><media:description>Unha xanela de navegador cunha engrenaxe, unha regra e unha chave, e unha curva de flexión debaixo, co rótulo «No navegador»; unha frecha leva a unha cuadrícula de puntos, un deles destacado en azul, co rótulo «Máis de 150».</media:description></media:content>
   </item>
   <item>
     <title>Fil i compte permite preparar fichas imprimibles de problemas de matemáticas en catalán e en castelán, con solucionario</title>
@@ -133,6 +148,7 @@
     <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Un banco de 252 problemas permite ao profesorado de Primaria e dos primeiros cursos da ESO elixir enunciados, ordenalos e imprimir a ficha ou gardala en PDF.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-05-fil-i-compte.jpg" medium="image" type="image/png"><media:description>Pantalla do banco de problemas con filtros de nivel, dificultade e contidos á esquerda e tarxetas de problemas en catalán á dereita.</media:description></media:content>
   </item>
   <item>
     <title>Google presenta Gemini Omni 1.2 Flash, que xera e edita vídeos de ata 15 segundos</title>
@@ -141,6 +157,7 @@
     <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimedia</category>
     <description>A nova versión do modelo de vídeo de Google amplía a duración dos clips e permite refinalos en varios turnos. En EduMedia-IAG compartiuse o anuncio.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-05-gemini-omni-1-2-flash.svg" medium="image" type="image/svg+xml"><media:description>Dúas barras comparan a duración: «Omni 1.1: 10 s» e, máis longa, «Omni 1.2: 15 s». Debaixo, tres cámaras de vídeo unidas por frechas co rótulo «Turno a turno» mostran o clip refinado paso a paso, e unha etiqueta co rótulo «SynthID» marca a saída.</media:description></media:content>
   </item>
   <item>
     <title>A páxina de XTEC sobre IA enlaza como documento de orientacións o de 2024, coa nota «Actualització…</title>
@@ -173,6 +190,7 @@
     <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimedia</category>
     <description>Raül Torres describe como fixo, coa axuda de Claude, un sistema que grava movementos de cámara reais en Blender para guiar despois un xerador de vídeo con IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-04-camara-virtual-blender.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres pasos de esquerda a dereita: un móbil cun punto vermello e o rótulo REC, baixo o rótulo «Móbil ou lentes»; unha frecha cara a un cubo 3D cunha cámara ao final dunha traxectoria de puntos, baixo o rótulo «Escena en Blender»; e outra frecha cara a un fotograma de vídeo cunha paisaxe, baixo o rótulo «Vídeo con IA».</media:description></media:content>
   </item>
   <item>
     <title>Un proxecto aberto ofrece 54 leccións interactivas en 3D de ciencias para bacharelato, en chinés</title>
@@ -181,6 +199,7 @@
     <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Tongjiang Lab reúne leccións de física, química, bioloxía e xeografía en ficheiros HTML que funcionan sen conexión; no grupo sinalouse como exemplo do que se poderá facer con IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-04-tongjiang-lab-3d.svg" medium="image" type="image/svg+xml"><media:description>Unha barra dividida en catro tramos de ancho proporcional, baixo o rótulo «54 leccións»; sobre cada tramo unha icona: un átomo sobre «Física», un matraz sobre «Química» (o tramo máis longo, en azul), unha hélice de ADN sobre «Bioloxía» (o máis curto) e un globo terráqueo sobre «Xeografía».</media:description></media:content>
   </item>
   <item>
     <title>Unha ferramenta forma ao chou os grupos base e de expertos da técnica Jigsaw</title>
@@ -189,6 +208,7 @@
     <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«Rompecabezas – Técnica Jigsaw» recibe a lista do alumnado e os subtemas e reparte os grupos de forma equilibrada. Ábrese no navegador e está dispoñible en cinco linguas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio cun cadro para escribir os nomes do alumnado, catro subtemas con cores, un campo de tema xeral e o botón «Formar grupos».</media:description></media:content>
   </item>
   <item>
     <title>Un editor de programación por bloques, baseado en TurboWarp e compatible con Scratch, para aprender a programar</title>
@@ -197,6 +217,7 @@
     <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>EduTicTac Blocs é un contorno de programación visual compatible con proxectos de Scratch e con modelos para a aula; segundo a súa web, sen publicidade nin rastreadores.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Proxecto de exemplo co botón «Ver dentro» e o escenario cos seus controis de bandeira, pausa e parada, un aviso verde de inicio e os botóns «Empieza con una plantilla» e «Explora la galería».</media:description></media:content>
   </item>
   <item>
     <title>Raül Torres compartiu en EduMedia-IAG un paseo en modo videoxogo por Girona feito con Claude, con lugares…</title>
@@ -213,6 +234,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debates</category>
     <description>Google anunciou que Gemini e a busca con IA estarán desactivados nas contas do alumnado de primaria e secundaria ata que os administradores os activen. Nos grupos, a noticia abriu unha discusión sobre quen decide o uso da IA nun centro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, un interruptor xeral de todo ou nada riscado cun aspa vermella; á dereita, catro interruptores individuais (Gemini, Notebook, Classroom e Busca), dous acesos en azul e dous apagados.</media:description></media:content>
   </item>
   <item>
     <title>Unha actividade gamificada leva o campo gravitatorio de 2.º de Bacharelato a nove misións orbitais</title>
@@ -221,6 +243,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«Misiones orbitales», de El profe de la bata, propón ao alumnado crear un astronauta e resolver nove misións con simuladores interactivos. A versión de práctica funciona no navegador, sen contas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta rodeado por unha órbita elíptica azul con nove puntos, un por misión («9 misións»), e á dereita tres estrelas que se obteñen cun erro inferior ao 5 % («Erro &lt; 5 %»).</media:description></media:content>
   </item>
   <item>
     <title>Un comité do MIT pide redeseñar obxectivos, avaliación e comunidade presencial ante unha IA que xa resolve case calquera traballo escrito</title>
@@ -229,6 +252,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>O comité ad hoc do Instituto Tecnolóxico de Massachusetts propón oito principios e un conxunto de recomendacións para adaptar o ensino universitario á IA xenerativa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema cunha barra superior de oito principios da que parten tres frechas cara a tres columnas: procesos educativos (exame oral, portfolio), comunidade (grupo de persoas) e estruturas de apoio (organigrama e ferramentas).</media:description></media:content>
   </item>
   <item>
     <title>Un laboratorio en catalán permite practicar a formulación inorgánica con preguntas, pistas e retos</title>
@@ -237,6 +261,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«Laboratori de formulació», creada por Felip Sarroca i Gil, ofrece exercicios de nomenclatura inorgánica para Secundaria e Bacharelato, con tres modos de traballo e marcador de progreso.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-laboratori-de-formulacio.jpg" medium="image" type="image/png"><media:description>Pantalla do modo Practica coa pregunta «Quina és la fórmula de: sulfur de bari» e catro opcións (BaS, Ba2S2, BaCl2, PbCl2), botóns de pista e solución, e á dereita a lista de tipos de actividade.</media:description></media:content>
   </item>
   <item>
     <title>FoQo xera tests de formulación orgánica e dá o nome dunha estrutura debuxada</title>
@@ -245,6 +270,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>A aplicación de FiQuiPedia permite practicar a nomenclatura de química orgánica con tests configurables e unha ferramenta que pasa da fórmula ao nome.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio titulada «Formulación Química» cos botóns Tests, F → N e Panel, logotipos de IUPAC e CAS, ligazóns a bibliotecas e unha fila de grupos funcionais.</media:description></media:content>
   </item>
   <item>
     <title>Un profesor de Xeografía crea con Gemini un contador de nacementos e mortes no mundo</title>
@@ -253,6 +279,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«Pulso Demográfico Mundial en Tiempo Real», de Ricardo Chao Prieto, simula ao ritmo real os nacementos e as defuncións de cada país a partir das proxeccións de poboación da ONU para 2026.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>Un globo terráqueo no centro cun contador de nacementos á esquerda, marcado cun máis azul, e outro de defuncións á dereita, cun menos, e unha frecha vermella cara a arriba que indica o crecemento neto.</media:description></media:content>
   </item>
   <item>
     <title>En EduMedia-IAG explicouse como usar as skills de MotionVideo: instálase a skill na IA, invócase e dáselle…</title>
@@ -277,6 +304,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimedia</category>
     <description>Un membro de Vibe Coding Educativo defende que, para ilustrar conceptos, convén que a IA xere formas SVG e iconas nunha páxina HTML e que as imaxes xeradas queden para cando sexan pedagoxicamente necesarias.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Esquema no que unha «Idea» se bifurca en dous camiños: un remata nun bloque opaco tachado, a «Imaxe xerada», e outro nunha infografía de formas e iconas, «HTML e SVG», da que saen dúas vantaxes: «Lector de pantalla» e «Claro e escuro».</media:description></media:content>
   </item>
   <item>
     <title>O MIT publica un informe que pide replantear ensino e avaliación ante a IA</title>
@@ -285,6 +313,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Institucións e empresas</category>
     <description>O comité creado polo MIT para estudar o uso da IA en docencia, aprendizaxe e formación en investigación recomenda procesos educativos adaptados á IA e revisar avaliacións e normas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>Un «Informe» do que parten tres ramas, cada unha coa súa icona: unha folla cunha marca, «Avaliación e normas»; dúas persoas, «Persoas e campus», e dúas frechas en círculo, «Mellora continua».</media:description></media:content>
   </item>
   <item>
     <title>O profesorado como deseñador do ensino centra o debate sobre a IA na aula</title>
@@ -293,6 +322,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debates</category>
     <description>Tras unha xornada sobre IA e educación, plantéxase se o docente deixa de ser fonte de información e como evitar que o alumnado delegue o seu razoamento.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, «Fonte»: un docente transmite información con frechas cara a tres estudantes; á dereita, «Deseñador e guía»: outro docente cunha interrogante deseña un percorrido de etapas que leva a unha bandeira co rótulo «Xuízo crítico».</media:description></media:content>
   </item>
   <item>
     <title>Dar acceso total a un axente de consola esixe protexer os datos do alumnado</title>
@@ -301,6 +331,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Un docente con experiencia explicou que pode facer un axente de IA con control completo dun equipo e que información convén manter fóra do seu alcance.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Unha xanela de terminal, o axente, ten unha frecha cara a un cartafol de traballo dentro dun equipo, mentres o seu camiño cara ao cartafol de datos do alumnado, cun cadeado, queda cortado por unha cruz vermella.</media:description></media:content>
   </item>
   <item>
     <title>Un informe para a UNESCO propón substituír «A que idade?» por «Para que e con que evidencia?» ao usar a IA na aula</title>
@@ -309,6 +340,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>Sonia Livingstone e tres coautoras sosteñen que non hai unha idade correcta única para usar a IA na educación e piden decidir segundo o desenvolvemento infantil e obxectivos educativos claros.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>Un recadro coa pregunta «A que idade?» riscada en vermello e unha frecha cara a tres preguntas en columna («Para que?», «Condicións», «Evidencia»); debaixo, «Sobre / con IA», unha balanza cun libro nun prato e unha pantalla no outro.</media:description></media:content>
   </item>
   <item>
     <title>O Foro Económico Mundial fixa sete prácticas para que a IA sexa segura para a infancia sen pecharlle o acceso á aprendizaxe</title>
@@ -317,6 +349,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>Un documento de setembro de 2026 da Global Coalition for Digital Safety toma o benestar infantil, e non só a ausencia de incidentes, como obxectivo, e propón prácticas para quen deseña IA e incentivos para que se cumpran.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>Un templo esquemático: o frontón leva «Benestar infantil»; debaixo, «Sete prácticas», sete columnas, e sobre unha lousa, «Sete incentivos», sete bloques con iconas (informe, contrato, moeda, matraz, edificio público, cadeado e ciclo) que o sosteñen.</media:description></media:content>
   </item>
   <item>
     <title>Cataluña fixa en 45 orientacións que usos da IA promover e cales limitar nos centros educativos</title>
@@ -325,6 +358,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>O Departament d’Educació i Formació Professional publica en setembro de 2026 unha guía que desaconsella o uso autónomo de IA xeral por menores de 14 anos, a cualificación con IA e os detectores de texto xerado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dúas columnas: á esquerda, «Menos de 14», un docente manexa a pantalla e o alumnado observa; á dereita, «De 14 a 18», o alumno usa a pantalla cun documento de autorización familiar. Debaixo, usos en avaliación: «Permitido», crear instrumentos e corrixir respostas pechadas, e «Prohibido», cualificar e usar detectores.</media:description></media:content>
   </item>
   <item>
     <title>Cataluña ofrece criterios para decidir cando unha tecnoloxía achega valor en primaria e ESO, e sitúa a IA en 4.º</title>
@@ -333,6 +367,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>A guía do Departament d’Educació sitúa a tecnoloxía ao servizo da aprendizaxe con táboas de decisión, progresión por ciclos, benestar dixital e criterios de selección de recursos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>Un funil con «Sete criterios» de decisión deixa saír unha frecha cara a unha escaleira de cinco chanzos, «Autonomía crecente» do alumnado; só o último chanzo aparece destacado: «IA en 4.º», de ESO.</media:description></media:content>
   </item>
   <item>
     <title>Unha web reúne vídeos de motion graphics cos seus prompts e skills para axentes</title>
@@ -341,6 +376,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimedia</category>
     <description>MotionVideo ofrece vídeos feitos con IA acompañados do prompt, e skills que ensinan a un axente de programación a facer deseño en movemento.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-motionvideo-skills.svg" medium="image" type="image/svg+xml"><media:description>Tres cadros unidos por frechas: un prompt escrito, unha skill con forma de xanela de terminal e un vídeo con botón de reprodución e unha traxectoria de movemento vermella debaixo.</media:description></media:content>
   </item>
   <item>
     <title>A web do novo libro de Ethan Mollick inclúe un «cursor con IA» que acompaña a lectura e pode desactivarse.</title>
@@ -357,6 +393,7 @@
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debates</category>
     <description>Unha reportaxe de La Vanguardia recolle acusacións de uso de IA baseadas en detectores que se contradín co paso do tempo. O debate chega á educación: como comprobar a autoría sen perseguir.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Balanza que pesa, nun prato, «Detector», un informe de detector de IA marcado cun interrogante, e no outro, «Conversa e regras», a conversa coa persoa e unhas regras claras de uso; abaixo, unha lupa e o rótulo «Indicio, non proba».</media:description></media:content>
   </item>
   <item>
     <title>Unha escola de Cataluña comparte unha aplicación para a autoavaliación do alumnado e a valoración docente</title>
@@ -365,6 +402,7 @@
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«La teva veu», creada por Felip Sarroca para a Escola Ramon Pont, xera informes en PDF para familias e profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Un grupo de figuras, «Alumnado», pasa por un funil coa cifra «15» e o rótulo «Mínimo de respostas», e chega a un informe con barras e unha liña de referencia, «Informe docente».</media:description></media:content>
   </item>
   <item>
     <title>Unha publicación orienta as familias cando a IA fai os deberes</title>
@@ -373,6 +411,7 @@
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debates</category>
     <description>Chema Falcó propón unha proba sinxela e unha regra común para distinguir usar a IA para aprender de delegarlle a aprendizaxe.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-familias-deberes-ia.svg" medium="image" type="image/svg+xml"><media:description>Tres pasos enlazados con frechas, «Pensar», cun lapis; «Preguntar», cun bocadillo, e «Verificar», cunha marca de comprobación, e debaixo un alumno que explica unha folla de deberes, «Coas túas palabras».</media:description></media:content>
   </item>
   <item>
     <title>O cliente de acceso compartido de rclone a Google Drive deixará de funcionar en 2026, segundo a súa…</title>
@@ -397,6 +436,7 @@
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
     <category>A reportaxe do domingo</category>
     <description>Os asistentes de intelixencia artificial xa non se limitan a responder: abren cartafoles, len o correo e actúan en nome de quen os usa. A Axencia Española de Protección de Datos acaba de publicar un decálogo para delegar sen perder o control. Este reportaxe explica que cambia, que din as empresas e as administracións e que pode configurar un docente antes de conceder permisos a un axente.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-agentes-ia-permisos-datos-alumnado.svg" medium="image" type="image/svg+xml"><media:description>Tres círculos que se cruzan, «Le contido alleo», «Datos sensibles» e «Actúa só»; nas intersecciones de dous, as salvagardas «Só lectura», «Sen nomes» e «Pedir confirmación», e no centro, onde coinciden os tres, un aspa vermello de «Risco inaceptable»; ao pé, unha tira con cinco iconas (ollo, caderno, cursor, sobre e dúas persoas) para as cinco preguntas da AEPD antes de delegar.</media:description></media:content>
   </item>
   <item>
     <title>Unha serie web de terror feita con IA documenta paso a paso o seu fluxo de traballo</title>
@@ -405,6 +445,7 @@
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimedia</category>
     <description>«Never Sleep Again», sete episodios publicados entre o 25 e o 31 de outubro, explica na súa web como combina Blender, Claude, un xerador de vídeo e DaVinci Resolve.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-webserie-never-sleep-again.svg" medium="image" type="image/svg+xml"><media:description>Esquema horizontal de cinco pasos: «Casa 3D», unha casa modelada en 3D; «Referencia», un clip gris co percorrido da cámara; «Vídeo IA», a xeración de vídeo; «Revisión», cunha frecha que volve atrás, e «Montaxe», unha liña de tempo; debaixo, unha figura humana unida a todos os pasos.</media:description></media:content>
   </item>
   <item>
     <title>Un laboratorio interactivo guía o alumnado de 2.º de Bacharelato polo potencial gravitatorio</title>
@@ -413,6 +454,7 @@
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>A aplicación «Mapa de potencial gravitatorio», compartida polo profesor Antonio González, inclúe unha guía didáctica de nove pasos e calcula o traballo entre dous puntos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, curvas de igual potencial arredor dunha masa con dous puntos, A e B, unidos por dous camiños distintos; á dereita, o mesmo potencial como un funil visto de lado, con A e B a dúas alturas e unha frecha vermella co rótulo «Mesmo traballo»: o traballo é o mesmo por calquera camiño.</media:description></media:content>
   </item>
   <item>
     <title>Unha actividade interactiva ensina a escribir os símbolos do teclado español</title>
@@ -421,6 +463,7 @@
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>A práctica, compartida por Toni Magraner, adestra símbolos, acentos e atallos cun modo de proba e outro de adestramento.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>Arriba, dúas filas dun teclado coa tecla do 2 e a tecla AltGr resaltadas en azul; debaixo, a combinación AltGr máis 2, cun signo igual en vermello, que dá como resultado o símbolo @.</media:description></media:content>
   </item>
   <item>
     <title>Sincronizar cartafoles non é facer copia de seguranza, lembrou un fío sobre Syncthing.</title>
@@ -437,6 +480,7 @@
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Ferramentas</category>
     <description>O servizo xera situacións de aprendizaxe, actividades e instrumentos de avaliación aliñados coa normativa catalá, e suscita a dúbida de que achega fronte a unha IA de uso xeral.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres capas: arriba, «Docente», unha persoa ante unha xanela web; no medio, «Eductia», a capa propia do servizo con documentos e pasos encadeados; abaixo, dous provedores de modelos, «OpenAI» e «Anthropic», conectados por unha liña descontinua que remata nun interrogante vermello, «País?», sobre o país onde se procesan os datos.</media:description></media:content>
   </item>
   <item>
     <title>A Comisión Europea actualiza DigCompEdu para incorporar a IA e o benestar dixital</title>
@@ -445,6 +489,7 @@
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Institucións e empresas</category>
     <description>O marco europeo de competencia dixital do profesorado está en revisión, con versión final prevista para a primavera de 2027 e consultas ao profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Seis círculos arredor dun centro, «Criterio», o criterio docente, rodeados por un anel descontinuo, «IA en todas», a IA presente en todo o marco; á dereita, «Benestar», un eixe con tres iconas: un reloxo, unha pantalla e un botón de apagado.</media:description></media:content>
   </item>
   <item>
     <title>Docentes comparan como manter as mesmas skills e proxectos en varios ordenadores</title>
@@ -453,6 +498,7 @@
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Quen programa con asistentes de IA en varios equipos describe tres enfoques: repositorio Git, sincronización continua e un cartafol compartido na nube.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Dous ordenadores, cada un cun cartafol de skills, unidos por tres camiños: arriba, «Git», unha cadea de puntos que representa un repositorio; no medio, «Syncthing», dúas frechas de ida e volta da sincronización continua, e abaixo, «Nube», un cartafol compartido.</media:description></media:content>
   </item>
   <item>
     <title>No grupo distinguiuse o vibe coding, crear recursos dixitais con IA e linguaxe natural, da IA axéntica,…</title>
@@ -469,6 +515,7 @@
     <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Unha aplicación web gratuíta, creada por Luis Vilela Acuña, reúne ditados en galego e castelán para sexto de primaria, con voces sintéticas de licenza aberta.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Esquema dun ditado: un texto na pantalla da aula pasa a unha voz sintética, representada por unha onda de son coas etiquetas «Galego» e «Castelán», e a unha folla de regras imprimible; debaixo, tres selos de licenza aberta para textos, programa e modelos de voz.</media:description></media:content>
   </item>
   <item>
     <title>Google presenta Gemini 4 Carbon, polo momento só para especialistas en ciberseguridade</title>
@@ -477,6 +524,7 @@
     <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     <category>Institucións e empresas</category>
     <description>Google DeepMind anunciou o seu novo modelo de fronteira, que por agora só usa un grupo reducido de profesionais da defensa informática. Non hai data para o público xeral.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>Escaleira de tres chanzos que sobe de esquerda a dereita: o primeiro, con unhas poucas persoas, é a defensa en ciberseguridade; o segundo, con máis persoas, os socios de confianza; o terceiro, en trazo descontinuo e cun cadeado entreaberto, queda marcado «sen data».</media:description></media:content>
   </item>
   <item>
     <title>Plec xera ditados despregables en catalán, con audio, para que o alumnado se autocorrixa</title>
@@ -485,6 +533,7 @@
     <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Unha aplicación aberta crea listas de palabras ou pseudopalabras para ditar na aula, que se imprimen nun folio dobrado para que o alumnado corrixa as súas propias respostas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-28-plec-dictados.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres momentos: «Dítase», cun altofalante; «Escríbese», cun folio dobrado onde o alumnado anota as súas respostas coa solución oculta, e «Corríxese», co folio despregado, as respostas xunto á solución e marcas de acerto e de erro.</media:description></media:content>
   </item>
   <item>
     <title>Un prompt para crear leccións 3D interactivas inspiradas en «Every Joule»</title>
@@ -493,6 +542,7 @@
     <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Un membro dos grupos compartiu un prompt extenso para que unha IA xere unha lección interactiva en 3D co estilo dun libro de física sobre enerxía.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres pasos: «Prompt», unha folla cun oco descontinuo para o tema; «Libro 3D», un libro aberto cunha solapa levantada que deixa ver a resposta, e «Selo», cunha marca de comprobación ao completar a lección.</media:description></media:content>
   </item>
   <item>
     <title>A AEPD publicou o 27 de outubro un decálogo para quen usa asistentes e axentes de IA.</title>

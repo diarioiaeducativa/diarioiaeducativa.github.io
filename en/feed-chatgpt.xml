@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · ChatGPT-IA-edu</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-chatgpt.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>The age for using AI in class depends on three different rules: those of the companies, the law and the education authorities</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>The Sunday feature</category>
+    <description>Each service’s terms, data protection law and some education authorities set different ages for using artificial intelligence, and they are often confused. This report explains what each says as of 6 November 2026, why research asks us to swap the question of age for the question of purpose, and how a primary or secondary teacher can decide which tool to use, with which account, and who operates it.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infographic on an age ruler from 0 to 18, with marks at 13, 14 and 18, in three blocks. “Companies”: “OpenAI and Microsoft: from 13”, with a line from 13 to 18; “Anthropic: from 18”, with a dot at 18; and “Gemini with a school account: all ages”, with a bar from 0 to 18. “Data law”: “Own consent: from 14”, with a dashed line up to 14 and a solid one after it; and “At school, no consent needed: educational function”, with a bar from 0 to 18. “Some education authorities”: “Catalonia: the teacher operates the AI”, with a red line up to 14, and “From 14: inform, authorisation advisable”, with a line from 14; and “Basque Country: chatbots from 13”, with a cross before 13 and a line after it; and “Murcia: autonomous access from Year 3 of ESO”, with a dashed line up to 14 and a solid one after it. At the foot, “What for? Which account? Who operates it?”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Anthropic proposes organising AI agents&#x27; memory into four layers with a periodic review</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>An Anthropic research text describes how to give an agent memory between sessions, and a teacher in the group has adapted their own system to that idea and explains it in an article with instructions.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Four stacked layers, from top to bottom labelled “Profile”, “Notes”, “Wiki” and “Conversations”, and a curved blue arrow rising from the conversations to the profile, next to a moon labelled “Night review”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Teachers debate whether families’ authorisation is needed to use AI with students</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>One school has limited generative AI with its students because some families did not authorise it; other views hold that simply informing them is enough. The rules are clear: families must be informed, but between 14 and 18 their consent is not needed unless the tool requires it.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Infographic in two panels. On the left, “Under 14”, with a whiteboard and the label “In Catalonia, the teacher operates the AI”. On the right, “14 to 18”, with four rows: a megaphone, “Inform: always”; a pair of scales, “Consent: not needed”; a document with a tick, “Authorisation: advised in Catalonia”; and a document with a pencil, “Compulsory if the tool requires it”. Below, a band with a crossed-out person: “If a family objects, it only affects their child”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Anthropic bans sustained, gratuitous abuse of its models in its usage policy</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The update, published on 8 October 2026, takes effect on 12 November and will be enforced only in extreme cases.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>A horizontal bar divided by a red line. On the left, labelled “Allowed”, three speech bubbles: two labelled “Frustration” and “Disagreement”. To the right of the line, a blue speech bubble labelled “Repeated cruelty” and, below it, a calendar labelled “From 12 Nov”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini lets users export their interactive apps to a Google Sites site with one click</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>Google has made it possible to publish an interactive app created in the Gemini app as a Google Sites site. The group discussed how useful it really is for teachers.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Diagram: a speech bubble labelled “Gemini” leads, via an arrow labelled “One click”, to a web page with a padlock labelled “Private draft”; a second dashed arrow, crossed out in red, points to a dashed box labelled “Existing site”.</media:description></media:content>
+  </item>
+  <item>
+    <title>The XTEC page on AI links to the 2024 document as its guidance, with the note “Actualització prevista:…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/breve-1.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>The XTEC page on AI links to the 2024 document as its guidance, with the note “Actualització prevista: des.26” (update expected: December 2026), and does not include the 45 guidelines from Catalonia that the paper reported.</description>
+  </item>
+  <item>
+    <title>Teachers debate Google’s announcement that switches off AI and search by default in school accounts</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/google-ia-cuentas-escolares.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/google-ia-cuentas-escolares.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Google has announced that Gemini and AI-powered search will be switched off in primary and secondary school student accounts until administrators turn them on. In the groups, the news sparked a discussion about who decides how AI is used in a school.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>On the left, an all-or-nothing master switch crossed out with a red X; on the right, four individual switches (Gemini, Notebook, Classroom and Search), two switched on in blue and two off.</media:description></media:content>
+  </item>
+  <item>
+    <title>An MIT committee calls for rethinking aims, assessment and the in-person community in the face of an AI that can already do almost any written work</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The ad hoc committee of the Massachusetts Institute of Technology proposes eight principles and a set of recommendations for adapting university teaching to generative AI.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram with a top bar of eight principles from which three arrows lead to three columns: educational processes (oral exam, portfolio), community (a group of people) and support structures (organisation chart and tools).</media:description></media:content>
+  </item>
+  <item>
+    <title>A Geography teacher uses Gemini to build a counter of births and deaths around the world</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“Pulso Demográfico Mundial en Tiempo Real”, by Ricardo Chao Prieto, simulates in real time the births and deaths in each country, based on the UN’s population projections for 2026.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>A globe in the centre with a births counter on the left, marked with a blue plus, and a deaths counter on the right, with a minus, and a red arrow pointing up to indicate net growth.</media:description></media:content>
+  </item>
+  <item>
+    <title>In the United States, the Los Angeles school district blocked students’ access to generative AI on their…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>In the United States, the Los Angeles school district blocked students’ access to generative AI on their devices in September, and the FCC is reviewing E-Rate subsidies for school internet connections amid the row over screen time. They were shared in the group as context for Google’s announcement.</description>
+  </item>
+  <item>
+    <title>MIT report calls for rethinking teaching and assessment in the age of AI</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The committee set up by MIT to study the use of AI in teaching, learning and research training recommends AI-aware educational processes and a review of assessments and policies.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>A “Report” from which three branches extend, each with its own icon: a sheet with a tick, “Assessment and rules”; two people, “People and campus”; and two arrows in a circle, “Continuous improvement”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Teachers as designers of learning are at the heart of the debate on AI in the classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>After a conference on AI and education, members ask whether teachers stop being a source of information and how to prevent students from delegating their reasoning.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>On the left, “Source”: a teacher transmits information with arrows towards three students; on the right, “Designer and guide”: another teacher with a question mark designs a route of stages leading to a flag labelled “Critical judgement”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A report for UNESCO proposes replacing “at what age?” with “for what purpose and on what evidence?” when using AI in the classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>Sonia Livingstone and three co-authors argue that there is no single right age for using AI in education and call for decisions based on child development and clear educational aims.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>A box with the question “At what age?” crossed out in red and an arrow towards three items in a column (“Purpose?”, “Conditions”, “Evidence”); below, “About / with AI”, a balance with a book in one pan and a screen in the other.</media:description></media:content>
+  </item>
+  <item>
+    <title>The World Economic Forum sets out seven practices to make AI safe for children without shutting them out of learning</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>A September 2026 document from the Global Coalition for Digital Safety takes children’s well-being, and not merely the absence of incidents, as its goal, and proposes practices for those who design AI and incentives to ensure they are followed.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>A schematic temple: the pediment reads “Child well-being”; below it, “Seven practices”, seven columns, and resting on a slab, “Seven incentives”, seven blocks with icons (report, contract, coin, flask, public building, padlock and cycle) holding it up.</media:description></media:content>
+  </item>
+  <item>
+    <title>Catalonia sets out 45 guidelines on which uses of AI to promote and which to limit in schools</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The Department of Education and Vocational Training publishes a guide in September 2026 that advises against autonomous use of general-purpose AI by under-14s, grading with AI and AI-text detectors.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Diagram in two columns: on the left, “Under 14”, a teacher operates the screen while students look on; on the right, “14 to 18”, a student uses the screen with a family authorisation form. Below, uses in assessment: “Permitted”, creating instruments and marking closed answers, and “Prohibited”, grading and using detectors.</media:description></media:content>
+  </item>
+  <item>
+    <title>Catalonia offers criteria for deciding when a technology adds value in primary and ESO, and places AI in the fourth year</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The Department of Education’s guide puts technology at the service of learning, with decision tables, progression by cycle, digital well-being and criteria for selecting resources.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>A funnel with “Seven criteria” for decision-making sends an arrow towards a staircase of five steps, “Growing autonomy” for students; only the top step is highlighted: “AI in year 4” of ESO.</media:description></media:content>
+  </item>
+  <item>
+    <title>Publishing industry warns of a “witch hunt” over AI text detectors</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>A La Vanguardia report describes accusations of AI use based on detectors whose verdicts contradict themselves over time. The debate reaches education: how to check authorship without hunting for culprits.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Scales weighing, in one pan, “Detector”, an AI detector report marked with a question mark, and in the other, “Conversation and rules”, a conversation with the person and clear rules of use; below, a magnifying glass and the label “Indication, not proof”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A publication offers guidance to families when AI does the homework</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Chema Falcó proposes a simple test and a shared rule for telling apart using AI to learn from handing the learning over to it.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-01-familias-deberes-ia.svg" medium="image" type="image/svg+xml"><media:description>Three steps linked by arrows: “Think”, with a pencil; “Ask”, with a speech bubble; and “Check”, with a tick; below, a student explaining a homework sheet, “In your own words”.</media:description></media:content>
+  </item>
+  <item>
+    <title>UVic-UCC co-organised a conference in Lleida on integrity in teaching and AI.</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-01/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/breve-2.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>UVic-UCC co-organised a conference in Lleida on integrity in teaching and AI. The university’s news item gives no specific conclusions.</description>
+  </item>
+  <item>
+    <title>Eductia offers a paid AI tool for preparing teaching materials in Catalonia</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>The service generates learning situations, activities and assessment instruments aligned with Catalan regulations, and raises the question of what it offers over a general-purpose AI.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Diagram in three layers: at the top, “Teacher”, a person in front of a web window; in the middle, “Eductia”, the service&#x27;s own layer with documents and chained steps; at the bottom, two model providers, “OpenAI” and “Anthropic”, connected by a dashed line ending in a red question mark, “Country?”, over the country where the data is processed.</media:description></media:content>
+  </item>
+  <item>
+    <title>European Commission updates DigCompEdu to include AI and digital wellbeing</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The European framework for teachers&#x27; digital competence is under revision, with a final version expected in spring 2027 and consultations with teachers.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Six circles around a centre, “Judgement”, teachers&#x27; professional judgement, surrounded by a dashed ring, “AI throughout”, AI present across the whole framework; on the right, “Wellbeing”, an axis with three icons: a clock, a screen and a power button.</media:description></media:content>
+  </item>
+  <item>
+    <title>Google unveils Gemini 4 Carbon, for now only for cybersecurity specialists</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>Google DeepMind has announced its new frontier model, which for now is used only by a small group of cyber-defence professionals. There is no date for the general public.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>A staircase of three steps rising from left to right: the first, with a few people, is cybersecurity defence; the second, with more people, is trusted partners; the third, dashed and with a half-open padlock, is marked “no date”.</media:description></media:content>
+  </item>
+  <item>
+    <title>On 27 October the AEPD (Spain’s data protection authority) published a ten-point guide for people who use…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-28/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/breve-1.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>On 27 October the AEPD (Spain’s data protection authority) published a ten-point guide for people who use AI assistants and agents. It recommends that the agent prepares and the person approves, with minimal permissions and confirmation before sending, sharing or paying.</description>
+  </item>
+</channel>
+</rss>

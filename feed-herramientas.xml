@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Herramientas</title>
+  <link>https://diarioiaeducativa.github.io/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/feed-herramientas.xml" rel="self" type="application/rss+xml"/>
+  <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
+  <language>es</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Herramientas</title><link>https://diarioiaeducativa.github.io/</link></image>
+  <item>
+    <title>Anthropic propone organizar la memoria de los agentes de IA en cuatro capas con un repaso periódico</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Un texto de investigación de Anthropic describe cómo dar memoria a un agente entre sesiones, y un docente del grupo ha adaptado su sistema a esa idea y lo explica en un artículo con instrucciones.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Cuatro capas apiladas, de arriba abajo con los rótulos «Perfil», «Notas», «Wiki» y «Conversaciones», y una flecha azul curva que sube desde las conversaciones hasta el perfil, junto a una luna con el rótulo «Repaso nocturno».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini permite exportar con un clic sus aplicaciones interactivas a un sitio de Google Sites</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Google ha habilitado que una aplicación interactiva creada en la app de Gemini se publique como un sitio de Google Sites. En el grupo se discutió su utilidad real para el profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un globo de conversación con el rótulo «Gemini» lleva una flecha rotulada «Un clic» hasta una página web con un candado y el rótulo «Borrador privado»; una segunda flecha de trazos, tachada en rojo, apunta a un recuadro de trazos con el rótulo «Sitio existente».</media:description></media:content>
+  </item>
+  <item>
+    <title>Eductia ofrece una IA de pago para preparar materiales docentes en Cataluña</title>
+    <link>https://diarioiaeducativa.github.io/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>El servicio genera situaciones de aprendizaje, actividades e instrumentos de evaluación alineados con la normativa catalana, y plantea la duda de qué aporta frente a una IA de uso general.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres capas: arriba, «Docente», una persona ante una ventana web; en medio, «Eductia», la capa propia del servicio con documentos y pasos encadenados; abajo, dos proveedores de modelos, «OpenAI» y «Anthropic», conectados por una línea discontinua que termina en un interrogante rojo, «¿País?», sobre el país donde se procesan los datos.</media:description></media:content>
+  </item>
+</channel>
+</rss>

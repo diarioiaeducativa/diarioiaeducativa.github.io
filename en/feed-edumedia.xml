@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · EduMedia-IAG</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-edumedia.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · EduMedia-IAG</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>Google Flow charges credits per second for Gemini Omni 1.2 Flash videos</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-06/omni-1-2-flash-creditos-flow.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/omni-1-2-flash-creditos-flow.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Flow’s official help page sets out the cost of generating and editing clips with the model, which can already be chosen in the app, according to comments in the group.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-omni-1-2-flash-creditos-flow.svg" medium="image" type="image/svg+xml"><media:description>Chart with two bars: the short one, labelled “360p”, has “1 credit/s” above it and the tall one, labelled “720p”, has “3 credits/s”. On the right, a film clapperboard and, beneath some coins, the label “50 a day”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Google unveils Gemini Omni 1.2 Flash, which generates and edits videos of up to 15 seconds</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/gemini-omni-1-2-flash.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/gemini-omni-1-2-flash.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>The new version of Google’s video model extends clip length and allows clips to be refined over several turns. The announcement was shared in EduMedia-IAG.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-05-gemini-omni-1-2-flash.svg" medium="image" type="image/svg+xml"><media:description>Two bars compare duration: “Omni 1.1: 10 s” and, longer, “Omni 1.2: 15 s”. Below, three video cameras joined by arrows labelled “Turn by turn” show the clip being refined step by step, and a tag labelled “SynthID” marks the output.</media:description></media:content>
+  </item>
+  <item>
+    <title>OpenAI unveiled Images 2.6, which, according to its announcement, speeds up image generation, allows GIFs…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/breve-2.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>OpenAI unveiled Images 2.6, which, according to its announcement, speeds up image generation, allows GIFs to be created in ChatGPT and improves editing. It was shared in EduMedia-IAG; OpenAI’s page would not load, so the official description was read from its preview.</description>
+  </item>
+  <item>
+    <title>Raül Torres, author of the virtual camera for Blender that the paper reported, posted an example made with…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-05/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/breve-3.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Raül Torres, author of the virtual camera for Blender that the paper reported, posted an example made with his VirtuCam tool and a Meta Quest 3 headset: five shots recorded in VR served as the camera reference for Seedance 2.5. According to him, the model followed the cuts almost frame by frame, although it added shots that were never recorded.</description>
+  </item>
+  <item>
+    <title>A tool turns a mobile phone and VR headset into a virtual camera for Blender</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-04/camara-virtual-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/camara-virtual-blender.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Raül Torres describes how, with help from Claude, he built a system that records real camera movements in Blender to then guide an AI video generator.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-04-camara-virtual-blender.svg" medium="image" type="image/svg+xml"><media:description>Three-step diagram from left to right: a phone with a red dot and the label REC, under the caption “Phone or headset”; an arrow to a 3D cube with a camera at the end of a dotted path, under the caption “Blender scene”; and another arrow to a video frame with a landscape, under the caption “AI video”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Raül Torres shared in EduMedia-IAG a video-game-style walk through Girona made with Claude, with places…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-04/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/breve-1.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Raül Torres shared in EduMedia-IAG a video-game-style walk through Girona made with Claude, with places taken from the real map and time travel from the Palaeolithic to 2026. It runs from the web and no public link is available.</description>
+  </item>
+  <item>
+    <title>In EduMedia-IAG, members explained how to use MotionVideo’s skills: you install the skill in the AI,…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/breve-1.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>In EduMedia-IAG, members explained how to use MotionVideo’s skills: you install the skill in the AI, invoke it and give it the instruction with the details of the video you want to create. Each example video on the site comes with its prompt, as the piece of 3 November reported.</description>
+  </item>
+  <item>
+    <title>A website gathers motion-graphics videos with their prompts and skills for agents</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/motionvideo-skills.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/motionvideo-skills.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>MotionVideo offers AI-made videos accompanied by their prompts, and skills that teach a coding agent how to do motion design.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-motionvideo-skills.svg" medium="image" type="image/svg+xml"><media:description>Three boxes linked by arrows: a written prompt, a skill shaped like a terminal window, and a video with a play button and a red motion path beneath it.</media:description></media:content>
+  </item>
+  <item>
+    <title>An AI-made horror web series documents its workflow step by step</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-31/webserie-never-sleep-again.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/webserie-never-sleep-again.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>“Never Sleep Again”, seven episodes released between 25 and 31 October, explains on its website how it combines Blender, Claude, a video generator and DaVinci Resolve.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-31-webserie-never-sleep-again.svg" medium="image" type="image/svg+xml"><media:description>Horizontal diagram in five steps: “3D house”, a house modelled in 3D; “Reference”, a grey clip showing the camera path; “AI video”, the video generation; “Review”, with an arrow looping back; and “Editing”, a timeline; below, a human figure connected to every step.</media:description></media:content>
+  </item>
+</channel>
+</rss>

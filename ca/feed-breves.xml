@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diari d&#x27;IA Educativa · Breus</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed-breves.xml" rel="self" type="application/rss+xml"/>
+  <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
+  <language>ca</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Breus</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
+  <item>
+    <title>Luis Vilela Acuña va publicar el codi obert de Liga de Valores, la seva aplicació de lligues escolars…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/breve-1.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Luis Vilela Acuña va publicar el codi obert de Liga de Valores, la seva aplicació de lligues escolars d&#x27;Educació Física en què també puntuen el joc net, l&#x27;arbitratge i la grada, amb un instal·lador per fer-la servir a la xarxa del centre sense servidor extern. La presenta en un article de la Revista Española de Educación Física y Deportes.</description>
+  </item>
+  <item>
+    <title>Antigravity, l&#x27;entorn de programació amb agents de Google, executa des de la versió 2.29 (3 de novembre)…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/breve-2.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Antigravity, l&#x27;entorn de programació amb agents de Google, executa des de la versió 2.29 (3 de novembre) projectes al núvol que es gestionen des del navegador, en lloc de fer-ho a l&#x27;ordinador mateix; segons el seu registre de canvis, s&#x27;està desplegant per als subscriptors de Google AI Pro i Ultra.</description>
+  </item>
+  <item>
+    <title>La pàgina de l&#x27;XTEC sobre IA enllaça com a document d&#x27;orientacions el de 2024, amb la nota «Actualització…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-05/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-05/breve-1.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La pàgina de l&#x27;XTEC sobre IA enllaça com a document d&#x27;orientacions el de 2024, amb la nota «Actualització prevista: des.26», i no recull les 45 orientacions de Catalunya que el diari va explicar.</description>
+  </item>
+  <item>
+    <title>OpenAI va presentar Images 2.6, que segons el seu anunci accelera la generació d&#x27;imatges, permet crear GIF…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-05/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-05/breve-2.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>OpenAI va presentar Images 2.6, que segons el seu anunci accelera la generació d&#x27;imatges, permet crear GIF a ChatGPT i millora l&#x27;edició. Es va compartir a EduMedia-IAG; la pàgina d&#x27;OpenAI no va carregar i la descripció oficial es va llegir en la seva vista prèvia.</description>
+  </item>
+  <item>
+    <title>Raül Torres, autor de la càmera virtual per a Blender que el diari va explicar, va publicar un exemple amb…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-05/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-05/breve-3.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Raül Torres, autor de la càmera virtual per a Blender que el diari va explicar, va publicar un exemple amb la seva eina VirtuCam i unes ulleres Meta Quest 3: cinc plans gravats en VR van servir de referència de càmera a Seedance 2.5. Segons ell, el model va seguir els talls quasi fotograma a fotograma, tot i que va afegir plans no gravats.</description>
+  </item>
+  <item>
+    <title>Raül Torres va compartir a EduMedia-IAG un passeig en mode videojoc per Girona fet amb Claude, amb llocs…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/breve-1.html</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Raül Torres va compartir a EduMedia-IAG un passeig en mode videojoc per Girona fet amb Claude, amb llocs presos del mapa real i viatge en el temps des del Paleolític fins al 2026. S&#x27;executa des del web i no consta enllaç públic.</description>
+  </item>
+  <item>
+    <title>A EduMedia-IAG es va explicar com fer servir les skills de MotionVideo: s&#x27;instal·la la skill a la IA,…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/breve-1.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>A EduMedia-IAG es va explicar com fer servir les skills de MotionVideo: s&#x27;instal·la la skill a la IA, s&#x27;invoca i se li dona la instrucció amb les dades del vídeo que es vol crear. Cada vídeo d&#x27;exemple del web porta el seu prompt, com explicava la peça del 3 de novembre.</description>
+  </item>
+  <item>
+    <title>Als Estats Units, el districte escolar de Los Angeles va bloquejar al setembre l&#x27;accés de l&#x27;alumnat a la…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/breve-2.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Als Estats Units, el districte escolar de Los Angeles va bloquejar al setembre l&#x27;accés de l&#x27;alumnat a la IA generativa als seus dispositius, i la FCC revisa els ajuts E-Rate a la connexió de les escoles en plena polèmica pel temps de pantalla. Al grup es van compartir com a context de l&#x27;anunci de Google.</description>
+  </item>
+  <item>
+    <title>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar. Al grup es va valorar com a idea per a la divulgació.</description>
+  </item>
+  <item>
+    <title>El client d&#x27;accés compartit de rclone a Google Drive deixarà de funcionar el 2026, segons la seva…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/breve-1.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>El client d&#x27;accés compartit de rclone a Google Drive deixarà de funcionar el 2026, segons la seva documentació (en anglès). Crear-ne un de propi, que a més evita el límit de consultes compartit, es considera ja obligatori.</description>
+  </item>
+  <item>
+    <title>La UVic-UCC va coorganitzar a Lleida una jornada sobre integritat en l&#x27;activitat docent i la IA.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/breve-2.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La UVic-UCC va coorganitzar a Lleida una jornada sobre integritat en l&#x27;activitat docent i la IA. La notícia de la universitat no recull conclusions concretes.</description>
+  </item>
+  <item>
+    <title>Sincronitzar carpetes no és fer còpia de seguretat, va recordar un fil sobre Syncthing.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-31/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-31/breve-1.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Sincronitzar carpetes no és fer còpia de seguretat, va recordar un fil sobre Syncthing. L&#x27;INCIBE recomana la regla 3-2-1: tres còpies, en dos suports diferents i una d&#x27;elles fora de casa.</description>
+  </item>
+  <item>
+    <title>Al grup es va distingir el vibe coding, crear recursos digitals amb IA i llenguatge natural, de la IA…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/breve-1.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Al grup es va distingir el vibe coding, crear recursos digitals amb IA i llenguatge natural, de la IA agèntica, que persegueix objectius de manera autònoma. És una explicació d&#x27;ús corrent, no una definició oficial.</description>
+  </item>
+  <item>
+    <title>L&#x27;AEPD va publicar el 27 d&#x27;octubre un decàleg per a qui fa servir assistents i agents d&#x27;IA.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/breve-1.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>L&#x27;AEPD va publicar el 27 d&#x27;octubre un decàleg per a qui fa servir assistents i agents d&#x27;IA. Recomana que l&#x27;agent prepari i la persona aprovi, amb els permisos justos i confirmació abans d&#x27;enviar, compartir o pagar.</description>
+  </item>
+  <item>
+    <title>La documentació de GitHub indica que el professorat verificat a GitHub Education pot accedir gratis a…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-28/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-28/breve-2.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La documentació de GitHub indica que el professorat verificat a GitHub Education pot accedir gratis a Copilot Pro, i que l&#x27;elegibilitat es reavalua cada mes.</description>
+  </item>
+</channel>
+</rss>

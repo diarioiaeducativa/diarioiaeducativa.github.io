@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Hezkuntzako AA Egunkaria · Tresnak</title>
+  <link>https://diarioiaeducativa.github.io/eu/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/eu/feed-herramientas.xml" rel="self" type="application/rss+xml"/>
+  <description>Adimen artifiziala, hiru irakasle-komunitatetatik kontatua</description>
+  <language>eu</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Tresnak</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
+  <item>
+    <title>Anthropic-ek AA agenteen memoria lau geruzatan antolatzea proposatu du, aldizkako errepasoarekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Anthropic-en ikerketa-testu batek azaltzen du nola eman memoria agente bati saioen artean, eta taldeko irakasle batek bere sistema ideia horretara egokitu du eta jarraibideekin azaltzen du artikulu batean.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Gainetik behera pilatutako lau geruza, «Profila», «Oharrak», «Wikia» eta «Elkarrizketak» izeneko errotuluekin, eta gezi urdin kurbatu bat elkarrizketetatik profilera igotzen dena, «Gaueko errepasoa» errotulua duen ilargi baten ondoan.</media:description></media:content>
+  </item>
+  <item>
+    <title>Geminik klik batekin esportatzen uzten du bere aplikazio interaktiboak Google Sites gune batera</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Googlek ahalbidetu du Gemini aplikazioan sortutako aplikazio interaktibo bat Google Sites gune gisa argitaratzea. Taldean, irakasleentzat zenbateko erabilgarritasun erreala duen eztabaidatu zen.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Eskema bat: «Gemini» errotulua duen elkarrizketa-globo batek «Klik bat» errotulua duen gezi bat darama «Zirriborro pribatua» errotulua eta giltzarrapo bat dituen web orri batera; trazu etenezko bigarren gezi bat, gorriz marratua, «Lehendik dagoen gunea» errotulua duen trazu etenezko laukizuzen batera doa.</media:description></media:content>
+  </item>
+  <item>
+    <title>Eductia-k ordainpeko AA eskaintzen du Katalunian irakasleek materialak prestatzeko</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Zerbitzuak Kataluniako araudiarekin bat datozen ikaskuntza-egoerak, jarduerak eta ebaluazio-tresnak sortzen ditu, eta zalantza pizten du: zer eskaintzen du helburu orokorreko AA batek ez duena?</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Hiru geruzako eskema: goian, «Irakaslea», web-leiho baten aurrean dagoen pertsona bat; erdian, «Eductia», zerbitzuaren geruza propioa, dokumentuekin eta elkarri lotutako urratsekin; behean, bi eredu-hornitzaile, «OpenAI» eta «Anthropic», marra etenez lotuak, eta marra hori galdera-ikur gorri batean amaitzen da, «Zein herrialde?», datuak zein herrialdetan prozesatzen diren adierazteko.</media:description></media:content>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · Library</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-biblioteca.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Library</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>An MIT committee calls for rethinking aims, assessment and the in-person community in the face of an AI that can already do almost any written work</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The ad hoc committee of the Massachusetts Institute of Technology proposes eight principles and a set of recommendations for adapting university teaching to generative AI.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram with a top bar of eight principles from which three arrows lead to three columns: educational processes (oral exam, portfolio), community (a group of people) and support structures (organisation chart and tools).</media:description></media:content>
+  </item>
+  <item>
+    <title>A report for UNESCO proposes replacing “at what age?” with “for what purpose and on what evidence?” when using AI in the classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>Sonia Livingstone and three co-authors argue that there is no single right age for using AI in education and call for decisions based on child development and clear educational aims.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>A box with the question “At what age?” crossed out in red and an arrow towards three items in a column (“Purpose?”, “Conditions”, “Evidence”); below, “About / with AI”, a balance with a book in one pan and a screen in the other.</media:description></media:content>
+  </item>
+  <item>
+    <title>The World Economic Forum sets out seven practices to make AI safe for children without shutting them out of learning</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>A September 2026 document from the Global Coalition for Digital Safety takes children’s well-being, and not merely the absence of incidents, as its goal, and proposes practices for those who design AI and incentives to ensure they are followed.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>A schematic temple: the pediment reads “Child well-being”; below it, “Seven practices”, seven columns, and resting on a slab, “Seven incentives”, seven blocks with icons (report, contract, coin, flask, public building, padlock and cycle) holding it up.</media:description></media:content>
+  </item>
+  <item>
+    <title>Catalonia sets out 45 guidelines on which uses of AI to promote and which to limit in schools</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The Department of Education and Vocational Training publishes a guide in September 2026 that advises against autonomous use of general-purpose AI by under-14s, grading with AI and AI-text detectors.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Diagram in two columns: on the left, “Under 14”, a teacher operates the screen while students look on; on the right, “14 to 18”, a student uses the screen with a family authorisation form. Below, uses in assessment: “Permitted”, creating instruments and marking closed answers, and “Prohibited”, grading and using detectors.</media:description></media:content>
+  </item>
+  <item>
+    <title>Catalonia offers criteria for deciding when a technology adds value in primary and ESO, and places AI in the fourth year</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The Department of Education’s guide puts technology at the service of learning, with decision tables, progression by cycle, digital well-being and criteria for selecting resources.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>A funnel with “Seven criteria” for decision-making sends an arrow towards a staircase of five steps, “Growing autonomy” for students; only the top step is highlighted: “AI in year 4” of ESO.</media:description></media:content>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Instituciones y empresas</title>
+  <link>https://diarioiaeducativa.github.io/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/feed-novedades.xml" rel="self" type="application/rss+xml"/>
+  <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
+  <language>es</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Instituciones y empresas</title><link>https://diarioiaeducativa.github.io/</link></image>
+  <item>
+    <title>Anthropic prohíbe en su política de uso el maltrato sostenido y gratuito a sus modelos</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>La actualización, publicada el 8 de octubre de 2026, entra en vigor el 12 de noviembre y se aplicará solo en casos extremos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Una barra horizontal dividida por una raya roja. A la izquierda, con el rótulo «Permitido», tres bocadillos de conversación: dos con los rótulos «Frustración» y «Desacuerdo». A la derecha de la raya, un bocadillo azul con el rótulo «Crueldad repetida» y, debajo, un calendario con el rótulo «Desde 12 nov».</media:description></media:content>
+  </item>
+  <item>
+    <title>El MIT publica un informe que pide replantear enseñanza y evaluación ante la IA</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>El comité creado por el MIT para estudiar el uso de la IA en docencia, aprendizaje y formación en investigación recomienda procesos educativos adaptados a la IA y revisar evaluaciones y normas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>Un «Informe» del que parten tres ramas, cada una con su icono: una hoja con una marca, «Evaluación y normas»; dos personas, «Personas y campus», y dos flechas en círculo, «Mejora continua».</media:description></media:content>
+  </item>
+  <item>
+    <title>La Comisión Europea actualiza DigCompEdu para incorporar la IA y el bienestar digital</title>
+    <link>https://diarioiaeducativa.github.io/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>El marco europeo de competencia digital del profesorado se está revisando, con versión final prevista para la primavera de 2027 y consultas al profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Seis círculos alrededor de un centro, «Criterio», el criterio docente, rodeados por un anillo discontinuo, «IA en todas», la IA presente en todo el marco; a la derecha, «Bienestar», un eje con tres iconos: un reloj, una pantalla y un botón de apagado.</media:description></media:content>
+  </item>
+  <item>
+    <title>Google presenta Gemini 4 Carbon, de momento solo para especialistas en ciberseguridad</title>
+    <link>https://diarioiaeducativa.github.io/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>Google DeepMind ha anunciado su nuevo modelo de frontera, que por ahora solo usa un grupo reducido de profesionales de la defensa informática. No hay fecha para el público general.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>Escalera de tres peldaños que sube de izquierda a derecha: el primero, con unas pocas personas, es la defensa en ciberseguridad; el segundo, con más personas, los socios de confianza; el tercero, en trazo discontinuo y con un candado entreabierto, queda marcado «sin fecha».</media:description></media:content>
+  </item>
+</channel>
+</rss>

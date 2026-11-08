@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · Features</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-reportajes.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Features</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>The age for using AI in class depends on three different rules: those of the companies, the law and the education authorities</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>The Sunday feature</category>
+    <description>Each service’s terms, data protection law and some education authorities set different ages for using artificial intelligence, and they are often confused. This report explains what each says as of 6 November 2026, why research asks us to swap the question of age for the question of purpose, and how a primary or secondary teacher can decide which tool to use, with which account, and who operates it.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infographic on an age ruler from 0 to 18, with marks at 13, 14 and 18, in three blocks. “Companies”: “OpenAI and Microsoft: from 13”, with a line from 13 to 18; “Anthropic: from 18”, with a dot at 18; and “Gemini with a school account: all ages”, with a bar from 0 to 18. “Data law”: “Own consent: from 14”, with a dashed line up to 14 and a solid one after it; and “At school, no consent needed: educational function”, with a bar from 0 to 18. “Some education authorities”: “Catalonia: the teacher operates the AI”, with a red line up to 14, and “From 14: inform, authorisation advisable”, with a line from 14; and “Basque Country: chatbots from 13”, with a cross before 13 and a line after it; and “Murcia: autonomous access from Year 3 of ESO”, with a dashed line up to 14 and a solid one after it. At the foot, “What for? Which account? Who operates it?”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Handing tasks to an AI agent means deciding first what it can see, remember and do</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
+    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+    <category>The Sunday feature</category>
+    <description>Artificial intelligence assistants no longer just answer questions: they open folders, read email and act on behalf of the people who use them. Spain’s data protection authority has just published a ten-point guide to delegating without losing control. This report explains what changes, what companies and administrations say, and what a teacher can configure before granting an agent any permissions.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-31-agentes-ia-permisos-datos-alumnado.svg" medium="image" type="image/svg+xml"><media:description>Three overlapping circles, “Reads others’ content”, “Sensitive data” and “Acts alone”; in the overlaps of two, the safeguards “Read-only”, “No names” and “Ask for confirmation”, and in the centre, where all three meet, a red cross marked “Unacceptable risk”; at the bottom, a strip of five icons (eye, notebook, cursor, envelope and two people) for the AEPD’s five questions before delegating.</media:description></media:content>
+  </item>
+</channel>
+</rss>

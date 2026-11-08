@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diari d&#x27;IA Educativa · Eines</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed-herramientas.xml" rel="self" type="application/rss+xml"/>
+  <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
+  <language>ca</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Eines</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
+  <item>
+    <title>Anthropic proposa organitzar la memòria dels agents d&#x27;IA en quatre capes amb una revisió periòdica</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Un text de recerca d&#x27;Anthropic descriu com donar memòria a un agent entre sessions, i un docent del grup ha adaptat el seu sistema a aquesta idea i l&#x27;explica en un article amb instruccions.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Quatre capes apilades, de dalt a baix amb els rètols «Perfil», «Notes», «Wiki» i «Converses», i una fletxa blava corba que puja des de les converses fins al perfil, al costat d&#x27;una lluna amb el rètol «Revisió nocturna».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini permet exportar amb un clic les seves aplicacions interactives a un lloc de Google Sites</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Google ha habilitat que una aplicació interactiva creada a l&#x27;app de Gemini es publiqui com a lloc de Google Sites. Al grup es va discutir la seva utilitat real per al professorat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un globus de conversa amb el rètol «Gemini» porta una fletxa rotulada «Un clic» fins a una pàgina web amb un cadenat i el rètol «Esborrany privat»; una segona fletxa de traços, ratllada en vermell, apunta a un requadre de traços amb el rètol «Lloc existent».</media:description></media:content>
+  </item>
+  <item>
+    <title>Eductia ofereix una IA de pagament per preparar materials docents a Catalunya</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>El servei genera situacions d&#x27;aprenentatge, activitats i instruments d&#x27;avaluació alineats amb la normativa catalana, i planteja el dubte de què aporta davant d&#x27;una IA d&#x27;ús general.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres capes: a dalt, «Docent», una persona davant d&#x27;una finestra web; al mig, «Eductia», la capa pròpia del servei amb documents i passos encadenats; a baix, dos proveïdors de models, «OpenAI» i «Anthropic», connectats per una línia discontínua que acaba en un interrogant vermell, «País?», sobre el país on es processen les dades.</media:description></media:content>
+  </item>
+</channel>
+</rss>

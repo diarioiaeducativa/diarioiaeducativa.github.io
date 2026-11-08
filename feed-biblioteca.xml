@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Biblioteca</title>
+  <link>https://diarioiaeducativa.github.io/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/feed-biblioteca.xml" rel="self" type="application/rss+xml"/>
+  <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
+  <language>es</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Biblioteca</title><link>https://diarioiaeducativa.github.io/</link></image>
+  <item>
+    <title>Un comité del MIT pide rediseñar objetivos, evaluación y comunidad presencial ante una IA que ya resuelve casi cualquier trabajo escrito</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-03/mit-comite-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/mit-comite-ia.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>El comité ad hoc del Instituto Tecnológico de Massachusetts propone ocho principios y un conjunto de recomendaciones para adaptar la enseñanza universitaria a la IA generativa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema con una barra superior de ocho principios de la que parten tres flechas hacia tres columnas: procesos educativos (examen oral, portafolio), comunidad (grupo de personas) y estructuras de apoyo (organigrama y herramientas).</media:description></media:content>
+  </item>
+  <item>
+    <title>Un informe para la UNESCO propone sustituir «¿a qué edad?» por «¿para qué y con qué evidencia?» al usar IA en el aula</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/unesco-edad-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/unesco-edad-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Sonia Livingstone y tres coautoras sostienen que no hay una edad correcta única para usar IA en educación y piden decidir según el desarrollo infantil y objetivos educativos claros.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>Un recuadro con la pregunta «¿A qué edad?» tachada en rojo y una flecha hacia tres preguntas en columna («¿Para qué?», «Condiciones», «Evidencia»); debajo, «Sobre / con IA», una balanza con un libro en un platillo y una pantalla en el otro.</media:description></media:content>
+  </item>
+  <item>
+    <title>El Foro Económico Mundial fija siete prácticas para que la IA sea segura para la infancia sin cerrarle el acceso al aprendizaje</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/wef-infancia-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/wef-infancia-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Un documento de septiembre de 2026 de la Global Coalition for Digital Safety toma el bienestar infantil, y no solo la ausencia de incidentes, como objetivo, y propone prácticas para quienes diseñan IA y incentivos para que se cumplan.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>Un templo esquemático: el frontón lleva «Bienestar infantil»; debajo, «Siete prácticas», siete columnas, y sobre una losa, «Siete incentivos», siete bloques con iconos (informe, contrato, moneda, matraz, edificio público, candado y ciclo) que lo sostienen.</media:description></media:content>
+  </item>
+  <item>
+    <title>Cataluña fija en 45 orientaciones qué usos de la IA promover y cuáles limitar en los centros educativos</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/cat-orientacions-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/cat-orientacions-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>El Departament d’Educació i Formació Professional publica en septiembre de 2026 una guía que desaconseja el uso autónomo de IA general por menores de 14 años, la calificación con IA y los detectores de texto generado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dos columnas: a la izquierda, «Menos de 14», un docente maneja la pantalla y el alumnado observa; a la derecha, «De 14 a 18», el alumno usa la pantalla con un documento de autorización familiar. Debajo, usos en evaluación: «Permitido», crear instrumentos y corregir respuestas cerradas, y «Prohibido», calificar y usar detectores.</media:description></media:content>
+  </item>
+  <item>
+    <title>Cataluña ofrece criterios para decidir cuándo una tecnología aporta valor en primaria y ESO, y sitúa la IA en 4.º</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-02/cat-tecnologies-educatives.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/cat-tecnologies-educatives.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>La guía del Departament d’Educació sitúa la tecnología al servicio del aprendizaje con tablas de decisión, progresión por ciclos, bienestar digital y criterios de selección de recursos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>Un embudo con «Siete criterios» de decisión deja salir una flecha hacia una escalera de cinco peldaños, «Autonomía creciente» del alumnado; solo el último peldaño aparece destacado: «IA en 4.º», de ESO.</media:description></media:content>
+  </item>
+</channel>
+</rss>

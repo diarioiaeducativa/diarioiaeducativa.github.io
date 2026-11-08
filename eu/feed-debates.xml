@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Hezkuntzako AA Egunkaria · Eztabaidak</title>
+  <link>https://diarioiaeducativa.github.io/eu/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/eu/feed-debates.xml" rel="self" type="application/rss+xml"/>
+  <description>Adimen artifiziala, hiru irakasle-komunitatetatik kontatua</description>
+  <language>eu</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Eztabaidak</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
+  <item>
+    <title>Irakasleek eztabaidatzen dute ikasleekin AA erabiltzeko familien baimena behar den</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/autorizacion-familias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/autorizacion-familias-ia.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>Ikastetxe batek mugatuta dauka AA sortzailea ikasleekin, familia batzuek ez dutelako baimendu; beste jarrera batzuen arabera, informatzea nahikoa da. Araudia argia da: familiei jakinarazi behar zaie, baina 14 eta 18 urte artean ez da haien adostasunik behar, tresnak eskatzen ez badu behintzat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Bi paneleko infografia. Ezkerrean, «14 urtetik behera», arbel batekin eta «Katalunian, AA irakasleak erabiltzen du» errotuluarekin. Eskuinean, «14-18 urte», lau errenkadarekin: megafono bat, «Informatu: beti»; balantza bat, «Adostasuna: ez da behar»; egiaztapen-marka duen dokumentu bat, «Baimena: Kataluniak gomendatzen du»; eta arkatza duen dokumentu bat, «Derrigorrezkoa tresnak eskatzen badu». Behean, pertsona marratu bat duen zerrenda: «Familia bat aurka badago, bere seme-alabari bakarrik eragiten dio».</media:description></media:content>
+  </item>
+  <item>
+    <title>Irakasleek eztabaidatzen dute Googlek ikastetxeetako kontuetan AA eta bilatzailea lehenespenez desaktibatzeko egindako iragarpena</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/google-ia-cuentas-escolares.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/google-ia-cuentas-escolares.html</guid>
+    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>Googlek iragarri du Gemini eta AAdun bilaketa desaktibatuta egongo direla lehen eta bigarren hezkuntzako ikasleen kontuetan, administratzaileek aktibatu arte. Taldeetan, albisteak eztabaida ireki zuen ikastetxe batean nork erabakitzen duen AAren erabilera.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>Ezkerrean, dena edo ezer ez motako etengailu orokor bat, aspa gorri batez gurutzatua; eskuinean, lau etengailu bereizi (Gemini, Notebook, Classroom eta Bilaketa), bi urdinez piztuta eta bi itzalita.</media:description></media:content>
+  </item>
+  <item>
+    <title>Irakasleak irakaskuntzaren diseinatzaile gisa, gelako AAren inguruko eztabaidaren muinean</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/docente-disenador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/docente-disenador.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>AA eta hezkuntzari buruzko jardunaldi baten ostean, galdetzen da irakaslea informazio-iturri izateari uzten ote dion eta nola saihestu ikasleek beren arrazoibidea delegatzea.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>Ezkerrean, «Iturria»: irakasle batek informazioa transmititzen du hiru ikasleri gezien bidez; eskuinean, «Diseinatzailea eta gida»: beste irakasle batek, galdera-ikur batekin, etapez osatutako ibilbide bat diseinatzen du, «Iritzi kritikoa» idatzita duen bandera batera eramaten duena.</media:description></media:content>
+  </item>
+  <item>
+    <title>Argitaletxe-sektoreak «sorginen ehiza» baten aurka ohartarazi du, AAz idatzitako testuen detektagailuengatik</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/detectores-caza-brujas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/detectores-caza-brujas.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>La Vanguardia egunkariko erreportaje batek AA erabiltzeaz egindako salaketak jasotzen ditu, denborarekin elkarren aurka doazen detektagailuetan oinarrituak. Eztabaida hezkuntzara iritsi da: nola egiaztatu egiletza jazarri gabe.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Balantza bat, ontzi batean «Detektagailua» duela, galdera-marka batez markatutako AA detektagailu baten txostena, eta bestean, «Elkarrizketa eta arauak», pertsonarekin egindako elkarrizketa eta erabilera-arau argi batzuk; behean, lupa bat eta «Zantzua, ez froga» lelo-azala.</media:description></media:content>
+  </item>
+  <item>
+    <title>Argitalpen batek familiak gidatzen ditu AAk etxeko lanak egiten dituenean</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/familias-deberes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/familias-deberes-ia.html</guid>
+    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eztabaidak</category>
+    <description>Chema Falcók proba sinple bat eta arau komun bat proposatzen ditu, ikasteko AA erabiltzea eta ikaskuntza hari delegatzea bereizteko.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-01-familias-deberes-ia.svg" medium="image" type="image/svg+xml"><media:description>Gezien bidez lotutako hiru urrats, «Pentsatu», arkatz batekin; «Galdetu», testu-globo batekin, eta «Egiaztatu», egiaztapen-marka batekin, eta azpian ikasle bat etxeko lanen orri bat azaltzen, «Zure hitzekin».</media:description></media:content>
+  </item>
+</channel>
+</rss>

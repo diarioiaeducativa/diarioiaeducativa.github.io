@@ -445,3 +445,56 @@ body.con-visor { overflow: hidden; }
 .comentarios h2 { margin: 0 0 0.4rem; font-size: 1.2rem; }
 .comentarios-aviso { margin: 0 0 1rem; color: var(--tinta-2); font-size: 0.95rem; }
 .comentarios-caja { min-height: 8rem; }
+/* «Para tu web» (ADR 0032): el botón de cada pieza y su menú, anclado a la fila de botones para que en
+   el móvil no se salga de la pantalla */
+.acciones { position: relative; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: flex-start; }
+.llevar { display: inline-flex; }
+.llevar-menu {
+  position: absolute; left: 0; top: calc(100% + 0.3rem); z-index: 20; display: block;
+  width: min(23rem, 100%); padding: 0.3rem 0; background: var(--papel);
+  border: 1px solid var(--filete); border-radius: 0.5rem; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.llevar-menu[hidden] { display: none; }
+.llevar-op {
+  appearance: none; display: block; width: 100%; text-align: left; border: 0; background: none; font: inherit;
+  color: var(--tinta); padding: 0.55rem 0.9rem; cursor: pointer; text-decoration: none;
+}
+.llevar-op b { display: block; font-weight: 600; font-size: 0.98rem; }
+.llevar-op span { display: block; font-size: 0.88rem; line-height: 1.35; color: var(--tinta-2); }
+.llevar-op:hover, .llevar-op:focus-visible { background: var(--papel-2); }
+.llevar-op.hecho span { color: var(--azul); font-weight: 600; }
+a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem; font-size: 0.92rem; text-decoration: underline; }
+.compartir.hecho { border-color: var(--azul); color: var(--azul); }
+/* La página «Para tu web»: el configurador al lado de su vista previa; debajo, el código y lo plegado */
+.pagina-ptw h2 { font-size: 1.35rem; margin: 1.6rem 0 0.4rem; }
+.pagina-ptw h3 { font-size: 1.05rem; margin: 1rem 0 0.4rem; }
+.ptw-rejilla { display: grid; gap: 1.2rem; align-items: start; }
+@media (min-width: 52rem) { .ptw-rejilla { grid-template-columns: minmax(16rem, 2fr) 3fr; } }
+.ptw-form { display: grid; grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr)); gap: 0.8rem 1rem; }
+.ptw-campo { margin: 0; padding: 0; border: 0; min-width: 0; }
+.ptw-campo label, .ptw-campo legend { display: block; font-weight: 600; font-size: 0.95rem; margin-bottom: 0.25rem; padding: 0; }
+.ptw-campo select, .ptw-campo input[type="number"] {
+  width: 100%; font: inherit; font-size: 1rem; padding: 0.35rem 0.5rem; min-height: 2.4rem;
+  border: 1px solid var(--filete); border-radius: 0.4rem; background: var(--papel); color: var(--tinta);
+}
+.ptw-opciones { display: flex; flex-direction: column; gap: 0.15rem; }
+.ptw-opciones label { font-weight: 400; display: flex; align-items: center; gap: 0.4rem; margin: 0; min-height: 2rem; }
+.ptw-resultado h3 { margin-top: 0; }
+.ptw-vista { padding: 0.8rem; background: var(--papel-2); border-radius: 0.5rem; }
+.ptw-vista iframe { display: block; width: 100%; max-width: 640px; margin: 0 auto; border: 0; }
+.ptw-codigo { margin-top: 1.2rem; }
+.ptw-codigo textarea {
+  display: block; width: 100%; margin: 0.3rem 0 0.6rem; padding: 0.6rem; resize: vertical;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.85rem; line-height: 1.45;
+  border: 1px solid var(--filete); border-radius: 0.4rem; background: var(--papel); color: var(--tinta);
+}
+.ptw-codigo p { margin: 0 0 0.6rem; }
+.ptw-nota { color: var(--tinta-2); font-size: 0.98rem; }
+.ptw-mas { margin: 1rem 0; border-top: 1px solid var(--filete); padding-top: 0.6rem; }
+.ptw-mas summary { cursor: pointer; font-weight: 600; font-size: 1.15rem; padding: 0.3rem 0; }
+.ptw-canales { list-style: none; margin: 0 0 0.6rem; padding: 0; }
+.ptw-canales li { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.8rem; padding: 0.45rem 0; border-bottom: 1px solid var(--filete); }
+.ptw-canales .nombre { font-weight: 600; min-width: 13rem; }
+.ptw-canales code { flex: 1 1 14rem; font-size: 0.85rem; overflow-wrap: anywhere; color: var(--tinta-2); }
+.ptw-canales .compartir { padding: 0.25rem 0.8rem; font-size: 0.88rem; }
+@media print { .acciones { display: none !important; } }

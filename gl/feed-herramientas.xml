@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Ferramentas</title>
+  <link>https://diarioiaeducativa.github.io/gl/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/gl/feed-herramientas.xml" rel="self" type="application/rss+xml"/>
+  <description>A intelixencia artificial, contada desde tres comunidades docentes</description>
+  <language>gl</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Ferramentas</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
+  <item>
+    <title>Anthropic propón organizar a memoria dos axentes de IA en catro capas cun repaso periódico</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/memoria-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/memoria-agentes-ia.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Ferramentas</category>
+    <description>Un texto de investigación de Anthropic describe como dar memoria a un axente entre sesións, e un docente do grupo adaptou o seu sistema a esa idea e explícao nun artigo con instrucións.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Catro capas apiladas, de arriba abaixo cos rótulos «Perfil», «Notas», «Wiki» e «Conversacións», e unha frecha azul curva que sobe desde as conversacións ata o perfil, xunto a unha lúa co rótulo «Repaso nocturno».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini permite exportar cun clic as súas aplicacións interactivas a un sitio de Google Sites</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-05/gemini-google-sites.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-05/gemini-google-sites.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Ferramentas</category>
+    <description>Google habilitou que unha aplicación interactiva creada na app de Gemini se publique como un sitio de Google Sites. No grupo discutiuse a súa utilidade real para o profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un globo de conversa co rótulo «Gemini» leva unha frecha rotulada «Un clic» ata unha páxina web cun cadeado e o rótulo «Borrador privado»; unha segunda frecha de trazos, riscada en vermello, apunta a un recadro de trazos co rótulo «Sitio existente».</media:description></media:content>
+  </item>
+  <item>
+    <title>Eductia ofrece unha IA de pago para preparar materiais docentes en Cataluña</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-10-30/eductia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-30/eductia.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Ferramentas</category>
+    <description>O servizo xera situacións de aprendizaxe, actividades e instrumentos de avaliación aliñados coa normativa catalá, e suscita a dúbida de que achega fronte a unha IA de uso xeral.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres capas: arriba, «Docente», unha persoa ante unha xanela web; no medio, «Eductia», a capa propia do servizo con documentos e pasos encadeados; abaixo, dous provedores de modelos, «OpenAI» e «Anthropic», conectados por unha liña descontinua que remata nun interrogante vermello, «País?», sobre o país onde se procesan os datos.</media:description></media:content>
+  </item>
+</channel>
+</rss>

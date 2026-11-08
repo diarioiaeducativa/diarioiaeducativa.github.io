@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Hezkuntzako AA Egunkaria · Erakundeak eta enpresak</title>
+  <link>https://diarioiaeducativa.github.io/eu/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/eu/feed-novedades.xml" rel="self" type="application/rss+xml"/>
+  <description>Adimen artifiziala, hiru irakasle-komunitatetatik kontatua</description>
+  <language>eu</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Erakundeak eta enpresak</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
+  <item>
+    <title>Anthropicek bere erabilera-politikan debekatu du bere ereduei etengabeko eta debaldeko tratu txarra ematea</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Erakundeak eta enpresak</category>
+    <description>2026ko urriaren 8an argitaratutako eguneratzea azaroaren 12an jarriko da indarrean eta muturreko kasuetan soilik aplikatuko da.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Marra gorri batek erdibitutako barra horizontal bat. Ezkerrean, «Baimenduta» errotuluarekin, hiru elkarrizketa-globo: bi «Frustrazioa» eta «Desadostasuna» errotuluekin. Marraren eskuinean, «Krudelkeria errepikatua» errotuluko globo urdin bat eta, azpian, «Azaroaren 12tik» errotuluko egutegi bat.</media:description></media:content>
+  </item>
+  <item>
+    <title>MITek txosten bat argitaratu du, AAren aurrean irakaskuntza eta ebaluazioa birplanteatzeko eskatzen duena</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/informe-mit-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/informe-mit-ia.html</guid>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Erakundeak eta enpresak</category>
+    <description>MITek irakaskuntzan, ikaskuntzan eta ikerketa-prestakuntzan AAren erabilera aztertzeko sortutako batzordeak AAra egokitutako hezkuntza-prozesuak gomendatzen ditu, eta ebaluazioak eta arauak berrikustea.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>«Txosten» bat, hiru adar dituena, bakoitza bere ikonoarekin: markadun orri bat, «Ebaluazioa eta arauak»; bi pertsona, «Pertsonak eta campusa», eta zirkuluan doazen bi gezi, «Etengabeko hobekuntza».</media:description></media:content>
+  </item>
+  <item>
+    <title>Europako Batzordeak DigCompEdu eguneratu du, AA eta ongizate digitala txertatzeko</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/digcompedu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/digcompedu.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Erakundeak eta enpresak</category>
+    <description>Irakasleen gaitasun digitalaren Europako esparrua berrikusten ari dira; azken bertsioa 2027ko udaberrirako espero da, eta irakasleei kontsultak egingo zaizkie.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Sei zirkulu erdigune baten inguruan, «Irizpidea», irakasleen irizpidea, eta marra etenezko eraztun batez inguratuak, «AA guztietan», AA esparru osoan presente dagoela adierazteko; eskuinean, «Ongizatea», hiru ikonoko ardatz bat: erloju bat, pantaila bat eta itzaltzeko botoi bat.</media:description></media:content>
+  </item>
+  <item>
+    <title>Googlek Gemini 4 Carbon aurkeztu du, oraingoz zibersegurtasuneko adituentzat bakarrik</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/gemini4carbon.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/gemini4carbon.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Erakundeak eta enpresak</category>
+    <description>Google DeepMindek bere muga-eredu berria iragarri du, eta oraingoz defentsa informatikoko profesional talde txiki batek bakarrik erabiltzen du. Publiko orokorrarentzat ez dago daturik.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>Hiru mailako eskailera, ezkerretik eskuinera igotzen dena: lehenengoak, pertsona gutxi batzuekin, zibersegurtasunaren defentsa adierazten du; bigarrenak, pertsona gehiagorekin, konfiantzazko bazkideak; hirugarrenak, marra etenez eta giltzarrapo erdi irekiarekin, «datarik gabe» markatuta dago.</media:description></media:content>
+  </item>
+</channel>
+</rss>
