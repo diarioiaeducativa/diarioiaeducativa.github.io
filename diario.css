@@ -498,3 +498,80 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 .ptw-canales code { flex: 1 1 14rem; font-size: 0.85rem; overflow-wrap: anywhere; color: var(--tinta-2); }
 .ptw-canales .compartir { padding: 0.25rem 0.8rem; font-size: 0.88rem; }
 @media print { .acciones { display: none !important; } }
+
+/* La semana y el mes (ADR 0034) */
+.semana-pag { max-width: 56rem; }
+.semana-rotulo { justify-content: flex-start; gap: 0.8rem; }
+.semana-rotulo .ico, .notebook h2 .ico, .semana-seccion h2 .ico, .con-nb .ico, .nb-pendiente .ico { width: 1.05em; height: 1.05em; vertical-align: -0.15em; }
+.semana-nav { margin: 0.2rem 0 1rem; font-size: 0.98rem; }
+.semana-nav a { color: var(--tinta); font-weight: 600; }
+.filtro-grupo { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 1.4rem; }
+.filtro-grupo button {
+  appearance: none; border: 1px solid var(--tinta); border-radius: 999px; background: transparent; color: var(--tinta);
+  padding: 0.4rem 1rem; font: inherit; font-size: 0.95rem; font-weight: 600; cursor: pointer;
+}
+.filtro-grupo button:hover { background: var(--papel-2); }
+.filtro-grupo button[aria-pressed="true"] { background: var(--tinta); color: var(--papel); }
+.notebook { margin: 0 0 1.8rem; padding: 1.1rem 1.2rem 1.2rem; background: var(--papel-2); border-top: 3px solid var(--azul); }
+.notebook h2 { margin: 0 0 0.3rem; font-size: 1.3rem; color: var(--azul); }
+.nb-txt { margin: 0 0 1rem; color: var(--tinta-2); font-size: 0.98rem; line-height: 1.5; }
+.nb-grupos { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.2rem 1.6rem; }
+.nb-grupo { max-width: 40rem; }
+.nb-grupo h3 { margin: 0 0 0.5rem; font-size: 1.1rem; }
+.nb-video { aspect-ratio: 16 / 9; background: #16181d; margin: 0 0 0.6rem; }
+.nb-video iframe { width: 100%; height: 100%; border: 0; display: block; }
+.nb-play {
+  appearance: none; width: 100%; height: 100%; border: 0; cursor: pointer; display: flex; flex-direction: column;
+  align-items: center; justify-content: center; gap: 0.4rem; background: #16181d; color: #fbfbf9; font: inherit; font-weight: 600;
+}
+.nb-play .ico { width: 3.2rem; height: 3.2rem; fill: none; stroke: currentColor; }
+.nb-play:hover .ico, .nb-play:focus-visible .ico { color: var(--rojo, #c8202c); }
+.nb-resumen { margin: 0 0 0.6rem; font-size: 0.98rem; line-height: 1.5; }
+.nb-rotulo { margin: 0.4rem 0 0.2rem; font-size: 0.9rem; font-weight: 600; color: var(--azul); }
+.nb-grupo audio { width: 100%; }
+.nb-enlaces { margin: 0.4rem 0 0; font-size: 0.92rem; }
+.nb-anteriores { margin: 0.9rem 0 0; font-size: 0.92rem; }
+.nb-anteriores span:not([hidden]) ~ span:not([hidden])::before { content: " · "; }
+.nb-pendiente { margin: 0 0 1.6rem; padding: 0.7rem 1rem; background: var(--papel-2); border-left: 3px solid var(--azul); color: var(--tinta-2); }
+.semana-pag > .editorial, .semana-pag > .reportaje-franja { margin-bottom: 1.6rem; }
+.semana-seccion { margin: 0 0 1.6rem; padding-top: 0.8rem; border-top: 3px solid var(--sec, var(--tinta)); }
+.semana-seccion h2 { margin: 0 0 0.4rem; font-size: 1.25rem; }
+.semana-seccion h2 a { color: var(--sec, var(--tinta)); text-decoration: none; }
+.semana-seccion h2 a:hover { text-decoration: underline; }
+.semana-lista { margin: 0; padding: 0; list-style: none; }
+.semana-lista li { padding: 0.55rem 0; border-top: 1px solid var(--filete); }
+.semana-lista li:first-child { border-top: 0; padding-top: 0.2rem; }
+.semana-lista li > a { font-weight: 700; color: var(--tinta); text-decoration: none; font-size: 1.08rem; }
+.semana-lista li > a:hover { text-decoration: underline; }
+.semana-lista .fecha-pieza { display: block; font-size: 0.88rem; }
+.semana-lista .entradilla { display: block; color: var(--tinta-2); font-size: 0.98rem; line-height: 1.45; margin-top: 0.15rem; }
+.semana-dias { margin-top: 2rem; }
+.semana-dias h2 { font-size: 1.2rem; margin: 0 0 0.4rem; }
+.semana-dias ul, .mes-semana ul.dias { margin: 0; padding: 0; list-style: none; }
+.semana-dias li, .hem-semana li, .mes-semana li { padding: 0.55rem 0; border-top: 1px solid var(--filete); }
+.semana-dias li > a, .hem-semana li > a, .mes-semana li > a { font-weight: 600; color: var(--tinta); text-decoration: none; }
+.dias .num { color: var(--tinta-2); font-style: italic; }
+.dias .abre { display: block; color: var(--tinta-2); font-size: 0.98rem; }
+.dias .abre a { color: var(--tinta-2); text-decoration: none; font-weight: 400; }
+.dias .abre a:hover, .dias li > a:hover { text-decoration: underline; }
+.dias .rep { display: inline-block; margin-right: 0.5rem; color: var(--azul); font-weight: 600; }
+.dias .rep::after { content: " ·"; }
+.hemeroteca h2 a { color: var(--tinta); text-decoration: none; }
+.hemeroteca h2 a:hover { text-decoration: underline; }
+.hem-semana { border-top: 1px solid var(--filete); }
+.hem-semana summary { cursor: pointer; padding: 0.6rem 0; font-weight: 700; font-size: 1.08rem; }
+.hem-semana summary .num { font-weight: 400; }
+.hem-semana[open] summary { padding-bottom: 0.2rem; }
+.hem-semana .leer, .mes-semana .leer { margin: 0 0 0.4rem; }
+.hem-semana .leer a, .mes-semana .leer a { color: var(--azul); font-weight: 600; }
+.hem-semana ul { padding-left: 1rem; margin-bottom: 0.8rem; }
+.con-nb { color: var(--azul); font-weight: 400; font-size: 0.95rem; }
+p.con-nb { margin: 0 0 0.3rem; }
+.mes-semana { margin-top: 1.6rem; }
+.mes-semana h2 { margin: 0 0 0.3rem; }
+.mes-semana h2 .num { font-size: 1rem; font-weight: 400; }
+.hem-boletines { margin-top: 2.4rem; padding-top: 1rem; border-top: 3px solid var(--tinta); }
+.hem-boletines h2 { margin-top: 0; }
+.hem-boletines p { margin: 0 0 0.4rem; color: var(--tinta-2); }
+.hem-boletines li { border-top: 0; padding: 0.2rem 0; }
+.hem-boletines ul { list-style: disc; padding-left: 1.2rem; }
