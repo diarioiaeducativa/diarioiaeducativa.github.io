@@ -531,6 +531,7 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 .nb-grupo audio { width: 100%; }
 .nb-enlaces { margin: 0.4rem 0 0; font-size: 0.92rem; }
 .nb-anteriores { margin: 0.9rem 0 0; font-size: 0.92rem; }
+.nb-anteriores.suelta { margin: 0 0 2rem; }
 .nb-anteriores span:not([hidden]) ~ span:not([hidden])::before { content: " · "; }
 .nb-pendiente { margin: 0 0 1.6rem; padding: 0.7rem 1rem; background: var(--papel-2); border-left: 3px solid var(--azul); color: var(--tinta-2); }
 .semana-pag > .editorial, .semana-pag > .reportaje-franja { margin-bottom: 1.6rem; }
