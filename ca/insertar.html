@@ -59,7 +59,7 @@ body.w { margin: 0; background: transparent; font-size: 1rem; line-height: 1.4; 
   var q=new URLSearchParams(location.search), sec=q.get('seccion')||'', gr=q.get('grupo')||'', pieza=q.get('pieza')||'';
   if(CLAVES.indexOf(sec)<0) sec=''; if(!GR[gr]) gr='';
   if(!/^\d{4}-\d{2}-\d{2}\/[\w-]+$/.test(pieza)) pieza='';
-  var n=Math.min(20,Math.max(1,parseInt(q.get('n'),10)||5)), estilo=q.get('estilo')==='tarjetas'?'tarjetas':'lista';
+  var n=Math.min(20,Math.max(1,parseInt(q.get('n'),10)||5)), estilo=q.get('estilo')==='lista'?'lista':'tarjetas';   // por defecto, tarjetas con dibujo
   var caja=document.getElementById('contenido'), mas=document.getElementById('mas'), filtro=document.getElementById('filtro');
   function el(t,c,x){var e=document.createElement(t); if(c)e.className=c; if(x!=null)e.textContent=x; return e;}
   function enlace(it,c){var a=el('a',c,it.titular); a.href=it.url; a.target='_blank'; a.rel='noopener'; return a;}
