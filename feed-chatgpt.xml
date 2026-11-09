@@ -70,6 +70,15 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Una barra horizontal dividida por una raya roja. A la izquierda, con el rótulo «Permitido», tres bocadillos de conversación: dos con los rótulos «Frustración» y «Desacuerdo». A la derecha de la raya, un bocadillo azul con el rótulo «Crueldad repetida» y, debajo, un calendario con el rótulo «Desde 12 nov».</media:description></media:content>
   </item>
   <item>
+    <title>Las presentaciones de NotebookLM, que no se podían retocar, ahora se revisan diapositiva a diapositiva</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>Hace un año, quien quería una presentación editable tenía que salir de NotebookLM. Hoy la herramienta, que ya ni se llama así, hace diapositivas, las corrige por encargo y las exporta a PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: una diapositiva con un triángulo de reproducción y un candado, rotulada «Vídeo cerrado». A la derecha, «Hoy»: la misma diapositiva, en azul, con líneas de texto y un lápiz, rotulada «Se edita».</media:description></media:content>
+  </item>
+  <item>
     <title>Gemini permite exportar con un clic sus aplicaciones interactivas a un sitio de Google Sites</title>
     <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</guid>

@@ -36,6 +36,15 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Home screen of Calendari with four cards: official calendar of the Valencian Community, create a new calendar, import from a file and view published calendars.</media:description></media:content>
   </item>
   <item>
+    <title>A word cloud with a “backend” in a single prompt: today Claude’s new artifacts save data without being published</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, a word cloud built with Claude stored everyone’s votes from a single prompt. Today the new artifacts save data without needing to be published.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>A word cloud with a “backend” in a single prompt: today Claude’s new artifacts save data without being published</media:description></media:content>
+  </item>
+  <item>
     <title>The BBC tested AI toys for young children: one of the soft toys replied “I can&#x27;t help with killing you”…</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-08/breve-1.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/breve-1.html</guid>
@@ -97,6 +106,15 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>A document labelled “Report”, an arrow to a chat bubble labelled “Assistant” and another arrow to a piano labelled “Conservatoire”.</media:description></media:content>
   </item>
   <item>
+    <title>From the character who warped within eight seconds to models that keep them the same from scene to scene</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/veo-consistencia-personajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/veo-consistencia-personajes.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, animating a character with Veo 3 meant cutting the clip before it stopped looking like itself. Today Google promises to keep it consistent from scene to scene.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-veo-consistencia-personajes.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: an “8 s” bar with one character at the start and, after the cut, another drawn warped and in dashes. On the right, “Today”: a longer “15 s” bar with the same character repeated three times, identical, in blue.</media:description></media:content>
+  </item>
+  <item>
     <title>Teachers debate whether families’ authorisation is needed to use AI with students</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</guid>
@@ -149,6 +167,15 @@
     <category>Multimedia</category>
     <description>Flow’s official help page sets out the cost of generating and editing clips with the model, which can already be chosen in the app, according to comments in the group.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-omni-1-2-flash-creditos-flow.svg" medium="image" type="image/svg+xml"><media:description>Chart with two bars: the short one, labelled “360p”, has “1 credit/s” above it and the tall one, labelled “720p”, has “3 credits/s”. On the right, a film clapperboard and, beneath some coins, the label “50 a day”.</media:description></media:content>
+  </item>
+  <item>
+    <title>NotebookLM presentations, once impossible to tweak, can now be revised slide by slide</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>A year ago, anyone wanting an editable presentation had to leave NotebookLM. Today the tool, which no longer even goes by that name, makes slides, amends them on request and exports them to PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a slide with a play triangle and a padlock, labelled “Video locked”. On the right, “Today”: the same slide, in blue, with lines of text and a pencil, labelled “Editable”.</media:description></media:content>
   </item>
   <item>
     <title>Luis Vilela Acuña released the open-source code of Liga de Valores, his app for school Physical Education…</title>

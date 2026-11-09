@@ -297,6 +297,13 @@
 .reportaje-franja .seccion { margin-bottom: 0.3rem; }
 .reportaje-franja .antetitulo { color: var(--azul); }
 .portada > .reportaje-franja + .reportaje-franja { margin-top: 0; }
+/* «Hace un año» (ADR 0040): recuadro sepia a todo el ancho, el díptico a la izquierda y el texto a la derecha */
+.hace-un-ano-franja { background: var(--t-hace-un-ano); border-left-color: var(--c-hace-un-ano); margin-top: 1.8rem; }
+.hace-un-ano-franja .seccion { margin-bottom: 0.3rem; }
+.hace-un-ano-franja .antetitulo { color: var(--c-hace-un-ano); }
+.hace-un-ano-franja .titular { font-size: clamp(1.35rem, 2.4vw, 1.8rem); }
+.hace-un-ano-franja.sin-ilu { grid-template-columns: minmax(0, 1fr); }
+.hace-un-ano-franja .ilu { background: var(--papel) !important; }
 .reportaje .ladillo { font-size: 1.35rem; margin: 2rem 0 0.6rem; font-variation-settings: "opsz" 36; }
 /* Nota de corrección de una pieza ya publicada */
 .correccion { margin: 1.4rem 0 0; padding: 0.7rem 1rem; border-left: 4px solid var(--rojo); background: var(--papel-2); font-size: 0.95rem; font-style: italic; color: var(--tinta-2); }

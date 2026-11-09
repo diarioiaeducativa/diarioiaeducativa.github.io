@@ -36,6 +36,15 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio de Calendari con catro tarxetas: calendario oficial da Comunitat Valenciana, crear calendario novo, importar desde ficheiro e ver calendarios publicados.</media:description></media:content>
   </item>
   <item>
+    <title>Unha nube de votos con «backend» nun só prompt: hoxe os artefactos novos de Claude gardan datos sen publicarse</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>En novembro de 2025, unha nube de palabras feita con Claude gardaba os votos de todos cun só prompt. Hoxe os artefactos novos gardan datos sen necesidade de publicalos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptico. Á esquerda, «Nov. 2025»: unha aplicación con barras de votos, unha base de datos cun cadeado e o rótulo «Só publicado». Á dereita, «Hoxe»: a mesma aplicación, coa base de datos marcada cun sinal de visto e o rótulo «Sen publicar».</media:description></media:content>
+  </item>
+  <item>
     <title>A BBC probou xoguetes con IA para nenos pequenos: un dos peluches respondeu «I can&#x27;t help with killing…</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-08/breve-1.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-08/breve-1.html</guid>
@@ -97,6 +106,15 @@
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>Un documento co rótulo «Informe», unha frecha cara a unha burbulla de chat co rótulo «Asistente» e outra frecha cara a un piano co rótulo «Conservatorio».</media:description></media:content>
   </item>
   <item>
+    <title>Do personaxe que se desfiguraba en oito segundos aos modelos que o conservan de escena en escena</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/veo-consistencia-personajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/veo-consistencia-personajes.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>En novembro de 2025, animar un personaxe con Veo 3 obrigaba a cortar o clip antes de que deixase de parecerse a si mesmo. Hoxe Google promete conservalo de escena en escena.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-veo-consistencia-personajes.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por unha liña vertical. Á esquerda, «Nov. 2025»: unha barra de «8 s» cun personaxe ao principio e, tras o corte, outro debuxado deformado e a trazos. Á dereita, «Hoxe»: unha barra máis longa de «15 s» co mesmo personaxe repetido tres veces, idéntico, en azul.</media:description></media:content>
+  </item>
+  <item>
     <title>Docentes debaten se fai falta a autorización das familias para usar IA co alumnado</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-06/autorizacion-familias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/autorizacion-familias-ia.html</guid>
@@ -149,6 +167,15 @@
     <category>Multimedia</category>
     <description>A axuda oficial de Flow detalla o custo de xerar e editar clips co modelo, que xa se pode elixir na aplicación segundo comentaron no grupo.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-omni-1-2-flash-creditos-flow.svg" medium="image" type="image/svg+xml"><media:description>Gráfico de dúas barras: a baixa, co rótulo «360p», leva enriba «1 crédito/s» e a alta, co rótulo «720p», leva «3 créditos/s». Á dereita, unha claqueta de cinema e, baixo unhas moedas, o rótulo «50 ao día».</media:description></media:content>
+  </item>
+  <item>
+    <title>As presentacións de NotebookLM, que non se podían retocar, agora revísanse diapositiva a diapositiva</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>Hai un ano, quen quería unha presentación editable tiña que saír de NotebookLM. Hoxe a ferramenta, que xa nin se chama así, fai diapositivas, corríxeas por encargo e expórtaas a PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por unha liña vertical. Á esquerda, «Nov. 2025»: unha diapositiva cun triángulo de reprodución e un cadeado, rotulada «Vídeo pechado». Á dereita, «Hoxe»: a mesma diapositiva, en azul, con liñas de texto e un lapis, rotulada «Edítase».</media:description></media:content>
   </item>
   <item>
     <title>Luis Vilela Acuña publicou o código aberto de Liga de Valores, a súa aplicación de ligas escolares de…</title>

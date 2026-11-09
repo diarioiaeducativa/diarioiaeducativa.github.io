@@ -70,6 +70,15 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>A horizontal bar divided by a red line. On the left, labelled “Allowed”, three speech bubbles: two labelled “Frustration” and “Disagreement”. To the right of the line, a blue speech bubble labelled “Repeated cruelty” and, below it, a calendar labelled “From 12 Nov”.</media:description></media:content>
   </item>
   <item>
+    <title>NotebookLM presentations, once impossible to tweak, can now be revised slide by slide</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>A year ago, anyone wanting an editable presentation had to leave NotebookLM. Today the tool, which no longer even goes by that name, makes slides, amends them on request and exports them to PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a slide with a play triangle and a padlock, labelled “Video locked”. On the right, “Today”: the same slide, in blue, with lines of text and a pencil, labelled “Editable”.</media:description></media:content>
+  </item>
+  <item>
     <title>Gemini lets users export their interactive apps to a Google Sites site with one click</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</guid>

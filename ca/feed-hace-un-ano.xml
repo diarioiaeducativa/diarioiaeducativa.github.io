@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diari d&#x27;IA Educativa · Fa un any</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed-hace-un-ano.xml" rel="self" type="application/rss+xml"/>
+  <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
+  <language>ca</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Fa un any</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
+  <item>
+    <title>Un núvol de vots amb «backend» en un sol prompt: avui els artefactes nous de Claude desen dades sense publicar-se</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>El novembre de 2025, un núvol de paraules fet amb Claude desava els vots de tothom amb un sol prompt. Avui els artefactes nous desen dades sense necessitat de publicar-los.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptic. A l&#x27;esquerra, «Nov. 2025»: una aplicació amb barres de vots, una base de dades amb un cadenat i el rètol «Només publicat». A la dreta, «Avui»: la mateixa aplicació, amb la base de dades marcada amb un senyal de visat i el rètol «Sense publicar».</media:description></media:content>
+  </item>
+  <item>
+    <title>Del personatge que es desfigurava en vuit segons als models que el conserven d&#x27;escena en escena</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/veo-consistencia-personajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/veo-consistencia-personajes.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>El novembre de 2025, animar un personatge amb Veo 3 obligava a tallar el clip abans que deixés de semblar-se a si mateix. Avui Google promet conservar-lo d&#x27;escena en escena.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-veo-consistencia-personajes.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: una barra de «8 s» amb un personatge al principi i, després del tall, un altre dibuixat deformat i a traços. A la dreta, «Avui»: una barra més llarga de «15 s» amb el mateix personatge repetit tres vegades, idèntic, en blau.</media:description></media:content>
+  </item>
+  <item>
+    <title>Les presentacions de NotebookLM, que no es podien retocar, ara es revisen diapositiva a diapositiva</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Fa un any, qui volia una presentació editable havia de sortir de NotebookLM. Avui l&#x27;eina, que ja ni es diu així, fa diapositives, les corregeix per encàrrec i les exporta a PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: una diapositiva amb un triangle de reproducció i un cadenat, retolada «Vídeo tancat». A la dreta, «Avui»: la mateixa diapositiva, en blau, amb línies de text i un llapis, retolada «S&#x27;edita».</media:description></media:content>
+  </item>
+</channel>
+</rss>

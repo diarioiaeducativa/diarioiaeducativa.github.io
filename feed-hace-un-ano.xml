@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Hace un año</title>
+  <link>https://diarioiaeducativa.github.io/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/feed-hace-un-ano.xml" rel="self" type="application/rss+xml"/>
+  <description>La inteligencia artificial, contada desde tres comunidades docentes</description>
+  <language>es</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Hace un año</title><link>https://diarioiaeducativa.github.io/</link></image>
+  <item>
+    <title>Una nube de votos con «backend» en un solo prompt: hoy los artefactos nuevos de Claude guardan datos sin publicarse</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, una nube de palabras hecha con Claude guardaba los votos de todos con un solo prompt. Hoy los artefactos nuevos guardan datos sin necesidad de publicarlos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptico. A la izquierda, «Nov. 2025»: una aplicación con barras de votos, una base de datos con un candado y el rótulo «Solo publicado». A la derecha, «Hoy»: la misma aplicación, con la base de datos marcada con una señal de visto y el rótulo «Sin publicar».</media:description></media:content>
+  </item>
+  <item>
+    <title>Del personaje que se desfiguraba en ocho segundos a los modelos que lo conservan de escena en escena</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-07/veo-consistencia-personajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/veo-consistencia-personajes.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, animar un personaje con Veo 3 obligaba a cortar el clip antes de que dejara de parecerse a sí mismo. Hoy Google promete conservarlo de escena en escena.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-07-veo-consistencia-personajes.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: una barra de «8 s» con un personaje al principio y, tras el corte, otro dibujado deformado y a trazos. A la derecha, «Hoy»: una barra más larga de «15 s» con el mismo personaje repetido tres veces, idéntico, en azul.</media:description></media:content>
+  </item>
+  <item>
+    <title>Las presentaciones de NotebookLM, que no se podían retocar, ahora se revisan diapositiva a diapositiva</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>Hace un año, quien quería una presentación editable tenía que salir de NotebookLM. Hoy la herramienta, que ya ni se llama así, hace diapositivas, las corrige por encargo y las exporta a PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: una diapositiva con un triángulo de reproducción y un candado, rotulada «Vídeo cerrado». A la derecha, «Hoy»: la misma diapositiva, en azul, con líneas de texto y un lápiz, rotulada «Se edita».</media:description></media:content>
+  </item>
+</channel>
+</rss>

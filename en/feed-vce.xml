@@ -18,6 +18,15 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Home screen of Calendari with four cards: official calendar of the Valencian Community, create a new calendar, import from a file and view published calendars.</media:description></media:content>
   </item>
   <item>
+    <title>A word cloud with a “backend” in a single prompt: today Claude’s new artifacts save data without being published</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, a word cloud built with Claude stored everyone’s votes from a single prompt. Today the new artifacts save data without needing to be published.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>A word cloud with a “backend” in a single prompt: today Claude’s new artifacts save data without being published</media:description></media:content>
+  </item>
+  <item>
     <title>Holmio turns the periodic table into a daily detective game</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-07/holmio-juego-quimica.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/holmio-juego-quimica.html</guid>

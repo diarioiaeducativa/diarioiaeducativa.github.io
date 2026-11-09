@@ -36,6 +36,15 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici de Calendari amb quatre targetes: calendari oficial de la Comunitat Valenciana, crear calendari nou, importar des d&#x27;arxiu i veure calendaris publicats.</media:description></media:content>
   </item>
   <item>
+    <title>Un núvol de vots amb «backend» en un sol prompt: avui els artefactes nous de Claude desen dades sense publicar-se</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>El novembre de 2025, un núvol de paraules fet amb Claude desava els vots de tothom amb un sol prompt. Avui els artefactes nous desen dades sense necessitat de publicar-los.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptic. A l&#x27;esquerra, «Nov. 2025»: una aplicació amb barres de vots, una base de dades amb un cadenat i el rètol «Només publicat». A la dreta, «Avui»: la mateixa aplicació, amb la base de dades marcada amb un senyal de visat i el rètol «Sense publicar».</media:description></media:content>
+  </item>
+  <item>
     <title>La BBC va provar joguines amb IA per a nens petits: un dels peluixos va respondre «I can&#x27;t help with…</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-08/breve-1.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/breve-1.html</guid>
@@ -97,6 +106,15 @@
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>Un document amb el rètol «Informe», una fletxa cap a una bombolla de xat amb el rètol «Assistent» i una altra fletxa cap a un piano amb el rètol «Conservatori».</media:description></media:content>
   </item>
   <item>
+    <title>Del personatge que es desfigurava en vuit segons als models que el conserven d&#x27;escena en escena</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/veo-consistencia-personajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/veo-consistencia-personajes.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>El novembre de 2025, animar un personatge amb Veo 3 obligava a tallar el clip abans que deixés de semblar-se a si mateix. Avui Google promet conservar-lo d&#x27;escena en escena.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-veo-consistencia-personajes.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: una barra de «8 s» amb un personatge al principi i, després del tall, un altre dibuixat deformat i a traços. A la dreta, «Avui»: una barra més llarga de «15 s» amb el mateix personatge repetit tres vegades, idèntic, en blau.</media:description></media:content>
+  </item>
+  <item>
     <title>Docents debaten si cal l&#x27;autorització de les famílies per fer servir IA amb l&#x27;alumnat</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</guid>
@@ -149,6 +167,15 @@
     <category>Multimèdia</category>
     <description>L&#x27;ajuda oficial de Flow detalla el cost de generar i editar clips amb el model, que ja es pot triar a l&#x27;aplicació segons van comentar al grup.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-omni-1-2-flash-creditos-flow.svg" medium="image" type="image/svg+xml"><media:description>Gràfic de dues barres: la baixa, amb el rètol «360p», porta a sobre «1 crèdit/s» i l&#x27;alta, amb el rètol «720p», porta «3 crèdits/s». A la dreta, una claqueta de cinema i, sota unes monedes, el rètol «50 al dia».</media:description></media:content>
+  </item>
+  <item>
+    <title>Les presentacions de NotebookLM, que no es podien retocar, ara es revisen diapositiva a diapositiva</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Fa un any, qui volia una presentació editable havia de sortir de NotebookLM. Avui l&#x27;eina, que ja ni es diu així, fa diapositives, les corregeix per encàrrec i les exporta a PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: una diapositiva amb un triangle de reproducció i un cadenat, retolada «Vídeo tancat». A la dreta, «Avui»: la mateixa diapositiva, en blau, amb línies de text i un llapis, retolada «S&#x27;edita».</media:description></media:content>
   </item>
   <item>
     <title>Luis Vilela Acuña va publicar el codi obert de Liga de Valores, la seva aplicació de lligues escolars…</title>

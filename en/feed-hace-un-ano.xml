@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · A year ago</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-hace-un-ano.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · A year ago</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>A word cloud with a “backend” in a single prompt: today Claude’s new artifacts save data without being published</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, a word cloud built with Claude stored everyone’s votes from a single prompt. Today the new artifacts save data without needing to be published.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>A word cloud with a “backend” in a single prompt: today Claude’s new artifacts save data without being published</media:description></media:content>
+  </item>
+  <item>
+    <title>From the character who warped within eight seconds to models that keep them the same from scene to scene</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-07/veo-consistencia-personajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/veo-consistencia-personajes.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, animating a character with Veo 3 meant cutting the clip before it stopped looking like itself. Today Google promises to keep it consistent from scene to scene.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-veo-consistencia-personajes.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: an “8 s” bar with one character at the start and, after the cut, another drawn warped and in dashes. On the right, “Today”: a longer “15 s” bar with the same character repeated three times, identical, in blue.</media:description></media:content>
+  </item>
+  <item>
+    <title>NotebookLM presentations, once impossible to tweak, can now be revised slide by slide</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>A year ago, anyone wanting an editable presentation had to leave NotebookLM. Today the tool, which no longer even goes by that name, makes slides, amends them on request and exports them to PowerPoint.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a slide with a play triangle and a padlock, labelled “Video locked”. On the right, “Today”: the same slide, in blue, with lines of text and a pencil, labelled “Editable”.</media:description></media:content>
+  </item>
+</channel>
+</rss>

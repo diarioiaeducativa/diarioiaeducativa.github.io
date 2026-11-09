@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Hezkuntzako AA Egunkaria · Duela urtebete</title>
+  <link>https://diarioiaeducativa.github.io/eu/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/eu/feed-hace-un-ano.xml" rel="self" type="application/rss+xml"/>
+  <description>Adimen artifiziala, hiru irakasle-komunitatetatik kontatua</description>
+  <language>eu</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Duela urtebete</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
+  <item>
+    <title>Botoen hodei bat «backend»-arekin prompt bakarrean: gaur Claude-ren artefaktu berriek datuak gordetzen dituzte argitaratu gabe</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-08/artefactos-claude-almacenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-08/artefactos-claude-almacenamiento.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Duela urtebete</category>
+    <description>2025eko azaroan, Claude-rekin egindako hitz-hodei batek guztien botoak gordetzen zituen prompt bakar batekin. Gaur, artefaktu berriek datuak gordetzen dituzte argitaratu beharrik gabe.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Diptikoa. Ezkerrean, «2025 aza.»: boto-barrak dituen aplikazio bat, kandado bat duen datu-base bat eta «Argitaratuta soilik» errotulua. Eskuinean, «Gaur»: aplikazio bera, datu-basea ikusi-ikur batekin markatuta eta «Argitaratu gabe» errotulua.</media:description></media:content>
+  </item>
+  <item>
+    <title>Zortzi segundotan itxuraz aldatzen zen pertsonaiatik, eszenaz eszena mantentzen duten ereduetara</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-07/veo-consistencia-personajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-07/veo-consistencia-personajes.html</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Duela urtebete</category>
+    <description>2025eko azaroan, Veo 3 ereduarekin pertsonaia bat animatzeko, klipa moztu egin behar zen pertsonaiak bere buruaren itxura galdu aurretik. Gaur, Google-k eszenaz eszena mantentzea agintzen du.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-07-veo-consistencia-personajes.svg" medium="image" type="image/svg+xml"><media:description>Marra bertikal batek erdibitutako diptikoa. Ezkerrean, «2025 aza.»: «8 s»-ko barra bat, hasieran pertsonaia batekin eta, mozketaren ondoren, beste batekin, desitxuratuta eta marra etenez marraztua. Eskuinean, «Gaur»: «15 s»-ko barra luzeago bat, pertsonaia bera hiru aldiz errepikatuta, berdin-berdina, urdinez.</media:description></media:content>
+  </item>
+  <item>
+    <title>NotebookLM-en aurkezpenak, aldatu ezin zirenak, orain diapositiba bakoitzaren arabera berrikusten dira</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/notebooklm-presentaciones-editables.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/notebooklm-presentaciones-editables.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Duela urtebete</category>
+    <description>Duela urtebete, aurkezpen editagarria nahi zuenak NotebookLM-etik atera behar zuen. Gaur, tresnak, jada horrela deitzen ez zaionak, diapositibak egiten ditu, eskatuta zuzentzen ditu eta PowerPointera esportatzen ditu.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Lerro bertikal batek erdibitutako diptikoa. Ezkerrean, «2025 aza.»: erreprodukzio-hirukia eta giltzarrapoa dituen diapositiba bat, «Bideoa itxita» idatzita. Eskuinean, «Gaur»: diapositiba bera, urdinez, testu-lerroekin eta arkatz batekin, «Editatu egiten da» idatzita.</media:description></media:content>
+  </item>
+</channel>
+</rss>
