@@ -21,7 +21,12 @@
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta property="og:locale" content="es_ES">
 <meta name="twitter:card" content="summary_large_image">
-<script>try{var t=localStorage.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;}catch(_){}</script>
+<script>try{(function(){
+var s=localStorage,k=['sala.tema','sala.idioma','diario.visita'],c=+s.getItem('diario.desde'),ahora=Date.now();
+if(c&&ahora-c>34128000000){var v=JSON.parse(s.getItem('diario.visita')||'null');k.forEach(function(x){s.removeItem(x);});s.removeItem('diario.desde');c=0;
+if(v&&ahora-v.t<18e5)s.setItem('diario.visita',JSON.stringify(v));}
+if(!c&&k.some(function(x){return s.getItem(x)!==null;}))s.setItem('diario.desde',ahora);
+var t=s.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;})();}catch(_){}</script>
 
 <script>try{(function(){
 var q=new URLSearchParams(location.search),k='diario.nocontar';
@@ -31,7 +36,7 @@ if(window.SALTO||navigator.webdriver||localStorage.getItem(k)||/bot|crawl|spider
 var v=JSON.parse(localStorage.getItem('diario.visita')||'null'),ahora=Date.now(),p=location.pathname,nueva=!v||!(ahora-v.t<18e5);
 if(nueva)v={t:ahora,p:[]};
 var cuenta=v.p.indexOf(p)<0;v.t=ahora;if(cuenta)v.p.push(p);
-localStorage.setItem('diario.visita',JSON.stringify(v));
+localStorage.setItem('diario.visita',JSON.stringify(v));if(!localStorage.getItem('diario.desde'))localStorage.setItem('diario.desde',ahora);
 if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educativa/contar.php',new URLSearchParams({p:cuenta?p:'',n:nueva?'1':'0',t:document.title}));
 })();}catch(_){}</script>
 <link rel="icon" href="../favicon.svg" type="image/svg+xml">
@@ -133,10 +138,10 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   sistema.addEventListener('change',function(){try{if(!localStorage.getItem('sala.tema')){delete raiz.dataset.theme;pinta();}}catch(_){pinta();}});
   document.getElementById('tema').addEventListener('click',function(){
     var nuevo = oscuro()?'light':'dark'; raiz.dataset.theme=nuevo;
-    try{ if((nuevo==='dark')===sistema.matches) localStorage.removeItem('sala.tema'); else localStorage.setItem('sala.tema',nuevo);}catch(_){}
+    try{ if((nuevo==='dark')===sistema.matches) localStorage.removeItem('sala.tema'); else{localStorage.setItem('sala.tema',nuevo);if(!localStorage.getItem('diario.desde'))localStorage.setItem('diario.desde',Date.now());}}catch(_){}
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
-    a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});
+    a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);if(!localStorage.getItem('diario.desde'))localStorage.setItem('diario.desde',Date.now());}catch(_){}});
   });
   // El menú de idiomas (ADR 0026): se abre al pulsar el botón y se cierra al pulsar fuera o con Escape
   var bi=document.querySelector('.idioma-boton'), mi=document.getElementById('menu-idiomas');
