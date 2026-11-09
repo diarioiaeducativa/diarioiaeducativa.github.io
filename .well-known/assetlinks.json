@@ -1,10 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.diarioiaeducativa",
       "sha256_cert_fingerprints": [
+        "48:4A:BD:B0:8E:6A:86:7D:DD:98:2F:21:B4:72:C9:4F:6A:34:8A:6A:A6:DC:F6:7F:2C:39:05:A6:72:FD:4B:7A",
         "F9:F4:47:AE:0B:80:4E:4A:67:17:73:BE:3D:47:53:C9:16:84:B1:13:73:8B:70:1D:E1:9B:3C:7E:52:A4:8F:AA"
       ]
     }
