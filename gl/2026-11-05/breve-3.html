@@ -199,6 +199,9 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     addEventListener('appinstalled',function(){inst.hidden=true;});
     if(ios&&(/iP(hone|ad|od)/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1))) ios.hidden=false;
   }
+  // Lectura sin conexión (ADR 0042): el service worker guarda lo que se abre y el último número. Solo en
+  // el propio diario, no dentro del marco de otra web.
+  if('serviceWorker' in navigator&&window.top===window) navigator.serviceWorker.register('/sw.js').catch(function(){});
   // «Para tu web» (ADR 0032): el botón despliega sus opciones y se cierra al pulsar fuera o con Escape
   var bl=document.querySelector('.llevar-boton'), ml=document.getElementById('menu-llevar');
   function cerrarLlevar(){ if(ml&&!ml.hidden){ml.hidden=true; bl.setAttribute('aria-expanded','false');} }
