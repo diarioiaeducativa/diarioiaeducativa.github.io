@@ -54,6 +54,12 @@
 .seccion a:hover { text-decoration: underline; }
 .seccion { display: flex; justify-content: space-between; gap: 1rem; margin: 0 0 0.2rem; color: var(--azul); font-size: 0.9rem; font-weight: 600; letter-spacing: 0.01em; }
 .fecha-pieza { color: var(--tinta-2); font-weight: 400; font-style: italic; white-space: nowrap; }
+/* Sin el nombre de la sección (ya está en el título del bloque o de la página), la fecha va a la derecha en la
+   línea del antetítulo, con el mismo tamaño que en los rótulos: sola en su línea dejaba un hueco encima del titular */
+.antetitulo.con-fecha { display: flow-root; }
+.antetitulo.con-fecha .fecha-pieza { float: right; margin: 0.05rem 0 0 1rem; font-size: 0.9rem; }
+.leer .fecha-pieza { font-size: 0.9rem; font-weight: 400; }
+.lectura.fecha-pieza { display: block; font-size: 0.9rem; margin: 0.4rem 0 0; }
 .antetitulo { margin: 0; font-style: italic; color: var(--tinta-2); }
 .antetitulo a { color: inherit; text-decoration: underline; text-decoration-color: var(--sec, var(--filete)); text-underline-offset: 0.15em; }
 .titular { margin: 0.15rem 0 0.5rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.01em; text-wrap: balance; hyphens: manual; }
@@ -77,6 +83,12 @@
 }
 .fila-menores { border-top-width: 1px; }
 .destacada .ilu { margin: 0 0 0.9rem; background: var(--papel-2); padding: 0.6rem; }
+/* En una fila, todos los dibujos del mismo alto aunque su lienzo no tenga la misma proporción (el del reportaje
+   es más alto) */
+.fila:not(.sola) .destacada .ilu, .fila:not(.sola) .destacada .ilu.captura { box-sizing: border-box; aspect-ratio: 600 / 340; display: grid; place-items: center; overflow: hidden; }
+.fila:not(.sola) .destacada .ilu svg, .fila:not(.sola) .destacada .ilu img { width: 100%; height: 100%; object-fit: contain; }
+/* La captura de un recurso llena su hueco, recortada por abajo, como en el resto de miniaturas */
+.fila:not(.sola) .destacada .ilu.captura img, .alt-fila .ilu.captura img, .alt-compacta .ilu.captura img { object-fit: cover; object-position: top; }
 /* Una destacada sola (un día de archivo con dos piezas) se compone como la apertura, no a todo el ancho */
 .fila.sola .destacada { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center; }
 .fila.sola .destacada .ilu { order: 2; margin: 0; }
@@ -153,23 +165,34 @@
 .no-existe p { line-height: 1.6; }
 .no-existe .ca { font-style: italic; color: var(--tinta-2); }
 
-/* Pie */
+/* Pie: tres columnas iguales, cada una con su título y su lista; los créditos, en letra pequeña en la tercera */
 .pie {
-  display: grid; grid-template-columns: 1.3fr 0.9fr 1.3fr; gap: 1.5rem 2.2rem;
-  margin-top: 3rem; padding: 1.4rem 0 2.5rem;
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem 2.4rem;
+  margin-top: 3rem; padding: 1.4rem 0 2rem;
   border-top: 3px solid var(--tinta);
   font-size: 0.95rem; color: var(--tinta-2);
 }
-.pie h2 { margin: 0 0 0.4rem; font-size: 1.1rem; color: var(--tinta); }
+.pie > * + * { border-left: 1px solid var(--filete); padding-left: 2.4rem; }
+.pie-creditos { margin-top: 0.9rem; padding-top: 0.8rem; border-top: 1px solid var(--filete); font-size: 0.85rem; line-height: 1.5; }
+.pie-creditos p { margin: 0 0 0.45rem; }
+.pie h2 { margin: 0 0 0.6rem; font-size: 1.1rem; color: var(--tinta); }
 .pie p { margin: 0 0 0.6rem; }
 .pie ul { margin: 0; padding-left: 1.1rem; }
 .pie-grupos li { margin-bottom: 0.35rem; }
+/* Las listas de enlaces, sin viñetas y todas alineadas igual */
+.pie .pie-lista { list-style: none; padding: 0; }
+.pie-lista li { padding: 0.18rem 0; }
+.pie-mirar { margin-top: 0.7rem !important; padding-top: 0.6rem !important; border-top: 1px solid var(--filete); }
+/* El número que se está viendo: franja de color a la izquierda, sin negrita, con «(este número)» */
+.pie-lista .pie-actual { margin-left: -0.9rem; padding-left: calc(0.9rem - 3px); border-left: 3px solid var(--rojo); }
+.pie-actual a[aria-current] { color: var(--tinta); text-decoration: none; }
+.pie-este { color: var(--tinta-2); font-style: italic; }
 /* El emblema de las comunidades: los tres círculos y el total de personas, que lleva a «La redacción» */
+.pie-comunidades { margin-top: 0.8rem !important; }
 .pie-comunidades a { display: inline-flex; align-items: center; gap: 0.6rem; }
 .pie-comunidades .emblema { width: 2.4rem; height: auto; flex: none; }
 .pie-comunidades .venn { stroke-width: 2.5; fill-opacity: .22; }
 .pie-grupo-desc { color: var(--tinta-2); }
-.pie [aria-current] { font-weight: 600; text-decoration: none; color: var(--tinta); }
 /* Instalar como app (ADR 0013): un botón con aspecto de enlace, como los de al lado */
 .pie .instalar { font: inherit; color: var(--azul); background: none; border: 0; padding: 0; cursor: pointer;
   text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
@@ -191,6 +214,7 @@
   .fila.sola .destacada { grid-template-columns: 1fr; }
   .fila.sola .destacada .ilu { order: 0; margin-bottom: 0.9rem; }
   .pie { grid-template-columns: 1fr; }
+  .pie > * + * { border-left: 0; padding-left: 0; border-top: 1px solid var(--filete); padding-top: 1.2rem; }
 }
 @media (max-width: 40rem) {
   .fila { grid-template-columns: 1fr; row-gap: 0; }
@@ -214,6 +238,7 @@
 
 /* La viñeta, a todo el ancho entre las destacadas y el resto */
 .vineta { margin-top: 1.8rem; padding-top: 1.1rem; border-top: 3px solid var(--tinta); }
+.portada > * + .editorial, .portada > .vineta + *, .portada > .semana-franja + * { margin-top: 1.8rem; }
 .vineta-titulo { display: flex; justify-content: space-between; margin: 0 0 0.8rem; font-size: 1.25rem; font-style: italic; font-weight: 600; }
 .vineta-origen { margin: 0.6rem 0 0; font-size: 0.95rem; color: var(--tinta-2); font-style: italic; }
 /* Bajo su noticia (ADR 0035), la tira en vertical en todas las pantallas, como en el móvil: en fila, en la
@@ -240,11 +265,13 @@
 }
 
 /* Portada por bloques de sección: el título a la izquierda, en su color, sobre un filete de su color */
+/* El nombre de la sección, encima de sus piezas, como el rótulo de una página de periódico (ADR 0041): a la
+   izquierda dejaba una columna vacía hasta el final de cada bloque */
 .bloque {
-  display: grid; grid-template-columns: 13rem minmax(0, 1fr); gap: 1rem 2.4rem;
+  display: block;
   margin-top: 1.8rem; padding-top: 1rem; border-top: 3px solid var(--sec, var(--tinta));
 }
-.bloque-titulo { margin: 0; font-size: 1.35rem; line-height: 1.2; }
+.bloque-titulo { margin: 0 0 0.9rem; font-size: 1.35rem; line-height: 1.2; }
 .bloque-titulo a { color: var(--sec, var(--tinta)); text-decoration: none; }
 .bloque-titulo a:hover { text-decoration: underline; }
 .bloque-titulo .ico { width: 0.9em; height: 0.9em; }
@@ -258,15 +285,95 @@
 .vineta-titulo { color: var(--sec, var(--tinta)); }
 .vineta-titulo a { color: inherit; text-decoration: none; }
 .vineta-titulo a:hover { text-decoration: underline; }
+/* La fecha, del mismo tamaño que en los rótulos de las piezas: dentro del título tomaba su 1,25 rem */
+.vineta-titulo .fecha-pieza { font-size: 0.9rem; align-self: baseline; }
 /* El rótulo de sección, en su color; la apertura y las destacadas, con un filete fino de su color */
 .principal .texto { border-top: 4px solid var(--sec, transparent); padding-top: 0.8rem; }
 @media (max-width: 52rem) {
-  .bloque { grid-template-columns: 1fr; gap: 0.8rem; }
   .bloque-piezas { grid-template-columns: repeat(min(var(--n, 2), 2), minmax(0, 1fr)); }
 }
 @media (max-width: 40rem) {
   .bloque-piezas { grid-template-columns: 1fr; gap: 0; }
   .bloque-piezas > * + * { margin-top: 1.1rem; padding-top: 1.1rem; border-top: 1px solid var(--filete); }
+}
+
+/* Los bloques de la portada alternan dos disposiciones (ADR 0041), con filetes verticales entre columnas:
+   A, una con más cuerpo y su entradilla entera y dos al lado con miniatura y titular; B, tres en fila con una
+   miniatura del mismo tamaño y la entradilla recortada a la misma altura. En el móvil, una columna, como siempre */
+.bloque-piezas.alt-a { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); column-gap: 0; }
+.alt-a > *, .alt-b > * { max-width: none; }
+.alt-grande { padding-right: 2.2rem; }
+.alt-grande .titular { font-size: 1.45rem; }
+.alt-grande .entradilla { font-size: 1.05rem; }
+.alt-lista { border-left: 1px solid var(--filete); padding-left: 2.2rem; display: grid; align-content: start; gap: 1rem; }
+.alt-lista > * + * { padding-top: 1rem; border-top: 1px solid var(--filete); }
+/* La miniatura flota y el texto la rodea: debajo de ella no queda blanco y la entradilla va entera */
+.alt-compacta { display: flow-root; }
+.alt-compacta .ilu { float: left; width: 10rem; margin: 0.2rem 1rem 0.4rem 0 !important; }
+.alt-compacta .texto { display: block; }
+.alt-compacta .entradilla { margin-top: 0.3rem; }
+.alt-grande .ilu { margin: 0 0 0.8rem; aspect-ratio: 3 / 1; display: grid; place-items: center; overflow: hidden; padding: 0.4rem; }
+.alt-grande .ilu svg { width: 100%; height: 100%; }
+.alt-compacta .titular { font-size: 1.08rem; }
+.alt-compacta .ilu, .alt-fila .ilu { margin: 0; padding: 0.3rem; aspect-ratio: 600 / 340; display: grid; place-items: center; overflow: hidden; }
+.alt-compacta .ilu svg, .alt-fila .ilu svg, .alt-compacta .ilu img, .alt-fila .ilu img { width: 100%; height: 100%; object-fit: contain; }
+.alt-fila .ilu { margin-bottom: 0.7rem; }
+.bloque-piezas.alt-b { grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: 2.2rem; }
+/* El filete, en mitad del hueco: así las tres columnas tienen el mismo ancho y las miniaturas, la misma altura */
+.alt-b > * + * { position: relative; }
+.alt-b > * + *::before { content: ""; position: absolute; left: -1.1rem; top: 0; bottom: 0; border-left: 1px solid var(--filete); }
+@media (max-width: 52rem) {
+  .bloque-piezas.alt-a { grid-template-columns: 1fr; }
+  .alt-grande { padding-right: 0; }
+  .alt-lista { border-left: 0; padding-left: 0; border-top: 1px solid var(--filete); padding-top: 1rem; margin-top: 1rem; }
+}
+@media (max-width: 40rem) {   /* en el móvil, como siempre: una columna de piezas con su entradilla, sin miniaturas */
+  .bloque-piezas.alt-b { grid-template-columns: 1fr; }
+  .alt-b > * + *::before { content: none; }
+  .alt-b > * + *, .alt-lista > * + * { border-left: 0; margin-top: 1.1rem; padding-top: 1.1rem; border-top: 1px solid var(--filete); }
+  .alt-lista { border-top: 1px solid var(--filete); padding-top: 1.1rem; margin-top: 1.1rem; gap: 0; }
+  .alt-compacta { display: block; }
+  .alt-compacta .ilu, .alt-fila .ilu { display: none; }
+  .alt-compacta .entradilla { display: block; }
+  .alt-fila .entradilla { display: block; -webkit-line-clamp: unset; line-clamp: none; overflow: visible; }
+  .alt-compacta .titular, .alt-grande .titular { font-size: 1.2rem; }
+}
+
+/* Los breves, como en el papel (ADR 0041): el título encima y debajo columnas que se reparten solas hasta
+   quedar lo más igualadas posible. Cada breve, entero en su columna: partido, Firefox dejaba sus enlaces sueltos
+   arriba de la siguiente y Chrome no lo partía. Con el título a la izquierda quedaba vacía la columna de debajo. */
+.bloque.sec-breves .bloque-piezas, .bloque-columnas .bloque-piezas { display: block; column-count: var(--n, 3); column-gap: 2.4rem; column-rule: 1px solid var(--filete); }
+.bloque.sec-breves .bloque-piezas > *, .bloque-columnas .bloque-piezas > * { max-width: none; margin: 0 0 1.1rem; }
+.bloque.sec-breves .bloque-piezas > *, .bloque-columnas .bloque-piezas > * { break-inside: avoid; }
+@media (max-width: 52rem) { .bloque.sec-breves .bloque-piezas, .bloque-columnas .bloque-piezas { column-count: min(var(--n, 2), 2); } }
+@media (max-width: 40rem) {
+  .bloque.sec-breves .bloque-piezas, .bloque-columnas .bloque-piezas { column-count: 1; }
+  .bloque.sec-breves .bloque-piezas > * + *, .bloque-columnas .bloque-piezas > * + * { border-top: 1px solid var(--filete); padding-top: 1.1rem; margin-top: 0; }
+}
+
+/* Los breves y «Hace un año», en una fila de dos recuadros del mismo alto (ADR 0040): cada uno con su fondo,
+   así el que tiene menos texto queda más holgado en lugar de dejar un blanco suelto */
+.fila-breves-hu { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 1.4rem 2rem; align-items: stretch; margin-top: 1.8rem; }
+.fila-breves-hu > .bloque { margin-top: 0; background: var(--papel-2); padding: 1rem 1.3rem 0.3rem; }
+.hace-un-ano-recuadro { background: var(--t-hace-un-ano); border-top: 3px solid var(--c-hace-un-ano); padding: 1rem 1.3rem 1.1rem; }
+.hace-un-ano-recuadro .ilu { float: right; width: 42%; margin: 0.3rem 0 0.5rem 1rem; padding: 0.2rem; background: var(--papel) !important; aspect-ratio: 600 / 340; display: grid; place-items: center; }
+.hace-un-ano-recuadro .ilu svg { width: 100%; height: 100%; }
+.hace-un-ano-recuadro .seccion { clear: none; }
+.hace-un-ano-recuadro .seccion { display: flex; justify-content: space-between; gap: 0.5rem; flex-wrap: wrap; margin: 0 0 0.5rem; }
+.hace-un-ano-recuadro .antetitulo { color: var(--c-hace-un-ano); font-style: italic; margin: 0; }
+.hace-un-ano-recuadro .titular { font-size: 1.2rem; margin: 0.2rem 0 0.4rem; }
+.hace-un-ano-recuadro .entradilla { font-size: 0.98rem; color: var(--tinta-2); margin: 0; }
+.hace-un-ano-recuadro .leer { margin: 0.6rem 0 0; font-weight: 600; }
+@media (max-width: 52rem) { .fila-breves-hu { grid-template-columns: 1fr; } }
+
+/* En la tableta, las columnas de las filas de tres y de las destacadas son tan estrechas que los titulares
+   cambian mucho de largo y dejaban blancos: una columna, con la miniatura a la izquierda y el texto rodeándola */
+@media (min-width: 40.01rem) and (max-width: 52rem) {
+  .bloque-piezas.alt-b, .fila.fila-destacadas { grid-template-columns: 1fr; row-gap: 1.2rem; }
+  .alt-b > * + *::before { content: none; }
+  .alt-b > * + *, .fila-destacadas > * + * { border-top: 1px solid var(--filete); padding-top: 1.2rem; }
+  .alt-fila, .fila-destacadas .destacada { display: flow-root; }
+  .alt-fila .ilu, .fila-destacadas .destacada .ilu { float: left; width: 40%; margin: 0.2rem 1.2rem 0.5rem 0 !important; }
 }
 
 /* Subtítulo de la viñeta */
