@@ -27,7 +27,8 @@ var s=localStorage,c=+s.getItem('diario.desde'),ahora=Date.now();
 if(c&&ahora-c>34128000000){var v=JSON.parse(s.getItem('diario.visita')||'null');s.removeItem('diario.visita');s.removeItem('diario.desde');c=0;
 if(v&&ahora-v.t<18e5)s.setItem('diario.visita',JSON.stringify(v));}
 if(!c&&s.getItem('diario.visita')!==null)s.setItem('diario.desde',ahora);
-var t=s.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;})();}catch(_){}</script>
+var t=s.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;
+if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sessionStorage.setItem('diario.app','1');})();}catch(_){}</script>
 
 <script>try{(function(){
 var q=new URLSearchParams(location.search),k='diario.nocontar';
@@ -215,9 +216,9 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   // Los avisos del número (ADR 0043) son de la app de Android: el enlace sale solo dentro de ella, que se
   // reconoce porque la abre con su nombre como referencia. En la sesión, no para siempre: la app comparte
   // la memoria del sitio con Chrome, y en Chrome el enlace no haría nada.
+  // La marca la pone CADUCIDAD, el primer script de la cabecera, antes de que la portada salte de idioma.
   var av=document.querySelector('.avisos-app');
-  if(av){try{if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sessionStorage.setItem('diario.app','1');
-    if(sessionStorage.getItem('diario.app'))av.hidden=false;}catch(_){}}
+  if(av){try{if(sessionStorage.getItem('diario.app'))av.hidden=false;}catch(_){}}
   // «Para tu web» (ADR 0032): el botón despliega sus opciones y se cierra al pulsar fuera o con Escape
   var bl=document.querySelector('.llevar-boton'), ml=document.getElementById('menu-llevar');
   function cerrarLlevar(){ if(ml&&!ml.hidden){ml.hidden=true; bl.setAttribute('aria-expanded','false');} }
