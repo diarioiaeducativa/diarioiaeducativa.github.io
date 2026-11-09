@@ -9,6 +9,49 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Un percentatge d&#x27;un detector d&#x27;IA obre una conversa amb l&#x27;alumne, però no prova que hagi copiat</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/detector-ia-no-es-prueba.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/detector-ia-no-es-prueba.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Una entrada del blog «Familias con inteligencia» planteja què cal fer quan un detector assenyala el treball d&#x27;un alumne que assegura haver-lo escrit ell, i proposa acompanyar el percentatge amb evidències del procés.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-detector-ia-no-es-prueba.svg" medium="image" type="image/svg+xml"><media:description>Una balança inclinada cap a la dreta: al plat esquerre, més lleuger, una targeta amb el rètol «Detector 87 %»; al dret, més pesat, una altra amb els rètols «Esborranys», «Versions» i «Explicació oral». Entre els dos plats, una lupa i el rètol «Decideix una persona».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un curtmetratge es roda dins de la realitat virtual i s&#x27;acaba amb IA</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/buzz-cortometraje-vr.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/buzz-cortometraje-vr.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Raül Torres comparteix un avanç de «Buzz», un curtmetratge els plans del qual dirigeix amb unes ulleres de realitat virtual sobre decorats creats amb Blender.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-buzz-cortometraje-vr.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres passos units per fletxes: un decorat en 3D amb el rètol «Decorat en Blender», unes ulleres de realitat virtual amb el rètol «Càmera en VR» i una claqueta amb el rètol «Final amb IA». A sota, en un requadre de traços, el que falta: «Color, so, muntatge».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un planificador permet muntar el calendari del curs a partir de l&#x27;oficial de la Comunitat Valenciana o des de zero</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Calendari, creat per José Luis Miralles Bono amb ajuda de Claude, permet muntar el calendari escolar d&#x27;un centre des del navegador, partint de l&#x27;oficial valencià o des de zero.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici de Calendari amb quatre targetes: calendari oficial de la Comunitat Valenciana, crear calendari nou, importar des d&#x27;arxiu i veure calendaris publicats.</media:description></media:content>
+  </item>
+  <item>
+    <title>La BBC va provar joguines amb IA per a nens petits: un dels peluixos va respondre «I can&#x27;t help with…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/breve-1.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La BBC va provar joguines amb IA per a nens petits: un dels peluixos va respondre «I can&#x27;t help with killing you» després de malinterpretar una pregunta. Parlamentaris britànics demanen als comerços retirar aquestes joguines abans del Black Friday.</description>
+  </item>
+  <item>
+    <title>Juan José de Haro ha ampliat el seu article amb la idea que agents diferents (Claude Code, Codex,…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/breve-2.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Juan José de Haro ha ampliat el seu article amb la idea que agents diferents (Claude Code, Codex, Antigravity) comparteixin un coneixement comú que tots poden augmentar, com va explicar el diari sobre la memòria en quatre capes. Només funciona amb agents instal·lats a l&#x27;ordinador, no amb les versions web.</description>
+  </item>
+  <item>
     <title>L&#x27;edat per usar IA a classe depèn de tres regles diferents: les de les empreses, la llei i les administracions educatives</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-07/edad-ia-aula-tres-reglas.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/edad-ia-aula-tres-reglas.html</guid>

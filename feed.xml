@@ -9,6 +9,49 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Un porcentaje de un detector de IA abre una conversación con el alumno, pero no prueba que haya copiado</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-08/detector-ia-no-es-prueba.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/detector-ia-no-es-prueba.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>Una entrada del blog «Familias con inteligencia» plantea qué hacer cuando un detector marca el trabajo de un alumno que asegura haberlo escrito él, y propone acompañar el porcentaje con evidencias del proceso.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-08-detector-ia-no-es-prueba.svg" medium="image" type="image/svg+xml"><media:description>Una balanza inclinada hacia la derecha: en el platillo izquierdo, más ligero, una tarjeta con el rótulo «Detector 87 %»; en el derecho, más pesado, otra con los rótulos «Borradores», «Versiones» y «Explicación oral». Entre los dos platillos, una lupa y el rótulo «Decide una persona».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un cortometraje se rueda dentro de la realidad virtual y se termina con IA</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-08/buzz-cortometraje-vr.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/buzz-cortometraje-vr.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Raül Torres comparte un adelanto de «Buzz», un cortometraje cuyos planos dirige con unas gafas de realidad virtual sobre decorados creados en Blender.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-08-buzz-cortometraje-vr.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres pasos unidos por flechas: un decorado en 3D con el rótulo «Decorado en Blender», unas gafas de realidad virtual con el rótulo «Cámara en VR» y una claqueta con el rótulo «Final con IA». Debajo, en un recuadro de trazos, lo que falta: «Color, sonido, montaje».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un planificador permite montar el calendario del curso a partir del oficial de la Comunitat Valenciana o desde cero</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-08/calendari-planificador-de-curso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/calendari-planificador-de-curso.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Calendari, creado por José Luis Miralles Bono con ayuda de Claude, permite montar el calendario escolar de un centro desde el navegador, partiendo del oficial valenciano o desde cero.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio de Calendari con cuatro tarjetas: calendario oficial de la Comunitat Valenciana, crear calendario nuevo, importar desde archivo y ver calendarios publicados.</media:description></media:content>
+  </item>
+  <item>
+    <title>La BBC probó juguetes con IA para niños pequeños: uno de los peluches respondió «I can&#x27;t help with killing…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-08/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/breve-1.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>La BBC probó juguetes con IA para niños pequeños: uno de los peluches respondió «I can&#x27;t help with killing you» tras malinterpretar una pregunta. Parlamentarios británicos piden a los comercios retirar estos juguetes antes del Black Friday.</description>
+  </item>
+  <item>
+    <title>Juan José de Haro ha ampliado su artículo con la idea de que agentes distintos (Claude Code, Codex,…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-08/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/breve-2.html</guid>
+    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Juan José de Haro ha ampliado su artículo con la idea de que agentes distintos (Claude Code, Codex, Antigravity) compartan un conocimiento común que todos pueden aumentar, como contó el diario sobre la memoria en cuatro capas. Solo funciona con agentes instalados en el ordenador, no con las versiones web.</description>
+  </item>
+  <item>
     <title>La edad para usar IA en clase depende de tres reglas distintas: las de las empresas, la ley y las administraciones educativas</title>
     <link>https://diarioiaeducativa.github.io/2026-11-07/edad-ia-aula-tres-reglas.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
