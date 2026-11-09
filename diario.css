@@ -474,11 +474,12 @@
 .recurso .recurso-datos { margin: 0 0 0.8rem; color: var(--tinta-2); font-size: 0.95rem; }
 .recurso .ilu.captura { margin: 0 0 1rem; }
 .recurso-texto > p:first-child { margin-top: 0; }
-/* En la semana del repositorio, cada captura al lado de su texto en pantallas anchas; en el móvil, encima */
+/* En la semana del repositorio, cada captura a la derecha de su texto en pantallas anchas, y el texto sigue
+   por debajo de ella: en dos columnas, el texto largo dejaba un hueco bajo la captura (ADR 0041); en el
+   móvil, encima */
 @media (min-width: 40rem) {
-  .recurso-cuerpo { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 0 1.4rem; align-items: start; }
-  .recurso-cuerpo .ilu.captura { grid-column: 2; grid-row: 1; margin: 0.3rem 0 0; }
-  .recurso-texto { grid-column: 1; grid-row: 1; }
+  .recurso-cuerpo { display: flow-root; }
+  .recurso-cuerpo .ilu.captura { float: right; width: 40%; margin: 0.3rem 0 0.8rem 1.4rem; }
 }
 .recurso .recurso-enlaces { font-weight: 600; font-size: 0.95rem; }
 .visor { position: fixed; inset: 0; z-index: 50; display: flex; align-items: center; justify-content: center;
@@ -701,3 +702,58 @@ p.con-nb { margin: 0 0 0.3rem; }
 .hem-boletines p { margin: 0 0 0.4rem; color: var(--tinta-2); }
 .hem-boletines li { border-top: 0; padding: 0.2rem 0; }
 .hem-boletines ul { list-style: disc; padding-left: 1.2rem; }
+
+/* Noticias en columnas (ADR 0044). En el ordenador (desde 60rem, el corte de la portada), la noticia ocupa
+   todo el ancho: titular y entradilla junto al dibujo, como la principal de la portada, y el texto en
+   columnas de periódico, de 55 a 60 caracteres: tres en pantalla ancha y dos en la estrecha. El botón de la
+   línea de la sección pasa a una columna (el diseño anterior) y lo recuerda; en el móvil y la tableta
+   vertical no hay botón y todo sigue en una columna. */
+.seccion-dcha { display: inline-flex; align-items: center; gap: 1rem; }
+/* Sin sección, el botón y la fecha van juntos a la derecha de la línea del antetítulo */
+.antetitulo.con-fecha .seccion-dcha { float: right; margin: 0.05rem 0 0 1rem; }
+.antetitulo.con-fecha .seccion-dcha .fecha-pieza { float: none; margin: 0; }
+.columnas-boton {
+  appearance: none; display: none; align-items: center; border: 1px solid var(--filete); border-radius: 999px;
+  background: transparent; color: var(--tinta-2); padding: 0.1rem 0.7rem; font: inherit; font-size: 0.85rem;
+  font-weight: 600; font-style: normal; letter-spacing: 0; cursor: pointer;
+}
+.columnas-boton:hover { color: var(--tinta); border-color: var(--tinta); }
+.columnas-boton > span { display: inline-flex; align-items: center; gap: 0.4rem; }
+.columnas-boton .ico { width: 1.1em; height: 1.1em; vertical-align: 0; }
+.columnas-boton .a-columnas, .una-columna .columnas-boton .a-una { display: none; }
+.una-columna .columnas-boton .a-columnas { display: inline-flex; }
+@media print { .columnas-boton { display: none !important; } }
+@media (min-width: 60rem) {
+  .columnas-boton { display: inline-flex; }
+  html:not(.una-columna) .en-columnas { max-width: 76rem; }
+  html:not(.una-columna) .en-columnas .cabeza-pieza:has(> .ilu) {
+    display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center;
+  }
+  html:not(.una-columna) .en-columnas .cabeza-pieza > .ilu { margin: 0; }
+  html:not(.una-columna) .en-columnas .cabeza-pieza:not(:has(> .ilu)) .cabeza-texto { max-width: 52rem; }
+  html:not(.una-columna) .en-columnas .cabeza-texto > :last-child { margin-bottom: 0; }
+  html:not(.una-columna) .en-columnas .cuerpo {
+    columns: 3 19rem; column-gap: 2rem; column-rule: 1px solid var(--filete);
+    margin-top: 1.6rem; padding-top: 1.2rem; border-top: 1px solid var(--filete);
+    text-align: justify; orphans: 2; widows: 2;
+  }
+  html:not(.una-columna) .en-columnas .ficha-doc { margin: 1.6rem 0 0; }
+  /* Los ladillos, las claves, las tablas y las figuras cortan las columnas: cada apartado se lee en su
+     bloque, sin subir y bajar por toda la página */
+  html:not(.una-columna) .en-columnas .cuerpo :is(.ladillo, .claves, .tabla, figure, .video, .recurso) { column-span: all; text-align: left; }
+  html:not(.una-columna) .en-columnas .cuerpo .ladillo { margin-top: 1.6rem; }
+  html:not(.una-columna) .en-columnas .cuerpo :is(li, blockquote) { break-inside: avoid; }
+  html:not(.una-columna) .en-columnas .cuerpo .claves ul { columns: 2; column-gap: 2.6rem; }
+  /* La semana del repositorio: la captura y el texto de cada recurso, en las mismas columnas, una detrás de
+     otro; así las columnas quedan igualadas, sin el hueco que dejaba el texto al lado de una captura más alta */
+  html:not(.una-columna) .en-columnas .recurso-cuerpo { display: block; columns: 3 19rem; column-gap: 2rem; column-rule: 1px solid var(--filete); }
+  html:not(.una-columna) .en-columnas .recurso-cuerpo .ilu.captura { margin: 0.3rem 0 1rem; break-inside: avoid; }
+  html:not(.una-columna) .en-columnas .recurso-texto { display: contents; }
+  /* Las fuentes comprobadas, en columnas; la viñeta, en fila, como en la portada; «Más en…», en dos */
+  html:not(.una-columna) .en-columnas .comprobado ul { columns: 3 19rem; column-gap: 2rem; }
+  html:not(.una-columna) .en-columnas .comprobado li { break-inside: avoid; }
+  html:not(.una-columna) .en-columnas > .vineta .tira { grid-template-columns: repeat(3, minmax(0, 1fr)); max-width: none; }
+  html:not(.una-columna) .en-columnas .mas ul { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 2.6rem; }
+  html:not(.una-columna) .en-columnas .mas li:nth-child(2) { border-top: 0; padding-top: 0; }
+  html:not(.una-columna) .en-columnas .comentarios { max-width: 44rem; }
+}

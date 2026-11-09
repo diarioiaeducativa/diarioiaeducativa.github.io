@@ -30,6 +30,7 @@ if(v&&ahora-v.t<18e5)s.setItem('diario.visita',JSON.stringify(v));}
 if(!c&&s.getItem('diario.visita')!==null)s.setItem('diario.desde',ahora);
 var t=s.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;
 if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sessionStorage.setItem('diario.app','1');})();}catch(_){}</script>
+<script>try{if(localStorage.getItem('diario.columnas')==='una')document.documentElement.classList.add('una-columna');}catch(_){}</script>
 
 <script>try{(function(){
 var q=new URLSearchParams(location.search),k='diario.nocontar';
@@ -50,7 +51,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../../comun.css?v=0a199b3e">
-<link rel="stylesheet" href="../../diario.css?v=7bf321e5">
+<link rel="stylesheet" href="../../diario.css?v=46065f96">
 </head>
 <body class="pag-articulo">
 <header class="cabecera">
@@ -64,14 +65,13 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <nav class="secciones" aria-label="Atalak"><div class="secciones-lista"><a href="../">Azala</a><a class="sec-herramientas" href="../herramientas.html">Tresnak</a><a class="sec-vibecoding" href="../vibecoding.html">Vibe coding</a><a class="sec-multimedia" href="../multimedia.html">Multimedia</a><a class="sec-debates" href="../debates.html">Eztabaidak</a><a class="sec-novedades" href="../novedades.html">Erakundeak eta enpresak</a><a class="sec-biblioteca" href="../biblioteca.html">Liburutegia</a><a class="sec-reportaje" href="../reportajes.html">Erreportajeak</a><a class="sec-vineta" href="../vineta.html">Bineta</a><a class="quees" href="../redaccion.html">Erredakzioa</a></div></nav>
   
 </header>
-<main class="articulo">
+<main class="articulo en-columnas">
   <article class="sec-vibecoding" data-pagefind-body data-pagefind-filter="seccion:Vibe coding" data-pagefind-sort="fecha:2026-11-08" data-pagefind-meta="fecha:azaroaren 9a"><span hidden data-pagefind-meta="clave:vibecoding"></span>
-    <p class="seccion"><span><a href="../vibecoding.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</a></span> <span class="fecha-pieza">azaroaren 9a</span></p>
-  <p class="antetitulo">Berria biltegian</p>
+    <p class="seccion"><span><a href="../vibecoding.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</a></span> <span class="seccion-dcha"><button type="button" class="columnas-boton" data-pagefind-ignore><span class="a-una" title="Albisteak zutabe bakarrean irakurri"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18"/><path d="M3 12h18"/><path d="M3 19h18"/></svg>Zutabe bakarra</span><span class="a-columnas" title="Albisteak zutabetan irakurri, egunkari batean bezala"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M9 3v18"/><path d="M15 3v18"/></svg>Zutabeak</span></button> <span class="fecha-pieza">azaroaren 9a</span></span></p>
+    <div class="cabeza-pieza"><div class="cabeza-texto"><p class="antetitulo">Berria biltegian</p>
     <h1 class="titular">Planifikatzaile batek ikasturteko egutegia muntatzeko aukera ematen du, Valentziako Erkidegoko egutegi ofizialetik abiatuta edo hutsetik</h1>
     <p class="entradilla">José Luis Miralles Bonok Clauderen laguntzarekin sortutako Calendari-k ikastetxe baten eskola-egutegia nabigatzailetik muntatzeko aukera ematen du, Valentziako egutegi ofizialetik abiatuta edo hutsetik.</p>
-    
-    <figure class="ilu captura"><button type="button" class="ampliar" aria-label="Handitu irudia: Calendari-ren hasierako pantaila, lau txartelekin: Valentziako Erkidegoko egutegi ofiziala, egutegi berri bat sortzea, fitxategi batetik inportatzea eta argitaratutako egutegiak ikustea." title="Handitu irudia" data-cerrar="Itxi"><img src="../../capturas/2026-11-08-calendari-planificador-de-curso.jpg" alt="Calendari-ren hasierako pantaila, lau txartelekin: Valentziako Erkidegoko egutegi ofiziala, egutegi berri bat sortzea, fitxategi batetik inportatzea eta argitaratutako egutegiak ikustea." width="1280" height="800" loading="lazy" decoding="async"></button></figure>
+    </div><figure class="ilu captura"><button type="button" class="ampliar" aria-label="Handitu irudia: Calendari-ren hasierako pantaila, lau txartelekin: Valentziako Erkidegoko egutegi ofiziala, egutegi berri bat sortzea, fitxategi batetik inportatzea eta argitaratutako egutegiak ikustea." title="Handitu irudia" data-cerrar="Itxi"><img src="../../capturas/2026-11-08-calendari-planificador-de-curso.jpg" alt="Calendari-ren hasierako pantaila, lau txartelekin: Valentziako Erkidegoko egutegi ofiziala, egutegi berri bat sortzea, fitxategi batetik inportatzea eta argitaratutako egutegiak ikustea." width="1280" height="800" loading="lazy" decoding="async"></button></figure></div>
     <aside class="ficha-doc" aria-labelledby="rec-calendari-planificador-de-curso"><h2 id="rec-calendari-planificador-de-curso">Baliabidea</h2><dl><dt>Izena</dt><dd>Calendari — Planificador de curso</dd><dt>Egiletza</dt><dd>José Luis Miralles Bono</dd><dt>Lizentzia</dt><dd>AGPL v3</dd></dl><p class="doc-leer"><a href="https://jlmirallesb.github.io/calendari-planificador/" target="_blank" rel="noopener">Ireki baliabidea</a> · <a href="https://vibe-coding-educativo.github.io/app_edu/?ids=https://jlmirallesb.github.io/calendari-planificador/" target="_blank" rel="noopener">Bere fitxa biltegian</a></p></aside>
     <div class="cuerpo"><p><a href="https://jlmirallesb.github.io/calendari-planificador/" target="_blank" rel="noopener">Calendari — Planificador de curso</a> José Luis Miralles Bonok sortutako web-aplikazio bat da; berak aurkezten du Clauderen laguntzarekin diseinatua dela. Biltegiko fitxaren arabera, musika- eta dantza-kontserbatorio baten eskola- eta akademia-egutegirako pentsatuta dago, eta irakasleen prestakuntzarako eta irakaskuntzaren antolakuntzarako sormen-tresna gisa sailkatzen da.</p><p>Irekitzean, orriak lau bide eskaintzen ditu: Valentziako Erkidegoko egutegi ofizialarekin hastea, zeinak ikasturtea sortzen duen jaiegunekin eta oporrekin, udalerriaren eta irakaskuntzaren arabera; egutegi huts bat sortzea, ikasturtea, jaiegunak, hiruhilekoak eta profilak definituz; lehenago JSON fitxategi batean gordetako bat inportatzea; edo argitaratutako egutegiak arakatzea, zeintzuk harpidetu edo editore propiora kopiatu daitezkeen. Fitxak gaineratzen du eskola-egunak, hiruhilekoak eta ebaluazio-mugarriak kudeatzen dituela.</p><p>Zuzendaritza-talde edo departamentu batentzat, erabilgarritasuna dagoeneko eraikita dagoen egutegi batetik abiatzean eta hura egokitzean datza, irailero hutsetik altxatu beharrean. Fitxaren arabera, emaitza PDFra eta .ics formatura atera daiteke, eta mugikorreko egutegitik harpidetu daiteke, irakasleek aldaketak beren agendan ikus ditzaten.</p><p>Nabigatzailean erabiltzen da, hasierako pantailak konturik edo ordainketarik eskatu gabe, eta interfazea gaztelaniaz eta valentziaz dago, hizkuntza-hautatzaile batekin eta modu ilun batekin. Fitxaren arabera, ikastetxe batek bere kopia propioa izan dezake. <a href="https://github.com/jlmirallesb/calendari-planificador" target="_blank" rel="noopener">Iturburu-kodea GitHuben dago</a>, AGPL v3 lizentziapean, eta edukiak CC BY-SA 4.0 lizentziapean.</p><p>Egile berak <a href="/eu/2026-11-07/itinerancias.html">Generalitate Valentzianoko hainbat ikastetxetan ibiltari diren irakasleen lanaldia banatzen duen kalkulagailu bat</a> ere ekarri zuen egunkarira.</p></div>
     
@@ -157,6 +157,12 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.getElementById('tema').addEventListener('click',function(){
     var nuevo = oscuro()?'light':'dark'; raiz.dataset.theme=nuevo;
     try{ if((nuevo==='dark')===sistema.matches) localStorage.removeItem('sala.tema'); else localStorage.setItem('sala.tema',nuevo);}catch(_){}
+  });
+  // Columnas o una columna (ADR 0044): se recuerda en el dispositivo para todas las noticias
+  var bc=document.querySelector('.columnas-boton');
+  if(bc) bc.addEventListener('click',function(){
+    var una=raiz.classList.toggle('una-columna');
+    try{ if(una) localStorage.setItem('diario.columnas','una'); else localStorage.removeItem('diario.columnas');}catch(_){}
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
     a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});

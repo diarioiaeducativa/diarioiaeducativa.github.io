@@ -30,6 +30,7 @@ if(v&&ahora-v.t<18e5)s.setItem('diario.visita',JSON.stringify(v));}
 if(!c&&s.getItem('diario.visita')!==null)s.setItem('diario.desde',ahora);
 var t=s.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;
 if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sessionStorage.setItem('diario.app','1');})();}catch(_){}</script>
+<script>try{if(localStorage.getItem('diario.columnas')==='una')document.documentElement.classList.add('una-columna');}catch(_){}</script>
 
 <script>try{(function(){
 var q=new URLSearchParams(location.search),k='diario.nocontar';
@@ -50,7 +51,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../../comun.css?v=0a199b3e">
-<link rel="stylesheet" href="../../diario.css?v=7bf321e5">
+<link rel="stylesheet" href="../../diario.css?v=46065f96">
 </head>
 <body class="pag-articulo">
 <header class="cabecera">
@@ -64,14 +65,13 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <nav class="secciones" aria-label="Atalak"><div class="secciones-lista"><a href="../">Azala</a><a class="sec-herramientas" href="../herramientas.html">Tresnak</a><a class="sec-vibecoding" href="../vibecoding.html">Vibe coding</a><a class="sec-multimedia" href="../multimedia.html">Multimedia</a><a class="sec-debates" href="../debates.html">Eztabaidak</a><a class="sec-novedades" href="../novedades.html">Erakundeak eta enpresak</a><a class="sec-biblioteca" href="../biblioteca.html">Liburutegia</a><a class="sec-reportaje" href="../reportajes.html">Erreportajeak</a><a class="sec-vineta" href="../vineta.html">Bineta</a><a class="quees" href="../redaccion.html">Erredakzioa</a></div></nav>
   
 </header>
-<main class="articulo">
+<main class="articulo en-columnas">
   <article class="sec-vibecoding" data-pagefind-body data-pagefind-filter="seccion:Vibe coding" data-pagefind-sort="fecha:2026-11-03" data-pagefind-meta="fecha:azaroaren 4a"><span hidden data-pagefind-meta="clave:vibecoding"></span>
-    <p class="seccion"><span><a href="../vibecoding.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</a></span> <span class="fecha-pieza">azaroaren 4a</span></p>
-  <p class="antetitulo">Berria biltegian</p>
+    <p class="seccion"><span><a href="../vibecoding.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</a></span> <span class="seccion-dcha"><button type="button" class="columnas-boton" data-pagefind-ignore><span class="a-una" title="Albisteak zutabe bakarrean irakurri"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18"/><path d="M3 12h18"/><path d="M3 19h18"/></svg>Zutabe bakarra</span><span class="a-columnas" title="Albisteak zutabetan irakurri, egunkari batean bezala"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M9 3v18"/><path d="M15 3v18"/></svg>Zutabeak</span></button> <span class="fecha-pieza">azaroaren 4a</span></span></p>
+    <div class="cabeza-pieza"><div class="cabeza-texto"><p class="antetitulo">Berria biltegian</p>
     <h1 class="titular">Katalanezko laborategi batek formulazio ez-organikoa praktikatzeko aukera ematen du, galderekin, aztarnekin eta erronkekin</h1>
     <p class="entradilla">Felip Sarroca i Gilek sortutako «Laboratori de formulació» tresnak nomenklatura ez-organikoko ariketak eskaintzen ditu Derrigorrezko Bigarren Hezkuntzarako eta Batxilergorako, hiru lan-modurekin eta aurrerapen-markagailuarekin.</p>
-    
-    <figure class="ilu captura"><button type="button" class="ampliar" aria-label="Handitu irudia: Practica moduaren pantaila, «Quina és la fórmula de: sulfur de bari» galderarekin eta lau aukerarekin (BaS, Ba2S2, BaCl2, PbCl2), aztarna- eta ebazpen-botoiekin, eta eskuinean jarduera moten zerrenda." title="Handitu irudia" data-cerrar="Itxi"><img src="../../capturas/2026-11-03-laboratori-de-formulacio.jpg" alt="Practica moduaren pantaila, «Quina és la fórmula de: sulfur de bari» galderarekin eta lau aukerarekin (BaS, Ba2S2, BaCl2, PbCl2), aztarna- eta ebazpen-botoiekin, eta eskuinean jarduera moten zerrenda." width="1280" height="800" loading="lazy" decoding="async"></button></figure>
+    </div><figure class="ilu captura"><button type="button" class="ampliar" aria-label="Handitu irudia: Practica moduaren pantaila, «Quina és la fórmula de: sulfur de bari» galderarekin eta lau aukerarekin (BaS, Ba2S2, BaCl2, PbCl2), aztarna- eta ebazpen-botoiekin, eta eskuinean jarduera moten zerrenda." title="Handitu irudia" data-cerrar="Itxi"><img src="../../capturas/2026-11-03-laboratori-de-formulacio.jpg" alt="Practica moduaren pantaila, «Quina és la fórmula de: sulfur de bari» galderarekin eta lau aukerarekin (BaS, Ba2S2, BaCl2, PbCl2), aztarna- eta ebazpen-botoiekin, eta eskuinean jarduera moten zerrenda." width="1280" height="800" loading="lazy" decoding="async"></button></figure></div>
     <aside class="ficha-doc" aria-labelledby="rec-laboratori-de-formulacio"><h2 id="rec-laboratori-de-formulacio">Baliabidea</h2><dl><dt>Izena</dt><dd>Laboratori de formulació</dd><dt>Egiletza</dt><dd>Felip Sarroca i Gil</dd><dt>Lizentzia</dt><dd>CC BY-NC-SA 4.0</dd></dl><p class="doc-leer"><a href="https://ja.cat/formulacio" target="_blank" rel="noopener">Ireki baliabidea</a> · <a href="https://vibe-coding-educativo.github.io/app_edu/?ids=https://ja.cat/formulacio" target="_blank" rel="noopener">Bere fitxa biltegian</a></p></aside>
     <div class="cuerpo"><p>«<a href="https://ja.cat/formulacio" target="_blank" rel="noopener">Laboratori de formulació</a>» konposatu ez-organikoen formulazioa eta nomenklatura ikasi eta praktikatzeko web-aplikazio bat da. Biltegiko fitxaren arabera, IUPACen 2005eko gomendioei jarraitzen die eta Derrigorrezko Bigarren Hezkuntzako eta Batxilergoko ikasleei zuzenduta dago, Zientzia eta Teknologia arloan. Erabat katalanez dago, eta orri-oinean adierazten da Felip Sarrocak sortu duela adimen artifizialaren (AA) laguntzaz.</p><p>Irekitzean, hiru modu dituen goiburu bat ikusten da: «Aprèn», «Practica» eta «Repte». Praktika moduan, pantaila-argazkian ageri dena, aukera anitzeko galdera bat agertzen da, lau erantzunekin, adibidez bario sulfuroaren formula, familiaren etiketarekin («sal binària») eta mailarekin («fàcil»). Azpian, aztarna bat eskatzeko edo ebazpena erakusteko botoiak daude. Mailaren arabera (erraza, ertaina eta Batxilergoa) eta konposatu-familiaren arabera iragazi daiteke, eta alboko panelak jarduera mota aukeratzen uzten du: guztien nahasketa, ioiak elkartuz konposatuak eraikitzea karga osoa zero izan arte, izenetik formulara pasatzea, formulatik izenera pasatzea, lau aukeren artean hautatzea edo konposatu bat bere familian sailkatzea.</p><p>Saio bakoitzarekin batera saiakeren, asmatzeen eta bolada onaren kontagailu bat doa. Orriak dio aurrerapena nabigatzailean bakarrik gordetzen dela, eta ioien taula bat eskaintzen du. Fitxaren arabera, proiektagailu modu bat ere badu, arbel digitalerako pentsatua, pantaila-argazkian nabaritzen ez dena.</p><p>Irakasleentzat, baliabidea ikasleen praktika autonomorako erabil daiteke edo ikasgelan proiektatutako errepaso-jarduera gisa. Nabigatzailetik irekitzen da, eta ez du sarbide- edo ordainketa-pantailarik erakusten. Gaztelaniaz ematen duenak kontuan izan behar du testu guztia, bai galderena bai laguntzena, katalanez dagoela.</p><p>Lana CC BY-NC-SA 4.0 lizentziarekin partekatzen da, eta horrek egilearen aitorpenarekin egokitzeko aukera ematen du, erabilera komertzialik gabe eta lan eratorriak lizentzia berarekin partekatuz.</p></div>
     
@@ -157,6 +157,12 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.getElementById('tema').addEventListener('click',function(){
     var nuevo = oscuro()?'light':'dark'; raiz.dataset.theme=nuevo;
     try{ if((nuevo==='dark')===sistema.matches) localStorage.removeItem('sala.tema'); else localStorage.setItem('sala.tema',nuevo);}catch(_){}
+  });
+  // Columnas o una columna (ADR 0044): se recuerda en el dispositivo para todas las noticias
+  var bc=document.querySelector('.columnas-boton');
+  if(bc) bc.addEventListener('click',function(){
+    var una=raiz.classList.toggle('una-columna');
+    try{ if(una) localStorage.setItem('diario.columnas','una'); else localStorage.removeItem('diario.columnas');}catch(_){}
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
     a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});

@@ -30,6 +30,7 @@ if(v&&ahora-v.t<18e5)s.setItem('diario.visita',JSON.stringify(v));}
 if(!c&&s.getItem('diario.visita')!==null)s.setItem('diario.desde',ahora);
 var t=s.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;
 if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sessionStorage.setItem('diario.app','1');})();}catch(_){}</script>
+<script>try{if(localStorage.getItem('diario.columnas')==='una')document.documentElement.classList.add('una-columna');}catch(_){}</script>
 
 
 <link rel="icon" href="/gl/../favicon.svg" type="image/svg+xml">
@@ -40,7 +41,7 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="/gl/../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="/gl/../comun.css?v=0a199b3e">
-<link rel="stylesheet" href="/gl/../diario.css?v=7bf321e5">
+<link rel="stylesheet" href="/gl/../diario.css?v=46065f96">
 </head>
 <body class="pag-que-es">
 <header class="cabecera">
@@ -63,6 +64,12 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
   document.getElementById('tema').addEventListener('click',function(){
     var nuevo = oscuro()?'light':'dark'; raiz.dataset.theme=nuevo;
     try{ if((nuevo==='dark')===sistema.matches) localStorage.removeItem('sala.tema'); else localStorage.setItem('sala.tema',nuevo);}catch(_){}
+  });
+  // Columnas o una columna (ADR 0044): se recuerda en el dispositivo para todas las noticias
+  var bc=document.querySelector('.columnas-boton');
+  if(bc) bc.addEventListener('click',function(){
+    var una=raiz.classList.toggle('una-columna');
+    try{ if(una) localStorage.setItem('diario.columnas','una'); else localStorage.removeItem('diario.columnas');}catch(_){}
   });
   document.querySelectorAll('[data-idioma]').forEach(function(a){
     a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});
