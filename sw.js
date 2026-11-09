@@ -71,6 +71,35 @@ self.addEventListener('activate', ev => {
     .then(() => self.clients.claim()));
 });
 
+// La primera visita se carga antes de que haya service worker: la página le pasa entonces lo que ya ha
+// cargado (ella misma, las hojas, la letra, los dibujos) y él lo guarda, con la portada de su idioma y sus
+// piezas. Sin esto, la primera vez no quedaría nada para leer sin conexión.
+self.addEventListener('message', ev => {
+  const urls = ev.data && Array.isArray(ev.data.guardar) ? ev.data.guardar : null;
+  if (!urls) return;
+  ev.waitUntil((async () => {
+    const cache = await caches.open(CACHE);
+    for (const u of urls.slice(0, 80)) {
+      const url = new URL(u, location.origin);
+      if (url.origin !== location.origin || NO_GUARDAR.test(url.pathname) || await cache.match(clave(url.href))) continue;
+      try {
+        const r = await fetch(url.href);
+        if (r.ok && r.type === 'basic') await guardar(cache, url.href, r);
+      } catch (_) { /* se guardará al volver a abrirla */ }
+    }
+    const i = idioma(new URL(urls[0], location.origin).pathname);
+    const portada = `${location.origin}/${i ? i + '/' : ''}`;
+    try {
+      const r = await fetch(portada);
+      if (r.ok) {
+        const html = await r.clone().text();
+        await guardar(cache, portada, r);
+        await guardarPortada(portada, html);
+      }
+    } catch (_) { /* sin red a medias */ }
+  })());
+});
+
 self.addEventListener('fetch', ev => {
   const req = ev.request;
   const url = new URL(req.url);

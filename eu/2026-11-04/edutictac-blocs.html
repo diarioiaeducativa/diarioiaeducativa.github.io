@@ -133,6 +133,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
       <li><a href="../para-tu-web.html">Txertatu Hezkuntzako AA Egunkaria zure webgunean</a></li>
       <li><a href="../feed.xml">RSS</a></li>
       <li class="instalar-app" hidden><button type="button" class="instalar" title="Instalatu egunkaria gailu honetan eta ireki bere ikonotik, aplikazio bat bezala">Instalatu aplikazioa</button></li>
+      <li class="avisos-app" hidden><a href="intent://avisos?idioma=eu#Intent;scheme=diarioia;package=io.github.diarioiaeducativa;end" title="Aukeratu aplikazioak goizero abisatzen dizun zenbakia ateratzen denean">Zenbakiaren abisuak</a></li>
     </ul>
     <p class="instalar-ios" hidden>iPhonean edo iPadean, egunkaria aplikazio gisa izan daiteke: gehitu hasierako pantailara nabigatzailearen partekatzeko botoitik.</p>
     <div class="pie-creditos">
@@ -218,7 +219,22 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   }
   // Lectura sin conexión (ADR 0042): el service worker guarda lo que se abre y el último número. Solo en
   // el propio diario, no dentro del marco de otra web.
-  if('serviceWorker' in navigator&&window.top===window) navigator.serviceWorker.register('/sw.js').catch(function(){});
+  // La primera vez, la página se ha cargado sin él: le pasa lo cargado para que lo guarde con el último número.
+  if('serviceWorker' in navigator&&window.top===window){
+    var sinControl=!navigator.serviceWorker.controller;
+    navigator.serviceWorker.register('/sw.js').then(function(){return navigator.serviceWorker.ready;}).then(function(r){
+      if(!sinControl||!r.active)return;
+      var u=[location.href].concat(performance.getEntriesByType('resource').map(function(x){return x.name;})
+        .filter(function(n){return n.indexOf(location.origin+'/')===0;}));
+      r.active.postMessage({guardar:u});
+    }).catch(function(){});
+  }
+  // Los avisos del número (ADR 0043) son de la app de Android: el enlace sale solo dentro de ella, que se
+  // reconoce porque la abre con su nombre como referencia. En la sesión, no para siempre: la app comparte
+  // la memoria del sitio con Chrome, y en Chrome el enlace no haría nada.
+  var av=document.querySelector('.avisos-app');
+  if(av){try{if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sessionStorage.setItem('diario.app','1');
+    if(sessionStorage.getItem('diario.app'))av.hidden=false;}catch(_){}}
   // «Para tu web» (ADR 0032): el botón despliega sus opciones y se cierra al pulsar fuera o con Escape
   var bl=document.querySelector('.llevar-boton'), ml=document.getElementById('menu-llevar');
   function cerrarLlevar(){ if(ml&&!ml.hidden){ml.hidden=true; bl.setAttribute('aria-expanded','false');} }
