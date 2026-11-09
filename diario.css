@@ -518,6 +518,14 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 .notebook { margin: 0 0 1.8rem; padding: 1.1rem 1.2rem 1.2rem; background: var(--papel-2); border-top: 3px solid var(--azul); }
 .notebook h2 { margin: 0 0 0.3rem; font-size: 1.3rem; color: var(--azul); }
 .nb-txt { margin: 0 0 1rem; color: var(--tinta-2); font-size: 0.98rem; line-height: 1.5; }
+/* El comentario de la semana (ADR 0038): debajo del pódcast y el vídeo, con el mismo filete */
+.comentario-semana { margin: 0 0 1.8rem; padding: 1.1rem 1.2rem 1.2rem; background: var(--papel-2); border-top: 3px solid var(--azul); }
+.comentario-semana h2 { margin: 0 0 0.6rem; font-size: 1.3rem; color: var(--azul); }
+.comentario-semana h2 .ico { width: 1.05em; height: 1.05em; vertical-align: -0.15em; }
+.comentario-semana article[hidden] { display: none; }
+.comentario-semana h3 { margin: 0 0 0.6rem; font-size: 1.15rem; line-height: 1.3; }
+.comentario-semana p { margin: 0 0 0.8rem; line-height: 1.6; }
+.comentario-semana .cs-nota { margin: 0.4rem 0 0; color: var(--tinta-2); font-size: 0.9rem; }
 .nb-grupos { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.2rem 1.6rem; }
 .nb-grupo { max-width: 40rem; }
 .nb-grupo h3 { margin: 0 0 0.5rem; font-size: 1.1rem; }
