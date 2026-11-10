@@ -148,7 +148,7 @@ img, svg { max-width: 100%; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 @media print {
   :root, :root[data-theme="dark"] { --papel: #fff; --papel-2: #fff; --tinta: #000; --tinta-2: #333; --filete: #999; --azul: #000; --rojo: #000; }
-  .tema, .lupa, .ico-video, .idiomas, .navegacion, .pie-unete { display: none !important; }
+  .tema, .lupa, .ico-video, .idiomas, .dia-ant, .dia-sig, .pie-unete { display: none !important; }
 }
 
 /* Viñeta: Tiza y Algoritmo. La tiza es blanca en los dos temas; el cursor, azul. */

@@ -44,10 +44,12 @@
 .secciones a { color: var(--tinta); text-decoration: none; font-weight: 600; }
 .secciones a:hover { text-decoration: underline; }
 .secciones a[aria-current] { color: var(--sec, var(--azul)); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.3em; }
+/* El número anterior y el siguiente: flechas discretas pegadas a «Portada» (antes, una línea propia, ADR 0045);
+   el relleno agranda la zona que se toca */
+.secciones :is(.dia-ant, .dia-sig) { margin-right: -1.25rem; padding-right: 0.4rem; color: var(--tinta-2); font-weight: 400; }
+.secciones :is(.dia-ant, .dia-sig):hover, .secciones :is(.dia-ant, .dia-sig):focus-visible { color: var(--tinta); }
+.secciones :is(.dia-ant, .dia-sig) .ico { width: 1.05em; height: 1.05em; vertical-align: -0.17em; }
 .secciones .quees { margin-left: auto; font-weight: 400; font-style: italic; color: var(--tinta-2); }
-/* Navegación entre días, debajo de la barra, solo donde hace falta */
-.navegacion { display: flex; gap: 1.4rem; padding: 0.4rem 0; border-bottom: 1px solid var(--filete); font-size: 0.95rem; }
-.navegacion .sig { margin-left: auto; }
 
 /* Rótulos de las piezas */
 .seccion a { color: inherit; text-decoration: none; }
