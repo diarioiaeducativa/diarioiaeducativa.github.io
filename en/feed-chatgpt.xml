@@ -9,6 +9,23 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>A group thread uses coding agents to control home automation</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/domotica-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/domotica-agentes-ia.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A thread in the group collects uses of agents such as Claude Code or Antigravity to run the television, music and the Home Assistant configuration, with control of privacy as a condition.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-domotica-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram in which a box, “Agent”, points to a code document labelled “Configuration”, which points to a house labelled “Home Assistant”; below, a red padlock labelled “No passwords”.</media:description></media:content>
+  </item>
+  <item>
+    <title>The open model that was “checkmating” the giants: a year on, Kimi is almost three times bigger and still behind</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/kimi-modelo-abierto-gigantes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/kimi-modelo-abierto-gigantes.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, people were sharing that a Chinese open-weights model, Kimi K2 Thinking, beat GPT-5 on some tests. Today Kimi K3, from the same family, is almost three times bigger, but its maker admits it does not match the best closed models.</description>
+  </item>
+  <item>
     <title>An AI detector&#x27;s percentage opens a conversation with the student, but does not prove they copied</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-08/detector-ia-no-es-prueba.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/detector-ia-no-es-prueba.html</guid>

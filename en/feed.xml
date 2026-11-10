@@ -9,6 +9,75 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, with the former open to everyone</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and available to all, and Mythos 5.2, only for verified organisations.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “Everyone”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A group thread uses coding agents to control home automation</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/domotica-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/domotica-agentes-ia.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A thread in the group collects uses of agents such as Claude Code or Antigravity to run the television, music and the Home Assistant configuration, with control of privacy as a condition.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-domotica-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram in which a box, “Agent”, points to a code document labelled “Configuration”, which points to a house labelled “Home Assistant”; below, a red padlock labelled “No passwords”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Two Catalan-language apps by David Cordones: a letters and numbers game and a reception classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/xifres-i-lletres-acollida.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/xifres-i-lletres-acollida.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Xifres i Lletres trains vocabulary and mental arithmetic by age; Aula d&#x27;Acollida Digital offers initial language support.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-xifres-i-lletres-acollida.svg" medium="image" type="image/svg+xml"><media:description>Two panels: on the left, a calculator and three boxes labelled “Xifres i Lletres”; on the right, a translation icon labelled “Aula d&#x27;Acollida”; below, a dashed box labelled “Open source”.</media:description></media:content>
+  </item>
+  <item>
+    <title>How “Buzz” was shot: Claude, Blender via MCP, a virtual reality headset and Seedance</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/buzz-flujo-claude-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/buzz-flujo-claude-blender.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Its director details the process behind the short film the paper covered yesterday, and warns that it is expensive in credits.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-buzz-flujo-claude-blender.svg" medium="image" type="image/svg+xml"><media:description>Four steps in a row joined by arrows: a code document labelled “App with Claude”, a 3D cube labelled “Blender and MCP”, a headset labelled “Filming in VR” and a clapperboard labelled “Seedance”; a red arrow points at the last one with the label “Costly in credits”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A website promotes Belsetán, an endangered Aragonese variety, with games and classroom worksheets</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/belsetan-lengua-aragonesa.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/belsetan-lengua-aragonesa.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“El aprendiz del pastor” brings together history, texts, games and teaching materials on the language of the Bielsa valley.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-belsetan-lengua-aragonesa.svg" medium="image" type="image/svg+xml"><media:description>A mountain labelled “Bielsa Valley” leads to an open book labelled “Belsetán”, from which two arrows come out: one to a pair of dice labelled “Games” and another to a document labelled “Worksheets”.</media:description></media:content>
+  </item>
+  <item>
+    <title>The open model that was “checkmating” the giants: a year on, Kimi is almost three times bigger and still behind</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/kimi-modelo-abierto-gigantes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/kimi-modelo-abierto-gigantes.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, people were sharing that a Chinese open-weights model, Kimi K2 Thinking, beat GPT-5 on some tests. Today Kimi K3, from the same family, is almost three times bigger, but its maker admits it does not match the best closed models.</description>
+  </item>
+  <item>
+    <title>A free connector for Windows sends sensor data from a micro:bit board, over USB, to the ThingSpeak…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/breve-1.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>A free connector for Windows sends sensor data from a micro:bit board, over USB, to the ThingSpeak platform, useful for weather stations or vegetable gardens with charts.</description>
+  </item>
+  <item>
+    <title>Google AI Studio now lets you build apps with maps, place data and routes from Google Maps Platform…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/breve-2.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Google AI Studio now lets you build apps with maps, place data and routes from Google Maps Platform without leaving the tool; with the free demo key, with no billing, the limit is 100 calls a day per API.</description>
+  </item>
+  <item>
     <title>An AI detector&#x27;s percentage opens a conversation with the student, but does not prove they copied</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-08/detector-ia-no-es-prueba.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/detector-ia-no-es-prueba.html</guid>

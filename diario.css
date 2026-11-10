@@ -82,6 +82,10 @@
   margin-top: 1.8rem; padding-top: 1.3rem; border-top: 3px solid var(--tinta);
 }
 .fila-menores { border-top-width: 1px; }
+/* Las filas que siguen a otra del mismo grupo (ADR 0045), separadas solo por un filete fino */
+.fila.fila-sigue { border-top-width: 1px; border-top-color: var(--filete); margin-top: 1.4rem; }
+/* El dibujo de una pieza lleva a su artículo (ADR 0045) */
+main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .destacada .ilu { margin: 0 0 0.9rem; background: var(--papel-2); padding: 0.6rem; }
 /* En una fila, todos los dibujos del mismo alto aunque su lienzo no tenga la misma proporción (el del reportaje
    es más alto) */
@@ -202,9 +206,6 @@
 .eleccion { max-width: 40rem; padding: 3rem 0; text-align: center; }
 .eleccion ul { text-align: left; line-height: 1.7; }
 
-@media (max-width: 60rem) {
-  .fila { grid-template-columns: repeat(min(var(--n, 2), 2), minmax(0, 1fr)); }
-}
 @media (max-width: 52rem) {
   /* En una columna, el dibujo va antes del titular, como en el papel */
   .principal { grid-template-columns: 1fr; }
@@ -322,7 +323,7 @@
 /* El filete, en mitad del hueco: así las tres columnas tienen el mismo ancho y las miniaturas, la misma altura */
 .alt-b > * + * { position: relative; }
 .alt-b > * + *::before { content: ""; position: absolute; left: -1.1rem; top: 0; bottom: 0; border-left: 1px solid var(--filete); }
-@media (max-width: 52rem) {
+@media (max-width: 60rem) {
   .bloque-piezas.alt-a { grid-template-columns: 1fr; }
   .alt-grande { padding-right: 0; }
   .alt-lista { border-left: 0; padding-left: 0; border-top: 1px solid var(--filete); padding-top: 1rem; margin-top: 1rem; }
@@ -364,16 +365,16 @@
 .hace-un-ano-recuadro .titular { font-size: 1.2rem; margin: 0.2rem 0 0.4rem; }
 .hace-un-ano-recuadro .entradilla { font-size: 0.98rem; color: var(--tinta-2); margin: 0; }
 .hace-un-ano-recuadro .leer { margin: 0.6rem 0 0; font-weight: 600; }
-@media (max-width: 52rem) { .fila-breves-hu { grid-template-columns: 1fr; } }
+@media (max-width: 60rem) { .fila-breves-hu { grid-template-columns: 1fr; } }
 
 /* En la tableta, las columnas de las filas de tres y de las destacadas son tan estrechas que los titulares
    cambian mucho de largo y dejaban blancos: una columna, con la miniatura a la izquierda y el texto rodeándola */
-@media (min-width: 40.01rem) and (max-width: 52rem) {
-  .bloque-piezas.alt-b, .fila.fila-destacadas { grid-template-columns: 1fr; row-gap: 1.2rem; }
+@media (min-width: 40.01rem) and (max-width: 60rem) {
+  .bloque-piezas.alt-b, .fila.fila-destacadas, .fila.fila-seccion, .fila.mas-dia { grid-template-columns: 1fr; row-gap: 1.2rem; }
   .alt-b > * + *::before { content: none; }
-  .alt-b > * + *, .fila-destacadas > * + * { border-top: 1px solid var(--filete); padding-top: 1.2rem; }
-  .alt-fila, .fila-destacadas .destacada { display: flow-root; }
-  .alt-fila .ilu, .fila-destacadas .destacada .ilu { float: left; width: 40%; margin: 0.2rem 1.2rem 0.5rem 0 !important; }
+  .alt-b > * + *, .fila-destacadas > * + *, .fila-seccion > * + *, .mas-dia > * + * { border-top: 1px solid var(--filete); padding-top: 1.2rem; }
+  .alt-fila, .fila-destacadas .destacada, .fila-seccion .destacada { display: flow-root; }
+  .alt-fila .ilu, .fila-destacadas .destacada .ilu, .fila-seccion .destacada .ilu { float: left; width: 40%; margin: 0.2rem 1.2rem 0.5rem 0 !important; }
 }
 
 /* Subtítulo de la viñeta */
@@ -730,7 +731,12 @@ p.con-nb { margin: 0 0 0.3rem; }
     display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center;
   }
   html:not(.una-columna) .en-columnas .cabeza-pieza > .ilu { margin: 0; }
-  html:not(.una-columna) .en-columnas .cabeza-pieza:not(:has(> .ilu)) .cabeza-texto { max-width: 52rem; }
+  /* Sin dibujo, el titular ocupa todo el ancho y la entradilla va en dos columnas, para no dejar vacía la mitad
+     derecha sin alargar sus líneas (ADR 0045) */
+  html:not(.una-columna) .en-columnas .cabeza-pieza:not(:has(> .ilu)) .titular { text-wrap: wrap; text-wrap: pretty; }
+  html:not(.una-columna) .en-columnas .cabeza-pieza:not(:has(> .ilu)) .entradilla {
+    column-count: 2; column-gap: 2.6rem; column-rule: 1px solid var(--filete);
+  }
   html:not(.una-columna) .en-columnas .cabeza-texto > :last-child { margin-bottom: 0; }
   html:not(.una-columna) .en-columnas .cuerpo {
     columns: 3 19rem; column-gap: 2rem; column-rule: 1px solid var(--filete);

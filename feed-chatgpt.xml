@@ -9,6 +9,23 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Un hilo del grupo usa agentes de programación para controlar la domótica de casa</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un hilo del grupo recoge usos de agentes como Claude Code o Antigravity para manejar televisión, música y la configuración de Home Assistant, con el control de la privacidad como condición.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-09-domotica-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en el que un recuadro, «Agente», apunta a un documento de código con el rótulo «Configuración», que apunta a una casa con el rótulo «Home Assistant»; abajo, un candado rojo con el rótulo «Sin claves».</media:description></media:content>
+  </item>
+  <item>
+    <title>El modelo abierto que ponía «en jaque» a los gigantes: un año después, Kimi es casi tres veces mayor y aún va por detrás</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-09/kimi-modelo-abierto-gigantes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/kimi-modelo-abierto-gigantes.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025 se compartía que un modelo chino de pesos abiertos, Kimi K2 Thinking, superaba a GPT-5 en algunas pruebas. Hoy Kimi K3, de la misma familia, es casi tres veces mayor, pero su fabricante admite que no alcanza a los mejores modelos cerrados.</description>
+  </item>
+  <item>
     <title>Un porcentaje de un detector de IA abre una conversación con el alumno, pero no prueba que haya copiado</title>
     <link>https://diarioiaeducativa.github.io/2026-11-08/detector-ia-no-es-prueba.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/detector-ia-no-es-prueba.html</guid>

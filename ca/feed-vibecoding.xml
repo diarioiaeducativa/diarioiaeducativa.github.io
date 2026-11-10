@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Un fil del grup usa agents de programació per controlar la domòtica de casa</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/domotica-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/domotica-agentes-ia.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un fil del grup recull usos d&#x27;agents com Claude Code o Antigravity per manejar la televisió, la música i la configuració de Home Assistant, amb el control de la privadesa com a condició.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-domotica-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en què un requadre, «Agent», apunta a un document de codi amb el rètol «Configuració», que apunta a una casa amb el rètol «Home Assistant»; a baix, un cadenat vermell amb el rètol «Sense claus».</media:description></media:content>
+  </item>
+  <item>
+    <title>Dues aplicacions en català de David Cordones: un joc de lletres i xifres i una aula d&#x27;acollida</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/xifres-i-lletres-acollida.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/xifres-i-lletres-acollida.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Xifres i Lletres entrena lèxic i càlcul mental per edats; Aula d&#x27;Acollida Digital ofereix suport lingüístic inicial.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-xifres-i-lletres-acollida.svg" medium="image" type="image/svg+xml"><media:description>Dos panells: a l&#x27;esquerra, una calculadora i tres caselles amb el rètol «Xifres i Lletres»; a la dreta, una icona de traducció amb el rètol «Aula d&#x27;Acollida»; a sota, un requadre de traços discontinus amb el rètol «Codi obert».</media:description></media:content>
+  </item>
+  <item>
+    <title>Una web difon el belsetà, varietat aragonesa en perill, amb jocs i fitxes d&#x27;aula</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/belsetan-lengua-aragonesa.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/belsetan-lengua-aragonesa.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«El aprendiz del pastor» reuneix història, textos, jocs i materials didàctics sobre la llengua de la vall de Bielsa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-belsetan-lengua-aragonesa.svg" medium="image" type="image/svg+xml"><media:description>Una muntanya amb el rètol «Vall de Bielsa» porta a un llibre obert amb el rètol «Belsetán», del qual surten dues fletxes: una a uns daus amb el rètol «Jocs» i una altra a un document amb el rètol «Fitxes».</media:description></media:content>
+  </item>
+  <item>
     <title>Un planificador permet muntar el calendari del curs a partir de l&#x27;oficial de la Comunitat Valenciana o des de zero</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</guid>

@@ -9,6 +9,41 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, with the former open to everyone</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and available to all, and Mythos 5.2, only for verified organisations.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “Everyone”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Two Catalan-language apps by David Cordones: a letters and numbers game and a reception classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/xifres-i-lletres-acollida.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/xifres-i-lletres-acollida.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Xifres i Lletres trains vocabulary and mental arithmetic by age; Aula d&#x27;Acollida Digital offers initial language support.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-xifres-i-lletres-acollida.svg" medium="image" type="image/svg+xml"><media:description>Two panels: on the left, a calculator and three boxes labelled “Xifres i Lletres”; on the right, a translation icon labelled “Aula d&#x27;Acollida”; below, a dashed box labelled “Open source”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A website promotes Belsetán, an endangered Aragonese variety, with games and classroom worksheets</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/belsetan-lengua-aragonesa.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/belsetan-lengua-aragonesa.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“El aprendiz del pastor” brings together history, texts, games and teaching materials on the language of the Bielsa valley.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-belsetan-lengua-aragonesa.svg" medium="image" type="image/svg+xml"><media:description>A mountain labelled “Bielsa Valley” leads to an open book labelled “Belsetán”, from which two arrows come out: one to a pair of dice labelled “Games” and another to a document labelled “Worksheets”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A free connector for Windows sends sensor data from a micro:bit board, over USB, to the ThingSpeak…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-09/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/breve-1.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>A free connector for Windows sends sensor data from a micro:bit board, over USB, to the ThingSpeak platform, useful for weather stations or vegetable gardens with charts.</description>
+  </item>
+  <item>
     <title>A planner lets schools build the school-year calendar from the official Valencian Community one or from scratch</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-08/calendari-planificador-de-curso.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/calendari-planificador-de-curso.html</guid>
