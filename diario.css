@@ -345,13 +345,13 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 /* Los breves, como en el papel (ADR 0041): el título encima y debajo columnas que se reparten solas hasta
    quedar lo más igualadas posible. Cada breve, entero en su columna: partido, Firefox dejaba sus enlaces sueltos
    arriba de la siguiente y Chrome no lo partía. Con el título a la izquierda quedaba vacía la columna de debajo. */
-.bloque.sec-breves .bloque-piezas, .bloque-columnas .bloque-piezas { display: block; column-count: var(--n, 3); column-gap: 2.4rem; column-rule: 1px solid var(--filete); }
-.bloque.sec-breves .bloque-piezas > *, .bloque-columnas .bloque-piezas > * { max-width: none; margin: 0 0 1.1rem; }
-.bloque.sec-breves .bloque-piezas > *, .bloque-columnas .bloque-piezas > * { break-inside: avoid; }
-@media (max-width: 52rem) { .bloque.sec-breves .bloque-piezas, .bloque-columnas .bloque-piezas { column-count: min(var(--n, 2), 2); } }
+.bloque.sec-breves .bloque-piezas { display: block; column-count: var(--n, 3); column-gap: 2.4rem; column-rule: 1px solid var(--filete); }
+.bloque.sec-breves .bloque-piezas > * { max-width: none; margin: 0 0 1.1rem; }
+.bloque.sec-breves .bloque-piezas > * { break-inside: avoid; }
+@media (max-width: 52rem) { .bloque.sec-breves .bloque-piezas { column-count: min(var(--n, 2), 2); } }
 @media (max-width: 40rem) {
-  .bloque.sec-breves .bloque-piezas, .bloque-columnas .bloque-piezas { column-count: 1; }
-  .bloque.sec-breves .bloque-piezas > * + *, .bloque-columnas .bloque-piezas > * + * { border-top: 1px solid var(--filete); padding-top: 1.1rem; margin-top: 0; }
+  .bloque.sec-breves .bloque-piezas { column-count: 1; }
+  .bloque.sec-breves .bloque-piezas > * + * { border-top: 1px solid var(--filete); padding-top: 1.1rem; margin-top: 0; }
 }
 
 /* Los breves y «Hace un año», en una fila de dos recuadros del mismo alto (ADR 0040): cada uno con su fondo,
