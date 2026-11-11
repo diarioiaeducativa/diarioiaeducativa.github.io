@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Tiza y Algoritmo: la barra de tiza con la punta gastada y su cara, y el cursor azul, sobre tinta -->
-  <rect width="64" height="64" rx="14" fill="#16181d"/>
-  <path d="M14 54 L14 17 Q14 13 18 13.5 L22 11 L25 14 L28 12 L31 15 Q32 15.5 32 18 L32 54 Q32 56 30 56 L16 56 Q14 56 14 54 Z" fill="#ffffff"/>
-  <circle cx="19.5" cy="24" r="1.9" fill="#16181d"/><circle cx="27.5" cy="24" r="1.9" fill="#16181d"/>
-  <path d="M19.5 29.5 Q23.5 33 27.5 29.5" fill="none" stroke="#16181d" stroke-width="1.8" stroke-linecap="round"/>
-  <rect x="37" y="26" width="16" height="22" rx="3" fill="#6f8cff"/>
-  <circle cx="42" cy="34" r="2.2" fill="#ffffff"/><circle cx="48" cy="34" r="2.2" fill="#ffffff"/>
-  <path d="M42 39.5 Q45 42.5 48 39.5" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
-  <path d="M39 53 L51 53" stroke="#6f8cff" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <!-- Tiza y Algoritmo cogidos de la mano, simplificados para la pestaña: sin piernas, sin polvo de tiza ni
+       rayas bajo Algoritmo, con los trazos gruesos y las caras reducidas a ojos y sonrisa -->
+  <rect width="64" height="64" rx="14" fill="#fbfbf9"/>
+  <path d="M25 38 L31.5 25" fill="none" stroke="#16181d" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M38 42 L31.5 25" fill="none" stroke="#1c3faa" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M56 42 L60.5 30" fill="none" stroke="#1c3faa" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M8 54 L8 15 Q8 11.5 11.5 12 L15 9.5 L18.5 12.5 L22 10 L25 12.5 Q27 13 27 16 L27 54 Q27 57 24 57 L11 57 Q8 57 8 54 Z" fill="#ffffff" stroke="#16181d" stroke-width="3.6" stroke-linejoin="round"/>
+  <circle cx="14" cy="24" r="2.3" fill="#16181d"/><circle cx="21" cy="24" r="2.3" fill="#16181d"/>
+  <path d="M13.5 30 Q17.5 34 21.5 30" fill="none" stroke="#16181d" stroke-width="2.6" stroke-linecap="round"/>
+  <rect x="36" y="28" width="21" height="27" rx="4" fill="#1c3faa"/>
+  <circle cx="42.5" cy="37" r="3.2" fill="#fbfbf9"/><circle cx="50.5" cy="37" r="3.2" fill="#fbfbf9"/>
+  <path d="M42.5 44 Q46.5 47.5 50.5 44" fill="none" stroke="#fbfbf9" stroke-width="2.4" stroke-linecap="round"/>
 </svg>
