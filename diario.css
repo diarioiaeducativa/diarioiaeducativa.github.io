@@ -32,6 +32,35 @@
 }
 .mancheta a { color: inherit; text-decoration: none; }
 .lema { margin: 0.4rem auto 0; font-style: italic; color: var(--tinta-2); font-size: 1.05rem; max-width: 40rem; }
+/* Tiza y Algoritmo en las orejas de la cabecera (ADR 0049), de pie sobre el filete doble: pequeños en la
+   línea del lema y, en pantalla ancha, a los lados de la mancheta. En el móvil no salen, como el lema.
+   Los trazos engordan con --k para que se lean en pequeño. */
+.orejas { position: relative; height: 0; --k: 1.8; }
+.oreja { position: absolute; bottom: calc(-0.8rem + 1px); line-height: 0; }
+.oreja svg { height: 3.2rem; width: auto; overflow: visible; }
+.oreja-izq { left: 0.4rem; }
+.oreja-der { right: 0.4rem; }
+@media (min-width: 78rem) {
+  .orejas { --k: 1.3; }
+  .oreja svg { height: 6rem; }
+  .oreja-izq { left: 0.2rem; }
+  .oreja-der { right: 0; }
+}
+.orejas .t, .orejas .a { fill: none; stroke-width: calc(2.5px * var(--k)); stroke-linecap: round; stroke-linejoin: round; }
+.orejas .t { stroke: var(--tinta); }
+.orejas .a { stroke: var(--azul); }
+.orejas .discontinuo { stroke-dasharray: calc(4px * var(--k)) calc(5px * var(--k)); stroke-width: calc(2px * var(--k)); }
+.orejas .ft { fill: var(--tinta); stroke: none; }
+.orejas .fz { fill: var(--azul); stroke: none; }
+.orejas .tz { fill: var(--tiza); stroke: var(--cara); stroke-width: calc(2.5px * var(--k)); stroke-linejoin: round; }
+.orejas .cara { fill: none; stroke: var(--cara); stroke-width: calc(2.2px * var(--k)); stroke-linecap: round; }
+.orejas .veta { stroke-width: calc(1.6px * var(--k)); }
+.orejas .fcara { fill: var(--cara); }
+.orejas .ojo { fill: var(--papel); }
+.orejas .fpupila { fill: var(--tinta); }
+.orejas .sp { fill: none; stroke: var(--papel); stroke-width: calc(2.4px * var(--k)); stroke-linecap: round; }
+.orejas .polvo { opacity: 0.5; }
+@media (max-width: 40rem) { .orejas { display: none; } }
 /* Barra de secciones bajo la mancheta, entre el filete doble y uno sencillo */
 .secciones {
   display: flex; align-items: baseline; justify-content: space-between; gap: 0.4rem 1.6rem; flex-wrap: wrap;
