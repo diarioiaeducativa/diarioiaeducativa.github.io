@@ -9,6 +9,40 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>EduGems becomes EduPrompts because Google is replacing Gems with Skills</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-10/edugems-eduprompts.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/edugems-eduprompts.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>The site with 174 prompts for schools changes its name and address. The prompts can still be copied into any other AI tool.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-10-edugems-eduprompts.svg" medium="image" type="image/svg+xml"><media:description>At the top, a box labelled “EduGems” points to another labelled “EduPrompts”; below, a box “Gems” leads with a red arrow to another labelled “Skills”, and on the right a copy icon labelled “Copy”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini’s formulas reached Google Docs as code; a year on, Docs still does not understand LaTeX</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-10/latex-gemini-google-docs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/latex-gemini-google-docs.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, Gemini was already writing and editing formulas in LaTeX, but when they were taken into Google Docs they arrived as code. A year on, Google’s word processor still cannot read LaTeX and the remedy is the same: an add-on or a separate editor.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a Google Docs page with the formula turned into code braces, labelled “Code”. On the right, “Today”: the same page with the same “Code”, and a blue arrow pointing to a blue puzzle piece labelled “Add-on”, the remedy that is still needed.</media:description></media:content>
+  </item>
+  <item>
+    <title>Someone who runs a Claude Code agent on their home NAS says it runs as a service with administrator…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-10/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/breve-1.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Someone who runs a Claude Code agent on their home NAS says it runs as a service with administrator permissions, and that it asks before deleting data, touching disks or opening ports. It continues the thread on home automation with agents.</description>
+  </item>
+  <item>
+    <title>The website of the National Congress on Digitalisation in Education, held in Albacete on 5 and 6 November,…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-10/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/breve-2.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>The website of the National Congress on Digitalisation in Education, held in Albacete on 5 and 6 November, offers access to the broadcast of the talks, according to the group. (In Spanish.)</description>
+  </item>
+  <item>
     <title>A group thread uses coding agents to control home automation</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-09/domotica-agentes-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/domotica-agentes-ia.html</guid>

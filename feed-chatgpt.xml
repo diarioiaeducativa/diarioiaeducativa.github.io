@@ -9,6 +9,40 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>EduGems pasa a llamarse EduPrompts porque Google sustituye los Gems por Skills</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-10/edugems-eduprompts.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/edugems-eduprompts.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>El sitio con 174 prompts para centros educativos cambia de nombre y de dirección. Los prompts se podrán seguir copiando en cualquier otra herramienta de IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-10-edugems-eduprompts.svg" medium="image" type="image/svg+xml"><media:description>Arriba, un recuadro con el rótulo «EduGems» apunta a otro con el rótulo «EduPrompts»; abajo, un recuadro «Gems» lleva con una flecha roja a otro con el rótulo «Skills», y a la derecha un icono de copiar con el rótulo «Copiar».</media:description></media:content>
+  </item>
+  <item>
+    <title>Las fórmulas de Gemini llegaban a Google Docs como código; un año después, Docs sigue sin entender LaTeX</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-10/latex-gemini-google-docs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/latex-gemini-google-docs.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, Gemini ya escribía y editaba fórmulas en LaTeX, pero al llevarlas a Google Docs llegaban como código. Un año después, el procesador de Google sigue sin leer LaTeX y el remedio es el mismo: un complemento o un editor aparte.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: una página de Google Docs con la fórmula convertida en llaves de código, rotulada «Código». A la derecha, «Hoy»: la misma página con el mismo «Código», y una flecha azul hacia una pieza de puzle azul rotulada «Complemento», el remedio que sigue siendo necesario.</media:description></media:content>
+  </item>
+  <item>
+    <title>Quien mantiene un agente de Claude Code en el NAS de casa cuenta que corre como servicio con permisos de…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-10/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/breve-1.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Quien mantiene un agente de Claude Code en el NAS de casa cuenta que corre como servicio con permisos de administrador, y que antes de borrar datos, tocar discos o abrir puertos le pregunta. Continúa el hilo sobre domótica con agentes.</description>
+  </item>
+  <item>
+    <title>La web del Congreso Nacional de Digitalización Educativa, celebrado en Albacete el 5 y 6 de noviembre,…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-10/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/breve-2.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>La web del Congreso Nacional de Digitalización Educativa, celebrado en Albacete el 5 y 6 de noviembre, ofrece el acceso a la retransmisión de las ponencias, según el grupo.</description>
+  </item>
+  <item>
     <title>Un hilo del grupo usa agentes de programación para controlar la domótica de casa</title>
     <link>https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</guid>

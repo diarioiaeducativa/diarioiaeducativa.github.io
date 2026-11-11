@@ -9,6 +9,75 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Un docente pídelle a Fable 5.2 unha animación narrada sobre a fotosíntese e recíbea en 45 minutos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/fable-animacion-fotosintesis.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/fable-animacion-fotosintesis.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Cun só prompt, o modelo preparou un vídeo cadrado con voz natural pensado para bacharelato. O autor considérao aceptable para a clase e fala dunha nova vía para crear materiais.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-fable-animacion-fotosintesis.svg" medium="image" type="image/svg+xml"><media:description>Esquema de esquerda a dereita: unha burbulla de mensaxe co rótulo «Un prompt» leva a un recadro co símbolo da consola e o rótulo «Consola», que leva a unha pantalla cadrada cunha folla e o rótulo «Vídeo cadrado»; arriba, un reloxo vermello co rótulo «45 min».</media:description></media:content>
+  </item>
+  <item>
+    <title>EduGems pasa a chamarse EduPrompts porque Google substitúe os Gems polas Skills</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/edugems-eduprompts.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/edugems-eduprompts.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Ferramentas</category>
+    <description>O sitio con 174 prompts para centros educativos cambia de nome e de enderezo. Os prompts poderanse seguir copiando en calquera outra ferramenta de IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-edugems-eduprompts.svg" medium="image" type="image/svg+xml"><media:description>Arriba, un recadro co rótulo «EduGems» apunta a outro co rótulo «EduPrompts»; abaixo, un recadro «Gems» leva cunha frecha vermella a outro co rótulo «Skills», e á dereita unha icona de copiar co rótulo «Copiar».</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha aplicación para a clase de música propón colocar no pentagrama as notas dunha partitura</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/pentagrama-maestro.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/pentagrama-maestro.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Pentagrama Maestro, creada por Iñaki Fernández, soa nota a nota e ofrece tres niveis e partidas sen límite.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-pentagrama-maestro.svg" medium="image" type="image/svg+xml"><media:description>Un pentagrama con catro notas que ascenden, co rótulo «Pentagrama», e unha frecha que leva a un altofalante co rótulo «Escoitar»; abaixo, tres barras de altura crecente co rótulo «3 niveis».</media:description></media:content>
+  </item>
+  <item>
+    <title>Tribunator organiza tribunais, aulas e horarios das probas de acceso dun conservatorio</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/tribunator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/tribunator.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>José Luis Miralles Bono creou, coa axuda de Claude, unha ferramenta que planifica quen forma cada tribunal, en que aula e a que hora examina, e comproba que non haxa conflitos antes de publicar.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-10-tribunator.jpg" medium="image" type="image/png"><media:description>Pantalla de benvida de Tribunator coas lapelas Inicio, Espacio, Tiempo, Plantillas, Tribunales e Verificación, e os botóns Empezar de cero, Importar datos e Cargar ejemplo.</media:description></media:content>
+  </item>
+  <item>
+    <title>As fórmulas de Gemini chegaban a Google Docs como código; un ano despois, Docs segue sen entender LaTeX</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/latex-gemini-google-docs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/latex-gemini-google-docs.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>En novembro de 2025, Gemini xa escribía e editaba fórmulas en LaTeX, pero ao levalas a Google Docs chegaban como código. Un ano despois, o procesador de Google segue sen ler LaTeX e o remedio é o mesmo: un complemento ou un editor á parte.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por unha liña vertical. Á esquerda, «Nov. 2025»: unha páxina de Google Docs coa fórmula convertida en chaves de código, co rótulo «Código». Á dereita, «Hoxe»: a mesma páxina co mesmo «Código», e unha frecha azul cara a unha peza de crebacabezas azul co rótulo «Complemento», o remedio que segue sendo necesario.</media:description></media:content>
+  </item>
+  <item>
+    <title>Quen mantén un axente de Claude Code no NAS da casa conta que corre como servizo con permisos de…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/breve-1.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Quen mantén un axente de Claude Code no NAS da casa conta que corre como servizo con permisos de administrador, e que antes de borrar datos, tocar discos ou abrir portos lle pregunta. Continúa o fío sobre domótica con axentes.</description>
+  </item>
+  <item>
+    <title>A web do Congreso Nacional de Dixitalización Educativa, celebrado en Albacete o 5 e 6 de novembro, ofrece…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/breve-2.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>A web do Congreso Nacional de Dixitalización Educativa, celebrado en Albacete o 5 e 6 de novembro, ofrece o acceso á retransmisión das ponencias, segundo o grupo.</description>
+  </item>
+  <item>
+    <title>Anthropic dá aos plans que inclúen Fable entre un e tres reinicios do límite de uso, segundo a antigüidade…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/breve-3.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Anthropic dá aos plans que inclúen Fable entre un e tres reinicios do límite de uso, segundo a antigüidade da subscrición, que poden usarse ata o 8 de marzo de 2027; Pro ten un, só ata o 16 de novembro. O modelo é o de Fable 5.2.</description>
+  </item>
+  <item>
     <title>Anthropic presenta Claude Fable 5.2 e Mythos 5.2, co primeiro aberto a todo o público</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-09/fable-mythos-5-2.html</guid>

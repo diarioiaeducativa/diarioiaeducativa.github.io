@@ -9,6 +9,40 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>EduGemsek EduPrompts izena hartuko du, Googlek Gemak Skills-ekin ordezkatzen dituelako</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-10/edugems-eduprompts.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-10/edugems-eduprompts.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Ikastetxeentzako 174 prompt biltzen dituen gunea izenez eta helbidez aldatzen da. Promptak AAren beste edozein tresnatan kopiatzen jarraitu ahal izango dira.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-10-edugems-eduprompts.svg" medium="image" type="image/svg+xml"><media:description>Goian, «EduGems» errotulua duen laukizuzen batek «EduPrompts» errotulua duen beste bat seinalatzen du; behean, «Gems» laukizuzen batek gezi gorri batekin «Skills» errotulua duen beste batera eramaten du, eta eskuinean «Kopiatu» errotulua duen kopiatzeko ikono bat.</media:description></media:content>
+  </item>
+  <item>
+    <title>Geminiren formulak kode gisa iristen ziren Google Docs-era; urtebete geroago, Docs-ek oraindik ez du LaTeX ulertzen</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-10/latex-gemini-google-docs.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-10/latex-gemini-google-docs.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Duela urtebete</category>
+    <description>2025eko azaroan, Geminik LaTeX formulak idazten eta editatzen zituen jada, baina Google Docs-era eramatean kode gisa iristen ziren. Urtebete geroago, Google-ren testu-prozesadoreak oraindik ez du LaTeX irakurtzen, eta konponbidea bera da: gehigarri bat edo editore bereizi bat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Diptikoa, lerro bertikal batez erdibitua. Ezkerrean, «2025 aza.»: Google Docs-eko orri bat, formula kode-giltza bihurtuta, «Kodea» errotuluarekin. Eskuinean, «Gaur»: orri bera, «Kodea» bera duena, eta gezi urdin bat «Gehigarria» errotulua duen puzzle-pieza urdin batera; oraindik beharrezkoa den konponbidea.</media:description></media:content>
+  </item>
+  <item>
+    <title>Etxeko NAS batean Claude Code agente bat duen batek kontatzen du zerbitzu gisa dabilela,…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-10/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-10/breve-1.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Etxeko NAS batean Claude Code agente bat duen batek kontatzen du zerbitzu gisa dabilela, administratzaile-baimenekin, eta datuak ezabatu, diskoei ekin edo ateak ireki aurretik galdetu egiten duela. Agenteekin domotikari buruzko hariaren jarraipena da.</description>
+  </item>
+  <item>
+    <title>Albacetean azaroaren 5ean eta 6an egin zen Hezkuntza Digitalizazioaren Kongresu Nazionalaren webguneak…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-10/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-10/breve-2.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Albacetean azaroaren 5ean eta 6an egin zen Hezkuntza Digitalizazioaren Kongresu Nazionalaren webguneak hitzaldien emankizunerako sarbidea eskaintzen du, taldearen arabera.</description>
+  </item>
+  <item>
     <title>Taldeko hari batek programazio-agenteak erabiltzen ditu etxeko domotika kontrolatzeko</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-09/domotica-agentes-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-09/domotica-agentes-ia.html</guid>

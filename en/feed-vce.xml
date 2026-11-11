@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>A music-class app asks students to place the notes of a score on the stave</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-10/pentagrama-maestro.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/pentagrama-maestro.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Pentagrama Maestro, created by Iñaki Fernández, plays note by note and offers three levels and unlimited games.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-10-pentagrama-maestro.svg" medium="image" type="image/svg+xml"><media:description>A stave with four rising notes, labelled “Stave”, and an arrow leading to a loudspeaker labelled “Listen”; below, three bars of increasing height labelled “3 levels”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Tribunator organises panels, rooms and timetables for a conservatoire&#x27;s entrance exams</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-10/tribunator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/tribunator.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>José Luis Miralles Bono has created, with the help of Claude, a tool that plans who sits on each panel, in which room and at what time they examine, and checks for clashes before anything is published.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-10-tribunator.jpg" medium="image" type="image/png"><media:description>Tribunator welcome screen with the tabs Home, Space, Time, Templates, Panels and Verification, and the buttons Start from scratch, Import data and Load example.</media:description></media:content>
+  </item>
+  <item>
+    <title>Anthropic is giving plans that include Fable between one and three usage-limit resets, depending on the…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-10/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/breve-3.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Anthropic is giving plans that include Fable between one and three usage-limit resets, depending on the length of the subscription, which can be used until 8 March 2027; Pro gets one, only until 16 November. The model is Fable 5.2.</description>
+  </item>
+  <item>
     <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, with the former open to everyone</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</guid>

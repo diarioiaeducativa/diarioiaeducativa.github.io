@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Una aplicación para clase de música propone colocar en el pentagrama las notas de una partitura</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-10/pentagrama-maestro.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/pentagrama-maestro.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Pentagrama Maestro, creada por Iñaki Fernández, suena nota a nota y ofrece tres niveles y partidas sin límite.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-10-pentagrama-maestro.svg" medium="image" type="image/svg+xml"><media:description>Un pentagrama con cuatro notas que suben, con el rótulo «Pentagrama», y una flecha que lleva a un altavoz con el rótulo «Escuchar»; abajo, tres barras de altura creciente con el rótulo «3 niveles».</media:description></media:content>
+  </item>
+  <item>
+    <title>Tribunator organiza tribunales, aulas y horarios de las pruebas de acceso de un conservatorio</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-10/tribunator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/tribunator.html</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>José Luis Miralles Bono ha creado, con ayuda de Claude, una herramienta que planifica quién forma cada tribunal, en qué aula y a qué hora examina, y comprueba que no haya conflictos antes de publicar.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-10-tribunator.jpg" medium="image" type="image/png"><media:description>Pantalla de bienvenida de Tribunator con las pestañas Inicio, Espacio, Tiempo, Plantillas, Tribunales y Verificación, y los botones Empezar de cero, Importar datos y Cargar ejemplo.</media:description></media:content>
+  </item>
+  <item>
     <title>Un hilo del grupo usa agentes de programación para controlar la domótica de casa</title>
     <link>https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</guid>
