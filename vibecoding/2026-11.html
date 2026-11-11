@@ -1,0 +1,481 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vibe coding · Noviembre de 2026 | Diario de IA Educativa</title>
+<meta name="description" content="Aplicaciones que el profesorado crea describiéndolas a una inteligencia artificial, sin necesidad de saber programar, y lo que se aprende en los grupos para hacerlas: instrucciones para generar recursos, agentes de programación y soluciones a problemas habituales. Cada aplicación se presenta con el nombre de su autor o autora, y las que entran en el Repositorio de recursos de Vibe Coding Educativo tienen aquí su artículo.">
+<link rel="canonical" href="https://diarioiaeducativa.github.io/vibecoding/2026-11.html">
+<link rel="alternate" hreflang="es" href="https://diarioiaeducativa.github.io/vibecoding/2026-11.html">
+<link rel="alternate" hreflang="ca" href="https://diarioiaeducativa.github.io/ca/vibecoding/2026-11.html">
+<link rel="alternate" hreflang="gl" href="https://diarioiaeducativa.github.io/gl/vibecoding/2026-11.html">
+<link rel="alternate" hreflang="eu" href="https://diarioiaeducativa.github.io/eu/vibecoding/2026-11.html">
+<link rel="alternate" hreflang="en" href="https://diarioiaeducativa.github.io/en/vibecoding/2026-11.html">
+<link rel="alternate" hreflang="x-default" href="https://diarioiaeducativa.github.io/vibecoding/2026-11.html">
+<link rel="alternate" type="application/rss+xml" title="Diario de IA Educativa" href="../feed.xml">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Diario de IA Educativa">
+<meta property="og:title" content="Vibe coding · Noviembre de 2026 | Diario de IA Educativa">
+<meta property="og:description" content="Aplicaciones que el profesorado crea describiéndolas a una inteligencia artificial, sin necesidad de saber programar, y lo que se aprende en los grupos para hacerlas: instrucciones para generar recursos, agentes de programación y soluciones a problemas habituales. Cada aplicación se presenta con el nombre de su autor o autora, y las que entran en el Repositorio de recursos de Vibe Coding Educativo tienen aquí su artículo.">
+<meta property="og:url" content="https://diarioiaeducativa.github.io/vibecoding/2026-11.html">
+<meta property="og:image" content="https://diarioiaeducativa.github.io/og-es.png">
+<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary_large_image">
+<script>try{(function(){
+var s=localStorage,c=+s.getItem('diario.desde'),ahora=Date.now();
+if(c&&ahora-c>34128000000){var v=JSON.parse(s.getItem('diario.visita')||'null');s.removeItem('diario.visita');s.removeItem('diario.desde');c=0;
+if(v&&ahora-v.t<18e5)s.setItem('diario.visita',JSON.stringify(v));}
+if(!c&&s.getItem('diario.visita')!==null)s.setItem('diario.desde',ahora);
+var t=s.getItem('sala.tema');if(t)document.documentElement.dataset.theme=t;
+if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sessionStorage.setItem('diario.app','1');})();}catch(_){}</script>
+<script>try{if(localStorage.getItem('diario.columnas')==='una')document.documentElement.classList.add('una-columna');}catch(_){}</script>
+
+<script>try{(function(){
+var q=new URLSearchParams(location.search),k='diario.nocontar';
+if(q.get('nocontar')==='1')localStorage.setItem(k,'1');else if(q.get('nocontar')==='0')localStorage.removeItem(k);
+if(q.get('volver')==='1'){location.replace('https://bilateria.org/app/diario-ia-educativa/?marcado=1');return;}
+if(location.hostname!=='diarioiaeducativa.github.io'||window.SALTO||navigator.webdriver||localStorage.getItem(k)||/bot|crawl|spider|slurp|preview|lighthouse|headless/i.test(navigator.userAgent))return;
+var v=JSON.parse(localStorage.getItem('diario.visita')||'null'),ahora=Date.now(),p=location.pathname,nueva=!v||!(ahora-v.t<18e5);
+if(nueva)v={t:ahora,p:[]};
+var cuenta=v.p.indexOf(p)<0;v.t=ahora;if(cuenta)v.p.push(p);
+localStorage.setItem('diario.visita',JSON.stringify(v));if(!localStorage.getItem('diario.desde'))localStorage.setItem('diario.desde',ahora);
+if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educativa/contar.php',new URLSearchParams({p:cuenta?p:'',n:nueva?'1':'0',t:document.title}));
+})();}catch(_){}</script>
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="apple-mobile-web-app-title" content="Diario IA">
+<meta name="theme-color" content="#16181d">
+<link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
+<link rel="stylesheet" href="../comun.css?v=6ccad91c">
+<link rel="stylesheet" href="../diario.css?v=caa9b4d9">
+</head>
+<body class="pag-seccion">
+<header class="cabecera">
+  <div class="cabecera-fila">
+    <span class="cuando"><time datetime="2026-11-11">Miércoles, 11 de noviembre de 2026</time></span>
+    <span class="edicion-num"><span class="anyo">Año I</span><span class="numero"><span class="solo-lector">Número </span><span aria-hidden="true">Núm.&nbsp;</span><b>10</b></span></span>
+    <span class="controles"><a class="ico-video" href="../videos.html" title="Vídeos" aria-label="Vídeos"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 9.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997A1 1 0 0 1 9 14.996z"/><circle cx="12" cy="12" r="10"/></svg></a><a class="lupa" href="../buscar.html" title="Buscar en el diario" aria-label="Buscar en el diario"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="lupa-rotulo">Buscar</span></a><span class="idiomas"><button type="button" class="idioma-boton" aria-expanded="false" aria-controls="menu-idiomas" title="Idioma: Castellano" aria-label="Idioma: Castellano"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg><span class="idioma-cod" aria-hidden="true">ES</span></button><ul class="idioma-menu" id="menu-idiomas" hidden><li><a href="../vibecoding/2026-11.html" lang="es" hreflang="es" data-idioma="es" aria-current="true">Castellano</a></li><li><a href="../ca/vibecoding/2026-11.html" lang="ca" hreflang="ca" data-idioma="ca">Català</a></li><li><a href="../gl/vibecoding/2026-11.html" lang="gl" hreflang="gl" data-idioma="gl">Galego</a></li><li><a href="../eu/vibecoding/2026-11.html" lang="eu" hreflang="eu" data-idioma="eu">Euskara</a></li><li><a href="../en/vibecoding/2026-11.html" lang="en" hreflang="en" data-idioma="en">English</a></li></ul></span><button type="button" class="tema" id="tema" title="Cambiar entre tema claro y oscuro" aria-label="Cambiar entre tema claro y oscuro"><svg class="luna" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg><svg class="sol" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg></button></span>
+  </div>
+  <p class="mancheta"><a href="../">Diario de IA Educativa</a></p>
+  <p class="lema">La inteligencia artificial, contada desde tres comunidades docentes</p>
+  <div class="orejas"><a class="oreja oreja-izq" href="../vineta.html" title="Tiza" aria-label="Tiza: La viñeta"><svg viewBox="-36 162 72 172" width="72" height="172" aria-hidden="true" focusable="false"><path class="t" d="M-9 314 L-11 332 L-19 332 M9 314 L11 332 L19 332"/><path class="tz" d="M-21 304 L-21 194 Q-21 184 -13 186 L-6 182 L2 187 L9 183 L17 188 Q21 188 21 196 L21 304 Q21 314 11 314 L-11 314 Q-21 314 -21 304 Z"/><path class="cara veta" d="M-15 278 L-15 302 M14 266 L14 280"/><circle class="ft polvo" cx="-14" cy="174" r="1.4"/><circle class="ft polvo" cx="4" cy="169" r="1.1"/><circle class="ft polvo" cx="15" cy="176" r="1.3"/><g transform="translate(2 216)"><circle class="fcara" cx="-9" cy="0" r="2.6"/><circle class="fcara" cx="9" cy="0" r="2.6"/><path class="cara" d="M-8 12 Q0 21 8 12"/></g><path class="t" d="M-21 252 Q-31 272 -29 290 M21 252 Q31 272 29 290"/></svg></a><a class="oreja oreja-der" href="../vineta.html" title="Algoritmo" aria-label="Algoritmo: La viñeta"><svg viewBox="-50 162 100 172" width="100" height="172" aria-hidden="true" focusable="false"><path class="a discontinuo" d="M-18 314 L18 314 M-10 323 L10 323"/><rect class="fz" x="-28" y="216" width="56" height="86" rx="7"/><g transform="translate(2 244)"><circle class="ojo" cx="-9" cy="0" r="7"/><circle class="ojo" cx="9" cy="0" r="7"/><circle class="fpupila" cx="-9" cy="0" r="3"/><circle class="fpupila" cx="9" cy="0" r="3"/><path class="sp" d="M-8 13 Q0 22 8 13"/></g><path class="a" d="M-28 264 L-44 234 M28 264 L44 234"/></svg></a></div>
+  <nav class="secciones" aria-label="Secciones"><div class="secciones-lista"><a href="../">Portada</a><a class="sec-herramientas" href="../herramientas.html">Herramientas</a><a class="sec-vibecoding" href="../vibecoding.html" aria-current="page">Vibe coding</a><a class="sec-multimedia" href="../multimedia.html">Multimedia</a><a class="sec-debates" href="../debates.html">Debates</a><a class="sec-novedades" href="../novedades.html">Instituciones y empresas</a><a class="sec-biblioteca" href="../biblioteca.html">Biblioteca</a><a class="sec-reportaje" href="../reportajes.html">Reportajes</a><a class="sec-vineta" href="../vineta.html">La viñeta</a><a class="quees" href="../redaccion.html">La redacción</a></div></nav>
+</header>
+<main class="portada">
+<p class="seccion semana-rotulo sec-vibecoding"><a href="../vibecoding.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</a></p>
+<h1 class="titulo-seccion">Noviembre de 2026</h1>
+<nav class="semana-nav" aria-label="Navegación"><a href="2026-10.html">← Mes anterior</a> · <a href="../vibecoding.html">Vibe coding</a></nav>
+<div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Un pentagrama con cuatro notas que suben, con el rótulo «Pentagrama», y una flecha que lleva a un altavoz con el rótulo «Escuchar»; abajo, tres barras de altura creciente con el rótulo «3 niveles»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><path class="t" d="M30 100 H400 M30 125 H400 M30 150 H400 M30 175 H400 M30 200 H400 M30 100 V200 M400 100 V200"/><ellipse class="ft" cx="100" cy="175" rx="12" ry="9"/><path class="t" d="M111 175 V115"/><ellipse class="ft" cx="180" cy="150" rx="12" ry="9"/><path class="t" d="M191 150 V90"/><ellipse class="ft" cx="260" cy="125" rx="12" ry="9"/><path class="t" d="M271 125 V65"/><ellipse class="ft" cx="340" cy="100" rx="12" ry="9"/><path class="t" d="M329 100 V160"/><text class="lbl" x="215" y="245" text-anchor="middle">Pentagrama</text><path class="a" d="M410 150 H446 M438 142 L448 150 L438 158"/><g class="a li4" transform="translate(460 100) scale(4)"><!-- Lucide: volume-2 (ISC) --><path d="M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z"/><path d="M16 9a5 5 0 0 1 0 6"/><path d="M19.364 18.364a9 9 0 0 0 0-12.728"/></g><text class="lbl" x="508" y="240" text-anchor="middle">Escuchar</text><rect class="fa" x="60" y="300" width="25" height="20" rx="3"/><rect class="t" x="60" y="300" width="25" height="20" rx="3"/><rect class="fa" x="95" y="285" width="25" height="35" rx="3"/><rect class="t" x="95" y="285" width="25" height="35" rx="3"/><rect class="fa" x="130" y="270" width="25" height="50" rx="3"/><rect class="a" x="130" y="270" width="25" height="50" rx="3"/><text class="lbl" x="180" y="312" text-anchor="start">3 niveles</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">11 de noviembre</span>Aplicación de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-10/pentagrama-maestro.html">Una aplicación para clase de música propone colocar en el pentagrama las notas de una partitura</a></h2>
+  <p class="entradilla">Pentagrama Maestro, creada por Iñaki Fernández, suena nota a nota y ofrece tres niveles y partidas sin límite.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-10-tribunator.jpg" alt="Pantalla de bienvenida de Tribunator con las pestañas Inicio, Espacio, Tiempo, Plantillas, Tribunales y Verificación, y los botones Empezar de cero, Importar datos y Cargar ejemplo." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">11 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-10/tribunator.html">Tribunator organiza tribunales, aulas y horarios de las pruebas de acceso de un conservatorio</a></h2>
+  <p class="entradilla">José Luis Miralles Bono ha creado, con ayuda de Claude, una herramienta que planifica quién forma cada tribunal, en qué aula y a qué hora examina, y comprueba que no haya conflictos antes de publicar.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Esquema en el que un recuadro, «Agente», apunta a un documento de código con el rótulo «Configuración», que apunta a una casa con el rótulo «Home Assistant»; abajo, un candado rojo con el rótulo «Sin claves»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><rect class="fa" x="40" y="80" width="120" height="60" rx="12"/><rect class="a" x="40" y="80" width="120" height="60" rx="12"/><text class="lbl" x="100" y="116" text-anchor="middle">Agente</text><path class="a" d="M165 110 H240 M228 98 L240 110 L228 122"/><g class="t li4" transform="translate(252 62) scale(4)"><!-- Lucide: file-code (ISC) --><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/><path d="M10 12.5 8 15l2 2.5"/><path d="m14 12.5 2 2.5-2 2.5"/></g><path class="a" d="M360 110 H440 M428 98 L440 110 L428 122"/><g class="a li4" transform="translate(452 62) scale(4)"><!-- Lucide: house (ISC) --><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/><path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></g><text class="lbl" x="300" y="190" text-anchor="middle">Configuración</text><text class="lbl" x="500" y="190" text-anchor="middle">Home Assistant</text><g class="r li3" transform="translate(190 245) scale(3)"><!-- Lucide: lock (ISC) --><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></g><text class="lbl" x="285" y="291">Sin claves</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">10 de noviembre</span>Agentes en casa</p>
+  <h2 class="titular"><a href="../2026-11-09/domotica-agentes-ia.html">Un hilo del grupo usa agentes de programación para controlar la domótica de casa</a></h2>
+  <p class="entradilla">Un hilo del grupo recoge usos de agentes como Claude Code o Antigravity para manejar televisión, música y la configuración de Home Assistant, con el control de la privacidad como condición.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:3"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Dos paneles: a la izquierda, una calculadora y tres casillas con el rótulo «Xifres i Lletres»; a la derecha, un icono de traducción con el rótulo «Aula d&#x27;Acollida»; debajo, un recuadro de trazos discontinuos con el rótulo «Código abierto»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><rect class="fa" x="30" y="30" width="250" height="190" rx="14"/><rect class="t" x="30" y="30" width="250" height="190" rx="14"/><rect class="fa" x="320" y="30" width="250" height="190" rx="14"/><rect class="a" x="320" y="30" width="250" height="190" rx="14"/><g class="t li4" transform="translate(50 70) scale(4)"><!-- Lucide: calculator (ISC) --><rect width="16" height="20" x="4" y="2" rx="2"/><line x1="8" x2="16" y1="6" y2="6"/><line x1="16" x2="16" y1="14" y2="18"/><path d="M16 10h.01"/><path d="M12 10h.01"/><path d="M8 10h.01"/><path d="M12 14h.01"/><path d="M8 14h.01"/><path d="M12 18h.01"/><path d="M8 18h.01"/></g><rect class="t" x="170" y="95" width="30" height="30" rx="6"/><rect class="t" x="205" y="95" width="30" height="30" rx="6"/><rect class="t" x="240" y="95" width="30" height="30" rx="6"/><circle class="ft" cx="185" cy="110" r="4"/><circle class="ft" cx="220" cy="110" r="4"/><circle class="ft" cx="255" cy="110" r="4"/><g class="a li4" transform="translate(397 70) scale(4)"><!-- Lucide: languages (ISC) --><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></g><text class="lbl" x="155" y="195" text-anchor="middle">Xifres i Lletres</text><text class="lbl" x="445" y="195" text-anchor="middle">Aula d'Acollida</text><path class="t" d="M155 225 V262 M445 225 V262"/><rect class="t" x="150" y="262" width="300" height="46" rx="10" stroke-dasharray="6 6"/><text class="lbl" x="300" y="291" text-anchor="middle">Código abierto</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">10 de noviembre</span>Apps de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-09/xifres-i-lletres-acollida.html">Dos aplicaciones en catalán de David Cordones: un juego de letras y cifras y un aula de acogida</a></h2>
+  <p class="entradilla">Xifres i Lletres entrena léxico y cálculo mental por edades; Aula d&#x27;Acollida Digital ofrece apoyo lingüístico inicial.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Una montaña con el rótulo «Valle de Bielsa» lleva a un libro abierto con el rótulo «Belsetán», del que salen dos flechas: una a unos dados con el rótulo «Juegos» y otra a un documento con el rótulo «Fichas»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><g class="t li4" transform="translate(40 122) scale(4)"><!-- Lucide: mountain (ISC) --><path d="m8 3 4 8 5-5 5 15H2L8 3z"/></g><path class="t" d="M150 170 H228 M216 158 L228 170 L216 182"/><g class="a li4" transform="translate(240 122) scale(4)"><!-- Lucide: book-open (ISC) --><path d="M12 5v16"/><path d="M20.001 19A2 2 0 0022 17V5a2 2 0 00-1.999-2L16 3.002A5 5 0 0012 5a5 5 0 00-4-2H4a2 2 0 00-2 2v12a2 2 0 001.999 2H8a5 5 0 014 2 5 5 0 014-2z"/></g><path class="t" d="M345 160 C390 160 395 76 436 76 M424 66 L436 76 L424 86"/><path class="t" d="M345 180 C390 180 395 216 436 216 M424 206 L436 216 L424 226"/><g class="t li3" transform="translate(450 40) scale(3)"><!-- Lucide: dices (ISC) --><rect width="12" height="12" x="2" y="10" rx="2" ry="2"/><path d="m17.92 14 3.5-3.5a2.24 2.24 0 0 0 0-3l-5-4.92a2.24 2.24 0 0 0-3 0L10 6"/><path d="M6 18h.01"/><path d="M10 14h.01"/><path d="M15 6h.01"/><path d="M18 9h.01"/></g><g class="t li3" transform="translate(450 180) scale(3)"><!-- Lucide: file-text (ISC) --><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></g><text class="lbl" x="88" y="252" text-anchor="middle">Valle de Bielsa</text><text class="lbl" x="288" y="252" text-anchor="middle">Belsetán</text><text class="lbl" x="486" y="140" text-anchor="middle">Juegos</text><text class="lbl" x="486" y="285" text-anchor="middle">Fichas</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">10 de noviembre</span>Web de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-09/belsetan-lengua-aragonesa.html">Una web difunde el belsetán, variedad aragonesa en peligro, con juegos y fichas de aula</a></h2>
+  <p class="entradilla">«El aprendiz del pastor» reúne historia, textos, juegos y materiales didácticos sobre la lengua del valle de Bielsa.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-08-calendari-planificador-de-curso.jpg" alt="Pantalla de inicio de Calendari con cuatro tarjetas: calendario oficial de la Comunitat Valenciana, crear calendario nuevo, importar desde archivo y ver calendarios publicados." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">9 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-08/calendari-planificador-de-curso.html">Un planificador permite montar el calendario del curso a partir del oficial de la Comunitat Valenciana o desde cero</a></h2>
+  <p class="entradilla">Calendari, creado por José Luis Miralles Bono con ayuda de Claude, permite montar el calendario escolar de un centro desde el navegador, partiendo del oficial valenciano o desde cero.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:3"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Una cuadrícula de casillas que imita la tabla periódica, con el rótulo «Caso del día» encima y «118 elementos» debajo; una lupa azul señala una casilla. A la derecha, seis círculos, uno con una cruz roja, con el rótulo «6 acusaciones»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><text class="lbl" x="192" y="34" text-anchor="middle">Caso del día</text><rect class="fa" x="40" y="50" width="30" height="30" rx="4"/><rect class="t" x="40" y="50" width="30" height="30" rx="4"/><rect class="fa" x="78" y="50" width="30" height="30" rx="4"/><rect class="t" x="78" y="50" width="30" height="30" rx="4"/><rect class="fa" x="116" y="50" width="30" height="30" rx="4"/><rect class="t" x="116" y="50" width="30" height="30" rx="4"/><rect class="fa" x="154" y="50" width="30" height="30" rx="4"/><rect class="t" x="154" y="50" width="30" height="30" rx="4"/><rect class="fa" x="192" y="50" width="30" height="30" rx="4"/><rect class="t" x="192" y="50" width="30" height="30" rx="4"/><rect class="fa" x="230" y="50" width="30" height="30" rx="4"/><rect class="t" x="230" y="50" width="30" height="30" rx="4"/><rect class="fa" x="268" y="50" width="30" height="30" rx="4"/><rect class="t" x="268" y="50" width="30" height="30" rx="4"/><rect class="fa" x="306" y="50" width="30" height="30" rx="4"/><rect class="t" x="306" y="50" width="30" height="30" rx="4"/><rect class="fa" x="40" y="88" width="30" height="30" rx="4"/><rect class="t" x="40" y="88" width="30" height="30" rx="4"/><rect class="fa" x="78" y="88" width="30" height="30" rx="4"/><rect class="t" x="78" y="88" width="30" height="30" rx="4"/><rect class="fa" x="116" y="88" width="30" height="30" rx="4"/><rect class="t" x="116" y="88" width="30" height="30" rx="4"/><rect class="fz" x="154" y="88" width="30" height="30" rx="4"/><rect class="t" x="154" y="88" width="30" height="30" rx="4"/><rect class="fa" x="192" y="88" width="30" height="30" rx="4"/><rect class="t" x="192" y="88" width="30" height="30" rx="4"/><rect class="fa" x="230" y="88" width="30" height="30" rx="4"/><rect class="t" x="230" y="88" width="30" height="30" rx="4"/><rect class="fa" x="268" y="88" width="30" height="30" rx="4"/><rect class="t" x="268" y="88" width="30" height="30" rx="4"/><rect class="fa" x="306" y="88" width="30" height="30" rx="4"/><rect class="t" x="306" y="88" width="30" height="30" rx="4"/><rect class="fa" x="40" y="126" width="30" height="30" rx="4"/><rect class="t" x="40" y="126" width="30" height="30" rx="4"/><rect class="fa" x="78" y="126" width="30" height="30" rx="4"/><rect class="t" x="78" y="126" width="30" height="30" rx="4"/><rect class="fa" x="116" y="126" width="30" height="30" rx="4"/><rect class="t" x="116" y="126" width="30" height="30" rx="4"/><rect class="fa" x="154" y="126" width="30" height="30" rx="4"/><rect class="t" x="154" y="126" width="30" height="30" rx="4"/><rect class="fa" x="192" y="126" width="30" height="30" rx="4"/><rect class="t" x="192" y="126" width="30" height="30" rx="4"/><rect class="fa" x="230" y="126" width="30" height="30" rx="4"/><rect class="t" x="230" y="126" width="30" height="30" rx="4"/><rect class="fa" x="268" y="126" width="30" height="30" rx="4"/><rect class="t" x="268" y="126" width="30" height="30" rx="4"/><rect class="fa" x="306" y="126" width="30" height="30" rx="4"/><rect class="t" x="306" y="126" width="30" height="30" rx="4"/><rect class="fa" x="40" y="164" width="30" height="30" rx="4"/><rect class="t" x="40" y="164" width="30" height="30" rx="4"/><rect class="fa" x="78" y="164" width="30" height="30" rx="4"/><rect class="t" x="78" y="164" width="30" height="30" rx="4"/><rect class="fa" x="116" y="164" width="30" height="30" rx="4"/><rect class="t" x="116" y="164" width="30" height="30" rx="4"/><rect class="fa" x="154" y="164" width="30" height="30" rx="4"/><rect class="t" x="154" y="164" width="30" height="30" rx="4"/><rect class="fa" x="192" y="164" width="30" height="30" rx="4"/><rect class="t" x="192" y="164" width="30" height="30" rx="4"/><rect class="fa" x="230" y="164" width="30" height="30" rx="4"/><rect class="t" x="230" y="164" width="30" height="30" rx="4"/><rect class="fa" x="268" y="164" width="30" height="30" rx="4"/><rect class="t" x="268" y="164" width="30" height="30" rx="4"/><rect class="fa" x="306" y="164" width="30" height="30" rx="4"/><rect class="t" x="306" y="164" width="30" height="30" rx="4"/><g class="a li4" transform="translate(125 59) scale(4)"><!-- Lucide: search (ISC) --><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></g><text class="lbl" x="192" y="260" text-anchor="middle">118 elementos</text><circle class="t" cx="420" cy="100" r="14"/><circle class="t" cx="470" cy="100" r="14"/><circle class="t" cx="520" cy="100" r="14"/><circle class="t" cx="420" cy="150" r="14"/><circle class="t" cx="470" cy="150" r="14"/><circle class="t" cx="520" cy="150" r="14"/><path class="r" d="M410 140 L430 160 M430 140 L410 160"/><text class="lbl" x="470" y="260" text-anchor="middle">6 acusaciones</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">8 de noviembre</span>Aplicación de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-07/holmio-juego-quimica.html">Holmio convierte la tabla periódica en un juego diario de detectives</a></h2>
+  <p class="entradilla">Cada día hay un caso nuevo con 118 sospechosos, los elementos químicos, y seis acusaciones para dar con el culpable; según su autor, no requiere registro.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-07-itinerancias.jpg" alt="Pestaña «Tablas» de Itinerancias, con selector de horas complementarias y apartados desplegables sobre el reparto proporcional y por bloques." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">8 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-07/itinerancias.html">Una calculadora reparte la jornada del profesorado itinerante entre varios centros de la Generalitat Valenciana</a></h2>
+  <p class="entradilla">Itinerancias, creada por José Luis Miralles Bono, calcula cómo se reparten las horas complementarias entre los centros de un docente que comparte destino, según las horas lectivas que da en cada uno. Se abre en el navegador, en castellano y en valenciano, y ofrece también una hoja de Excel con el mismo cálculo.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Un documento con el rótulo «Informe», una flecha hacia una burbuja de chat con el rótulo «Asistente» y otra flecha hacia un piano con el rótulo «Conservatorio»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><g class="t li4" transform="translate(50 70) scale(4)"><!-- Lucide: file-text (ISC) --><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></g><g class="a li4" transform="translate(252 70) scale(4)"><!-- Lucide: message-square-text (ISC) --><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/><path d="M7 11h10"/><path d="M7 15h6"/><path d="M7 7h8"/></g><g class="t li4" transform="translate(454 70) scale(4)"><!-- Lucide: piano (ISC) --><path d="M10 13v4"/><path d="M14 13v4"/><path d="M18 13v4"/><path d="M2 13h20"/><path d="M22 11.5A3.5 3.5 0 0018.5 8a3.52 3.52 0 01-3.173-2A7 7 0 002 9v10a2 2 0 002 2h16a2 2 0 002-2z"/><path d="M6 13v4"/></g><path class="a" d="M165 118 H235 M227 111 L235 118 L227 125"/><path class="a" d="M367 118 H437 M429 111 L437 118 L429 125"/><text class="lbl" x="98" y="230" text-anchor="middle">Informe</text><text class="lbl" x="300" y="230" text-anchor="middle">Asistente</text><text class="lbl" x="502" y="230" text-anchor="middle">Conservatorio</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">8 de noviembre</span>Aplicación de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-07/incluxat-conservatorio.html">Incluxat traslada al conservatorio las orientaciones de los informes psicopedagógicos</a></h2>
+  <p class="entradilla">Un asistente de IA adapta a la enseñanza musical unas orientaciones pensadas para centros ordinarios, con su base documental publicada para poder revisarlo.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:3"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Esquema de izquierda a derecha: una hoja de cálculo con el rótulo «Hoja de cálculo», una flecha hacia un chip con el rótulo «Raspberry Pi» y otra flecha hacia un altavoz con el rótulo «Megafonía». Debajo del chip, un archivo de música con el rótulo «Carpeta MP3» y una flecha que sube hacia la Raspberry Pi." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><g class="t li4" transform="translate(32 60) scale(4)"><!-- Lucide: file-spreadsheet (ISC) --><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/><path d="M8 13h2"/><path d="M14 13h2"/><path d="M8 17h2"/><path d="M14 17h2"/></g><g class="a li4" transform="translate(252 60) scale(4)"><!-- Lucide: cpu (ISC) --><path d="M12 20v2"/><path d="M12 2v2"/><path d="M17 20v2"/><path d="M17 2v2"/><path d="M2 12h2"/><path d="M2 17h2"/><path d="M2 7h2"/><path d="M20 12h2"/><path d="M20 17h2"/><path d="M20 7h2"/><path d="M7 20v2"/><path d="M7 2v2"/><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="8" y="8" width="8" height="8" rx="1"/></g><g class="t li4" transform="translate(472 60) scale(4)"><!-- Lucide: volume-2 (ISC) --><path d="M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z"/><path d="M16 9a5 5 0 0 1 0 6"/><path d="M19.364 18.364a9 9 0 0 0 0-12.728"/></g><path class="t" d="M150 108 H238 M230 101 L238 108 L230 115"/><path class="a" d="M362 108 H450 M442 101 L450 108 L442 115"/><text class="lbl" x="80" y="185" text-anchor="middle">Hoja de cálculo</text><text class="lbl" x="300" y="185" text-anchor="middle">Raspberry Pi</text><text class="lbl" x="520" y="185" text-anchor="middle">Megafonía</text><g class="t li3" transform="translate(264 232) scale(3)"><!-- Lucide: file-music (ISC) --><path d="M11.65 22H18a2 2 0 0 0 2-2V8a2.4 2.4 0 0 0-.706-1.706l-3.588-3.588A2.4 2.4 0 0 0 14 2H6a2 2 0 0 0-2 2v10.35"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/><path d="M8 20v-7l3 1.474"/><circle cx="6" cy="20" r="2"/></g><path class="t" d="M300 228 V204 M293 212 L300 204 L307 212"/><text class="lbl" x="350" y="276" text-anchor="start">Carpeta MP3</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">7 de noviembre</span>Aplicación de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-06/timbre-musical-escolar.html">Un docente sustituye la sirena del centro por un timbre musical que se gestiona desde una hoja de cálculo</a></h2>
+  <p class="entradilla">David Cordones cuenta que, con ayuda de IA generativa, montó con una Raspberry Pi un timbre escolar que el claustro cambia desde Google Sheets.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-06-subasta-de-frases.jpg" alt="Página de inicio de Subasta de frases, con los botones «Crear una actividad» y «Unirse a una sesión» y tres tarjetas: Conocimiento, Valores y prioridades, Roles y conceptos." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">7 de noviembre</span>La semana del repositorio</p>
+  <h2 class="titular"><a href="../2026-11-06/semana-del-repositorio.html">Una subasta de frases, una guía de vibe coding responsable, química, música y libros ilustrados, nuevos en el repositorio</a></h2>
+  <p class="entradilla">Desde el 27 de octubre, el Repositorio de recursos de Vibe Coding Educativo suma dieciséis recursos: diez ya tuvieron su artículo en el diario y seis se presentan aquí, dos de Juan José de Haro, uno de Felip Sarroca, uno de FiQuiPedia y dos de Samuel Soriano.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Un portátil con el rótulo «Portátil» y un móvil con el rótulo «Móvil», unidos por una flecha de doble sentido con un símbolo wifi y el rótulo «Misma wifi». Debajo, un servidor dibujado con trazo discontinuo y tachado con una cruz roja, con el rótulo «Sin servidor»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><g class="t li4" transform="translate(50 50) scale(4)"><!-- Lucide: laptop (ISC) --><path d="M18 5a2 2 0 0 1 2 2v8.526a2 2 0 0 0 .212.897l1.068 2.127a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45l1.068-2.127A2 2 0 0 0 4 15.526V7a2 2 0 0 1 2-2z"/><path d="M20.054 15.987H3.946"/></g><g class="t li4" transform="translate(454 50) scale(4)"><!-- Lucide: smartphone (ISC) --><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g><path class="a" d="M170 98 H430 M178 91 L170 98 L178 105 M422 91 L430 98 L422 105"/><g class="a li3" transform="translate(264 118) scale(3)"><!-- Lucide: wifi (ISC) --><path d="M12 20h.01"/><path d="M2 8.82a15 15 0 0 1 20 0"/><path d="M5 12.859a10 10 0 0 1 14 0"/><path d="M8.5 16.429a5 5 0 0 1 7 0"/></g><text class="lbl" x="300" y="80" text-anchor="middle">Misma wifi</text><text class="lbl" x="98" y="180" text-anchor="middle">Portátil</text><text class="lbl" x="502" y="180" text-anchor="middle">Móvil</text><g class="t li3" transform="translate(264 232) scale(3)" stroke-dasharray="3 3"><!-- Lucide: server (ISC) --><rect width="20" height="8" x="2" y="2" rx="2" ry="2"/><rect width="20" height="8" x="2" y="14" rx="2" ry="2"/><line x1="6" x2="6.01" y1="6" y2="6"/><line x1="6" x2="6.01" y1="18" y2="18"/></g><path class="r" d="M276 244 L324 292 M324 244 L276 292"/><text class="lbl" x="300" y="326" text-anchor="middle">Sin servidor</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">7 de noviembre</span>Aplicación de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-06/edumind-miclase-sincronizacion.html">EDUmind MiClase, un cuaderno del profesorado de código abierto, guarda los datos en el dispositivo y sincroniza sin servidor propio</a></h2>
+  <p class="entradilla">Su autor detalló en el grupo cómo sincroniza dos dispositivos y qué funciones dice haber añadido para evaluar según la LOMLOE.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:3"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Una ventana de navegador con un engranaje, una regla y una llave, y una curva de flexión debajo, con el rótulo «En el navegador»; una flecha lleva a una cuadrícula de puntos, uno destacado en azul, con el rótulo «Más de 150»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><rect class="fa" x="50" y="40" width="320" height="230" rx="10"/><rect class="t" x="50" y="40" width="320" height="230" rx="10"/><path class="t" d="M50 76 H370"/><circle class="ft" cx="72" cy="58" r="4"/><circle class="ft" cx="90" cy="58" r="4"/><circle class="ft" cx="108" cy="58" r="4"/><g class="t li3" transform="translate(78 96) scale(3)"><!-- Lucide: cog (ISC) --><path d="M11 10.27 7 3.34"/><path d="m11 13.73-4 6.93"/><path d="M12 22v-2"/><path d="M12 2v2"/><path d="M14 12h8"/><path d="m17 20.66-1-1.73"/><path d="m17 3.34-1 1.73"/><path d="M2 12h2"/><path d="m20.66 17-1.73-1"/><path d="m20.66 7-1.73 1"/><path d="m3.34 17 1.73-1"/><path d="m3.34 7 1.73 1"/><circle cx="12" cy="12" r="2"/><circle cx="12" cy="12" r="8"/></g><g class="t li3" transform="translate(168 96) scale(3)"><!-- Lucide: ruler (ISC) --><path d="M21.3 15.3a2.4 2.4 0 0 1 0 3.4l-2.6 2.6a2.4 2.4 0 0 1-3.4 0L2.7 8.7a2.41 2.41 0 0 1 0-3.4l2.6-2.6a2.41 2.41 0 0 1 3.4 0Z"/><path d="m14.5 12.5 2-2"/><path d="m11.5 9.5 2-2"/><path d="m8.5 6.5 2-2"/><path d="m17.5 15.5 2-2"/></g><g class="a li3" transform="translate(258 96) scale(3)"><!-- Lucide: wrench (ISC) --><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.106-3.105c.32-.322.863-.22.983.218a6 6 0 0 1-8.259 7.057l-7.91 7.91a1 1 0 0 1-2.999-3l7.91-7.91a6 6 0 0 1 7.057-8.259c.438.12.54.662.219.984z"/></g><path class="t" d="M80 230 H340"/><path class="a" d="M80 230 Q210 252 340 230"/><text class="lbl" x="210" y="315" text-anchor="middle">En el navegador</text><path class="a" d="M392 155 H425 M417 148 L425 155 L417 162"/><circle class="ft" cx="456" cy="95" r="6"/><circle class="ft" cx="486" cy="95" r="6"/><circle class="ft" cx="516" cy="95" r="6"/><circle class="ft" cx="546" cy="95" r="6"/><circle class="ft" cx="456" cy="125" r="6"/><circle class="ft" cx="486" cy="125" r="6"/><circle class="ft" cx="516" cy="125" r="6"/><circle class="ft" cx="546" cy="125" r="6"/><circle class="ft" cx="456" cy="155" r="6"/><circle class="fz" cx="486" cy="155" r="9"/><circle class="ft" cx="516" cy="155" r="6"/><circle class="ft" cx="546" cy="155" r="6"/><circle class="ft" cx="456" cy="185" r="6"/><circle class="ft" cx="486" cy="185" r="6"/><circle class="ft" cx="516" cy="185" r="6"/><circle class="ft" cx="546" cy="185" r="6"/><text class="lbl" x="500" y="250" text-anchor="middle">Más de 150</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">6 de noviembre</span>Recurso compartido</p>
+  <h2 class="titular"><a href="../2026-11-05/mechsimulator.html">MechSimulator reúne simuladores gratuitos de ingeniería mecánica que se usan en el navegador</a></h2>
+  <p class="entradilla">Un miembro del grupo destacó esta web de simulaciones 2D y 3D como ejemplo de lo que puede lograr una sola persona.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-05-fil-i-compte.jpg" alt="Pantalla del banco de problemas con filtros de nivel, dificultad y contenidos a la izquierda y tarjetas de problemas en catalán a la derecha." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">6 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-05/fil-i-compte.html">Fil i compte permite preparar fichas imprimibles de problemas de matemáticas en catalán y en castellano, con solucionario</a></h2>
+  <p class="entradilla">Un banco de 252 problemas permite al profesorado de primaria y de los primeros cursos de ESO elegir enunciados, ordenarlos e imprimir la ficha o guardarla en PDF.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Una barra dividida en cuatro tramos de ancho proporcional, bajo el rótulo «54 lecciones»; sobre cada tramo un icono: un átomo sobre «Física», un matraz sobre «Química» (el tramo más largo, en azul), una hélice de ADN sobre «Biología» (el más corto) y un globo terráqueo sobre «Geografía»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><text class="lbl" x="300" y="45" text-anchor="middle">54 lecciones</text><g class="t li2" transform="translate(78 75) scale(2)"><!-- Lucide: atom (ISC) --><circle cx="12" cy="12" r="1"/><path d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"/><path d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"/></g><g class="a li2" transform="translate(235 75) scale(2)"><!-- Lucide: flask-conical (ISC) --><path d="M14 2v6a2 2 0 0 0 .245.96l5.51 10.08A2 2 0 0 1 18 22H6a2 2 0 0 1-1.755-2.96l5.51-10.08A2 2 0 0 0 10 8V2"/><path d="M6.453 15h11.094"/><path d="M8.5 2h7"/></g><g class="t li2" transform="translate(370 75) scale(2)"><!-- Lucide: dna (ISC) --><path d="m10 16 1.5 1.5"/><path d="m14 8-1.5-1.5"/><path d="M15 2c-1.798 1.998-2.518 3.995-2.807 5.993"/><path d="m16.5 10.5 1 1"/><path d="m17 6-2.891-2.891"/><path d="M2 15c6.667-6 13.333 0 20-6"/><path d="m20 9 .891.891"/><path d="M3.109 14.109 4 15"/><path d="m6.5 12.5 1 1"/><path d="m7 18 2.891 2.891"/><path d="M9 22c1.798-1.998 2.518-3.995 2.807-5.993"/></g><g class="t li2" transform="translate(456 75) scale(2)"><!-- Lucide: globe (ISC) --><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></g><rect class="fa" x="57" y="145" width="90" height="50"/><rect class="t" x="57" y="145" width="90" height="50"/><rect class="fz" x="147" y="145" width="225" height="50"/><rect class="t" x="147" y="145" width="225" height="50"/><rect class="fa" x="372" y="145" width="45" height="50"/><rect class="t" x="372" y="145" width="45" height="50"/><rect class="fa" x="417" y="145" width="126" height="50"/><rect class="t" x="417" y="145" width="126" height="50"/><text class="lbl" x="102" y="240" text-anchor="middle">Física</text><text class="lbl" x="259" y="240" text-anchor="middle">Química</text><text class="lbl" x="394" y="285" text-anchor="middle">Biología</text><text class="lbl" x="480" y="240" text-anchor="middle">Geografía</text><path class="t" d="M394 200 V268"/></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">5 de noviembre</span>Ciencia en 3D</p>
+  <h2 class="titular"><a href="../2026-11-04/tongjiang-lab-3d.html">Un proyecto abierto ofrece 54 lecciones interactivas en 3D de ciencias para secundaria superior, en chino</a></h2>
+  <p class="entradilla">Tongjiang Lab reúne lecciones de física, química, biología y geografía en archivos HTML que funcionan sin conexión; en el grupo se señaló como ejemplo de lo que se podrá hacer con IA.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:3"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" alt="Pantalla de inicio con un cuadro para escribir los nombres del alumnado, cuatro subtemas con colores, un campo de tema general y el botón «Formar grupos»." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">5 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-04/rompecabezas-tecnica-jigsaw.html">Una herramienta forma al azar los grupos base y de expertos de la técnica Jigsaw</a></h2>
+  <p class="entradilla">«Rompecabezas – Técnica Jigsaw» recibe la lista del alumnado y los subtemas y reparte los grupos de forma equilibrada. Se abre en el navegador y está disponible en cinco lenguas.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-04-edutictac-blocs.jpg" alt="Proyecto de ejemplo con el botón «Ver dentro» y el escenario y sus controles de bandera, pausa y parada, un aviso verde de inicio y los botones «Empieza con una plantilla» y «Explora la galería»." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">5 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-04/edutictac-blocs.html">Un editor de programación por bloques, basado en TurboWarp y compatible con Scratch, para aprender a programar</a></h2>
+  <p class="entradilla">EduTicTac Blocs es un entorno de programación visual compatible con proyectos de Scratch y con plantillas para el aula; según su web, sin publicidad ni rastreadores.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Un planeta rodeado por una órbita elíptica azul con nueve puntos, uno por misión («9 misiones»), y a la derecha tres estrellas que se obtienen con un error inferior al 5 % («Error &lt; 5 %»)." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><ellipse class="a" cx="170" cy="170" rx="130" ry="100"/><circle class="fa" cx="170" cy="170" r="40"/><circle class="t" cx="170" cy="170" r="40"/><circle class="ft" cx="300" cy="170" r="7"/><circle class="ft" cx="269.6" cy="234.3" r="7"/><circle class="ft" cx="192.6" cy="268.5" r="7"/><circle class="ft" cx="105" cy="256.6" r="7"/><circle class="ft" cx="47.8" cy="204.2" r="7"/><circle class="ft" cx="47.8" cy="135.8" r="7"/><circle class="ft" cx="105" cy="83.4" r="7"/><circle class="ft" cx="192.6" cy="71.5" r="7"/><circle class="ft" cx="269.6" cy="105.7" r="7"/><text class="lbl" x="170" y="322" text-anchor="middle">9 misiones</text><text class="lbl" x="470" y="95" text-anchor="middle">Error &lt; 5 %</text><path class="fa" d="M400 128 L405.3 140.7 L420.9 143.2 L408.6 152.8 L412.9 167.8 L400 159 L387.1 167.8 L391.4 152.8 L379.1 143.2 L394.7 140.7 Z"/><path class="t" d="M400 128 L405.3 140.7 L420.9 143.2 L408.6 152.8 L412.9 167.8 L400 159 L387.1 167.8 L391.4 152.8 L379.1 143.2 L394.7 140.7 Z"/><path class="fa" d="M470 128 L475.3 140.7 L490.9 143.2 L478.6 152.8 L482.9 167.8 L470 159 L457.1 167.8 L461.4 152.8 L449.1 143.2 L464.7 140.7 Z"/><path class="t" d="M470 128 L475.3 140.7 L490.9 143.2 L478.6 152.8 L482.9 167.8 L470 159 L457.1 167.8 L461.4 152.8 L449.1 143.2 L464.7 140.7 Z"/><path class="fa" d="M540 128 L545.3 140.7 L560.9 143.2 L548.6 152.8 L552.9 167.8 L540 159 L527.1 167.8 L531.4 152.8 L519.1 143.2 L534.7 140.7 Z"/><path class="t" d="M540 128 L545.3 140.7 L560.9 143.2 L548.6 152.8 L552.9 167.8 L540 159 L527.1 167.8 L531.4 152.8 L519.1 143.2 L534.7 140.7 Z"/><path class="r" d="M470 105 V118 M464 112 L470 119 L476 112"/><text class="lbl" x="470" y="225" text-anchor="middle">Tres estrellas</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">4 de noviembre</span>Recurso de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-03/misiones-orbitales.html">Una actividad gamificada lleva el campo gravitatorio de 2.º de Bachillerato a nueve misiones orbitales</a></h2>
+  <p class="entradilla">«Misiones orbitales», de El profe de la bata, propone al alumnado crear un astronauta y resolver nueve misiones con simuladores interactivos. La versión de práctica funciona en el navegador, sin cuentas.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:3"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-03-laboratori-de-formulacio.jpg" alt="Pantalla del modo Practica con la pregunta «Quina és la fórmula de: sulfur de bari» y cuatro opciones (BaS, Ba2S2, BaCl2, PbCl2), botones de pista y solución, y a la derecha la lista de tipos de actividad." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">4 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-03/laboratori-de-formulacio.html">Un laboratorio en catalán permite practicar la formulación inorgánica con preguntas, pistas y retos</a></h2>
+  <p class="entradilla">«Laboratori de formulació», creada por Felip Sarroca i Gil, ofrece ejercicios de nomenclatura inorgánica para Secundaria y Bachillerato, con tres modos de trabajo y marcador de progreso.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu captura"><img src="../capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" alt="Pantalla de inicio titulada «Formulación Química» con los botones Tests, F → N y Panel, logotipos de IUPAC y CAS, enlaces a bibliotecas y una fila de grupos funcionales." width="1280" height="800" loading="lazy" decoding="async"></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">4 de noviembre</span>Nuevo en el repositorio</p>
+  <h2 class="titular"><a href="../2026-11-03/foqo-formulacion-quimica-organica.html">FoQo genera tests de formulación orgánica y da el nombre de una estructura dibujada</a></h2>
+  <p class="entradilla">La aplicación de FiQuiPedia permite practicar la nomenclatura de química orgánica con tests configurables y una herramienta que pasa de la fórmula al nombre.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Un globo terráqueo en el centro con un contador de nacimientos a la izquierda, marcado con un más azul, y otro de defunciones a la derecha, con un menos, y una flecha roja hacia arriba que indica el crecimiento neto." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><circle class="fa" cx="300" cy="200" r="70"/><circle class="t" cx="300" cy="200" r="70"/><ellipse class="t" cx="300" cy="200" rx="30" ry="70"/><path class="t" d="M300 130 V270 M230 200 H370 M241 165 H359 M241 235 H359"/><path class="a" d="M190 200 H228 M370 200 H410"/><rect class="fa" x="40" y="145" width="150" height="110" rx="6"/><rect class="t" x="40" y="145" width="150" height="110" rx="6"/><path class="a" d="M115 170 V200 M100 185 H130"/><path class="t" d="M64 222 H166"/><text class="lbl" x="115" y="288" text-anchor="middle">Nacimientos</text><rect class="fa" x="410" y="145" width="150" height="110" rx="6"/><rect class="t" x="410" y="145" width="150" height="110" rx="6"/><path class="t" d="M460 185 H510"/><path class="t" d="M434 222 H536"/><text class="lbl" x="485" y="288" text-anchor="middle">Defunciones</text><path class="r" d="M300 118 V38 M286 54 L300 38 L314 54"/><text class="lbl" x="330" y="82">Crecimiento neto</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">4 de noviembre</span>Recurso de la comunidad</p>
+  <h2 class="titular"><a href="../2026-11-03/pulso-demografico.html">Un profesor de Geografía crea con Gemini un contador de nacimientos y muertes en el mundo</a></h2>
+  <p class="entradilla">«Pulso Demográfico Mundial en Tiempo Real», de Ricardo Chao Prieto, simula al ritmo real los nacimientos y las defunciones de cada país a partir de las proyecciones de población de la ONU para 2026.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:2"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Una ventana de terminal, el agente, tiene una flecha hacia una carpeta de trabajo dentro de un equipo, mientras su camino hacia la carpeta de datos del alumnado, con un candado, queda cortado por una cruz roja." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><rect class="fa" x="40" y="125" width="140" height="100" rx="5"/><rect class="t" x="40" y="125" width="140" height="100" rx="5"/><path class="t" d="M40 145 H180"/><path class="t" d="M60 170 l14 10 l-14 10"/><path class="t" d="M84 192 H116"/><text class="lbl" x="110" y="260" text-anchor="middle">Agente</text><rect class="t" x="250" y="40" width="320" height="260" rx="8"/><path class="a" d="M180 165 H225 V115 H298 M290 108 L298 115 L290 122"/><path class="fa" d="M300 80 H325 L335 90 H400 V140 H300 Z"/><path class="a" d="M300 80 H325 L335 90 H400 V140 H300 Z"/><text class="lbl" x="350" y="168" text-anchor="middle">Carpeta de trabajo</text><path class="t" d="M180 190 H232 V220 H238"/><path class="r" d="M240 210 L260 230 M260 210 L240 230"/><path class="fa" d="M300 195 H325 L335 205 H400 V250 H300 Z"/><path class="t" d="M300 195 H325 L335 205 H400 V250 H300 Z"/><rect class="fa" x="440" y="215" width="34" height="28" rx="3"/><rect class="t" x="440" y="215" width="34" height="28" rx="3"/><path class="t" d="M447 215 V205 a10 10 0 0 1 20 0 V215"/><circle class="ft" cx="457" cy="229" r="3"/><text class="lbl" x="350" y="280" text-anchor="middle">Datos del alumnado</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">3 de noviembre</span>Seguridad y agentes</p>
+  <h2 class="titular"><a href="../2026-11-02/agentes-consola-acceso.html">Dar acceso total a un agente de consola exige proteger los datos del alumnado</a></h2>
+  <p class="entradilla">Un docente con experiencia explicó qué puede hacer un agente de IA con control completo de un equipo y qué información conviene mantener fuera de su alcance.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Un grupo de figuras, «Alumnado», pasa por un embudo con la cifra «15» y el rótulo «Mínimo respuestas», y llega a un informe con barras y una línea de referencia, «Informe docente»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><circle class="fa" cx="44" cy="86" r="9"/><circle class="t" cx="44" cy="86" r="9"/><circle class="fa" cx="70" cy="86" r="9"/><circle class="t" cx="70" cy="86" r="9"/><circle class="fa" cx="96" cy="86" r="9"/><circle class="t" cx="96" cy="86" r="9"/><circle class="fa" cx="122" cy="86" r="9"/><circle class="t" cx="122" cy="86" r="9"/><circle class="fa" cx="148" cy="86" r="9"/><circle class="t" cx="148" cy="86" r="9"/><circle class="fa" cx="44" cy="116" r="9"/><circle class="t" cx="44" cy="116" r="9"/><circle class="fa" cx="70" cy="116" r="9"/><circle class="t" cx="70" cy="116" r="9"/><circle class="fa" cx="96" cy="116" r="9"/><circle class="t" cx="96" cy="116" r="9"/><circle class="fa" cx="122" cy="116" r="9"/><circle class="t" cx="122" cy="116" r="9"/><circle class="fa" cx="148" cy="116" r="9"/><circle class="t" cx="148" cy="116" r="9"/><circle class="fa" cx="44" cy="146" r="9"/><circle class="t" cx="44" cy="146" r="9"/><circle class="fa" cx="70" cy="146" r="9"/><circle class="t" cx="70" cy="146" r="9"/><circle class="fa" cx="96" cy="146" r="9"/><circle class="t" cx="96" cy="146" r="9"/><circle class="fa" cx="122" cy="146" r="9"/><circle class="t" cx="122" cy="146" r="9"/><circle class="fa" cx="148" cy="146" r="9"/><circle class="t" cx="148" cy="146" r="9"/><path class="t" d="M160 120 L214 120"/><path class="t" d="M214 120 L206 115 M214 120 L206 125"/><path class="fa" d="M222 80 H338 L300 140 V190 L260 170 V140 Z"/><path class="t" d="M222 80 H338 L300 140 V190 L260 170 V140 Z"/><text class="lbl" x="280" y="124" text-anchor="middle">15</text><path class="t" d="M352 120 L396 120"/><path class="t" d="M396 120 L388 115 M396 120 L388 125"/><rect class="fa" x="410" y="50" width="150" height="190" rx="5"/><rect class="t" x="410" y="50" width="150" height="190" rx="5"/><path class="t" d="M430 75 H520"/><path class="t" d="M430 215 H540"/><rect class="fz" x="440" y="145" width="22" height="70"/><rect class="t" x="440" y="145" width="22" height="70"/><rect class="fz" x="474" y="105" width="22" height="110"/><rect class="t" x="474" y="105" width="22" height="110"/><rect class="fz" x="508" y="125" width="22" height="90"/><rect class="t" x="508" y="125" width="22" height="90"/><path class="r" d="M434 150 H546" stroke-dasharray="6 6"/><text class="lbl" x="90" y="200" text-anchor="middle">Alumnado</text><text class="lbl" x="280" y="226" text-anchor="middle">Mínimo respuestas</text><text class="lbl" x="485" y="282" text-anchor="middle">Informe docente</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">2 de noviembre</span>Aplicación escolar</p>
+  <h2 class="titular"><a href="../2026-11-01/la-teva-veu.html">Una escuela de Cataluña comparte una aplicación para la autoevaluación del alumnado y la valoración docente</a></h2>
+  <p class="entradilla">«La teva veu», creada por Felip Sarroca para la Escola Ramon Pont, genera informes en PDF para familias y profesorado.</p>
+  </div>
+</article></div><div class="fila fila-seccion fila-sigue" style="--n:2"><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="A la izquierda, curvas de igual potencial alrededor de una masa con dos puntos, A y B, unidos por dos caminos distintos; a la derecha, el mismo potencial como un embudo visto de lado, con A y B a dos alturas y una flecha roja con el rótulo «Mismo trabajo»: el trabajo es el mismo por cualquier camino." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><circle class="fa" cx="190" cy="175" r="145"/><circle class="a" cx="190" cy="175" r="145"/><circle class="t" cx="190" cy="175" r="110"/><circle class="t" cx="190" cy="175" r="75"/><circle class="t" cx="190" cy="175" r="40"/><circle class="ft" cx="190" cy="175" r="9"/><path class="a" d="M308.8 258.2 Q310 205 222.8 152.1"/><path class="a" d="M308.8 258.2 Q200 300 145 195 Q140 130 222.8 152.1" stroke-dasharray="7 7"/><circle class="ft" cx="308.8" cy="258.2" r="6"/><circle class="ft" cx="222.8" cy="152.1" r="6"/><text class="lbl" x="320.8" y="280.2" text-anchor="start">A</text><text class="lbl" x="234.8" y="144.1" text-anchor="start">B</text><path class="t" d="M400 60 C432 62 465 130 490 270 C515 130 548 62 580 60"/><circle class="ft" cx="428.8" cy="79.8" r="6"/><circle class="ft" cx="467.3" cy="169.2" r="6"/><text class="lbl" x="440.8" y="85.8" text-anchor="start">A</text><text class="lbl" x="479.3" y="175.2" text-anchor="start">B</text><path class="t" d="M428.8 79.8 H380" stroke-dasharray="7 7"/><path class="t" d="M467.3 169.2 H380" stroke-dasharray="7 7"/><path class="r" d="M380 81.8 L380 167.2"/><path class="r" d="M380 167.2 L374.8 158.6"/><path class="r" d="M380 167.2 L385.2 158.6"/><text class="lbl" x="490" y="318" text-anchor="middle">Mismo trabajo</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">1 de noviembre</span>Física con IA</p>
+  <h2 class="titular"><a href="../2026-10-31/mapa-potencial-gravitatorio.html">Un laboratorio interactivo guía al alumnado de 2.º de Bachillerato por el potencial gravitatorio</a></h2>
+  <p class="entradilla">La aplicación «Mapa de potencial gravitatorio», compartida por el profesor Antonio González, incluye una guía didáctica de nueve pasos y calcula el trabajo entre dos puntos.</p>
+  </div>
+</article><article class="pieza destacada sec-vibecoding">
+  <figure class="ilu"><svg role="img" aria-label="Arriba, dos filas de un teclado con la tecla del 2 y la tecla AltGr resaltadas en azul; debajo, la combinación AltGr más 2, con un signo igual en rojo, que da como resultado el símbolo @." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><rect class="t" x="34" y="20" width="48" height="48" rx="6"/><rect class="fa" x="88" y="20" width="48" height="48" rx="6"/><rect class="a" x="88" y="20" width="48" height="48" rx="6"/><rect class="t" x="142" y="20" width="48" height="48" rx="6"/><rect class="t" x="196" y="20" width="48" height="48" rx="6"/><rect class="t" x="250" y="20" width="48" height="48" rx="6"/><rect class="t" x="304" y="20" width="48" height="48" rx="6"/><rect class="t" x="358" y="20" width="48" height="48" rx="6"/><rect class="t" x="412" y="20" width="48" height="48" rx="6"/><rect class="t" x="466" y="20" width="48" height="48" rx="6"/><rect class="t" x="520" y="20" width="48" height="48" rx="6"/><rect class="t" x="34" y="80" width="62" height="48" rx="6"/><rect class="t" x="106" y="80" width="62" height="48" rx="6"/><rect class="t" x="178" y="80" width="62" height="48" rx="6"/><rect class="t" x="250" y="80" width="170" height="48" rx="6"/><rect class="fa" x="430" y="80" width="62" height="48" rx="6"/><rect class="a" x="430" y="80" width="62" height="48" rx="6"/><rect class="t" x="502" y="80" width="66" height="48" rx="6"/><rect class="fa" x="120" y="190" width="120" height="70" rx="8"/><rect class="a" x="120" y="190" width="120" height="70" rx="8"/><text class="lbl" x="180" y="233" text-anchor="middle">AltGr</text><path class="t" d="M252 225 H272"/><path class="t" d="M262 215 V235"/><rect class="fa" x="284" y="190" width="70" height="70" rx="8"/><rect class="a" x="284" y="190" width="70" height="70" rx="8"/><text class="lbl" x="319" y="233" text-anchor="middle">2</text><path class="r" d="M372 215 H396"/><path class="r" d="M372 235 H396"/><rect class="t" x="414" y="180" width="110" height="90" rx="8"/><text class="lbl" x="469" y="238" text-anchor="middle">@</text></svg></figure>
+  <div class="texto">
+  <p class="antetitulo con-fecha"> <span class="fecha-pieza">1 de noviembre</span>Práctica de mecanografía</p>
+  <h2 class="titular"><a href="../2026-10-31/teclado-espanol.html">Una actividad interactiva enseña a escribir los símbolos del teclado español</a></h2>
+  <p class="entradilla">La práctica, compartida por Toni Magraner, entrena símbolos, acentos y atajos con un modo de prueba y otro de entrenamiento.</p>
+  </div>
+</article></div>
+</main>
+<footer class="pie">
+  <div class="pie-unete">
+    <h2>Únete a la conversación</h2>
+    <p>El Diario de IA Educativa cuenta lo que se habla en tres grupos abiertos de Telegram donde docentes comparten lo que prueban con la inteligencia artificial. Las conversaciones se pueden leer sin entrar; para participar, basta con unirse.</p>
+    <ul class="pie-grupos"><li><a href="https://t.me/ChatGPTedu" target="_blank" rel="noopener">ChatGPT-IA-edu</a>: <span class="pie-grupo-desc">uso general de la inteligencia artificial en educación: experiencias, herramientas y recursos.</span></li><li><a href="https://t.me/vceduca" target="_blank" rel="noopener">Vibe Coding Educativo</a>: <span class="pie-grupo-desc">creación de recursos digitales educativos usando el lenguaje natural.</span></li><li><a href="https://t.me/EduMediaIAG" target="_blank" rel="noopener">EduMedia-IAG</a>: <span class="pie-grupo-desc">creación de audio, vídeo e imagen con IA generativa para el aula.</span></li></ul>
+    <p class="pie-comunidades"><a href="../redaccion.html#comunidades"><svg class="emblema" viewBox="0 0 64 60" aria-hidden="true"><circle class="venn venn-chatgpt" cx="24" cy="22" r="17"/><circle class="venn venn-vce" cx="40" cy="22" r="17"/><circle class="venn venn-edumedia" cx="32" cy="36" r="17"/></svg><span>5224 personas en tres comunidades</span></a></p>
+  </div>
+  <nav class="pie-archivo" aria-label="Archivo por días">
+    <h2>Archivo</h2>
+    <ul class="pie-lista"><li><a href="../2026-11-10/">Miércoles, 11 de noviembre de 2026</a></li><li><a href="../2026-11-09/">Martes, 10 de noviembre de 2026</a></li><li><a href="../2026-11-08/">Lunes, 9 de noviembre de 2026</a></li><li><a href="../2026-11-07/">Domingo, 8 de noviembre de 2026</a></li><li><a href="../2026-11-06/">Sábado, 7 de noviembre de 2026</a></li><li><a href="../2026-11-05/">Viernes, 6 de noviembre de 2026</a></li><li><a href="../2026-11-04/">Jueves, 5 de noviembre de 2026</a></li></ul>
+    <ul class="pie-lista pie-mirar"><li><a href="../semana/2026-46/">Resumen semanal</a></li><li><a href="../archivo.html">Hemeroteca: todos los números</a></li><li><a href="../hace-un-ano.html">Hace un año</a></li></ul>
+  </nav>
+  <nav class="pie-diario" aria-label="El diario">
+    <h2>El diario</h2>
+    <ul class="pie-lista">
+      <li><a href="../redaccion.html">La redacción</a></li>
+      <li><a href="../videos.html">Vídeos</a></li>
+      <li><a href="https://www.instagram.com/comunidad.iaeducativa/" target="_blank" rel="noopener">Instagram</a></li>
+      <li><a href="../para-tu-web.html">Inserta el Diario de IA Educativa en tu web</a></li>
+      <li><a href="../feed.xml">RSS</a></li>
+      <li class="instalar-app" hidden><button type="button" class="instalar" title="Instala el diario en este dispositivo y ábrelo desde su icono, como una app">Instalar la app</button></li>
+      <li class="avisos-app" hidden><a href="intent://avisos?idioma=es#Intent;scheme=diarioia;package=io.github.diarioiaeducativa;end" title="Elige si la app te avisa cada mañana cuando sale el número">Avisos del número</a></li>
+    </ul>
+    <p class="instalar-ios" hidden>En el iPhone o el iPad, el diario se puede tener como una app: añádelo a la pantalla de inicio desde el botón de compartir del navegador.</p>
+    <div class="pie-creditos">
+    <p>Redactado con IA a partir de las conversaciones de los grupos. Cada dato se comprueba en su fuente original, enlazada al final de cada pieza; las opiniones de los miembros no se atribuyen a nadie.</p>
+    
+    <p>© 2026 <a href="https://bilateria.org" target="_blank" rel="noopener">Juan José de Haro</a> y <a href="https://raultorres-ia.github.io/apps/raul-torres-ai-portfolio/" target="_blank" rel="noopener">Raül Torres</a>. Textos e ilustraciones con licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="noopener">CC BY-SA 4.0</a>.</p>
+    <p>Letra <a href="https://github.com/productiontype/Newsreader" target="_blank" rel="noopener">Newsreader</a> (Production Type, <a href="../fuentes/OFL.txt">OFL</a>). Iconos <a href="https://lucide.dev" target="_blank" rel="noopener">Lucide</a> (<a href="../LICENSE-LUCIDE.txt">ISC</a>).</p>
+    <p><a href="https://vibe-coding-educativo.github.io/vibe-responsable/vcer/?r=recomendable&amp;p=100&amp;f=2026-11&amp;t=Diario%20de%20IA%20Educativa&amp;u=https%3A%2F%2Fdiarioiaeducativa.github.io%2F" target="_blank" rel="noopener">Evaluación VCER: Recomendable (100 %), noviembre de 2026</a>.</p>
+    </div>
+  </nav>
+</footer>
+<script>
+(function(){
+  var raiz=document.documentElement, sistema=matchMedia('(prefers-color-scheme: dark)');
+  function oscuro(){return raiz.dataset.theme? raiz.dataset.theme==='dark' : sistema.matches;}
+  function pinta(){raiz.dataset.theme = oscuro()?'dark':'light';}
+  pinta();
+  sistema.addEventListener('change',function(){try{if(!localStorage.getItem('sala.tema')){delete raiz.dataset.theme;pinta();}}catch(_){pinta();}});
+  document.getElementById('tema').addEventListener('click',function(){
+    var nuevo = oscuro()?'light':'dark'; raiz.dataset.theme=nuevo;
+    try{ if((nuevo==='dark')===sistema.matches) localStorage.removeItem('sala.tema'); else localStorage.setItem('sala.tema',nuevo);}catch(_){}
+  });
+  // Columnas o una columna (ADR 0044): se recuerda en el dispositivo para todas las noticias
+  var bc=document.querySelector('.columnas-boton');
+  if(bc) bc.addEventListener('click',function(){
+    var una=raiz.classList.toggle('una-columna');
+    try{ if(una) localStorage.setItem('diario.columnas','una'); else localStorage.removeItem('diario.columnas');}catch(_){}
+  });
+  document.querySelectorAll('[data-idioma]').forEach(function(a){
+    a.addEventListener('click',function(){try{localStorage.setItem('sala.idioma',a.dataset.idioma);}catch(_){}});
+  });
+  // El menú de idiomas (ADR 0026): se abre al pulsar el botón y se cierra al pulsar fuera o con Escape
+  var bi=document.querySelector('.idioma-boton'), mi=document.getElementById('menu-idiomas');
+  if(bi&&mi){
+    function idiomas(abre){mi.hidden=!abre; bi.setAttribute('aria-expanded',abre?'true':'false'); if(abre){var a=mi.querySelector('[aria-current]')||mi.querySelector('a'); a&&a.focus();}}
+    bi.addEventListener('click',function(ev){ev.stopPropagation(); idiomas(mi.hidden);});
+    document.addEventListener('click',function(ev){if(!mi.hidden&&!mi.contains(ev.target))idiomas(false);});
+    document.addEventListener('keydown',function(ev){if(ev.key==='Escape'&&!mi.hidden){idiomas(false);bi.focus();}});
+  }
+  // En el móvil las secciones se deslizan: la sección abierta, a la vista
+  var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
+  if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
+  // Ampliar una captura o un dibujo: sobre la propia página, al mayor tamaño que quepa, con la X arriba a la derecha
+  document.querySelectorAll('button.ampliar').forEach(function(b){
+    b.addEventListener('click',function(){
+      var img=b.querySelector('img'), dib=b.querySelector('svg'), v=document.createElement('div'), x=document.createElement('button'), g;
+      v.className='visor'; v.setAttribute('role','dialog'); v.setAttribute('aria-modal','true');
+      if(img){ g=img.cloneNode(); v.setAttribute('aria-label',img.alt); }
+      else {   // un dibujo: en su marco, con los colores de su sección y tan grande como quepa
+        var sec=b.closest('[class*="sec-"]'), c=sec&&[].find.call(sec.classList,function(k){return k.indexOf('sec-')===0;}), vb=dib.viewBox.baseVal;
+        if(c) v.classList.add(c);
+        g=document.createElement('div'); g.className='ilu'; g.append(dib.cloneNode(true)); v.setAttribute('aria-label',dib.getAttribute('aria-label')||'');
+        g.style.width='min(100%, calc((100dvh - 6.2rem) * '+(vb&&vb.height?vb.width/vb.height:16/9)+' + 2rem))';
+      }
+      x.type='button'; x.className='cerrar'; x.setAttribute('aria-label',b.dataset.cerrar||'Cerrar'); x.title=x.getAttribute('aria-label');
+      x.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>';
+      g.removeAttribute('loading'); v.append(g,x); document.body.append(v); document.body.classList.add('con-visor'); x.focus();
+      // La imagen crece desde donde está en la página y vuelve a su sitio al cerrar; sin movimiento
+      // si el sistema pide reducirlo
+      var origen=img||b.closest('.ilu')||b, cerrando=false;
+      var suave=g.animate&&!matchMedia('(prefers-reduced-motion: reduce)').matches;
+      function zoom(abre){
+        var a=origen.getBoundingClientRect(), z=g.getBoundingClientRect(), op={duration:300,easing:'cubic-bezier(.2,.8,.2,1)',fill:'both'};
+        var pag='translate('+(a.left-z.left)+'px,'+(a.top-z.top)+'px) scale('+(a.width/z.width)+','+(a.height/z.height)+')';
+        var k=[{transform:pag},{transform:'none'}], f=[{backgroundColor:'rgba(10,12,16,0)'},{backgroundColor:'rgba(10,12,16,0.88)'}], o=[{opacity:0},{opacity:1}];
+        if(!abre){k.reverse();f.reverse();o.reverse();}
+        g.style.transformOrigin='0 0'; v.animate(f,op); x.animate(o,op); return g.animate(k,op);
+      }
+      if(suave) zoom(true);
+      function quitar(){v.remove();document.body.classList.remove('con-visor');document.removeEventListener('keydown',tecla);b.focus();}
+      function fuera(){if(cerrando)return; cerrando=true; if(suave) zoom(false).onfinish=quitar; else quitar();}
+      // El visor es modal: con el tabulador, el foco se queda en su único control, la X
+      function tecla(ev){if(ev.key==='Escape')fuera(); else if(ev.key==='Tab'){ev.preventDefault();x.focus();}}
+      v.addEventListener('click',function(ev){if(!g.contains(ev.target))fuera();});
+      document.addEventListener('keydown',tecla);
+    });
+  });
+  // Instalar como app (ADR 0013): el enlace del pie sale solo donde el navegador deja instalar con un
+  // toque (Chrome, Edge); en iPhone y iPad, cómo añadirlo a la pantalla de inicio. Instalada, nada.
+  var inst=document.querySelector('.instalar-app'), ios=document.querySelector('.instalar-ios'), pide=null;
+  var instalada=matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;
+  if(inst&&!instalada){
+    addEventListener('beforeinstallprompt',function(ev){ev.preventDefault();pide=ev;inst.hidden=false;});
+    inst.querySelector('button').addEventListener('click',function(){
+      if(!pide)return; pide.prompt(); pide.userChoice.then(function(){pide=null;inst.hidden=true;},function(){});
+    });
+    addEventListener('appinstalled',function(){inst.hidden=true;});
+    if(ios&&(/iP(hone|ad|od)/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1))) ios.hidden=false;
+  }
+  // Lectura sin conexión (ADR 0042): el service worker guarda lo que se abre y el último número. Solo en
+  // el propio diario, no dentro del marco de otra web.
+  // La primera vez, la página se ha cargado sin él: le pasa lo cargado para que lo guarde con el último número.
+  if('serviceWorker' in navigator&&window.top===window){
+    var sinControl=!navigator.serviceWorker.controller;
+    navigator.serviceWorker.register('/sw.js').then(function(){return navigator.serviceWorker.ready;}).then(function(r){
+      if(!sinControl||!r.active)return;
+      var u=[location.href].concat(performance.getEntriesByType('resource').map(function(x){return x.name;})
+        .filter(function(n){return n.indexOf(location.origin+'/')===0;}));
+      r.active.postMessage({guardar:u});
+    }).catch(function(){});
+  }
+  // Los avisos del número (ADR 0043) son de la app de Android: el enlace sale solo dentro de ella, que se
+  // reconoce porque la abre con su nombre como referencia. En la sesión, no para siempre: la app comparte
+  // la memoria del sitio con Chrome, y en Chrome el enlace no haría nada.
+  // La marca la pone CADUCIDAD, el primer script de la cabecera, antes de que la portada salte de idioma.
+  var av=document.querySelector('.avisos-app');
+  if(av){try{if(sessionStorage.getItem('diario.app'))av.hidden=false;}catch(_){}}
+  // «Para tu web» (ADR 0032): el botón despliega sus opciones y se cierra al pulsar fuera o con Escape
+  var bl=document.querySelector('.llevar-boton'), ml=document.getElementById('menu-llevar');
+  function cerrarLlevar(){ if(ml&&!ml.hidden){ml.hidden=true; bl.setAttribute('aria-expanded','false');} }
+  if(bl&&ml){
+    bl.addEventListener('click',function(ev){ev.stopPropagation(); var abre=ml.hidden; ml.hidden=!abre; bl.setAttribute('aria-expanded',abre?'true':'false'); if(abre) ml.querySelector('.llevar-op').focus();});
+    document.addEventListener('click',function(ev){if(!ml.hidden&&!ml.contains(ev.target)&&!bl.contains(ev.target))cerrarLlevar();});
+    document.addEventListener('keydown',function(ev){if(ev.key==='Escape'&&!ml.hidden){cerrarLlevar();bl.focus();}});
+  }
+  // Copiar sin pedir nada a mano: el portapapeles del navegador o, si no lo deja (sin HTTPS), un campo
+  // oculto. La pieza entera se copia con formato, para el editor de un blog, y como código, para un bloque HTML.
+  function copiar(texto, html){
+    if(navigator.clipboard&&window.isSecureContext){
+      if(html&&window.ClipboardItem&&navigator.clipboard.write)
+        return navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([html],{type:'text/html'}),'text/plain':new Blob([texto],{type:'text/plain'})})])
+          .catch(function(){return navigator.clipboard.writeText(texto);});
+      return navigator.clipboard.writeText(texto);
+    }
+    return new Promise(function(ok,mal){
+      var t=document.createElement('textarea'); t.value=texto; t.setAttribute('readonly',''); t.style.position='fixed'; t.style.top='0'; t.style.opacity='0';
+      document.body.append(t); t.select(); try{document.execCommand('copy')?ok():mal();}catch(x){mal(x);} t.remove();
+    });
+  }
+  document.querySelectorAll('[data-copiar],[data-plantilla],[data-desde]').forEach(function(b){
+    b.addEventListener('click',function(){
+      var texto=b.dataset.copiar, html=null, r=b.querySelector('span'), antes=r.textContent;
+      if(b.dataset.plantilla){html=document.getElementById(b.dataset.plantilla).innerHTML.trim(); texto=html;}
+      if(b.dataset.desde) texto=document.getElementById(b.dataset.desde).value;
+      copiar(texto,html).then(function(){
+        r.textContent=b.dataset.hecho; b.classList.add('hecho');
+        setTimeout(function(){r.textContent=antes; b.classList.remove('hecho'); if(b.closest('.llevar-menu')) cerrarLlevar();},1600);
+      },function(){});
+    });
+  });
+  // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
+  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton)').forEach(function(b){
+    b.addEventListener('click',function(){
+      var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
+      if(navigator.share){navigator.share(datos).catch(function(){});return;}
+      if(navigator.clipboard){navigator.clipboard.writeText(url).then(function(){
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.classList.add('hecho'); b.disabled=true;
+        setTimeout(function(){r.textContent=antes;b.classList.remove('hecho');b.disabled=false;},1800);
+      });}
+    });
+  });
+})();
+</script>
+<script>
+/* Que ninguna fila de piezas deje blancos (ADR 0041). En cada fila, cada pieza puede enseñar de su entradilla
+   entre dos líneas y la entradilla entera; se busca la altura a la que pueden acabar todas (la de la pieza que
+   antes se queda sin texto) y cada una enseña las líneas que caben hasta ahí. La entradilla entera está en el
+   artículo. Se rehace al cambiar el ancho. En una sola columna (el móvil) no se toca nada. */
+(function(){
+  var SEL='.fila-destacadas,.mas-dia,.alt-b,.alt-a,.fila-seccion,.fila-breves-hu,.nb-grupos',ENT='.entradilla,.nb-resumen';
+  /* Hasta dónde llega lo visible de una pieza: lo que oculta una entradilla recortada no cuenta (ADR 0045) */
+  function fondo(el){var m=el.getBoundingClientRect().top,w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT),n,r,i,rs,a,tope;
+    while((n=w.nextNode())){if(!n.textContent.trim())continue;tope=Infinity;for(a=n.parentElement;a&&a!==el.parentElement;a=a.parentElement)if(getComputedStyle(a).overflow!=='visible')tope=Math.min(tope,a.getBoundingClientRect().bottom);
+      r=document.createRange();r.selectNodeContents(n);rs=r.getClientRects();for(i=0;i<rs.length;i++)m=Math.max(m,Math.min(rs[i].bottom,tope));}
+    el.querySelectorAll('figure').forEach(function(f){m=Math.max(m,f.getBoundingClientRect().bottom);});return m;}
+  function suelta(e){e.style.display='block';e.style.webkitLineClamp='unset';e.style.lineClamp='none';e.style.overflow='visible';e.style.webkitBoxOrient='';}
+  function recorta(e,l){e.style.display='-webkit-box';e.style.webkitBoxOrient='vertical';e.style.webkitLineClamp=l;e.style.lineClamp=l;e.style.overflow='hidden';}
+  function igualar(){
+    document.querySelectorAll(SEL).forEach(function(g){
+      var hijos=[].slice.call(g.children).filter(function(c){return c.offsetParent;});
+      hijos.forEach(function(c){c.querySelectorAll(ENT).forEach(suelta);});
+      if(hijos.length<2||getComputedStyle(g).gridTemplateColumns.split(' ').length<2)return;
+      var filas={};hijos.forEach(function(c){var k=Math.round(c.getBoundingClientRect().top/8);(filas[k]=filas[k]||[]).push(c);});
+      Object.keys(filas).forEach(function(k){var f=filas[k];if(f.length<2)return;
+        var d=f.map(function(c){var es=c.querySelectorAll(ENT),e=es[es.length-1],b=fondo(c);
+          if(!e||!e.textContent.trim())return {c:c,min:b,max:b};
+          var lh=parseFloat(getComputedStyle(e).lineHeight)||24,n=Math.max(1,Math.round(e.getBoundingClientRect().height/lh));
+          /* cada línea que se quita sube el final de la pieza una línea, haya lo que haya debajo (los enlaces) */
+          return {c:c,e:e,lh:lh,n:n,b:b,min:b-(n-Math.min(2,n))*lh,max:b};});
+        var meta=Math.min.apply(null,d.map(function(x){return x.max;})),suelo=Math.max.apply(null,d.map(function(x){return x.min;}));
+        if(meta<suelo)meta=suelo;
+        d.forEach(function(x){if(!x.e)return;var l=x.n-Math.ceil((x.b-meta-3)/x.lh);l=Math.max(Math.min(2,x.n),Math.min(x.n,l));if(l<x.n)recorta(x.e,l);});
+      });
+      /* En la disposición A, lo que quede lo absorbe el dibujo de la pieza grande: entre un tercio y algo más de
+         la mitad de su ancho de alto */
+      if(g.classList.contains('alt-a')){var gr=g.querySelector('.alt-grande'),li=g.querySelector('.alt-lista'),il=gr&&gr.querySelector('.ilu');
+        if(il&&li){il.style.height='';il.style.aspectRatio='';var dif=fondo(li)-fondo(gr),h=il.getBoundingClientRect().height,w=il.getBoundingClientRect().width;
+          var nh=Math.max(w/3.2,Math.min(w*0.6,h+dif));if(Math.abs(nh-h)>2){il.style.aspectRatio='auto';il.style.height=nh+'px';}
+          /* Si el dibujo ya está en su tope y la lista sigue más larga, sus entradillas se recortan línea a línea
+             (como mucho hasta dos), de la última pieza a la primera (ADR 0045) */
+          var es=[].slice.call(li.querySelectorAll('.entradilla')).reverse(),q;
+          for(q=0;q<es.length;q++){var e=es[q],lh=parseFloat(getComputedStyle(e).lineHeight)||24,n=Math.round(e.getBoundingClientRect().height/lh);
+            while(n>2&&fondo(li)-fondo(gr)>lh/2){n--;recorta(e,n);}}}}
+    });
+  }
+  var t;function luego(){clearTimeout(t);t=setTimeout(igualar,120);}
+  if(document.fonts&&document.fonts.ready)document.fonts.ready.then(igualar);else window.addEventListener('load',igualar);
+  window.addEventListener('load',igualar);window.addEventListener('resize',luego);
+  document.addEventListener('click',function(e){if(e.target.closest&&e.target.closest('.filtro-grupo'))luego();});   /* la semana: al elegir un grupo cambian las filas */
+})();
+/* El dibujo de una pieza, del reportaje o de «Hace un año» lleva a su artículo, como el titular (ADR 0045). Con Ctrl, Mayúsculas o la rueda, en otra
+   pestaña. El teclado y el lector de pantalla entran por el titular, sin un enlace repetido. */
+(function(){
+  function destino(e){var f=e.target.closest&&e.target.closest('main.portada .ilu'),c=f&&f.closest('.pieza, .editorial');
+    if(!c||f.querySelector('.ampliar'))return null;var a=c.querySelector('.titular a');return a&&a.href;}
+  document.addEventListener('click',function(e){var h=destino(e);if(!h)return;
+    if(e.ctrlKey||e.metaKey||e.shiftKey)window.open(h,'_blank');else location.href=h;});
+  document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
+})();
+</script>
+</body>
+</html>
