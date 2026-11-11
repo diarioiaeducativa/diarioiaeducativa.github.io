@@ -232,7 +232,7 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 
 /* Página «Qué es» */
 .que-es h2 { font-size: 1.5rem; margin: 2rem 0 0.5rem; }
-.que-es h2:first-child { margin-top: 0; }
+.que-es > h2:first-child { margin-top: 0; }
 .que-es p { line-height: 1.7; }
 /* «Las comunidades»: el diagrama, como figura de periódico a la derecha del texto; en el móvil, debajo del título */
 .que-es .ilu.comunidades { float: right; width: 380px; margin: 0.3rem 0 1rem 1.5rem; }
@@ -397,8 +397,8 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 @media (max-width: 52rem) { .editorial { grid-template-columns: 1fr; padding: 1.1rem; } }
 
 /* «La redacción» */
-.redaccion > .titular { font-size: clamp(2.2rem, 5vw, 3rem); font-variation-settings: "opsz" 72; margin: 0 0 0.5rem; }
-.redaccion > .ilu { margin: 1.2rem 0 1.6rem; background: var(--papel-2); padding: 1rem; }
+.redaccion .cabeza-pieza .titular { font-size: clamp(2.2rem, 5vw, 3rem); font-variation-settings: "opsz" 72; margin: 0 0 0.5rem; }
+.redaccion .red-proceso > .ilu { margin: 1.2rem 0 1.6rem; background: var(--papel-2); padding: 1rem; }
 .equipo { padding-left: 1.2rem; line-height: 1.6; }
 .equipo li { margin: 0.35rem 0; }
 
@@ -764,4 +764,26 @@ p.con-nb { margin: 0 0 0.3rem; }
   html:not(.una-columna) .en-columnas .mas ul { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 2.6rem; }
   html:not(.una-columna) .en-columnas .mas li:nth-child(2) { border-top: 0; padding-top: 0; }
   html:not(.una-columna) .en-columnas .comentarios { max-width: 44rem; }
+  /* «La redacción» (ADR 0047): «Cómo se hace», en dos columnas que empiezan por el organigrama, alto, y se
+     igualan solas con el texto; los apartados, en bloques por tema con el texto en columnas. Un bloque de un solo apartado (el equipo)
+     lleva el título a todo el ancho; en los demás, cada título va en su columna, pegado a su texto */
+  html:not(.una-columna) .redaccion :is(.red-proceso, .red-bloque) { margin-top: 1.6rem; padding-top: 1.2rem; border-top: 1px solid var(--filete); }
+  html:not(.una-columna) .redaccion .red-proceso { columns: 2; column-gap: 2.6rem; column-rule: 1px solid var(--filete); text-align: justify; }
+  html:not(.una-columna) .redaccion .red-proceso > .ilu { margin: 0 0 1.2rem; break-inside: avoid; }
+  html:not(.una-columna) .redaccion .red-texto { display: contents; }
+  html:not(.una-columna) .redaccion .red-bloque { columns: 3 19rem; column-gap: 2rem; column-rule: 1px solid var(--filete); text-align: justify; }
+  /* Sin mínimo de líneas al pie ni a la cabeza de columna: con dos, Chromium no igualaba las columnas y dejaba
+     huecos de 100 a 130 px; los títulos siguen pegados a su texto */
+  html:not(.una-columna) .redaccion :is(.red-proceso, .red-bloque) :is(p, li) { orphans: 1; widows: 1; }
+  html:not(.una-columna) .redaccion :is(.red-texto, .red-bloque) li { hyphens: auto; }
+  html:not(.una-columna) .redaccion :is(.red-texto, .red-bloque) h2 { text-align: left; break-after: avoid; margin-top: 1.4rem; }
+  /* Safari no respeta break-after en columnas: el título lleva debajo, sin ocupar sitio, el alto de dos
+     líneas que no se puede partir, y así nunca se queda solo al pie de una columna */
+  html:not(.una-columna) .redaccion .red-bloque > h2:not(:only-of-type), html:not(.una-columna) .redaccion .red-texto > h2 {
+    break-inside: avoid; padding-bottom: 2.4em; margin-bottom: calc(0.5rem - 2.4em);
+  }
+  html:not(.una-columna) .redaccion :is(.red-proceso, .red-bloque) > h2:first-child { margin-top: 0; }
+  html:not(.una-columna) .redaccion .red-proceso h2 { margin-top: 0; }
+  html:not(.una-columna) .redaccion .red-bloque > h2:only-of-type { column-span: all; margin-bottom: 0.9rem; }
+  html:not(.una-columna) .redaccion .red-bloque .ilu.comunidades { float: none; width: auto; margin: 0.4rem 0 1rem; break-inside: avoid; }
 }
