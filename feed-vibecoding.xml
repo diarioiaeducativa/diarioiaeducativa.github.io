@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Anthropic recomienda decir a Fable 5.2 que el código es suyo si se quiere que lo reorganice</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-11/prompt-propiedad-codigo-fable.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-11/prompt-propiedad-codigo-fable.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La guía de Anthropic para Fable 5.2 explica que el modelo se comporta distinto según quién figure como dueño del código, con un coste en tokens.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dos columnas: a la izquierda, dos bloques de código idénticos y los rótulos «Añade» y «Menos del 10 %»; a la derecha, un icono de fusión sobre un solo bloque de código y los rótulos «Unifica» y «75 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Eduvers reúne simulaciones interactivas de Física y Química y prepara laboratorios virtuales en 3D</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-11/eduvers-simulaciones.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-11/eduvers-simulaciones.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Su autor, Juan José de Haro, va añadiendo simulaciones a su web y anuncia que enlazará laboratorios en 3D en las próximas semanas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Tres tarjetas bajo el rótulo «19 simulaciones»: la trayectoria parabólica de una bola, «Física»; un matraz, «Química»; y un cubo en 3D, «Laboratorio 3D».</media:description></media:content>
+  </item>
+  <item>
     <title>Una aplicación para clase de música propone colocar en el pentagrama las notas de una partitura</title>
     <link>https://diarioiaeducativa.github.io/2026-11-10/pentagrama-maestro.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/pentagrama-maestro.html</guid>

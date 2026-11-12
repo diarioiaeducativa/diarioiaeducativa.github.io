@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Multimedia</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>A test with three models suggests that drawing in SVG avoids errors in science diagrams</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-11/svg-celula-tres-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/svg-celula-tres-modelos.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>A teacher asked three advanced models for a diagram of an animal cell. None made content errors, and they put the reliability down to the vector format.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-svg-celula-tres-modelos.svg" medium="image" type="image/svg+xml"><media:description>A diagram of two paths starting from “Model”: one goes through “SVG code” and reaches an animal cell with a tick; the other goes through “Generator” and reaches another cell without one.</media:description></media:content>
+  </item>
+  <item>
+    <title>A second video with Fable 5.2 adds an agent that checks the scientific content before generating it</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-11/respiracion-celular-revisor.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/respiracion-celular-revisor.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>After the photosynthesis animation, the same teacher has made one on cellular respiration with a reviewing agent, and has translated the first into Catalan.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-respiracion-celular-revisor.svg" medium="image" type="image/svg+xml"><media:description>A chain of five steps with arrows, labelled “Script”, “Reviewer”, “Images”, “Reviewer” and “Video”, with a magnifying glass at each review step.</media:description></media:content>
+  </item>
+  <item>
+    <title>“Polvo eres”, a stop-motion animated short made with generative AI</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-11/polvo-eres-corto.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/polvo-eres-corto.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>A member of the group has shared their first short film, a spoof of cute horror made with generative AI.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-polvo-eres-corto.svg" medium="image" type="image/svg+xml"><media:description>Three consecutive frames of a stop-motion short in which a little dust monster moves from left to right; labels: “Stop-motion”, “Little dust monsters” and “AI-generated”.</media:description></media:content>
+  </item>
+  <item>
     <title>A single sentence is enough for Fable 5.2 to produce a photosynthesis animation for sixth-form students</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-10/fable-animacion-fotosintesis.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/fable-animacion-fotosintesis.html</guid>

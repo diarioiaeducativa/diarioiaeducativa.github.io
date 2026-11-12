@@ -9,6 +9,60 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Una prova amb tres models suggereix que dibuixar en SVG evita errors en les làmines de ciències</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/svg-celula-tres-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/svg-celula-tres-modelos.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Un docent va demanar a tres models avançats una làmina de la cèl·lula animal. Cap va cometre errors de contingut, i n&#x27;atribueix la fiabilitat al format vectorial.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-svg-celula-tres-modelos.svg" medium="image" type="image/svg+xml"><media:description>Esquema de dos camins que parteixen de «Model»: un passa per «Codi SVG» i arriba a una cèl·lula animal amb una marca de verificació; l&#x27;altre passa per «Generador» i arriba a una altra cèl·lula sense marca.</media:description></media:content>
+  </item>
+  <item>
+    <title>Anthropic recomana dir a Fable 5.2 que el codi és seu si es vol que el reorganitzi</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/prompt-propiedad-codigo-fable.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/prompt-propiedad-codigo-fable.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La guia d&#x27;Anthropic per a Fable 5.2 explica que el model es comporta de manera diferent segons qui figuri com a propietari del codi, amb un cost en tokens.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dues columnes: a l&#x27;esquerra, dos blocs de codi idèntics i els rètols «Afegeix» i «Menys del 10 %»; a la dreta, una icona de fusió sobre un sol bloc de codi i els rètols «Unifica» i «75 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un segon vídeo amb Fable 5.2 afegeix un agent que revisa el contingut científic abans de generar-lo</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/respiracion-celular-revisor.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/respiracion-celular-revisor.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Després de l&#x27;animació de la fotosíntesi, el mateix docent n&#x27;ha fet una sobre la respiració cel·lular amb un agent revisor, i ha traduït la primera al català.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-respiracion-celular-revisor.svg" medium="image" type="image/svg+xml"><media:description>Cadena de cinc passos amb fletxes, amb els rètols «Text», «Revisor», «Imatges», «Revisor» i «Vídeo», i una lupa en cada pas de revisió.</media:description></media:content>
+  </item>
+  <item>
+    <title>«Polvo eres», un curt d&#x27;animació stop-motion fet amb IA generativa</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/polvo-eres-corto.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/polvo-eres-corto.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Un membre del grup ha compartit el seu primer curtmetratge, una paròdia de terror simpàtic feta amb IA generativa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-polvo-eres-corto.svg" medium="image" type="image/svg+xml"><media:description>Tres fotogrames seguits d&#x27;un curt stop-motion en què un monstret de pols avança d&#x27;esquerra a dreta; rètols: «Stop-motion», «Monstrets de pols» i «Generat amb IA».</media:description></media:content>
+  </item>
+  <item>
+    <title>Eduvers reuneix simulacions interactives de Física i Química i prepara laboratoris virtuals en 3D</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/eduvers-simulaciones.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/eduvers-simulaciones.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El seu autor, Juan José de Haro, va afegint simulacions a la seva web i anuncia que enllaçarà laboratoris en 3D en les properes setmanes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Tres targetes sota el rètol «19 simulacions»: la trajectòria parabòlica d&#x27;una bola, «Física»; un matràs, «Química»; i un cub en 3D, «Laboratori 3D».</media:description></media:content>
+  </item>
+  <item>
+    <title>GPT-5.1 va arribar a ChatGPT entre l&#x27;astorament per la seva rapidesa i no hi va complir quatre mesos</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/gpt-5-1-llegada-retirada.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/gpt-5-1-llegada-retirada.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025 sorprenia com d&#x27;hora arribava GPT-5.1, el model «més conversacional» d&#x27;OpenAI. L&#x27;11 de març de 2026 ja havia desaparegut de ChatGPT.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-gpt-5-1-llegada-retirada.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, amb el rètol «Nov. 2025», una bafarada de xat amb línies de text i el rètol «GPT-5.1». A la dreta, amb el rètol «Avui», la mateixa bafarada però discontínua i en blau, amb el rètol «GPT-5.1» ratllat i a sota «Retirat».</media:description></media:content>
+  </item>
+  <item>
     <title>N&#x27;hi ha prou amb una sola frase perquè Fable 5.2 prepari una animació de la fotosíntesi per a batxillerat</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-10/fable-animacion-fotosintesis.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-10/fable-animacion-fotosintesis.html</guid>

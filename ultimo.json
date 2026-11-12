@@ -1,31 +1,31 @@
 {
- "numero": 10,
- "sale": "2026-11-11",
+ "numero": 11,
+ "sale": "2026-11-12",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Una sola frase basta para que Fable 5.2 prepare una animación de la fotosíntesis para bachillerato"
+   "titular": "Una prueba con tres modelos sugiere que dibujar en SVG evita errores en las láminas de ciencias"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "N'hi ha prou amb una sola frase perquè Fable 5.2 prepari una animació de la fotosíntesi per a batxillerat"
+   "titular": "Una prova amb tres models suggereix que dibuixar en SVG evita errors en les làmines de ciències"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Abonda cunha soa frase para que Fable 5.2 prepare unha animación da fotosíntese para bacharelato"
+   "titular": "Unha proba con tres modelos suxire que debuxar en SVG evita erros nas láminas de ciencias"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Esaldi bakar bat nahikoa da Fable 5.2k batxilergorako fotosintesiari buruzko animazio bat presta dezan"
+   "titular": "Hiru ereduri egindako proba batek iradokitzen du SVGn marraztuz gero ez dela akatsik izaten zientzia-laminetan"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "A single sentence is enough for Fable 5.2 to produce a photosynthesis animation for sixth-form students"
+   "titular": "A test with three models suggests that drawing in SVG avoids errors in science diagrams"
   }
  }
 }

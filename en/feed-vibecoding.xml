@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe coding</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Anthropic recommends telling Fable 5.2 the code is its own if you want it to reorganise it</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-11/prompt-propiedad-codigo-fable.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/prompt-propiedad-codigo-fable.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Anthropic&#x27;s guide to Fable 5.2 explains that the model behaves differently depending on who is named as the owner of the code, at a cost in tokens.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Two columns: on the left, two identical blocks of code and the labels “Adds” and “Under 10%”; on the right, a merge icon above a single block of code and the labels “Merges” and “75%”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Eduvers brings together interactive Physics and Chemistry simulations and is preparing 3D virtual labs</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-11/eduvers-simulaciones.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/eduvers-simulaciones.html</guid>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Its author, Juan José de Haro, is adding simulations to his website and announces that he will link 3D labs in the coming weeks.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Three cards under the label “19 simulations”: the parabolic trajectory of a ball, “Physics”; a flask, “Chemistry”; and a 3D cube, “3D lab”.</media:description></media:content>
+  </item>
+  <item>
     <title>A music-class app asks students to place the notes of a score on the stave</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-10/pentagrama-maestro.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/pentagrama-maestro.html</guid>
