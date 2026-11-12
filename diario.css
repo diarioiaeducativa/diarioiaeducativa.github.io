@@ -431,6 +431,15 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .equipo { padding-left: 1.2rem; line-height: 1.6; }
 .equipo li { margin: 0.35rem 0; }
 
+/* La página de contacto (ADR 0051): el correo, a la vista, en una franja como la del editorial */
+.contacto-correo {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 0.2rem 0.7rem; margin: 1.8rem 0;
+  padding: 1rem 1.2rem; background: var(--papel-2); border-left: 4px solid var(--tinta); font-size: 1.3rem; line-height: 1.4;
+}
+.contacto-correo .ico { width: 1.25em; height: 1.25em; flex: none; }
+.contacto-rotulo { color: var(--tinta-2); }
+.contacto-correo a { overflow-wrap: anywhere; }
+
 /* El reportaje del domingo (ADR 0004): franja como la editorial, con filete azul; página con ladillos y claves */
 .reportaje-franja { border-left-color: var(--azul); }
 .reportaje-franja .seccion { margin-bottom: 0.3rem; }
