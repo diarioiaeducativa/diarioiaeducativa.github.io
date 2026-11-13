@@ -615,7 +615,9 @@ body.con-visor { overflow: hidden; }
 .comentarios { margin-top: 2.4rem; padding-top: 1rem; border-top: 3px solid var(--tinta); }
 .comentarios h2 { margin: 0 0 0.4rem; font-size: 1.2rem; }
 .comentarios-aviso { margin: 0 0 1rem; color: var(--tinta-2); font-size: 0.95rem; }
+.comentarios-abrir { margin: 0; }
 .comentarios-caja { min-height: 8rem; }
+.comentarios-caja[hidden] { display: none; }
 /* «Para tu web» (ADR 0032): el botón de cada pieza y su menú, anclado a la fila de botones para que en
    el móvil no se salga de la pantalla */
 .acciones { position: relative; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: flex-start; }
@@ -706,6 +708,7 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 .nb-play .ico { width: 3.2rem; height: 3.2rem; fill: none; stroke: currentColor; }
 .nb-play:hover .ico, .nb-play:focus-visible .ico { color: var(--rojo, #c8202c); }
 .nb-resumen { margin: 0 0 0.6rem; font-size: 0.98rem; line-height: 1.5; }
+.nb-idioma { margin: -0.3rem 0 0.6rem; font-size: 0.85rem; color: var(--tinta-2); }
 .nb-rotulo { margin: 0.4rem 0 0.2rem; font-size: 0.9rem; font-weight: 600; color: var(--azul); }
 .nb-grupo audio { width: 100%; }
 .nb-enlaces { margin: 0.4rem 0 0; font-size: 0.92rem; }
@@ -970,6 +973,9 @@ p.con-nb { margin: 0 0 0.3rem; }
   .papel-sumario > ul { columns: 3; column-gap: 6mm; }
   .papel > article + article { margin-top: 6mm; padding-top: 4mm; }
   /* En papel, la conversación, las fuentes y el QR, al final del texto y dentro de sus columnas (cola-papel) */
+  .papel-creditos { margin: 2mm 0 0; color: #333; }
+  .pag-papel .cola-papel .papel-creditos { display: none; }   /* en el número entero, una sola vez, al final */
+  .solo-papel.papel-creditos-final { display: block !important; margin-top: 5mm; padding-top: 2mm; border-top: 0.75pt solid #999; font-size: 8pt; line-height: 1.3; }
   .solo-papel.cola-papel { display: block !important; margin-top: 3mm; padding-top: 2mm; border-top: 0.75pt solid #999; font-size: 8pt; line-height: 1.3; }
   article > .origen, article > .comprobado { display: none !important; }
   .cola-papel .origen { margin: 0 0 2mm; }

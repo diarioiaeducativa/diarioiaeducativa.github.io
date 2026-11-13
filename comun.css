@@ -283,3 +283,20 @@ img, svg { max-width: 100%; }
 }
 /* Con el icono de vídeos, en los móviles más estrechos (320 px) el «Año I» deja sitio a los controles */
 @media (max-width: 21.5rem) { .edicion-num .anyo { display: none; } }
+
+/* En papel, los dibujos y las secciones con los colores del tema claro aunque el diario se esté leyendo en
+   oscuro: el papel es blanco y los colores oscuros no se ven (ADR 0054). Va al final para ganar a los del tema. */
+@media print {
+  :root[data-theme="dark"], :root:not([data-theme="light"]) {
+    --ilu-relleno: #dfe5f7; --tiza: #ffffff;
+    --c-herramientas: #1c3faa; --t-herramientas: #e6ebf8; --m-herramientas: #c9d4f2;
+    --c-debates: #b04f0c;      --t-debates: #fbeadb;      --m-debates: #f3cdaa;
+    --c-comunidad: #1d7547;    --t-comunidad: #e2f1e8;    --m-comunidad: #bfe0cc;
+    --c-novedades: #6a3d9e;    --t-novedades: #eee6f7;    --m-novedades: #d8c6ee;
+    --c-vineta: #8a6400;       --t-vineta: #fff3c4;       --m-vineta: #ffe27a;
+    --c-multimedia: #a8206f;   --t-multimedia: #fae4f0;   --m-multimedia: #f2bedb;
+    --c-reportaje: var(--azul); --t-reportaje: #eef1fa;  --m-reportaje: #dfe5f7;
+    --c-biblioteca: #0b6e79;   --t-biblioteca: #e0f2f3;   --m-biblioteca: #b7e1e5;
+    --c-hace-un-ano: #7a4f2a;  --t-hace-un-ano: #f6ede3;  --m-hace-un-ano: #e8d3bd;
+  }
+}

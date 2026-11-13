@@ -40,8 +40,8 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
 <meta name="apple-mobile-web-app-title" content="Diario IA">
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="/gl/../fuentes.css?v=e8b00d22">
-<link rel="stylesheet" href="/gl/../comun.css?v=70538532">
-<link rel="stylesheet" href="/gl/../diario.css?v=f3026af5">
+<link rel="stylesheet" href="/gl/../comun.css?v=e47a6e43">
+<link rel="stylesheet" href="/gl/../diario.css?v=e9c44c22">
 </head>
 <body class="pag-que-es">
 <header class="cabecera">
@@ -197,7 +197,7 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
   document.querySelectorAll('button.imprimir').forEach(function(b){b.addEventListener('click',imprimir);});
   if(new URLSearchParams(location.search).get('imprimir')==='1'&&document.body.classList.contains('pag-papel'))
     addEventListener('load',function(){(document.fonts?document.fonts.ready:Promise.resolve()).then(imprimir);});
-  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir)').forEach(function(b){
+  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver)').forEach(function(b){
     b.addEventListener('click',function(){
       var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}
