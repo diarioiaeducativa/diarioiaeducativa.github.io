@@ -787,15 +787,14 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 /* El número elegido, en su marco, como el calendario pero sobre el papel (Juanjo, 13-11-2026) */
 .cal-detalle { display: grid; grid-template-columns: 13rem minmax(0, 1fr); gap: 0.4rem 1.2rem; align-items: start; margin-top: 1rem; padding: 0.8rem 1rem 0.9rem; border: 1px solid var(--filete); border-radius: 8px; }
 .cal-detalle > .cal-texto:only-child { grid-column: 1 / -1; }
-/* La portada no cuenta para la altura de la fila (contain): la marcan los titulares, y si son pocos la portada se
-   recorta por abajo; si son muchos, el script la deja flotando y los titulares siguen por debajo. */
-.cal-portada { display: block; align-self: stretch; min-height: 6rem; line-height: 0; contain: size; }
-.cal-portada img { width: 100%; height: auto; max-height: 100%; object-fit: cover; object-position: top; border: 1px solid var(--filete); border-radius: 3px; background: #fbfbf9; box-shadow: 0 2px 8px rgb(0 0 0 / 0.12); }
+/* La portada, siempre entera: si los titulares son pocos, el script la hace más pequeña hasta acabar con ellos;
+   si son muchos, la deja flotando y los titulares siguen por debajo. */
+.cal-portada { display: block; line-height: 0; }
+.cal-portada img { width: 100%; height: auto; border: 1px solid var(--filete); border-radius: 3px; background: #fbfbf9; box-shadow: 0 2px 8px rgb(0 0 0 / 0.12); }
 .cal-detalle.envuelve { display: block; }
 .cal-detalle.envuelve::after { content: ""; display: block; clear: both; }
-.cal-detalle.envuelve .cal-portada { float: left; width: 13rem; min-height: 0; margin: 0.2rem 1.3rem 0.6rem 0; contain: none; }
-.cal-detalle.envuelve .cal-portada img { max-height: none; }
-.cal-portada .ampliar { display: block; width: 100%; height: 100%; padding: 0; border: 0; background: none; line-height: 0; cursor: zoom-in; }
+.cal-detalle.envuelve .cal-portada { float: left; width: 13rem; margin: 0.2rem 1.3rem 0.6rem 0; }
+.cal-portada .ampliar { display: block; width: 100%; padding: 0; border: 0; background: none; line-height: 0; cursor: zoom-in; }
 .cal-portada .ampliar:hover img { border-color: var(--azul); }
 .cal-detalle p { margin: 0; }
 .cal-fecha { font-weight: 700; line-height: 1.3; }
@@ -808,8 +807,7 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 .hemeroteca .cal-texto li a { font-weight: 500; }
 @media (max-width: 36rem) {
   .cal-detalle { grid-template-columns: 1fr; padding: 0.8rem 0.7rem 0.9rem; }
-  .cal-portada, .cal-detalle.envuelve .cal-portada { float: none; width: min(100%, 17rem); min-height: 0; margin: 0 auto 0.4rem; contain: none; }
-  .cal-portada img { max-height: none; }
+  .cal-portada, .cal-detalle.envuelve .cal-portada { float: none; width: min(100%, 17rem); margin: 0 auto 0.4rem; }
 }
 /* En pantalla ancha, el calendario a la izquierda y el número elegido a la derecha, a la vista los dos sin bajar
    (Juanjo, 13-11-2026). El calendario acompaña al bajar si los titulares del día son muchos. */

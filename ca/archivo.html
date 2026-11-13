@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=6ccad91c">
-<link rel="stylesheet" href="../diario.css?v=c44ffa13">
+<link rel="stylesheet" href="../diario.css?v=ab9d021b">
 </head>
 <body class="pag-seccion">
 <header class="cabecera">
@@ -295,15 +295,22 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     detalle.replaceChildren(...hijos);
     ajusta();
   }
-  // Sin huecos (ADR 0041): si los titulares no caben al lado de la portada, siguen por debajo de ella; si son
-  // pocos, la portada se recorta por abajo (CSS) para acabar a la vez que ellos.
-  const estrecho = matchMedia('(max-width: 36rem)');
+  // Sin huecos (ADR 0041) y sin cortar la portada (Juanjo, 13-11-2026): si los titulares son más altos que ella,
+  // siguen por debajo; si son más bajos, la portada se hace más pequeña, entera, hasta acabar con ellos, sin bajar
+  // de MINIMO para que se siga viendo (un día de uno o dos titulares deja algo de aire bajo el texto).
+  const estrecho = matchMedia('(max-width: 36rem)'), MINIMO = 14;   // rem
   function ajusta() {
-    detalle.classList.remove('envuelve');
+    detalle.classList.remove('envuelve'); detalle.style.gridTemplateColumns = '';
     const img = detalle.querySelector('.cal-portada img'), tx = detalle.querySelector('.cal-texto');
     if (!img || !tx || estrecho.matches) return;
-    const natural = img.getBoundingClientRect().width * img.getAttribute('height') / img.getAttribute('width');
-    if (tx.offsetHeight > natural + 24) detalle.classList.add('envuelve');
+    const r = img.getAttribute('height') / img.getAttribute('width');
+    const rem = parseFloat(getComputedStyle(document.documentElement).fontSize);
+    const natural = detalle.querySelector('.cal-portada').getBoundingClientRect().width * r;
+    if (tx.offsetHeight > natural + 24) { detalle.classList.add('envuelve'); return; }
+    for (let i = 0; i < 3; i++) {   // al estrecharse la portada, los titulares ganan ancho y bajan de alto
+      const alto = Math.min(natural, Math.max(tx.offsetHeight, MINIMO * rem));
+      detalle.style.gridTemplateColumns = `${Math.round(alto / r)}px minmax(0, 1fr)`;
+    }
   }
   let espera; addEventListener('resize', () => { clearTimeout(espera); espera = setTimeout(ajusta, 150); });
   function ver(m, guardar) {
