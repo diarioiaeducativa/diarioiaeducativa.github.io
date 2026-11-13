@@ -131,7 +131,7 @@
     <description>El autor del timbre musical escolar ha publicado su proyecto en GitHub: guía de instalación, manual para el claustro y código, con licencia AGPL para el código y CC BY-SA 4.0 para la documentación.</description>
   </item>
   <item>
-    <title>Una prueba con tres modelos sugiere que dibujar en SVG evita errores en las láminas de ciencias</title>
+    <title>Tres modelos dibujan en SVG una lámina de la célula animal sin errores de contenido</title>
     <link>https://diarioiaeducativa.github.io/2026-11-11/svg-celula-tres-modelos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-11/svg-celula-tres-modelos.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
@@ -172,7 +172,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-11/eduvers-simulaciones.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Su autor, Juan José de Haro, va añadiendo simulaciones a su web y anuncia que enlazará laboratorios en 3D en las próximas semanas.</description>
+    <description>Su autor va añadiendo simulaciones a la web y anuncia que enlazará laboratorios en 3D en las próximas semanas.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Tres tarjetas bajo el rótulo «19 simulaciones»: la trayectoria parabólica de una bola, «Física»; un matraz, «Química»; y un cubo en 3D, «Laboratorio 3D».</media:description></media:content>
   </item>
   <item>
@@ -185,7 +185,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-gpt-5-1-llegada-retirada.svg" medium="image" type="image/svg+xml"><media:description>Díptico dividido por una línea vertical. A la izquierda, rotulado «Nov. 2025», una burbuja de chat con líneas de texto y el rótulo «GPT-5.1». A la derecha, rotulado «Hoy», la misma burbuja pero discontinua y en azul, con el rótulo «GPT-5.1» tachado y debajo «Retirado».</media:description></media:content>
   </item>
   <item>
-    <title>Una sola frase basta para que Fable 5.2 prepare una animación de la fotosíntesis para bachillerato</title>
+    <title>Un solo prompt basta para que Fable 5.2 prepare una animación de la fotosíntesis para bachillerato</title>
     <link>https://diarioiaeducativa.github.io/2026-11-10/fable-animacion-fotosintesis.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/fable-animacion-fotosintesis.html</guid>
     <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
@@ -254,13 +254,13 @@
     <description>Anthropic da a los planes que incluyen Fable entre uno y tres reinicios del límite de uso, según la antigüedad de la suscripción, que pueden usarse hasta el 8 de marzo de 2027; Pro tiene uno, solo hasta el 16 de noviembre. El modelo es el de Fable 5.2.</description>
   </item>
   <item>
-    <title>Anthropic presenta Claude Fable 5.2 y Mythos 5.2, con el primero abierto a todo el público</title>
+    <title>Anthropic presenta Claude Fable 5.2 y Mythos 5.2, el segundo solo para organizaciones verificadas</title>
     <link>https://diarioiaeducativa.github.io/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/fable-mythos-5-2.html</guid>
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Instituciones y empresas</category>
-    <description>La empresa anuncia dos versiones de un mismo modelo: Fable 5.2, con salvaguardas y disponible para todos, y Mythos 5.2, solo para organizaciones verificadas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema de un tronco, «Claude 5.2», que se bifurca en dos ramas: «Fable 5.2», que lleva a un grupo de personas con el rótulo «Todo el público», y «Mythos 5.2», que lleva a una puerta cerrada con candado con el rótulo «Verificadas».</media:description></media:content>
+    <description>La empresa anuncia dos versiones de un mismo modelo: Fable 5.2, con salvaguardas y sin verificación previa, y Mythos 5.2, solo para organizaciones verificadas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema de un tronco, «Claude 5.2», que se bifurca en dos ramas: «Fable 5.2», que lleva a un grupo de personas con el rótulo «Sin verificación», y «Mythos 5.2», que lleva a una puerta cerrada con candado con el rótulo «Verificadas».</media:description></media:content>
   </item>
   <item>
     <title>Un hilo del grupo usa agentes de programación para controlar la domótica de casa</title>
@@ -617,7 +617,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/google-ia-cuentas-escolares.html</guid>
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debates</category>
-    <description>Google ha anunciado que Gemini y la búsqueda con IA estarán desactivados en las cuentas de alumnado de primaria y secundaria hasta que los administradores los activen. En los grupos, la noticia abrió una discusión sobre quién decide el uso de la IA en un centro.</description>
+    <description>Google ha anunciado que Gemini y el buscador de Google estarán desactivados en las cuentas de alumnado de primaria y secundaria hasta que los administradores los activen. En los grupos, la noticia abrió una discusión sobre quién decide el uso de la IA en un centro.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, un interruptor general de todo o nada tachado con una aspa roja; a la derecha, cuatro interruptores individuales (Gemini, Notebook, Classroom y Búsqueda), dos encendidos en azul y dos apagados.</media:description></media:content>
   </item>
   <item>
@@ -691,7 +691,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Esquema en el que una «Idea» se bifurca en dos caminos: uno acaba en un bloque opaco tachado, la «Imagen generada», y otro en una infografía de formas e iconos, «HTML y SVG», de la que salen dos ventajas: «Lector de pantalla» y «Claro y oscuro».</media:description></media:content>
   </item>
   <item>
-    <title>El MIT publica un informe que pide replantear enseñanza y evaluación ante la IA</title>
+    <title>Un informe del MIT, de agosto, pide replantear enseñanza y evaluación ante la IA</title>
     <link>https://diarioiaeducativa.github.io/2026-11-02/informe-mit-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/informe-mit-ia.html</guid>
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
@@ -718,7 +718,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Una ventana de terminal, el agente, tiene una flecha hacia una carpeta de trabajo dentro de un equipo, mientras su camino hacia la carpeta de datos del alumnado, con un candado, queda cortado por una cruz roja.</media:description></media:content>
   </item>
   <item>
-    <title>Un informe para la UNESCO propone sustituir «¿a qué edad?» por «¿para qué y con qué evidencia?» al usar IA en el aula</title>
+    <title>Un informe para la UNESCO sostiene que no hay una edad única adecuada para usar la IA en el aula</title>
     <link>https://diarioiaeducativa.github.io/2026-11-02/unesco-edad-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/unesco-edad-ia.html</guid>
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
@@ -751,7 +751,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>La guía del Departament d’Educació sitúa la tecnología al servicio del aprendizaje con tablas de decisión, progresión por ciclos, bienestar digital y criterios de selección de recursos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>Un embudo con «Siete criterios» de decisión deja salir una flecha hacia una escalera de cinco peldaños, «Autonomía creciente» del alumnado; solo el último peldaño aparece destacado: «IA en 4.º», de ESO.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>Un embudo con «Nueve criterios» de decisión deja salir una flecha hacia una escalera de cinco peldaños, «Autonomía creciente» del alumnado; solo el último peldaño aparece destacado: «IA en 4.º», de ESO.</media:description></media:content>
   </item>
   <item>
     <title>Una web reúne vídeos de motion graphics con sus prompts y skills para agentes</title>

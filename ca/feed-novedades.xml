@@ -18,13 +18,13 @@
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-microsoft-classroom.svg" medium="image" type="image/svg+xml"><media:description>Un panell rotulat «Classroom» del qual surten quatre fletxes cap a quatre requadres rotulats «Tasques», «Notes», «Quadern» i «IA».</media:description></media:content>
   </item>
   <item>
-    <title>Anthropic presenta Claude Fable 5.2 i Mythos 5.2, amb el primer obert a tot el públic</title>
+    <title>Anthropic presenta Claude Fable 5.2 i Mythos 5.2, el segon només per a organitzacions verificades</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/fable-mythos-5-2.html</guid>
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Institucions i empreses</category>
-    <description>L&#x27;empresa anuncia dues versions d&#x27;un mateix model: Fable 5.2, amb salvaguardes i disponible per a tothom, i Mythos 5.2, només per a organitzacions verificades.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;un tronc, «Claude 5.2», que es bifurca en dues branques: «Fable 5.2», que porta a un grup de persones amb el rètol «Tot el públic», i «Mythos 5.2», que porta a una porta tancada amb cadenat amb el rètol «Verificades».</media:description></media:content>
+    <description>L&#x27;empresa anuncia dues versions d&#x27;un mateix model: Fable 5.2, amb salvaguardes i sense verificació prèvia, i Mythos 5.2, només per a organitzacions verificades.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;un tronc, «Claude 5.2», que es bifurca en dues branques: «Fable 5.2», que porta a un grup de persones amb el rètol «Sense verificació», i «Mythos 5.2», que porta a una porta tancada amb cadenat amb el rètol «Verificades».</media:description></media:content>
   </item>
   <item>
     <title>Anthropic prohibeix a la seva política d&#x27;ús el maltractament sostingut i gratuït als seus models</title>
@@ -36,7 +36,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Una barra horitzontal dividida per una ratlla vermella. A l&#x27;esquerra, amb el rètol «Permès», tres globus de conversa: dos amb els rètols «Frustració» i «Desacord». A la dreta de la ratlla, un globus blau amb el rètol «Crueltat repetida» i, a sota, un calendari amb el rètol «Des del 12 nov.».</media:description></media:content>
   </item>
   <item>
-    <title>El MIT publica un informe que demana replantejar l&#x27;ensenyament i l&#x27;avaluació davant la IA</title>
+    <title>Un informe del MIT, d&#x27;agost, demana replantejar l&#x27;ensenyament i l&#x27;avaluació davant la IA</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-02/informe-mit-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/informe-mit-ia.html</guid>
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>

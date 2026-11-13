@@ -18,13 +18,13 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-12-microsoft-classroom.svg" medium="image" type="image/svg+xml"><media:description>A panel labelled “Classroom” with four arrows leading to four boxes labelled “Tasks”, “Grades”, “Notebook” and “AI”.</media:description></media:content>
   </item>
   <item>
-    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, with the former open to everyone</title>
+    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, the latter only for verified organisations</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</guid>
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Institutions &amp; Industry</category>
-    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and available to all, and Mythos 5.2, only for verified organisations.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “Everyone”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
+    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and no prior verification, and Mythos 5.2, only for verified organisations.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “No verification”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
   </item>
   <item>
     <title>Anthropic bans sustained, gratuitous abuse of its models in its usage policy</title>
@@ -36,7 +36,7 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>A horizontal bar divided by a red line. On the left, labelled “Allowed”, three speech bubbles: two labelled “Frustration” and “Disagreement”. To the right of the line, a blue speech bubble labelled “Repeated cruelty” and, below it, a calendar labelled “From 12 Nov”.</media:description></media:content>
   </item>
   <item>
-    <title>MIT report calls for rethinking teaching and assessment in the age of AI</title>
+    <title>An MIT report, from August, calls for rethinking teaching and assessment in the age of AI</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</guid>
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>

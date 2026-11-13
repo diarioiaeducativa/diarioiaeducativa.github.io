@@ -18,7 +18,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-12-unreal-engine-5-9-ia.svg" medium="image" type="image/svg+xml"><media:description>Una consola rotulada «Agente» y un cubo rotulado «Editor 3D» unidos por una flecha de doble punta con el rótulo «MCP»; bajo el cubo, una línea quebrada roja y el rótulo «Experimental».</media:description></media:content>
   </item>
   <item>
-    <title>Una prueba con tres modelos sugiere que dibujar en SVG evita errores en las láminas de ciencias</title>
+    <title>Tres modelos dibujan en SVG una lámina de la célula animal sin errores de contenido</title>
     <link>https://diarioiaeducativa.github.io/2026-11-11/svg-celula-tres-modelos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-11/svg-celula-tres-modelos.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
@@ -45,7 +45,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-polvo-eres-corto.svg" medium="image" type="image/svg+xml"><media:description>Tres fotogramas seguidos de un corto stop-motion en los que un monstruito de polvo avanza de izquierda a derecha; rótulos: «Stop-motion», «Monstruitos de polvo» y «Generado con IA».</media:description></media:content>
   </item>
   <item>
-    <title>Una sola frase basta para que Fable 5.2 prepare una animación de la fotosíntesis para bachillerato</title>
+    <title>Un solo prompt basta para que Fable 5.2 prepare una animación de la fotosíntesis para bachillerato</title>
     <link>https://diarioiaeducativa.github.io/2026-11-10/fable-animacion-fotosintesis.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/fable-animacion-fotosintesis.html</guid>
     <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>

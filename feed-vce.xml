@@ -83,7 +83,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-11/eduvers-simulaciones.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Su autor, Juan José de Haro, va añadiendo simulaciones a su web y anuncia que enlazará laboratorios en 3D en las próximas semanas.</description>
+    <description>Su autor va añadiendo simulaciones a la web y anuncia que enlazará laboratorios en 3D en las próximas semanas.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Tres tarjetas bajo el rótulo «19 simulaciones»: la trayectoria parabólica de una bola, «Física»; un matraz, «Química»; y un cubo en 3D, «Laboratorio 3D».</media:description></media:content>
   </item>
   <item>
@@ -113,13 +113,13 @@
     <description>Anthropic da a los planes que incluyen Fable entre uno y tres reinicios del límite de uso, según la antigüedad de la suscripción, que pueden usarse hasta el 8 de marzo de 2027; Pro tiene uno, solo hasta el 16 de noviembre. El modelo es el de Fable 5.2.</description>
   </item>
   <item>
-    <title>Anthropic presenta Claude Fable 5.2 y Mythos 5.2, con el primero abierto a todo el público</title>
+    <title>Anthropic presenta Claude Fable 5.2 y Mythos 5.2, el segundo solo para organizaciones verificadas</title>
     <link>https://diarioiaeducativa.github.io/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/fable-mythos-5-2.html</guid>
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Instituciones y empresas</category>
-    <description>La empresa anuncia dos versiones de un mismo modelo: Fable 5.2, con salvaguardas y disponible para todos, y Mythos 5.2, solo para organizaciones verificadas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema de un tronco, «Claude 5.2», que se bifurca en dos ramas: «Fable 5.2», que lleva a un grupo de personas con el rótulo «Todo el público», y «Mythos 5.2», que lleva a una puerta cerrada con candado con el rótulo «Verificadas».</media:description></media:content>
+    <description>La empresa anuncia dos versiones de un mismo modelo: Fable 5.2, con salvaguardas y sin verificación previa, y Mythos 5.2, solo para organizaciones verificadas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema de un tronco, «Claude 5.2», que se bifurca en dos ramas: «Fable 5.2», que lleva a un grupo de personas con el rótulo «Sin verificación», y «Mythos 5.2», que lleva a una puerta cerrada con candado con el rótulo «Verificadas».</media:description></media:content>
   </item>
   <item>
     <title>Dos aplicaciones en catalán de David Cordones: un juego de letras y cifras y un aula de acogida</title>

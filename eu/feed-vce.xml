@@ -83,7 +83,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-11/eduvers-simulaciones.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Bere egileak, Juan José de Harok, simulazioak gehitzen ari da bere webgunera eta datozen asteetan 3Dko laborategiak lotuko dituela iragarri du.</description>
+    <description>Egilea simulazioak gehitzen ari da webgunera eta datozen asteetan 3Dko laborategiak lotuko dituela iragarri du.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>«19 simulazio» errotuluaren azpian hiru txartel: bola baten ibilbide parabolikoa, «Fisika»; matraze bat, «Kimika»; eta 3Dko kubo bat, «3D laborategia».</media:description></media:content>
   </item>
   <item>
@@ -113,13 +113,13 @@
     <description>Anthropicek Fable barne hartzen duten planei erabilera-mugaren bat eta hiru arteko berrezarpen ematen dizkie, harpidetzaren antzinatasunaren arabera, 2027ko martxoaren 8ra arte erabiltzeko; Prok bat du, azaroaren 16ra arte bakarrik. Eredua Fable 5.2 da.</description>
   </item>
   <item>
-    <title>Anthropicek Claude Fable 5.2 eta Mythos 5.2 aurkeztu ditu, lehenengoa jende guztiarentzat irekita</title>
+    <title>Anthropicek Claude Fable 5.2 eta Mythos 5.2 aurkeztu ditu, azken hori erakunde egiaztatuentzat soilik</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-09/fable-mythos-5-2.html</guid>
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Erakundeak eta enpresak</category>
-    <description>Enpresak eredu beraren bi bertsio iragarri ditu: Fable 5.2, babesneurriekin eta guztientzat eskuragarri, eta Mythos 5.2, erakunde egiaztatuentzat soilik.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Enborra baten eskema bat, «Claude 5.2», bi adarretan banatzen dena: «Fable 5.2», «Jende guztiarentzat» errotulua duen pertsona-talde batera daramana, eta «Mythos 5.2», «Egiaztatuak» errotulua duen ate itxi eta giltzarrapodun batera daramana.</media:description></media:content>
+    <description>Enpresak eredu beraren bi bertsio iragarri ditu: Fable 5.2, babesneurriekin eta aurretiazko egiaztapenik gabe, eta Mythos 5.2, erakunde egiaztatuentzat soilik.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Enborra baten eskema bat, «Claude 5.2», bi adarretan banatzen dena: «Fable 5.2», «Egiaztapenik gabe» errotulua duen pertsona-talde batera daramana, eta «Mythos 5.2», «Egiaztatuak» errotulua duen ate itxi eta giltzarrapodun batera daramana.</media:description></media:content>
   </item>
   <item>
     <title>David Cordonesen katalanezko bi aplikazio: letra eta zifra jokoa eta harrera-gela bat</title>

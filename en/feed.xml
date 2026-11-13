@@ -112,7 +112,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/breve-1.html</guid>
     <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
     <category>In brief</category>
-    <description>Anthropic advises that, to keep Fable 5.2 responsible for an action, you should write “ask for approval before deleting files” instead of “never delete files”, and reply with the specific instruction rather than a simple “go ahead”. It follows the guide the diary reported on.</description>
+    <description>Anthropic advises that, to keep Fable 5.2 responsible for an action, you should write “ask for approval before deleting files” instead of “never delete files”, and reply with the specific instruction rather than a simple “go ahead”. It follows the guide the paper reported on.</description>
   </item>
   <item>
     <title>Claude Whiteboards and Sheets, in beta, and Claude Data, which replaces Dashboards, were announced on 10…</title>
@@ -131,7 +131,7 @@
     <description>The author of the school music bell has published their project on GitHub: an installation guide, a manual for the staff and the code, with an AGPL licence for the code and CC BY-SA 4.0 for the documentation.</description>
   </item>
   <item>
-    <title>A test with three models suggests that drawing in SVG avoids errors in science diagrams</title>
+    <title>Three models draw an animal cell diagram in SVG with no content errors</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-11/svg-celula-tres-modelos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/svg-celula-tres-modelos.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
@@ -172,7 +172,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/eduvers-simulaciones.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Its author, Juan José de Haro, is adding simulations to his website and announces that he will link 3D labs in the coming weeks.</description>
+    <description>Its author is adding simulations to the website and announces that he will link 3D labs in the coming weeks.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Three cards under the label “19 simulations”: the parabolic trajectory of a ball, “Physics”; a flask, “Chemistry”; and a 3D cube, “3D lab”.</media:description></media:content>
   </item>
   <item>
@@ -185,7 +185,7 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-gpt-5-1-llegada-retirada.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, labelled “Nov. 2025”, a chat bubble with lines of text and the label “GPT-5.1”. On the right, labelled “Today”, the same bubble but dashed and in blue, with the label “GPT-5.1” struck through and “Retired” below.</media:description></media:content>
   </item>
   <item>
-    <title>A single sentence is enough for Fable 5.2 to produce a photosynthesis animation for sixth-form students</title>
+    <title>A single prompt is enough for Fable 5.2 to produce a photosynthesis animation for sixth-form students</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-10/fable-animacion-fotosintesis.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-10/fable-animacion-fotosintesis.html</guid>
     <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
@@ -254,13 +254,13 @@
     <description>Anthropic is giving plans that include Fable between one and three usage-limit resets, depending on the length of the subscription, which can be used until 8 March 2027; Pro gets one, only until 16 November. The model is Fable 5.2.</description>
   </item>
   <item>
-    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, with the former open to everyone</title>
+    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, the latter only for verified organisations</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</guid>
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Institutions &amp; Industry</category>
-    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and available to all, and Mythos 5.2, only for verified organisations.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “Everyone”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
+    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and no prior verification, and Mythos 5.2, only for verified organisations.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “No verification”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
   </item>
   <item>
     <title>A group thread uses coding agents to control home automation</title>
@@ -617,7 +617,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/google-ia-cuentas-escolares.html</guid>
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Debates</category>
-    <description>Google has announced that Gemini and AI-powered search will be switched off in primary and secondary school student accounts until administrators turn them on. In the groups, the news sparked a discussion about who decides how AI is used in a school.</description>
+    <description>Google has announced that Gemini and Google Search will be switched off in primary and secondary school student accounts until administrators turn them on. In the groups, the news sparked a discussion about who decides how AI is used in a school.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>On the left, an all-or-nothing master switch crossed out with a red X; on the right, four individual switches (Gemini, Notebook, Classroom and Search), two switched on in blue and two off.</media:description></media:content>
   </item>
   <item>
@@ -691,7 +691,7 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Diagram in which an “Idea” splits into two paths: one ends in a crossed-out opaque block, the “Generated image”, and the other in an infographic of shapes and icons, “HTML and SVG”, from which two advantages branch off: “Screen reader” and “Light and dark”.</media:description></media:content>
   </item>
   <item>
-    <title>MIT report calls for rethinking teaching and assessment in the age of AI</title>
+    <title>An MIT report, from August, calls for rethinking teaching and assessment in the age of AI</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</guid>
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
@@ -718,7 +718,7 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>A terminal window, the agent, has an arrow towards a working folder inside a computer, while its path to the students’ data folder, marked with a padlock, is cut off by a red cross.</media:description></media:content>
   </item>
   <item>
-    <title>A report for UNESCO proposes replacing “at what age?” with “for what purpose and on what evidence?” when using AI in the classroom</title>
+    <title>A report for UNESCO argues that there is no single right age for using AI in the classroom</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</guid>
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
@@ -751,7 +751,7 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Library</category>
     <description>The Department of Education’s guide puts technology at the service of learning, with decision tables, progression by cycle, digital well-being and criteria for selecting resources.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>A funnel with “Seven criteria” for decision-making sends an arrow towards a staircase of five steps, “Growing autonomy” for students; only the top step is highlighted: “AI in year 4” of ESO.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>A funnel with “Nine criteria” for decision-making sends an arrow towards a staircase of five steps, “Growing autonomy” for students; only the top step is highlighted: “AI in year 4” of ESO.</media:description></media:content>
   </item>
   <item>
     <title>A website gathers motion-graphics videos with their prompts and skills for agents</title>

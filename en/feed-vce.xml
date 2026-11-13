@@ -58,7 +58,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/breve-1.html</guid>
     <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
     <category>In brief</category>
-    <description>Anthropic advises that, to keep Fable 5.2 responsible for an action, you should write “ask for approval before deleting files” instead of “never delete files”, and reply with the specific instruction rather than a simple “go ahead”. It follows the guide the diary reported on.</description>
+    <description>Anthropic advises that, to keep Fable 5.2 responsible for an action, you should write “ask for approval before deleting files” instead of “never delete files”, and reply with the specific instruction rather than a simple “go ahead”. It follows the guide the paper reported on.</description>
   </item>
   <item>
     <title>The author of the school music bell has published their project on GitHub: an installation guide, a manual…</title>
@@ -83,7 +83,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-11/eduvers-simulaciones.html</guid>
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Its author, Juan José de Haro, is adding simulations to his website and announces that he will link 3D labs in the coming weeks.</description>
+    <description>Its author is adding simulations to the website and announces that he will link 3D labs in the coming weeks.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Three cards under the label “19 simulations”: the parabolic trajectory of a ball, “Physics”; a flask, “Chemistry”; and a 3D cube, “3D lab”.</media:description></media:content>
   </item>
   <item>
@@ -113,13 +113,13 @@
     <description>Anthropic is giving plans that include Fable between one and three usage-limit resets, depending on the length of the subscription, which can be used until 8 March 2027; Pro gets one, only until 16 November. The model is Fable 5.2.</description>
   </item>
   <item>
-    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, with the former open to everyone</title>
+    <title>Anthropic launches Claude Fable 5.2 and Mythos 5.2, the latter only for verified organisations</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/fable-mythos-5-2.html</guid>
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Institutions &amp; Industry</category>
-    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and available to all, and Mythos 5.2, only for verified organisations.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “Everyone”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
+    <description>The company announces two versions of the same model: Fable 5.2, with safeguards and no prior verification, and Mythos 5.2, only for verified organisations.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>A diagram of a trunk, “Claude 5.2”, that forks into two branches: “Fable 5.2”, which leads to a group of people labelled “No verification”, and “Mythos 5.2”, which leads to a padlocked closed door labelled “Verified”.</media:description></media:content>
   </item>
   <item>
     <title>Two Catalan-language apps by David Cordones: a letters and numbers game and a reception classroom</title>
