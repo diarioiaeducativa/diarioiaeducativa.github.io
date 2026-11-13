@@ -320,8 +320,11 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
       const alto = Math.min(tope, Math.max(tx.offsetHeight, MINIMO * rem, ancho.matches ? alto_columna() : 0));
       detalle.style.gridTemplateColumns = `${Math.round(alto / r)}px minmax(0, 1fr)`;
     }
+    // Al ensanchar la portada, los titulares se estrechan y pueden acabar más largos que ella: entonces, por debajo
+    if (tx.offsetHeight > img.getBoundingClientRect().height + 24) { detalle.style.gridTemplateColumns = ''; detalle.classList.add('envuelve'); }
   }
   let espera; addEventListener('resize', () => { clearTimeout(espera); espera = setTimeout(ajusta, 150); });
+  if (document.fonts) document.fonts.ready.then(ajusta);   // con la letra del diario, los titulares cambian de alto
   function ver(m, guardar) {
     if (!meses.includes(m)) m = meses[meses.length - 1];
     tablas.forEach(t => { t.hidden = t.dataset.mes !== m; });
