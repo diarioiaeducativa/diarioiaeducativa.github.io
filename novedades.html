@@ -49,8 +49,8 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="apple-mobile-web-app-title" content="Diario IA">
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="fuentes.css?v=e8b00d22">
-<link rel="stylesheet" href="comun.css?v=6ccad91c">
-<link rel="stylesheet" href="diario.css?v=d6798b87">
+<link rel="stylesheet" href="comun.css?v=70538532">
+<link rel="stylesheet" href="diario.css?v=f3026af5">
 </head>
 <body class="pag-seccion">
 <header class="cabecera">
@@ -279,7 +279,16 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     });
   });
   // Compartir: el menú del dispositivo; si no lo hay, se copia el enlace
-  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton)').forEach(function(b){
+  // Imprimir (ADR 0054): el diálogo del navegador, con la maqueta de papel; antes, todas las imágenes cargadas
+  function imprimir(){
+    var im=[].slice.call(document.querySelectorAll('img[loading="lazy"]'));
+    im.forEach(function(i){i.loading='eager';});
+    Promise.all(im.map(function(i){return i.complete?0:new Promise(function(r){i.onload=i.onerror=r;});})).then(function(){print();});
+  }
+  document.querySelectorAll('button.imprimir').forEach(function(b){b.addEventListener('click',imprimir);});
+  if(new URLSearchParams(location.search).get('imprimir')==='1'&&document.body.classList.contains('pag-papel'))
+    addEventListener('load',function(){(document.fonts?document.fonts.ready:Promise.resolve()).then(imprimir);});
+  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir)').forEach(function(b){
     b.addEventListener('click',function(){
       var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}

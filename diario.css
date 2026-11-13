@@ -95,7 +95,8 @@
 .lectura.fecha-pieza { display: block; font-size: 0.9rem; margin: 0.4rem 0 0; }
 .antetitulo { margin: 0; font-style: italic; color: var(--tinta-2); }
 .antetitulo a { color: inherit; text-decoration: underline; text-decoration-color: var(--sec, var(--filete)); text-underline-offset: 0.15em; }
-.titular { margin: 0.15rem 0 0.5rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.01em; text-wrap: balance; hyphens: manual; }
+.titular { margin: 0.15rem 0 0.5rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.01em; text-wrap: balance; hyphens: manual; overflow-wrap: break-word; }
+/* Una palabra más ancha que la pantalla del móvil («conservatorios» en un titular grande) se parte: si no, la página se salía por la derecha */
 .titular a { color: var(--tinta); text-decoration: none; }
 .titular a:hover { text-decoration: underline; text-decoration-thickness: 2px; }
 .entradilla { margin: 0; color: var(--tinta); }
@@ -910,4 +911,80 @@ p.con-nb { margin: 0 0 0.3rem; }
   html:not(.una-columna) .redaccion .red-proceso h2 { margin-top: 0; }
   html:not(.una-columna) .redaccion .red-bloque > h2:only-of-type { column-span: all; margin-bottom: 0.9rem; }
   html:not(.una-columna) .redaccion .red-bloque .ilu.comunidades { float: none; width: auto; margin: 0.4rem 0 1rem; break-inside: avoid; }
+}
+
+/* Edición en papel (ADR 0054): cada pieza se imprime con su botón, y cada número entero desde su página
+   «Edición en papel». No se guarda ningún PDF: lo hace el navegador. Papel blanco aunque la pantalla esté en
+   tema oscuro (comun.css), sin navegación ni botones, sin piezas partidas y con la dirección de cada enlace. */
+.solo-papel { display: none !important; }   /* lo que solo va en papel no sale nunca en pantalla */
+.papel-barra { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.2rem; margin: 0 0 1.4rem; padding: 0.8rem 1rem; border: 1px solid var(--filete); border-radius: 8px; background: var(--papel-2); }
+.papel-barra p { flex: 1 1 100%; margin: 0; color: var(--tinta-2); font-size: 0.92rem; }
+.papel-barra .imprimir { margin-left: auto; }
+.papel-sumario { margin: 0 0 2rem; padding: 0.9rem 1.1rem; border: 1px solid var(--filete); border-radius: 8px; }
+.papel-sumario h2 { margin: 0 0 0.4rem; font-size: 1.15rem; }
+.papel-sumario > ul { margin: 0; padding: 0; list-style: none; columns: 2 18rem; column-gap: 2rem; }
+.papel-sumario > ul > li { break-inside: avoid; margin-bottom: 0.5rem; }
+.papel-sumario .seccion { display: block; margin: 0; }
+.papel-sumario ul ul { margin: 0; padding: 0; list-style: none; }
+.papel-sumario ul ul a { color: var(--tinta); text-decoration: none; }
+.papel > article + article { margin-top: 2.6rem; padding-top: 1.6rem; border-top: 3px double var(--tinta); }
+.papel > .breves { margin-top: 2rem; }
+/* En la edición en papel, la tira en fila también en pantalla, como saldrá impresa; en el móvil, en vertical */
+@media (min-width: 40.01rem) { .papel > .vineta .tira { grid-template-columns: repeat(3, minmax(0, 1fr)); max-width: none; } }
+.papel-qr { align-items: center; gap: 4mm; font-size: 0.85rem; color: var(--tinta-2); }
+.papel-qr .qr { flex: none; width: 22mm; height: 22mm; }
+.papel-qr p { margin: 0; word-break: break-all; }
+.cal-fecha { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 0.9rem; }
+.cal-fecha .cal-papel { margin-left: auto; font-size: 0.85rem; font-weight: 600; color: var(--azul); text-decoration: none; white-space: nowrap; }
+.cal-papel:hover { text-decoration: underline; }
+.cal-papel .ico { margin-right: 0.25rem; }
+@media print {
+  @page { size: A4; margin: 14mm 13mm 15mm; }
+  html, body { background: #fff !important; }
+  body { font-size: 10pt; }
+  .secciones, .controles, .orejas, .lema, .acciones, .mas, .comentarios, .volver, .pie, .columnas-boton, .papel-barra, .breves button, .breve button,
+  .seccion-dcha .columnas-boton, .serie-nav, .llevar-menu { display: none !important; }
+  .solo-papel { display: flex !important; }
+  .cabecera, .articulo, main { width: auto !important; max-width: none !important; margin: 0 !important; padding: 0 !important; }
+  .cabecera { padding-bottom: 2mm !important; border-bottom: 1.5pt solid #000; margin-bottom: 4mm !important; }
+  .cabecera-fila { display: flex !important; justify-content: space-between; align-items: baseline; font-size: 8.5pt; }
+  .numero::after { display: none !important; }
+  .numero { padding: 0 !important; }
+  .mancheta { margin: 1mm 0 0; font-size: 26pt; }
+  .pag-papel .mancheta { font-size: 40pt; }
+  a { color: inherit !important; text-decoration: none !important; }
+  .articulo .titular { font-size: 21pt; line-height: 1.12; margin: 1mm 0 2mm; }
+  .articulo .entradilla { font-size: 11.5pt; line-height: 1.35; }
+  .articulo .cuerpo { columns: 2; column-gap: 7mm; font-size: 9.5pt; line-height: 1.38; }
+  .articulo .cuerpo p { orphans: 3; widows: 3; }
+  h1, h2, h3, .ladillo, .antetitulo { break-after: avoid; }
+  figure, .ilu, aside, table, .claves, .ficha-doc, .cabeza-pieza, .vineta, .papel-sumario > ul > li, .comprobado li, .breve { break-inside: avoid; }
+  .cabeza-pieza { display: block !important; }
+  .cabeza-pieza .ilu { max-width: 110mm; margin: 2mm auto 3mm; }
+  .cabeza-pieza .ilu :is(svg, img) { display: block; width: auto; max-width: 100%; max-height: 52mm; margin: 0 auto; }
+  .ficha-doc, .claves { font-size: 8.5pt; }
+  .seccion, .antetitulo, .cabeza-texto { break-after: avoid; }
+  .ilu, .ilu.captura img { box-shadow: none !important; }
+  .comprobado a::after, .origen a::after, .doc-leer a::after, .breves a::after, .breve a::after { content: " · " attr(href); font-size: 7.5pt; word-break: break-all; color: #444; }
+  .papel-sumario { margin-bottom: 5mm; padding: 3mm 4mm; font-size: 8.5pt; }
+  .papel-sumario > ul { columns: 3; column-gap: 6mm; }
+  .papel > article + article { margin-top: 6mm; padding-top: 4mm; }
+  /* En papel, la conversación, las fuentes y el QR, al final del texto y dentro de sus columnas (cola-papel) */
+  .solo-papel.cola-papel { display: block !important; margin-top: 3mm; padding-top: 2mm; border-top: 0.75pt solid #999; font-size: 8pt; line-height: 1.3; }
+  article > .origen, article > .comprobado { display: none !important; }
+  .cola-papel .origen { margin: 0 0 2mm; }
+  .cola-papel .comprobado { margin: 0 0 2mm; padding: 0; border: 0; font-size: 8pt; }
+  .cola-papel .comprobado::before { display: none; }
+  .cola-papel .comprobado h2 { margin: 0 0 1mm; font-size: 8.5pt; }
+  .cola-papel .comprobado ul { margin: 0; padding-left: 4mm; columns: auto !important; }
+  /* El QR, arriba a la derecha de cada pieza, junto al título */
+  .solo-papel.papel-qr { display: block !important; float: right; width: 34mm; margin: 0 0 2mm 5mm; font-size: 6.5pt; line-height: 1.25; text-align: center; }
+  .papel-qr .qr { display: block; width: 20mm; height: 20mm; margin: 0 auto 1mm; }
+  /* Sin capitular en papel: al final de una página se quedaba sola, separada de su párrafo */
+  .cuerpo p.capitular::first-letter { float: none !important; font-size: inherit !important; line-height: inherit !important;
+    margin: 0 !important; padding: 0 !important; font-weight: inherit !important; color: inherit !important; }
+  .papel > article { break-before: auto; }
+  .vineta { margin-top: 6mm; }
+  /* En papel, la tira en fila, como en la portada: la página no llega al ancho en que la pantalla la pone así */
+  .vineta .tira, .articulo > .vineta .tira { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; max-width: none !important; gap: 3mm; }
 }

@@ -122,13 +122,13 @@ img, svg { max-width: 100%; }
 /* Conmutador de tema, como el de Sirena */
 /* Sin borde visible, en el gris de la fecha: la cabecera es de periódico (04-11-2026). La zona que se
    pulsa sigue siendo de 2,5 rem y al pasar por encima se marca. */
-.tema, .lupa, .ico-video {
+.tema, .lupa, .ico-video, .ico-papel {
   appearance: none; border: 1px solid transparent; background: transparent; color: var(--tinta-2);
   width: 2.5rem; height: 2.5rem; border-radius: 50%; display: inline-grid; place-items: center; cursor: pointer;
 }
-.tema svg, .lupa svg, .ico-video svg { width: 1.2rem; height: 1.2rem; }
-.lupa:hover, .tema:hover, .ico-video:hover { color: var(--tinta); background: var(--papel-2); }
-.ico-video { text-decoration: none; }
+.tema svg, .lupa svg, .ico-video svg, .ico-papel svg { width: 1.2rem; height: 1.2rem; }
+.lupa:hover, .tema:hover, .ico-video:hover, .ico-papel:hover { color: var(--tinta); background: var(--papel-2); }
+.ico-video, .ico-papel { text-decoration: none; }
 /* La lupa con su rótulo, para que se vea que hay buscador (04-11-2026); en el móvil, solo la lupa */
 .lupa { text-decoration: none; }
 .lupa svg { flex-shrink: 0; }
@@ -148,7 +148,7 @@ img, svg { max-width: 100%; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 @media print {
   :root, :root[data-theme="dark"] { --papel: #fff; --papel-2: #fff; --tinta: #000; --tinta-2: #333; --filete: #999; --azul: #000; --rojo: #000; }
-  .tema, .lupa, .ico-video, .idiomas, .dia-ant, .dia-sig, .pie-unete { display: none !important; }
+  .tema, .lupa, .ico-video, .ico-papel, .idiomas, .dia-ant, .dia-sig, .pie-unete { display: none !important; }
 }
 
 /* Viñeta: Tiza y Algoritmo. La tiza es blanca en los dos temas; el cursor, azul. */
@@ -279,7 +279,7 @@ img, svg { max-width: 100%; }
 .vineta .rubor { fill: none; stroke: var(--rojo); stroke-width: 1.8; stroke-linecap: round; opacity: 0.75; }
 /* Con la lupa, los tres controles de la cabecera no caben en 360 px con la separación normal */
 @media (max-width: 26rem) {
-  .controles { gap: 0.25rem; } .tema, .lupa, .ico-video { width: 2.2rem; height: 2.3rem; } .idioma-boton { height: 2.3rem; padding: 0 0.3rem; gap: 0.2rem; }
+  .controles { gap: 0.25rem; } .tema, .lupa, .ico-video, .ico-papel { width: 2.2rem; height: 2.3rem; } .idioma-boton { height: 2.3rem; padding: 0 0.3rem; gap: 0.2rem; }
 }
 /* Con el icono de vídeos, en los móviles más estrechos (320 px) el «Año I» deja sitio a los controles */
 @media (max-width: 21.5rem) { .edicion-num .anyo { display: none; } }
