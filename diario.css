@@ -595,20 +595,20 @@ body.con-visor { overflow: hidden; }
 }
 
 /* Tabla de consulta dentro de un reportaje (generar.tabla); en el móvil, una ficha por fila */
-.reportaje .tabla { margin: 1.6rem 0; }
-.reportaje .tabla table { width: 100%; border-collapse: collapse; font-size: 0.95rem; line-height: 1.45; }
-.reportaje .tabla caption { text-align: left; font-weight: 700; padding-bottom: 0.5rem; }
-.reportaje .tabla thead th { text-align: left; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--tinta-2); border-bottom: 2px solid var(--tinta); padding: 0.35rem 0.5rem; }
-.reportaje .tabla tbody th, .reportaje .tabla td { text-align: left; vertical-align: top; border-bottom: 1px solid var(--filete); padding: 0.5rem; }
-.reportaje .tabla tbody th { font-weight: 700; width: 9.5rem; }
-.reportaje .tabla th { hyphens: manual; -webkit-hyphens: manual; }
-.reportaje .tabla-nota { margin: 1rem 0 0; padding: 0.9rem 1.1rem; background: var(--papel-2); border-left: 3px solid var(--azul); line-height: 1.55; }
+.articulo .tabla { margin: 1.6rem 0; }
+.articulo .tabla table { width: 100%; border-collapse: collapse; font-size: 0.95rem; line-height: 1.45; }
+.articulo .tabla caption { text-align: left; font-weight: 700; padding-bottom: 0.5rem; }
+.articulo .tabla thead th { text-align: left; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--tinta-2); border-bottom: 2px solid var(--tinta); padding: 0.35rem 0.5rem; }
+.articulo .tabla tbody th, .articulo .tabla td { text-align: left; vertical-align: top; border-bottom: 1px solid var(--filete); padding: 0.5rem; }
+.articulo .tabla tbody th { font-weight: 700; width: 9.5rem; }
+.articulo .tabla th { hyphens: manual; -webkit-hyphens: manual; }
+.articulo .tabla-nota { margin: 1rem 0 0; padding: 0.9rem 1.1rem; background: var(--papel-2); border-left: 3px solid var(--azul); line-height: 1.55; }
 @media (max-width: 40rem) {
-  .reportaje .tabla thead { display: none; }
-  .reportaje .tabla tr { display: block; padding: 0.6rem 0; border-bottom: 1px solid var(--filete); }
-  .reportaje .tabla tbody th, .reportaje .tabla td { display: block; width: auto; border: 0; padding: 0.15rem 0; }
-  .reportaje .tabla td.vacio { display: none; }
-  .reportaje .tabla td[data-col]::before { content: attr(data-col) ": "; font-weight: 600; color: var(--tinta-2); }
+  .articulo .tabla thead { display: none; }
+  .articulo .tabla tr { display: block; padding: 0.6rem 0; border-bottom: 1px solid var(--filete); }
+  .articulo .tabla tbody th, .articulo .tabla td { display: block; width: auto; border: 0; padding: 0.15rem 0; }
+  .articulo .tabla td.vacio { display: none; }
+  .articulo .tabla td[data-col]::before { content: attr(data-col) ": "; font-weight: 600; color: var(--tinta-2); }
 }
 
 /* Comentarios (ADR 0030): al pie de la pieza, con giscus */
@@ -886,8 +886,9 @@ p.con-nb { margin: 0 0 0.3rem; }
   html:not(.una-columna) .en-columnas .recurso-cuerpo .ilu.captura { margin: 0.3rem 0 1rem; break-inside: avoid; }
   html:not(.una-columna) .en-columnas .recurso-texto { display: contents; }
   /* Las fuentes comprobadas, en columnas; la viñeta, en fila, como en la portada; «Más en…», en dos */
-  html:not(.una-columna) .en-columnas .comprobado ul { columns: 3 19rem; column-gap: 2rem; }
-  html:not(.una-columna) .en-columnas .comprobado li { break-inside: avoid; }
+  /* En rejilla y no con `columns` (ADR 0059): con una o dos fuentes, Firefox dejaba vacía la primera columna y
+     Safari partía el enlace entre dos */
+  html:not(.una-columna) .en-columnas .comprobado ul { display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); column-gap: 2rem; }
   html:not(.una-columna) .en-columnas > .vineta .tira { grid-template-columns: repeat(3, minmax(0, 1fr)); max-width: none; }
   html:not(.una-columna) .en-columnas .mas ul { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 2.6rem; }
   html:not(.una-columna) .en-columnas .mas li:nth-child(2) { border-top: 0; padding-top: 0; }
@@ -982,7 +983,17 @@ p.con-nb { margin: 0 0 0.3rem; }
   .cola-papel .comprobado { margin: 0 0 2mm; padding: 0; border: 0; font-size: 8pt; }
   .cola-papel .comprobado::before { display: none; }
   .cola-papel .comprobado h2 { margin: 0 0 1mm; font-size: 8.5pt; }
-  .cola-papel .comprobado ul { margin: 0; padding-left: 4mm; columns: auto !important; }
+  .cola-papel .comprobado ul { display: block !important; margin: 0; padding-left: 4mm; columns: auto !important; }
+  /* La tabla de un reportaje corta las columnas y ocupa todo el ancho (ADR 0059): dentro de una columna se
+     montaba sobre el texto o partía las palabras por sílabas. Se parte entre páginas por filas enteras */
+  .articulo .cuerpo .tabla { column-span: all; break-inside: auto; margin: 3mm 0; }
+  .articulo .tabla table { break-inside: auto; font-size: 8pt; line-height: 1.3; }
+  .articulo .tabla thead { display: table-header-group; }
+  .articulo .tabla tr, .articulo .tabla-nota { break-inside: avoid; }
+  .articulo .tabla tbody th { width: 30mm; }
+  .articulo .tabla th, .articulo .tabla td { padding: 1mm 1.5mm; }
+  .articulo .tabla-nota { font-size: 8pt; padding: 2mm 3mm; }
+  .saltar { display: none !important; }
   /* El QR, arriba a la derecha de cada pieza, junto al título */
   .solo-papel.papel-qr { display: block !important; float: right; width: 34mm; margin: 0 0 2mm 5mm; font-size: 6.5pt; line-height: 1.25; text-align: center; }
   .papel-qr .qr { display: block; width: 20mm; height: 20mm; margin: 0 auto 1mm; }

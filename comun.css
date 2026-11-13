@@ -69,6 +69,10 @@ a:hover { text-decoration-thickness: 2px; }
 :focus-visible { outline: 3px solid var(--azul); outline-offset: 3px; border-radius: 2px; }
 img, svg { max-width: 100%; }
 .solo-lector { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+/* «Saltar al contenido» (ADR 0059): lo primero que encuentra el teclado; solo se ve al recibir el foco */
+.saltar { position: absolute; left: 0.5rem; top: -5rem; z-index: 100; padding: 0.5rem 0.9rem; border: 2px solid var(--azul); border-radius: 6px; background: var(--papel); color: var(--azul); font-weight: 600; text-decoration: none; }
+.saltar:focus { top: 0.5rem; }
+main:focus { outline: none; }
 
 /* Ilustraciones: dibujo a tinta, se adaptan al tema por sus clases */
 .ilu svg { display: block; width: 100%; height: auto; }

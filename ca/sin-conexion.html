@@ -40,8 +40,8 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
 <meta name="apple-mobile-web-app-title" content="Diari IA">
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="/ca/../fuentes.css?v=e8b00d22">
-<link rel="stylesheet" href="/ca/../comun.css?v=e47a6e43">
-<link rel="stylesheet" href="/ca/../diario.css?v=e9c44c22">
+<link rel="stylesheet" href="/ca/../comun.css?v=205e11c3">
+<link rel="stylesheet" href="/ca/../diario.css?v=5cfdb64f">
 </head>
 <body class="pag-que-es">
 <header class="cabecera">
@@ -164,6 +164,12 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
   }
   // Copiar sin pedir nada a mano: el portapapeles del navegador o, si no lo deja (sin HTTPS), un campo
   // oculto. La pieza entera se copia con formato, para el editor de un blog, y como código, para un bloque HTML.
+  // Lo copiado se dice también a quien no ve el botón: una región viva, fuera de la vista (ADR 0059)
+  function anuncia(t){
+    var v=document.getElementById('aviso-lector');
+    if(!v){v=document.createElement('p'); v.id='aviso-lector'; v.className='solo-lector'; v.setAttribute('role','status'); document.body.appendChild(v);}
+    v.textContent=''; setTimeout(function(){v.textContent=t;},60);
+  }
   function copiar(texto, html){
     if(navigator.clipboard&&window.isSecureContext){
       if(html&&window.ClipboardItem&&navigator.clipboard.write)
@@ -182,7 +188,7 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
       if(b.dataset.plantilla){html=document.getElementById(b.dataset.plantilla).innerHTML.trim(); texto=html;}
       if(b.dataset.desde) texto=document.getElementById(b.dataset.desde).value;
       copiar(texto,html).then(function(){
-        r.textContent=b.dataset.hecho; b.classList.add('hecho');
+        r.textContent=b.dataset.hecho; b.classList.add('hecho'); anuncia(b.dataset.hecho);
         setTimeout(function(){r.textContent=antes; b.classList.remove('hecho'); if(b.closest('.llevar-menu')) cerrarLlevar();},1600);
       },function(){});
     });
@@ -202,7 +208,7 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
       var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}
       if(navigator.clipboard){navigator.clipboard.writeText(url).then(function(){
-        var antes=r.textContent; r.textContent=b.dataset.copiado; b.classList.add('hecho'); b.disabled=true;
+        var antes=r.textContent; r.textContent=b.dataset.copiado; b.classList.add('hecho'); b.disabled=true; anuncia(b.dataset.copiado);
         setTimeout(function(){r.textContent=antes;b.classList.remove('hecho');b.disabled=false;},1800);
       });}
     });
