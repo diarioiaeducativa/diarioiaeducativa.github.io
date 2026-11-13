@@ -51,7 +51,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../../comun.css?v=205e11c3">
-<link rel="stylesheet" href="../../diario.css?v=5cfdb64f">
+<link rel="stylesheet" href="../../diario.css?v=fdf93e38">
 </head>
 <body class="pag-articulo">
 <a class="saltar" href="#contenido">Joan edukira</a>
@@ -101,15 +101,34 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <aside class="mas sec-biblioteca" aria-labelledby="t-mas"><h2 id="t-mas">Gehiago: Liburutegia</h2><ul><li><span class="fecha-pieza">azaroaren 13a</span><a href="../2026-11-12/unesco-ia-decides.html">UNESCOk bost unitate proposatzen ditu 13 eta 15 urte arteko ikasleek AAren erantzunak zalantzan jar ditzaten eta beraiek erabaki dezaten</a></li><li><span class="fecha-pieza">azaroaren 13a</span><a href="../2026-11-12/ofs-ia-educacion-superior.html">Ingalaterrako unibertsitate-erregulatzaileak argitu du AAren zein praktikak datozen bat bere kalitate-baldintzekin, eta oinarri duen azterlana argitaratu du</a></li><li><span class="fecha-pieza">azaroaren 4a</span><a href="../2026-11-03/mit-comite-ia.html">MITeko batzorde batek helburuak, ebaluazioa eta presentziazko komunitatea birdiseinatzea eskatzen du, AAk idatzizko ia edozein lan ebazten duen honetan</a></li></ul></aside>
   <section class="comentarios" data-pagefind-ignore aria-labelledby="t-comentarios">
     <h2 id="t-comentarios">Iruzkinak</h2>
+    <ol class="comentarios-lista" hidden></ol>
     <p class="comentarios-aviso">Iruzkinak idazteko, <a href="https://github.com/signup" target="_blank" rel="noopener">doako GitHub kontu bat</a> behar da. Iruzkinak publikoak dira eta GitHub-en gordetzen dira.</p>
-    <p class="comentarios-abrir"><button type="button" class="compartir comentarios-ver"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></svg><span>Ikusi iruzkinak</span></button></p>
+    <p class="comentarios-abrir"><button type="button" class="compartir comentarios-ver"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></svg><span>Iruzkindu</span></button></p>
     <div class="comentarios-caja" hidden></div>
     <script>
     (function(){
-      var raiz=document.documentElement, caja=document.currentScript.previousElementSibling, abrir=caja.previousElementSibling;
+      var raiz=document.documentElement, caja=document.currentScript.previousElementSibling, abrir=caja.previousElementSibling,
+          lista=caja.parentNode.querySelector('.comentarios-lista'), T={"borrado": "Iruzkina ezabatu da", "mes": ["urtarrilaren {d}a", "otsailaren {d}a", "martxoaren {d}a", "apirilaren {d}a", "maiatzaren {d}a", "ekainaren {d}a", "uztailaren {d}a", "abuztuaren {d}a", "irailaren {d}a", "urriaren {d}a", "azaroaren {d}a", "abenduaren {d}a"], "mes_anyo": ["{a}ko urtarrilaren {d}a", "{a}ko otsailaren {d}a", "{a}ko martxoaren {d}a", "{a}ko apirilaren {d}a", "{a}ko maiatzaren {d}a", "{a}ko ekainaren {d}a", "{a}ko uztailaren {d}a", "{a}ko abuztuaren {d}a", "{a}ko irailaren {d}a", "{a}ko urriaren {d}a", "{a}ko azaroaren {d}a", "{a}ko abenduaren {d}a"]};
       function tema(){var t=raiz.dataset.theme; return (t? t==='dark' : matchMedia('(prefers-color-scheme: dark)').matches)?'transparent_dark':'light';}
+      function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+      function fecha(iso){
+        var d=new Date(iso), a=d.getFullYear(), p=(a===new Date().getFullYear()? T.mes : T.mes_anyo)[d.getMonth()];
+        return p.replace('{d}',d.getDate()).replace('{a}',a)+', '+('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2);
+      }
+      function uno(c){
+        var autor=c.perfil? '<a href="'+esc(c.perfil)+'" target="_blank" rel="noopener nofollow">'+esc(c.autor)+'</a>' : esc(c.autor);
+        var h='<li class="comentario'+(c.borrado?' borrado':'')+'"><p class="comentario-quien"><span class="comentario-autor">'+autor+'</span> · <time datetime="'+esc(c.fecha)+'">'+esc(fecha(c.fecha))+'</time></p>'+
+              '<div class="comentario-texto">'+(c.borrado? '<p>'+esc(T.borrado)+'</p>' : c.html)+'</div>';
+        if(c.respuestas&&c.respuestas.length) h+='<ol class="comentario-respuestas">'+c.respuestas.map(uno).join('')+'</ol>';
+        return h+'</li>';
+      }
+      // Sin copia (aún nadie ha comentado), un 404 y nada más: solo queda el botón
+      fetch('/comentarios/2026-11-02/cat-orientacions-ia.json',{cache:'no-cache'}).then(function(r){return r.ok? r.json() : null;}).then(function(d){
+        if(!d||!d.comentarios||!d.comentarios.length||!caja.hidden) return;
+        lista.innerHTML=d.comentarios.map(uno).join(''); lista.hidden=false;
+      }).catch(function(){});
       abrir.querySelector('button').addEventListener('click',function(){
-        abrir.hidden=true; caja.hidden=false;
+        abrir.hidden=true; lista.hidden=true; caja.hidden=false;
         var s=document.createElement('script'); s.src='https://giscus.app/client.js'; s.async=true; s.crossOrigin='anonymous';
         s.setAttribute("data-repo","diarioiaeducativa/diarioiaeducativa.github.io");s.setAttribute("data-repo-id","R_kgDOVfWo0w");s.setAttribute("data-category","Comentarios");s.setAttribute("data-category-id","DIC_kwDOVfWo084DKlp3");s.setAttribute("data-mapping","specific");s.setAttribute("data-term","2026-11-02/cat-orientacions-ia");s.setAttribute("data-strict","1");s.setAttribute("data-reactions-enabled","0");s.setAttribute("data-emit-metadata","0");s.setAttribute("data-input-position","top");s.setAttribute("data-lang","eu");s.setAttribute("data-loading","lazy");s.setAttribute('data-theme',tema()); caja.appendChild(s);
         // Al cambiar el tema del diario, también el de los comentarios

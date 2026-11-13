@@ -51,7 +51,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../../comun.css?v=205e11c3">
-<link rel="stylesheet" href="../../diario.css?v=5cfdb64f">
+<link rel="stylesheet" href="../../diario.css?v=fdf93e38">
 </head>
 <body class="pag-articulo">
 <a class="saltar" href="#contenido">Skip to content</a>
@@ -97,15 +97,34 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <aside class="mas sec-vibecoding" aria-labelledby="t-mas"><h2 id="t-mas">More in Vibe coding</h2><ul><li><span class="fecha-pieza">13 November</span><a href="../2026-11-12/relleu-obert.html">Relleu Obert turns a piece of real map into a 3D model that can be printed for the classroom</a></li><li><span class="fecha-pieza">13 November</span><a href="../2026-11-12/prelacion-admision-conservatorios-cv.html">A tool helps apply the order of priority in admissions to Valencian conservatoires</a></li><li><span class="fecha-pieza">13 November</span><a href="../2026-11-12/comerc-especies.html">A Catalan-language website tells the story of the spice trade from Marco Polo onwards with maps, games and questions</a></li></ul></aside>
   <section class="comentarios" data-pagefind-ignore aria-labelledby="t-comentarios">
     <h2 id="t-comentarios">Comments</h2>
+    <ol class="comentarios-lista" hidden></ol>
     <p class="comentarios-aviso">Commenting requires a <a href="https://github.com/signup" target="_blank" rel="noopener">free GitHub account</a>. Comments are public and stored on GitHub.</p>
-    <p class="comentarios-abrir"><button type="button" class="compartir comentarios-ver"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></svg><span>Show comments</span></button></p>
+    <p class="comentarios-abrir"><button type="button" class="compartir comentarios-ver"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></svg><span>Comment</span></button></p>
     <div class="comentarios-caja" hidden></div>
     <script>
     (function(){
-      var raiz=document.documentElement, caja=document.currentScript.previousElementSibling, abrir=caja.previousElementSibling;
+      var raiz=document.documentElement, caja=document.currentScript.previousElementSibling, abrir=caja.previousElementSibling,
+          lista=caja.parentNode.querySelector('.comentarios-lista'), T={"borrado": "Comment deleted", "mes": ["{d} January", "{d} February", "{d} March", "{d} April", "{d} May", "{d} June", "{d} July", "{d} August", "{d} September", "{d} October", "{d} November", "{d} December"], "mes_anyo": ["{d} January {a}", "{d} February {a}", "{d} March {a}", "{d} April {a}", "{d} May {a}", "{d} June {a}", "{d} July {a}", "{d} August {a}", "{d} September {a}", "{d} October {a}", "{d} November {a}", "{d} December {a}"]};
       function tema(){var t=raiz.dataset.theme; return (t? t==='dark' : matchMedia('(prefers-color-scheme: dark)').matches)?'transparent_dark':'light';}
+      function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+      function fecha(iso){
+        var d=new Date(iso), a=d.getFullYear(), p=(a===new Date().getFullYear()? T.mes : T.mes_anyo)[d.getMonth()];
+        return p.replace('{d}',d.getDate()).replace('{a}',a)+', '+('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2);
+      }
+      function uno(c){
+        var autor=c.perfil? '<a href="'+esc(c.perfil)+'" target="_blank" rel="noopener nofollow">'+esc(c.autor)+'</a>' : esc(c.autor);
+        var h='<li class="comentario'+(c.borrado?' borrado':'')+'"><p class="comentario-quien"><span class="comentario-autor">'+autor+'</span> · <time datetime="'+esc(c.fecha)+'">'+esc(fecha(c.fecha))+'</time></p>'+
+              '<div class="comentario-texto">'+(c.borrado? '<p>'+esc(T.borrado)+'</p>' : c.html)+'</div>';
+        if(c.respuestas&&c.respuestas.length) h+='<ol class="comentario-respuestas">'+c.respuestas.map(uno).join('')+'</ol>';
+        return h+'</li>';
+      }
+      // Sin copia (aún nadie ha comentado), un 404 y nada más: solo queda el botón
+      fetch('/comentarios/2026-11-01/la-teva-veu.json',{cache:'no-cache'}).then(function(r){return r.ok? r.json() : null;}).then(function(d){
+        if(!d||!d.comentarios||!d.comentarios.length||!caja.hidden) return;
+        lista.innerHTML=d.comentarios.map(uno).join(''); lista.hidden=false;
+      }).catch(function(){});
       abrir.querySelector('button').addEventListener('click',function(){
-        abrir.hidden=true; caja.hidden=false;
+        abrir.hidden=true; lista.hidden=true; caja.hidden=false;
         var s=document.createElement('script'); s.src='https://giscus.app/client.js'; s.async=true; s.crossOrigin='anonymous';
         s.setAttribute("data-repo","diarioiaeducativa/diarioiaeducativa.github.io");s.setAttribute("data-repo-id","R_kgDOVfWo0w");s.setAttribute("data-category","Comentarios");s.setAttribute("data-category-id","DIC_kwDOVfWo084DKlp3");s.setAttribute("data-mapping","specific");s.setAttribute("data-term","2026-11-01/la-teva-veu");s.setAttribute("data-strict","1");s.setAttribute("data-reactions-enabled","0");s.setAttribute("data-emit-metadata","0");s.setAttribute("data-input-position","top");s.setAttribute("data-lang","en");s.setAttribute("data-loading","lazy");s.setAttribute('data-theme',tema()); caja.appendChild(s);
         // Al cambiar el tema del diario, también el de los comentarios

@@ -51,7 +51,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=205e11c3">
-<link rel="stylesheet" href="../diario.css?v=5cfdb64f">
+<link rel="stylesheet" href="../diario.css?v=fdf93e38">
 </head>
 <body class="pag-articulo">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -96,15 +96,34 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <aside class="mas sec-multimedia" aria-labelledby="t-mas"><h2 id="t-mas">Más en Multimedia</h2><ul><li><span class="fecha-pieza">13 de noviembre</span><a href="../2026-11-12/unreal-engine-5-9-ia.html">Unreal Engine 5.9 Preview incorpora MCP para que agentes de IA creen entornos 3D</a></li><li><span class="fecha-pieza">12 de noviembre</span><a href="../2026-11-11/svg-celula-tres-modelos.html">Tres modelos dibujan en SVG una lámina de la célula animal sin errores de contenido</a></li><li><span class="fecha-pieza">12 de noviembre</span><a href="../2026-11-11/respiracion-celular-revisor.html">Un segundo vídeo con Fable 5.2 añade un agente que revisa el contenido científico antes de generarlo</a></li></ul></aside>
   <section class="comentarios" data-pagefind-ignore aria-labelledby="t-comentarios">
     <h2 id="t-comentarios">Comentarios</h2>
+    <ol class="comentarios-lista" hidden></ol>
     <p class="comentarios-aviso">Para comentar hace falta una <a href="https://github.com/signup" target="_blank" rel="noopener">cuenta gratuita de GitHub</a>. Los comentarios son públicos y se guardan en GitHub.</p>
-    <p class="comentarios-abrir"><button type="button" class="compartir comentarios-ver"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></svg><span>Ver los comentarios</span></button></p>
+    <p class="comentarios-abrir"><button type="button" class="compartir comentarios-ver"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></svg><span>Comentar</span></button></p>
     <div class="comentarios-caja" hidden></div>
     <script>
     (function(){
-      var raiz=document.documentElement, caja=document.currentScript.previousElementSibling, abrir=caja.previousElementSibling;
+      var raiz=document.documentElement, caja=document.currentScript.previousElementSibling, abrir=caja.previousElementSibling,
+          lista=caja.parentNode.querySelector('.comentarios-lista'), T={"borrado": "Comentario borrado", "mes": ["{d} de enero", "{d} de febrero", "{d} de marzo", "{d} de abril", "{d} de mayo", "{d} de junio", "{d} de julio", "{d} de agosto", "{d} de septiembre", "{d} de octubre", "{d} de noviembre", "{d} de diciembre"], "mes_anyo": ["{d} de enero de {a}", "{d} de febrero de {a}", "{d} de marzo de {a}", "{d} de abril de {a}", "{d} de mayo de {a}", "{d} de junio de {a}", "{d} de julio de {a}", "{d} de agosto de {a}", "{d} de septiembre de {a}", "{d} de octubre de {a}", "{d} de noviembre de {a}", "{d} de diciembre de {a}"]};
       function tema(){var t=raiz.dataset.theme; return (t? t==='dark' : matchMedia('(prefers-color-scheme: dark)').matches)?'transparent_dark':'light';}
+      function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+      function fecha(iso){
+        var d=new Date(iso), a=d.getFullYear(), p=(a===new Date().getFullYear()? T.mes : T.mes_anyo)[d.getMonth()];
+        return p.replace('{d}',d.getDate()).replace('{a}',a)+', '+('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2);
+      }
+      function uno(c){
+        var autor=c.perfil? '<a href="'+esc(c.perfil)+'" target="_blank" rel="noopener nofollow">'+esc(c.autor)+'</a>' : esc(c.autor);
+        var h='<li class="comentario'+(c.borrado?' borrado':'')+'"><p class="comentario-quien"><span class="comentario-autor">'+autor+'</span> · <time datetime="'+esc(c.fecha)+'">'+esc(fecha(c.fecha))+'</time></p>'+
+              '<div class="comentario-texto">'+(c.borrado? '<p>'+esc(T.borrado)+'</p>' : c.html)+'</div>';
+        if(c.respuestas&&c.respuestas.length) h+='<ol class="comentario-respuestas">'+c.respuestas.map(uno).join('')+'</ol>';
+        return h+'</li>';
+      }
+      // Sin copia (aún nadie ha comentado), un 404 y nada más: solo queda el botón
+      fetch('/comentarios/2026-11-09/buzz-flujo-claude-blender.json',{cache:'no-cache'}).then(function(r){return r.ok? r.json() : null;}).then(function(d){
+        if(!d||!d.comentarios||!d.comentarios.length||!caja.hidden) return;
+        lista.innerHTML=d.comentarios.map(uno).join(''); lista.hidden=false;
+      }).catch(function(){});
       abrir.querySelector('button').addEventListener('click',function(){
-        abrir.hidden=true; caja.hidden=false;
+        abrir.hidden=true; lista.hidden=true; caja.hidden=false;
         var s=document.createElement('script'); s.src='https://giscus.app/client.js'; s.async=true; s.crossOrigin='anonymous';
         s.setAttribute("data-repo","diarioiaeducativa/diarioiaeducativa.github.io");s.setAttribute("data-repo-id","R_kgDOVfWo0w");s.setAttribute("data-category","Comentarios");s.setAttribute("data-category-id","DIC_kwDOVfWo084DKlp3");s.setAttribute("data-mapping","specific");s.setAttribute("data-term","2026-11-09/buzz-flujo-claude-blender");s.setAttribute("data-strict","1");s.setAttribute("data-reactions-enabled","0");s.setAttribute("data-emit-metadata","0");s.setAttribute("data-input-position","top");s.setAttribute("data-lang","es");s.setAttribute("data-loading","lazy");s.setAttribute('data-theme',tema()); caja.appendChild(s);
         // Al cambiar el tema del diario, también el de los comentarios

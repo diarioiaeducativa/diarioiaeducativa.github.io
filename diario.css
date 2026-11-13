@@ -618,6 +618,23 @@ body.con-visor { overflow: hidden; }
 .comentarios-abrir { margin: 0; }
 .comentarios-caja { min-height: 8rem; }
 .comentarios-caja[hidden] { display: none; }
+/* Lo ya comentado, de la copia del propio diario: cada comentario con una franja, las respuestas sangradas */
+.comentarios-lista, .comentario-respuestas { list-style: none; margin: 0; padding: 0; }
+.comentarios-lista[hidden] { display: none; }
+.comentarios-lista { margin: 0.6rem 0 1.2rem; }
+.comentario { margin: 0 0 0.9rem; padding: 0.1rem 0 0.1rem 0.9rem; border-left: 3px solid var(--filete); overflow-wrap: anywhere; }
+.comentario-respuestas { margin-top: 0.7rem; }
+.comentario-respuestas .comentario { margin-bottom: 0.6rem; }
+.comentario-quien { margin: 0 0 0.2rem; font-size: 0.9rem; color: var(--tinta-2); }
+.comentario-autor, .comentario-autor a { color: var(--tinta); }
+.comentario-texto > :first-child { margin-top: 0; }
+.comentario-texto > :last-child { margin-bottom: 0; }
+.comentario-texto p, .comentario-texto ul, .comentario-texto ol, .comentario-texto blockquote, .comentario-texto pre { margin: 0 0 0.5rem; }
+.comentario-texto blockquote { padding-left: 0.8rem; border-left: 2px solid var(--filete); color: var(--tinta-2); }
+.comentario-texto pre { overflow-x: auto; padding: 0.5rem; background: var(--papel-2); }
+.comentario-texto table { display: block; overflow-x: auto; border-collapse: collapse; }
+.comentario-texto th, .comentario-texto td { border: 1px solid var(--filete); padding: 0.2rem 0.4rem; }
+.comentario.borrado .comentario-texto { font-style: italic; color: var(--tinta-2); }
 /* «Para tu web» (ADR 0032): el botón de cada pieza y su menú, anclado a la fila de botones para que en
    el móvil no se salga de la pantalla */
 .acciones { position: relative; display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: flex-start; }
