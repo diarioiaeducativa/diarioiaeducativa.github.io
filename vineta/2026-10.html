@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=6ccad91c">
-<link rel="stylesheet" href="../diario.css?v=fa89a5db">
+<link rel="stylesheet" href="../diario.css?v=3fea220f">
 </head>
 <body class="pag-seccion">
 <header class="cabecera">
@@ -147,12 +147,16 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   // En el móvil las secciones se deslizan: la sección abierta, a la vista
   var lista=document.querySelector('.secciones-lista'), activa=lista&&lista.querySelector('[aria-current]');
   if(activa&&lista.scrollWidth>lista.clientWidth) lista.scrollLeft=activa.offsetLeft-(lista.clientWidth-activa.offsetWidth)/2;
-  // Ampliar una captura o un dibujo: sobre la propia página, al mayor tamaño que quepa, con la X arriba a la derecha
-  document.querySelectorAll('button.ampliar').forEach(function(b){
-    b.addEventListener('click',function(){
+  // Ampliar una captura o un dibujo: sobre la propia página, al mayor tamaño que quepa, con la X arriba a la derecha.
+  // Atiende a toda la página, también a las imágenes que se ponen después (la portada del día en la hemeroteca).
+  document.addEventListener('click',function(ev){
+    var b=ev.target.closest&&ev.target.closest('button.ampliar'); if(!b) return;
+    (function(){
       var img=b.querySelector('img'), dib=b.querySelector('svg'), v=document.createElement('div'), x=document.createElement('button'), g;
       v.className='visor'; v.setAttribute('role','dialog'); v.setAttribute('aria-modal','true');
-      if(img){ g=img.cloneNode(); v.setAttribute('aria-label',img.alt); }
+      if(img){ g=img.cloneNode(); v.setAttribute('aria-label',img.alt);
+        // Una imagen muy alta (la portada de un número) se abre a lo ancho y se baja dentro del visor
+        if(img.getAttribute('height')/img.getAttribute('width')>1.4) v.classList.add('alta'); }
       else {   // un dibujo: en su marco, con los colores de su sección y tan grande como quepa
         var sec=b.closest('[class*="sec-"]'), c=sec&&[].find.call(sec.classList,function(k){return k.indexOf('sec-')===0;}), vb=dib.viewBox.baseVal;
         if(c) v.classList.add(c);
@@ -180,7 +184,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
       function tecla(ev){if(ev.key==='Escape')fuera(); else if(ev.key==='Tab'){ev.preventDefault();x.focus();}}
       v.addEventListener('click',function(ev){if(!g.contains(ev.target))fuera();});
       document.addEventListener('keydown',tecla);
-    });
+    })();
   });
   // Instalar como app (ADR 0013): el enlace del pie sale solo donde el navegador deja instalar con un
   // toque (Chrome, Edge); en iPhone y iPad, cómo añadirlo a la pantalla de inicio. Instalada, nada.

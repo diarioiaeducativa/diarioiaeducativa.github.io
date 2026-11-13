@@ -78,6 +78,8 @@
 .secciones :is(.dia-ant, .dia-sig) { margin-right: -1.25rem; padding-right: 0.4rem; color: var(--tinta-2); font-weight: 400; }
 .secciones :is(.dia-ant, .dia-sig):hover, .secciones :is(.dia-ant, .dia-sig):focus-visible { color: var(--tinta); }
 .secciones :is(.dia-ant, .dia-sig) .ico { width: 1.05em; height: 1.05em; vertical-align: -0.17em; }
+/* En un número anterior, «‹ Núm. 9 ›»: la flecha siguiente, pegada al número como la anterior */
+.secciones .este-numero + .dia-sig { margin: 0 0 0 -1.25rem; padding: 0 0 0 0.4rem; }
 .secciones .quees { margin-left: auto; font-weight: 400; font-style: italic; color: var(--tinta-2); }
 
 /* Rótulos de las piezas */
@@ -538,6 +540,9 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .visor .cerrar:hover, .visor .cerrar:focus-visible { background: rgb(255 255 255 / 0.28); outline: 2px solid #fff; outline-offset: 2px; }
 .visor .cerrar svg { width: 1.4rem; height: 1.4rem; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
 body.con-visor { overflow: hidden; }
+/* Una imagen muy alta, como la portada de un número: a lo ancho, a su tamaño, y se baja dentro del visor */
+.visor.alta { display: block; overflow-y: auto; padding: 3.2rem 1rem 1.5rem; }
+.visor.alta img { display: block; width: min(100%, 900px); max-height: none; margin: 0 auto; }
 
 /* Página de sección: la pieza sin dibujo lleva el icono de su sección en un recuadro de la misma proporción */
 .ilu.relleno { aspect-ratio: 380 / 223; display: grid; place-items: center; }
@@ -739,16 +744,93 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 .hem-semana .leer, .mes-semana .leer { margin: 0 0 0.4rem; }
 .hem-semana .leer a, .mes-semana .leer a { color: var(--azul); font-weight: 600; }
 .hem-semana ul { padding-left: 1rem; margin-bottom: 0.8rem; }
+/* El calendario de la hemeroteca (ADR 0053): un mes cada vez, por la fecha de cabecera de cada número; el día
+   elegido, en azul, con su número y la pieza que lo abrió debajo; hoy, rodeado con el bolígrafo rojo. */
+/* Todo lo posible a la vista sin bajar (Juanjo, 13-11-2026): el buscador en la línea del título, el calendario
+   y los titulares compactos y la portada algo más estrecha */
+.portada.hem-ancha { padding-top: 0.8rem; }
+.hem-col .titulo-seccion { margin: 0 0 0.6rem; line-height: 1.1; }
+.hem-col .hem-buscar { margin: 0 0 0.8rem; }
+.hem-buscar { margin: 0; }
+.hem-buscar .campo { max-width: none; padding: 0.3rem 0.85rem; }
+.hem-buscar input { font-size: 1rem; }
+/* El gris, solo en el calendario; el día elegido va sobre el papel, como el resto del diario (Juanjo, 13-11-2026) */
+.calendario { margin: 0 0 1.4rem; }
+.cal-izq { padding: 0.7rem 0.8rem 0.8rem; border: 1px solid var(--filete); border-radius: 8px; background: var(--papel-2); }
+.cal-nav { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; margin-bottom: 0.3rem; }
+.cal-nav button { flex: none; display: inline-grid; place-items: center; width: 2.2rem; height: 2.2rem; padding: 0; border: 1px solid var(--filete); border-radius: 999px; background: var(--papel); color: var(--tinta); cursor: pointer; }
+.cal-nav button:hover:not(:disabled) { border-color: var(--azul); color: var(--azul); }
+.cal-nav button:disabled { opacity: 0.35; cursor: default; }
+.cal-nav .ico { width: 1.25rem; height: 1.25rem; }
+.cal-elegir { min-width: 0; padding: 0.25rem 0.9rem; border: 1px solid var(--filete); border-radius: 999px; background: var(--papel); color: var(--tinta); font: inherit; font-weight: 700; font-size: 1.05rem; text-align: center; cursor: pointer; }
+.cal-mes { width: 100%; table-layout: fixed; border-collapse: separate; border-spacing: 0.25rem 0.2rem; }
+.cal-mes th { padding: 0.1rem 0; color: var(--tinta-2); font-size: 0.85rem; font-weight: 600; }
+.cal-mes abbr { text-decoration: none; }
+.cal-mes td { height: 2.2rem; padding: 0; text-align: center; }
+.cal-mes td > a, .cal-mes td > span { display: grid; place-items: center; height: 100%; border-radius: 6px; font-variant-numeric: tabular-nums; }
+.cal-mes td > span { color: var(--tinta-2); opacity: 0.5; }
+.cal-mes td > a { border: 1px solid var(--filete); background: var(--papel); color: var(--azul); font-weight: 700; text-decoration: none; }
+.cal-mes td > a:hover { border-color: var(--azul); }
+.cal-mes td > a.elegido { border-color: var(--azul); background: var(--azul); color: var(--papel); }
+/* La columna del resumen de cada semana, más estrecha y separada de los días */
+.cal-mes th.cal-sem-h { width: 2.3rem; color: var(--azul); }
+.cal-mes td.cal-sem a { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.1rem; height: 100%; color: var(--azul); font-size: 0.9rem; font-style: italic; font-weight: 600; text-decoration: none; }
+.cal-mes td.cal-sem a:hover { text-decoration: underline; }
+.cal-mes td.hoy { position: relative; }
+.cal-mes td.hoy::after {
+  content: ""; position: absolute; inset: -0.3rem -0.35rem;
+  background: var(--rojo);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 50' preserveAspectRatio='none'%3E%3Cpath d='M70 6C40 3 8 10 6 25s30 21 58 20 52-6 51-21S88 3 52 8' fill='none' stroke='black' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat center / 100% 100%;
+          mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 50' preserveAspectRatio='none'%3E%3Cpath d='M70 6C40 3 8 10 6 25s30 21 58 20 52-6 51-21S88 3 52 8' fill='none' stroke='black' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat center / 100% 100%;
+  pointer-events: none;
+}
+/* El número elegido, en su marco, como el calendario pero sobre el papel (Juanjo, 13-11-2026) */
+.cal-detalle { display: grid; grid-template-columns: 13rem minmax(0, 1fr); gap: 0.4rem 1.2rem; align-items: start; margin-top: 1rem; padding: 0.8rem 1rem 0.9rem; border: 1px solid var(--filete); border-radius: 8px; }
+.cal-detalle > .cal-texto:only-child { grid-column: 1 / -1; }
+/* La portada no cuenta para la altura de la fila (contain): la marcan los titulares, y si son pocos la portada se
+   recorta por abajo; si son muchos, el script la deja flotando y los titulares siguen por debajo. */
+.cal-portada { display: block; align-self: stretch; min-height: 6rem; line-height: 0; contain: size; }
+.cal-portada img { width: 100%; height: auto; max-height: 100%; object-fit: cover; object-position: top; border: 1px solid var(--filete); border-radius: 3px; background: #fbfbf9; box-shadow: 0 2px 8px rgb(0 0 0 / 0.12); }
+.cal-detalle.envuelve { display: block; }
+.cal-detalle.envuelve::after { content: ""; display: block; clear: both; }
+.cal-detalle.envuelve .cal-portada { float: left; width: 13rem; min-height: 0; margin: 0.2rem 1.3rem 0.6rem 0; contain: none; }
+.cal-detalle.envuelve .cal-portada img { max-height: none; }
+.cal-portada .ampliar { display: block; width: 100%; height: 100%; padding: 0; border: 0; background: none; line-height: 0; cursor: zoom-in; }
+.cal-portada .ampliar:hover img { border-color: var(--azul); }
+.cal-detalle p { margin: 0; }
+.cal-fecha { font-weight: 700; line-height: 1.3; }
+.cal-fecha a { color: var(--tinta); text-decoration: none; }
+.cal-fecha a:hover { color: var(--azul); text-decoration: underline; }
+.cal-fecha .num { color: var(--tinta-2); font-weight: 400; font-style: italic; }
+.cal-sec { margin-top: 0.5rem !important; color: var(--sec, var(--azul)); font-size: 0.88rem; font-weight: 600; }
+.hemeroteca .cal-texto ul { margin: 0.15rem 0 0; }
+.hemeroteca .cal-texto li { padding: 0.15rem 0; border-top: 0; font-size: 0.95rem; line-height: 1.28; }
+.hemeroteca .cal-texto li a { font-weight: 500; }
+@media (max-width: 36rem) {
+  .cal-detalle { grid-template-columns: 1fr; padding: 0.8rem 0.7rem 0.9rem; }
+  .cal-portada, .cal-detalle.envuelve .cal-portada { float: none; width: min(100%, 17rem); min-height: 0; margin: 0 auto 0.4rem; contain: none; }
+  .cal-portada img { max-height: none; }
+}
+/* En pantalla ancha, el calendario a la izquierda y el número elegido a la derecha, a la vista los dos sin bajar
+   (Juanjo, 13-11-2026). El calendario acompaña al bajar si los titulares del día son muchos. */
+@media (min-width: 64rem) {
+  .hemeroteca.hem-ancha { max-width: 72rem; }
+  .hem-ancha > :not(.calendario) { max-width: 44rem; }
+  .calendario { display: grid; grid-template-columns: 22rem minmax(0, 1fr); align-items: start; }
+  .hem-col { align-self: stretch; }
+  .cal-izq { position: sticky; top: 1rem; }
+  .cal-detalle { margin: 0 0 0 1.8rem; }
+}
+@media (max-width: 30rem) {
+  .cal-izq { padding: 0.7rem 0.6rem 0.8rem; }
+  .cal-mes { border-spacing: 0.2rem; }
+  .cal-mes td { height: 2.2rem; }
+}
 .con-nb { color: var(--azul); font-weight: 400; font-size: 0.95rem; }
 p.con-nb { margin: 0 0 0.3rem; }
 .mes-semana { margin-top: 1.6rem; }
 .mes-semana h2 { margin: 0 0 0.3rem; }
 .mes-semana h2 .num { font-size: 1rem; font-weight: 400; }
-.hem-boletines { margin-top: 2.4rem; padding-top: 1rem; border-top: 3px solid var(--tinta); }
-.hem-boletines h2 { margin-top: 0; }
-.hem-boletines p { margin: 0 0 0.4rem; color: var(--tinta-2); }
-.hem-boletines li { border-top: 0; padding: 0.2rem 0; }
-.hem-boletines ul { list-style: disc; padding-left: 1.2rem; }
 
 /* Noticias en columnas (ADR 0044). En el ordenador (desde 60rem, el corte de la portada), la noticia ocupa
    todo el ancho: titular y entradilla junto al dibujo, como la principal de la portada, y el texto en
