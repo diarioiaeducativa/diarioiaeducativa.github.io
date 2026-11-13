@@ -817,7 +817,7 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
   .calendario { display: grid; grid-template-columns: 22rem minmax(0, 1fr); align-items: start; }
   .hem-col { align-self: stretch; }
   .cal-izq { position: sticky; top: 1rem; }
-  .cal-detalle { margin: 0 0 0 1.8rem; }
+  .cal-detalle { margin: 0 0 0 1.8rem; align-self: stretch; }
 }
 @media (max-width: 30rem) {
   .cal-izq { padding: 0.7rem 0.6rem 0.8rem; }
