@@ -9,6 +9,41 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Relleu Obert converteix un tros de mapa real en una maqueta 3D imprimible per a l&#x27;aula</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/relleu-obert.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/relleu-obert.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un projecte gratuït i de codi obert permet triar un lloc, generar-ne el relleu al navegador i exportar-lo per imprimir-lo en 3D.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-relleu-obert.svg" medium="image" type="image/svg+xml"><media:description>Tres passos units per fletxes: un mapa rotulat «Mapa», una muntanya rotulada «Relleu» i una impressora rotulada «Maqueta».</media:description></media:content>
+  </item>
+  <item>
+    <title>Una eina ajuda a aplicar l&#x27;ordre de prelació en l&#x27;admissió als conservatoris valencians</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/prelacion-admision-conservatorios-cv.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/prelacion-admision-conservatorios-cv.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>José Luis Miralles Bono ha creat una web amb esquemes, calculador d&#x27;edat i models d&#x27;Excel per aplicar l&#x27;Ordre 8/2026 als centres de música i dansa de la Comunitat Valenciana.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-12-prelacion-admision-conservatorios-cv.jpg" medium="image" type="image/png"><media:description>Pàgina amb el títol «Prelación de acceso a conservatorio», una barra de pestanyes (Esquema, Timeline, Guía paso a paso, Edad, Reorientación, Definiciones, Modelos) i quatre blocs desplegables d&#x27;adjudicacions.</media:description></media:content>
+  </item>
+  <item>
+    <title>Una web en català explica el comerç d&#x27;espècies des de Marco Polo amb mapes, jocs i preguntes</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/comerc-especies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/comerc-especies.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«El comerç de les espècies» proposa nou capítols interactius, pensats segons el seu autor per a secundària i batxillerat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-comerc-especies.svg" medium="image" type="image/svg+xml"><media:description>Una ruta amb nou punts que va d&#x27;un vaixell, amb el rètol «Marco Polo», a un globus terraqüi, amb el rètol «Avui»; a dalt, el rètol «Nou capítols».</media:description></media:content>
+  </item>
+  <item>
+    <title>Reloj EDUmind reuneix temporitzadors per a l&#x27;aula, els grups i l&#x27;estudi autònom</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/reloj-edumind.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/reloj-edumind.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis ha creat una aplicació web instal·lable amb tres modes de temporitzador, pensada per gestionar el temps a classe, d&#x27;Infantil a Formació Professional.</description>
+  </item>
+  <item>
     <title>Anthropic recomana dir a Fable 5.2 que el codi és seu si es vol que el reorganitzi</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-11/prompt-propiedad-codigo-fable.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/prompt-propiedad-codigo-fable.html</guid>

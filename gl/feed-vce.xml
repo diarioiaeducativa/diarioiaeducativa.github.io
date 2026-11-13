@@ -9,6 +9,66 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Relleu Obert converte un anaco de mapa real nunha maqueta 3D imprimible para a aula</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-12/relleu-obert.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-12/relleu-obert.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un proxecto gratuíto e de código aberto permite escoller un lugar, xerar o seu relevo no navegador e exportalo para imprimilo en 3D.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-12-relleu-obert.svg" medium="image" type="image/svg+xml"><media:description>Tres pasos unidos por frechas: un mapa rotulado «Mapa», unha montaña rotulada «Relevo» e unha impresora rotulada «Maqueta».</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha ferramenta axuda a aplicar a orde de prelación na admisión aos conservatorios valencianos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-12/prelacion-admision-conservatorios-cv.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-12/prelacion-admision-conservatorios-cv.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>José Luis Miralles Bono creou unha web con esquemas, calculadora de idade e modelos de Excel para aplicar a Orde 8/2026 nos centros de música e danza da Comunitat Valenciana.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-12-prelacion-admision-conservatorios-cv.jpg" medium="image" type="image/png"><media:description>Páxina co título «Prelación de acceso a conservatorio», unha barra de lapelas (Esquema, Timeline, Guía paso a paso, Edad, Reorientación, Definiciones, Modelos) e catro bloques despregables de adxudicacións.</media:description></media:content>
+  </item>
+  <item>
+    <title>Unha web en catalán conta o comercio de especias desde Marco Polo con mapas, xogos e preguntas</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-12/comerc-especies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-12/comerc-especies.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«El comerç de les espècies» propón nove capítulos interactivos, pensados segundo o seu autor para secundaria e bacharelato.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-12-comerc-especies.svg" medium="image" type="image/svg+xml"><media:description>Unha ruta con nove puntos que vai dun barco, co rótulo «Marco Polo», a un globo terráqueo, co rótulo «Hoxe»; enriba, o rótulo «Nove capítulos».</media:description></media:content>
+  </item>
+  <item>
+    <title>Consola ou aplicación: docentes comparan como traballar cun axente de programación</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-12/cli-app-claude-debate.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-12/cli-app-claude-debate.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>O grupo discutiu se a consola ofrece máis liberdade que a aplicación gráfica, e concluíu que depende de cada persoa e da tarefa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-12-cli-app-claude-debate.svg" medium="image" type="image/svg+xml"><media:description>Tres iconas rotuladas «Web», «Aplicación» e «Consola» cuxas liñas conflúen nun mesmo recadro rotulado «Resultado».</media:description></media:content>
+  </item>
+  <item>
+    <title>Reloj EDUmind reúne temporizadores para a aula, os grupos e o estudo autónomo</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-12/reloj-edumind.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-12/reloj-edumind.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis creou unha aplicación web instalable con tres modos de temporizador, pensada para xestionar o tempo en clase desde Infantil ata Formación Profesional.</description>
+  </item>
+  <item>
+    <title>Anthropic aconsella a Fable 5.2 que, para que conserve a responsabilidade sobre unha acción, se escriba…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-12/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-12/breve-1.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Anthropic aconsella a Fable 5.2 que, para que conserve a responsabilidade sobre unha acción, se escriba «pide aprobación antes de eliminar ficheiros» en lugar de «nunca elimines ficheiros», e que se responda coa orde concreta en vez dun simple «adiante». Segue a guía que o diario contou.</description>
+  </item>
+  <item>
+    <title>O autor do timbre musical escolar publicou o seu proxecto en GitHub: guía de instalación, manual para o…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-12/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-12/breve-3.html</guid>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>O autor do timbre musical escolar publicou o seu proxecto en GitHub: guía de instalación, manual para o claustro e código, con licenza AGPL para o código e CC BY-SA 4.0 para a documentación.</description>
+  </item>
+  <item>
     <title>Anthropic recomenda dicirlle a Fable 5.2 que o código é seu se se quere que o reorganice</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-11/prompt-propiedad-codigo-fable.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-11/prompt-propiedad-codigo-fable.html</guid>
