@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: AGPL-3.0-or-later
    Base común de las dos maquetas: colores, letra, ilustraciones y conmutador de tema.
    Tinta de imprenta sobre papel blanco, con el azul del bolígrafo y el rojo de corregir:
-   el rojo marca solo lo comprobado y el número de la edición. */
+   el rojo marca el número de la edición y las correcciones; el verde, solo lo comprobado. */
 
 :root {
   --papel: #fbfbf9;
@@ -12,6 +12,7 @@
   --azul: #1c3faa;
   --azul-hondo: #142a6e;
   --rojo: #c8202c;
+  --verde: #1a7f37;
   --sobre-azul: #f4f6ff;
   --ilu-tinta: var(--tinta);
   --ilu-azul: var(--azul);
@@ -29,6 +30,7 @@
     --azul: #93a9ff;
     --azul-hondo: #1d2c63;
     --rojo: #ff6e6e;
+    --verde: #5fd07f;
     --sobre-azul: #eef1ff;
     --ilu-relleno: #26315a;
     color-scheme: dark;
@@ -43,6 +45,7 @@
   --azul: #93a9ff;
   --azul-hondo: #1d2c63;
   --rojo: #ff6e6e;
+  --verde: #5fd07f;
   --sobre-azul: #eef1ff;
   --ilu-relleno: #26315a;
   color-scheme: dark;
@@ -102,7 +105,7 @@ main:focus { outline: none; }
 .ilu g.li3 { stroke-width: 0.8333; }
 .ilu g.li4 { stroke-width: 0.625; }
 
-/* Marca de bolígrafo rojo: lo comprobado */
+/* Marca de bolígrafo verde: lo comprobado (ADR 0060) */
 .comprobado {
   margin-top: 2.2rem;
   padding: 1rem 1.1rem 1.1rem 3.2rem;
@@ -115,7 +118,7 @@ main:focus { outline: none; }
   content: "";
   position: absolute; left: 0.6rem; top: 0.9rem;
   width: 1.9rem; height: 1.6rem;
-  background: var(--rojo);
+  background: var(--verde);
   -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 38 32'%3E%3Cpath d='M3 17c4 2 7 6 9 11C17 17 25 8 35 3' fill='none' stroke='black' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat center / contain;
           mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 38 32'%3E%3Cpath d='M3 17c4 2 7 6 9 11C17 17 25 8 35 3' fill='none' stroke='black' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat center / contain;
 }
@@ -151,7 +154,7 @@ main:focus { outline: none; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 @media print {
-  :root, :root[data-theme="dark"] { --papel: #fff; --papel-2: #fff; --tinta: #000; --tinta-2: #333; --filete: #999; --azul: #000; --rojo: #000; }
+  :root, :root[data-theme="dark"] { --papel: #fff; --papel-2: #fff; --tinta: #000; --tinta-2: #333; --filete: #999; --azul: #000; --rojo: #000; --verde: #000; }
   .tema, .lupa, .ico-video, .ico-papel, .idiomas, .dia-ant, .dia-sig, .pie-unete { display: none !important; }
 }
 
