@@ -1,0 +1,11 @@
+{
+ "comentarios": [
+  {
+   "autor": "jjdeharo",
+   "perfil": "https://github.com/jjdeharo",
+   "fecha": "2026-11-14T04:41:30Z",
+   "enlace": "https://github.com/diarioiaeducativa/diarioiaeducativa.github.io/discussions/5#discussioncomment-19606310",
+   "html": "<p>Hay un matiz de la conversación que conviene precisar, el de la privacidad. Tener los documentos en el propio ordenador no impide que salgan de él. Todo lo que el agente lee para hacer una tarea se envía a los servidores del proveedor, igual que con la web o con la aplicación. La ventaja es otra: los archivos y la memoria del agente se guardan en el disco, en texto que se puede abrir con cualquier programa y con copias propias, y no dependen de la memoria del servicio. Por eso conviene decidir qué carpetas puede consultar el agente y dejar fuera lo que no se quiera compartir.</p>"
+  }
+ ]
+}
