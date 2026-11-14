@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Herramientas</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Wharton publica Primer, un sistema abierto que convierte una conversación en simulación</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/primer-wharton.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/primer-wharton.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Wharton Generative AI Labs ofrece un prototipo de código abierto en el que un equipo de agentes entrevista al docente y construye una simulación para el alumnado. Sus autores advierten de que no se ha evaluado en aulas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-primer-wharton.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dos recuadros: a la izquierda, un docente con el rótulo «Docente» entrega su conversación y recibe un documento con una marca de aprobado, rotulado «Diseño»; a la derecha, una persona del alumnado, rotulada «Alumno», dialoga con un personaje, rotulado «Personaje»; debajo, una flecha roja con el rótulo «Informe» vuelve de la simulación al docente.</media:description></media:content>
+  </item>
+  <item>
     <title>EduGems pasa a llamarse EduPrompts porque Google sustituye los Gems por Skills</title>
     <link>https://diarioiaeducativa.github.io/2026-11-10/edugems-eduprompts.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/edugems-eduprompts.html</guid>

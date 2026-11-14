@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Conservatoire regulations, indicators and classroom games, new in the repository</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-13/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The Vibe Coding Educativo resource repository adds 25 resources this week: 13 are presented here and 12 have already had their own article.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-13-legis-cpmdem.jpg" medium="image" type="image/png"><media:description>Home page of the Legis CPMDEM catalogue with a search box, filters for validity and categories of regulation, and the first entries for decrees and orders.</media:description></media:content>
+  </item>
+  <item>
+    <title>Atlas en xogo, a map game in Galician, joins EDUmind’s apps</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-13/atlas-en-xogo.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/atlas-en-xogo.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A new interactive geography app in Galician has been shared in Vibe Coding Educativo. A full description of its game modes could not be checked.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-13-atlas-en-xogo.svg" medium="image" type="image/svg+xml"><media:description>A browser window with a map and the label “Atlas en xogo”; to its left, a magnifying glass with a plus sign, labelled “Zoom”; to its right, a globe labelled “3D view”.</media:description></media:content>
+  </item>
+  <item>
     <title>Relleu Obert turns a piece of real map into a 3D model that can be printed for the classroom</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-12/relleu-obert.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/relleu-obert.html</guid>
@@ -428,14 +446,6 @@
     <category>Vibe coding</category>
     <description>A member of the groups shared a long prompt for an AI to generate an interactive 3D lesson in the style of a physics book about energy.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Diagram of three steps: “Prompt”, a sheet with a dashed gap for the topic; “3D book”, an open book with a lifted flap revealing the answer; and “Stamp”, with a tick mark on completing the lesson.</media:description></media:content>
-  </item>
-  <item>
-    <title>GitHub’s documentation states that teachers verified on GitHub Education can access Copilot Pro for free,…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-28/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/breve-2.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>GitHub’s documentation states that teachers verified on GitHub Education can access Copilot Pro for free, and that eligibility is reassessed every month.</description>
   </item>
 </channel>
 </rss>

@@ -9,6 +9,60 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Wharton publica Primer, un sistema abierto que convierte una conversación en simulación</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/primer-wharton.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/primer-wharton.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Wharton Generative AI Labs ofrece un prototipo de código abierto en el que un equipo de agentes entrevista al docente y construye una simulación para el alumnado. Sus autores advierten de que no se ha evaluado en aulas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-primer-wharton.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dos recuadros: a la izquierda, un docente con el rótulo «Docente» entrega su conversación y recibe un documento con una marca de aprobado, rotulado «Diseño»; a la derecha, una persona del alumnado, rotulada «Alumno», dialoga con un personaje, rotulado «Personaje»; debajo, una flecha roja con el rótulo «Informe» vuelve de la simulación al docente.</media:description></media:content>
+  </item>
+  <item>
+    <title>El INTEF presenta en SIMO el 13 de noviembre la actualización 2026 de su guía sobre IA</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/intef-guias-ia-simo.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/intef-guias-ia-simo.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>Según el programa del INTEF en SIMO EDUCACIÓN, ese día se presentaban la nueva versión de su guía sobre el uso de la IA en educación y otra sobre cómo integrarla en los centros.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-intef-guias-ia-simo.svg" medium="image" type="image/svg+xml"><media:description>Línea de tiempo bajo el rótulo «13 noviembre» con dos sesiones: a las «10:30», un libro abierto con el rótulo «Guía IA», y a las «13:30», un documento con el rótulo «Centros».</media:description></media:content>
+  </item>
+  <item>
+    <title>Normativa de conservatorios, indicadores y juegos de aula, nuevos en el repositorio</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Repositorio de recursos de Vibe Coding Educativo suma esta semana 25 recursos: 13 se presentan aquí y 12 ya tuvieron su artículo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-13-legis-cpmdem.jpg" medium="image" type="image/png"><media:description>Portada del catálogo Legis CPMDEM con un buscador, filtros de vigencia y categorías de normativa, y las primeras fichas de decretos y órdenes.</media:description></media:content>
+  </item>
+  <item>
+    <title>Scribe v3 de ElevenLabs reduce, según la empresa, un 35 % los errores en español</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/elevenlabs-scribe-v3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/elevenlabs-scribe-v3.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Los nuevos modelos de voz a texto de ElevenLabs reducen los errores de palabras respecto a Scribe v2. Las cifras son de la propia empresa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-elevenlabs-scribe-v3.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, una onda de sonido rotulada «Voz» se convierte en una hoja con líneas de texto rotulada «Texto»; a la derecha, dos columnas rotuladas «Scribe v2» y «Scribe v3», la segunda más baja, con una flecha roja hacia abajo y el rótulo «−35 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Atlas en xogo, un juego de mapas en gallego, se suma a las aplicaciones de EDUmind</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/atlas-en-xogo.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/atlas-en-xogo.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Una nueva aplicación de geografía interactiva en gallego se ha compartido en Vibe Coding Educativo. La descripción completa de sus modos de juego no se ha podido comprobar.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-atlas-en-xogo.svg" medium="image" type="image/svg+xml"><media:description>Una ventana de navegador con un mapa y el rótulo «Atlas en xogo»; a su izquierda, una lupa con un más, rotulada «Zoom»; a su derecha, un globo terráqueo con el rótulo «Vista 3D».</media:description></media:content>
+  </item>
+  <item>
+    <title>Disney iba a abrir sus personajes a la IA; Sora cerró antes de que llegara el dinero</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/disney-personajes-sora-cierre.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/disney-personajes-sora-cierre.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025 se comentaba que Disney dejaría crear contenido con sus personajes y se vaticinaba el fin de la «barra libre» de la IA generativa. El acuerdo llegó en diciembre, con Sora; en marzo, OpenAI cerró Sora y el acuerdo se deshizo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-disney-personajes-sora-cierre.svg" medium="image" type="image/svg+xml"><media:description>Díptico en dos mitades. A la izquierda, «Nov. 2025»: una claqueta de cine y una moneda con el signo del dólar, bajo el rótulo «Licencia». A la derecha, «Hoy»: la misma claqueta y la misma moneda tachadas con líneas azules, bajo el rótulo «Cerrado».</media:description></media:content>
+  </item>
+  <item>
     <title>Microsoft presenta Classroom, un espacio propio para centrar el trabajo de clase en Microsoft 365</title>
     <link>https://diarioiaeducativa.github.io/2026-11-12/microsoft-classroom.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-12/microsoft-classroom.html</guid>
@@ -830,59 +884,6 @@
     <category>Multimedia</category>
     <description>«Never Sleep Again», siete episodios publicados entre el 25 y el 31 de octubre, explica en su web cómo combina Blender, Claude, un generador de vídeo y DaVinci Resolve.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-31-webserie-never-sleep-again.svg" medium="image" type="image/svg+xml"><media:description>Esquema horizontal de cinco pasos: «Casa 3D», una casa modelada en 3D; «Referencia», un clip gris con el recorrido de cámara; «Vídeo IA», la generación de vídeo; «Revisión», con una flecha que vuelve atrás, y «Montaje», una línea de tiempo; debajo, una figura humana unida a todos los pasos.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un laboratorio interactivo guía al alumnado de 2.º de Bachillerato por el potencial gravitatorio</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-31/mapa-potencial-gravitatorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-31/mapa-potencial-gravitatorio.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>La aplicación «Mapa de potencial gravitatorio», compartida por el profesor Antonio González, incluye una guía didáctica de nueve pasos y calcula el trabajo entre dos puntos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, curvas de igual potencial alrededor de una masa con dos puntos, A y B, unidos por dos caminos distintos; a la derecha, el mismo potencial como un embudo visto de lado, con A y B a dos alturas y una flecha roja con el rótulo «Mismo trabajo»: el trabajo es el mismo por cualquier camino.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una actividad interactiva enseña a escribir los símbolos del teclado español</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-31/teclado-espanol.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-31/teclado-espanol.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>La práctica, compartida por Toni Magraner, entrena símbolos, acentos y atajos con un modo de prueba y otro de entrenamiento.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>Arriba, dos filas de un teclado con la tecla del 2 y la tecla AltGr resaltadas en azul; debajo, la combinación AltGr más 2, con un signo igual en rojo, que da como resultado el símbolo @.</media:description></media:content>
-  </item>
-  <item>
-    <title>Sincronizar carpetas no es hacer copia de seguridad, recordó un hilo sobre Syncthing.</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-31/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-31/breve-1.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Sincronizar carpetas no es hacer copia de seguridad, recordó un hilo sobre Syncthing. INCIBE recomienda la regla 3-2-1: tres copias, en dos soportes distintos y una de ellas fuera de casa.</description>
-  </item>
-  <item>
-    <title>Eductia ofrece una IA de pago para preparar materiales docentes en Cataluña</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-30/eductia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/eductia.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Herramientas</category>
-    <description>El servicio genera situaciones de aprendizaje, actividades e instrumentos de evaluación alineados con la normativa catalana, y plantea la duda de qué aporta frente a una IA de uso general.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres capas: arriba, «Docente», una persona ante una ventana web; en medio, «Eductia», la capa propia del servicio con documentos y pasos encadenados; abajo, dos proveedores de modelos, «OpenAI» y «Anthropic», conectados por una línea discontinua que termina en un interrogante rojo, «¿País?», sobre el país donde se procesan los datos.</media:description></media:content>
-  </item>
-  <item>
-    <title>La Comisión Europea actualiza DigCompEdu para incorporar la IA y el bienestar digital</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-30/digcompedu.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/digcompedu.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Instituciones y empresas</category>
-    <description>El marco europeo de competencia digital del profesorado se está revisando, con versión final prevista para la primavera de 2027 y consultas al profesorado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Seis círculos alrededor de un centro, «Criterio», el criterio docente, rodeados por un anillo discontinuo, «IA en todas», la IA presente en todo el marco; a la derecha, «Bienestar», un eje con tres iconos: un reloj, una pantalla y un botón de apagado.</media:description></media:content>
-  </item>
-  <item>
-    <title>Docentes comparan cómo mantener las mismas skills y proyectos en varios ordenadores</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-30/skills-sincronizar.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/skills-sincronizar.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Quien programa con asistentes de IA en varios equipos describe tres enfoques: repositorio Git, sincronización continua y una carpeta compartida en la nube.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Dos ordenadores, cada uno con una carpeta de skills, unidos por tres caminos: arriba, «Git», una cadena de puntos que representa un repositorio; en medio, «Syncthing», dos flechas de ida y vuelta de la sincronización continua, y abajo, «Nube», una carpeta compartida.</media:description></media:content>
   </item>
 </channel>
 </rss>

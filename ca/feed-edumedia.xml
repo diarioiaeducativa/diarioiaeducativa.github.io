@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · EduMedia-IAG</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Wharton publica Primer, un sistema obert que converteix una conversa en simulació</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-13/primer-wharton.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-13/primer-wharton.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Wharton Generative AI Labs ofereix un prototip de codi obert en què un equip d&#x27;agents entrevista el docent i construeix una simulació per a l&#x27;alumnat. Els seus autors adverteixen que no s&#x27;ha avaluat a les aules.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-13-primer-wharton.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dos requadres: a l&#x27;esquerra, un docent amb el rètol «Docent» lliura la seva conversa i rep un document amb una marca d&#x27;aprovat, rotulat «Disseny»; a la dreta, una persona de l&#x27;alumnat, rotulada «Alumne», dialoga amb un personatge, rotulat «Personatge»; a sota, una fletxa vermella amb el rètol «Informe» torna de la simulació al docent.</media:description></media:content>
+  </item>
+  <item>
+    <title>Scribe v3 d&#x27;ElevenLabs redueix, segons l&#x27;empresa, un 35 % els errors en castellà</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-13/elevenlabs-scribe-v3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-13/elevenlabs-scribe-v3.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Els nous models de veu a text d&#x27;ElevenLabs redueixen els errors de paraules respecte a Scribe v2. Les xifres són de la mateixa empresa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-13-elevenlabs-scribe-v3.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, una ona de so rotulada «Veu» es converteix en un full amb línies de text rotulat «Text»; a la dreta, dues columnes rotulades «Scribe v2» i «Scribe v3», la segona més baixa, amb una fletxa vermella cap avall i el rètol «−35 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Disney anava a obrir els seus personatges a la IA; Sora va tancar abans que arribessin els diners</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-13/disney-personajes-sora-cierre.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-13/disney-personajes-sora-cierre.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025 es comentava que Disney deixaria crear contingut amb els seus personatges i es vaticinava la fi de la «barra lliure» de la IA generativa. L&#x27;acord va arribar al desembre, amb Sora; al març, OpenAI va tancar Sora i l&#x27;acord es va desfer.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-13-disney-personajes-sora-cierre.svg" medium="image" type="image/svg+xml"><media:description>Díptic en dues meitats. A l&#x27;esquerra, «Nov. 2025»: una claqueta de cinema i una moneda amb el signe del dòlar, sota el rètol «Llicència». A la dreta, «Avui»: la mateixa claqueta i la mateixa moneda ratllades amb línies blaves, sota el rètol «Tancat».</media:description></media:content>
+  </item>
+  <item>
     <title>Unreal Engine 5.9 Preview incorpora MCP perquè agents d&#x27;IA creïn entorns 3D</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-12/unreal-engine-5-9-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/unreal-engine-5-9-ia.html</guid>

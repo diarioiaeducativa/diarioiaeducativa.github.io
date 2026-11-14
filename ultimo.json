@@ -1,31 +1,31 @@
 {
- "numero": 12,
- "sale": "2026-11-13",
+ "numero": 13,
+ "sale": "2026-11-14",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Microsoft presenta Classroom, un espacio propio para centrar el trabajo de clase en Microsoft 365"
+   "titular": "Wharton publica Primer, un sistema abierto que convierte una conversación en simulación"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Microsoft presenta Classroom, un espai propi per centrar la feina de classe en Microsoft 365"
+   "titular": "Wharton publica Primer, un sistema obert que converteix una conversa en simulació"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Microsoft presenta Classroom, un espazo propio para centrar o traballo de clase en Microsoft 365"
+   "titular": "Wharton publica Primer, un sistema aberto que converte unha conversa en simulación"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Microsoftek Classroom aurkeztu du, ikasgelako lana Microsoft 365en inguruan biltzeko espazio propioa"
+   "titular": "Whartonek Primer argitaratu du, elkarrizketa bat simulazio bihurtzen duen sistema irekia"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "Microsoft unveils Classroom, a dedicated space to centre classwork on Microsoft 365"
+   "titular": "Wharton releases Primer, an open system that turns a conversation into a simulation"
   }
  }
 }

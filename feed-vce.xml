@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Normativa de conservatorios, indicadores y juegos de aula, nuevos en el repositorio</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Repositorio de recursos de Vibe Coding Educativo suma esta semana 25 recursos: 13 se presentan aquí y 12 ya tuvieron su artículo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-13-legis-cpmdem.jpg" medium="image" type="image/png"><media:description>Portada del catálogo Legis CPMDEM con un buscador, filtros de vigencia y categorías de normativa, y las primeras fichas de decretos y órdenes.</media:description></media:content>
+  </item>
+  <item>
+    <title>Atlas en xogo, un juego de mapas en gallego, se suma a las aplicaciones de EDUmind</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-13/atlas-en-xogo.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/atlas-en-xogo.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Una nueva aplicación de geografía interactiva en gallego se ha compartido en Vibe Coding Educativo. La descripción completa de sus modos de juego no se ha podido comprobar.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-atlas-en-xogo.svg" medium="image" type="image/svg+xml"><media:description>Una ventana de navegador con un mapa y el rótulo «Atlas en xogo»; a su izquierda, una lupa con un más, rotulada «Zoom»; a su derecha, un globo terráqueo con el rótulo «Vista 3D».</media:description></media:content>
+  </item>
+  <item>
     <title>Relleu Obert convierte un trozo de mapa real en una maqueta 3D imprimible para el aula</title>
     <link>https://diarioiaeducativa.github.io/2026-11-12/relleu-obert.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-12/relleu-obert.html</guid>
@@ -428,14 +446,6 @@
     <category>Vibe coding</category>
     <description>Un miembro de los grupos compartió un prompt extenso para que una IA genere una lección interactiva en 3D con el estilo de un libro de física sobre energía.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres pasos: «Prompt», una hoja con un hueco discontinuo para el tema; «Libro 3D», un libro abierto con una solapa levantada que deja ver la respuesta, y «Sello», con una marca de comprobación al completar la lección.</media:description></media:content>
-  </item>
-  <item>
-    <title>La documentación de GitHub indica que el profesorado verificado en GitHub Education puede acceder gratis a…</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-28/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-28/breve-2.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La documentación de GitHub indica que el profesorado verificado en GitHub Education puede acceder gratis a Copilot Pro, y que la elegibilidad se reevalúa cada mes.</description>
   </item>
 </channel>
 </rss>

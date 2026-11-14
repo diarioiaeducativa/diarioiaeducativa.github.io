@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · EduMedia-IAG</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Whartonek Primer argitaratu du, elkarrizketa bat simulazio bihurtzen duen sistema irekia</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-13/primer-wharton.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-13/primer-wharton.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tresnak</category>
+    <description>Wharton Generative AI Labsek kode irekiko prototipo bat eskaintzen du: agente-talde batek irakaslea elkarrizketatzen du eta ikasleentzako simulazio bat eraikitzen du. Egileek ohartarazten dute ez dela ikasgelan ebaluatu.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-13-primer-wharton.svg" medium="image" type="image/svg+xml"><media:description>Bi laukitan egindako eskema: ezkerrean, «Irakaslea» errotuluko irakasle batek bere elkarrizketa ematen du eta onartuta dagoela dioen marka duen dokumentu bat jasotzen du, «Diseinua» errotulukoa; eskuinean, «Ikaslea» errotuluko ikasle batek pertsonaia batekin hitz egiten du, «Pertsonaia» errotulukoarekin; behean, «Txostena» errotuluko gezi gorri batek simulaziotik irakaslearengana itzultzen da.</media:description></media:content>
+  </item>
+  <item>
+    <title>ElevenLabsen Scribe v3-k, enpresaren arabera, % 35 murrizten ditu akatsak gaztelaniaz</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-13/elevenlabs-scribe-v3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-13/elevenlabs-scribe-v3.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>ElevenLabsen ahotsetik testurako eredu berriek Scribe v2-k baino hitz-akats gutxiago egiten dituzte. Zifrak enpresarenak dira.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-13-elevenlabs-scribe-v3.svg" medium="image" type="image/svg+xml"><media:description>Ezkerrean, «Ahotsa» errotuluko soinu-uhin bat «Testua» errotuluko lerroz betetako orri bihurtzen da; eskuinean, «Scribe v2» eta «Scribe v3» errotuluko bi zutabe, bigarrena baxuagoa, behera doan gezi gorri batekin eta «−% 35» errotuluarekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Disneyk bere pertsonaiak AAri irekitzekoa zen; Sorak itxi egin zuen dirua iritsi aurretik</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-13/disney-personajes-sora-cierre.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-13/disney-personajes-sora-cierre.html</guid>
+    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Duela urtebete</category>
+    <description>2025eko azaroan, Disneyk bere pertsonaiekin edukia sortzen utziko zuela komentatzen zen, eta AA sortzailearen «barra libre»-aren amaiera iragartzen zen. Akordioa abenduan iritsi zen, Sorarekin; martxoan, OpenAIk Sora itxi zuen eta akordioa desegin egin zen.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-13-disney-personajes-sora-cierre.svg" medium="image" type="image/svg+xml"><media:description>Diptikoa bi erdietan. Ezkerrean, «2025 aza.»: zinema-klaketa bat eta dolarraren zeinua duen txanpon bat, «Lizentzia» errotuluaren azpian. Eskuinean, «Gaur»: klaketa eta txanpon bera, lerro urdinez marratuta, «Itxita» errotuluaren azpian.</media:description></media:content>
+  </item>
+  <item>
     <title>Unreal Engine 5.9 Previewk MCP gehitzen du AA agenteek 3D inguruneak sor ditzaten</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-12/unreal-engine-5-9-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-12/unreal-engine-5-9-ia.html</guid>
