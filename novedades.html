@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="comun.css?v=173bf639">
-<link rel="stylesheet" href="diario.css?v=fdf93e38">
+<link rel="stylesheet" href="diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -68,6 +68,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <main id="contenido" tabindex="-1" class="portada">
 <h1 class="titulo-seccion sec-novedades"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><line x1="3" x2="21" y1="22" y2="22"/><line x1="6" x2="6" y1="18" y2="11"/><line x1="10" x2="10" y1="18" y2="11"/><line x1="14" x2="14" y1="18" y2="11"/><line x1="18" x2="18" y1="18" y2="11"/><polygon points="12 2 20 7 4 7"/></svg> Instituciones y empresas</h1>
 <p class="descripcion-seccion">Lo que publican las administraciones, los organismos y las empresas sobre la inteligencia artificial en educación, como normas, guías, marcos y anuncios, cuando se comenta en los grupos. Cada pieza enlaza al documento original.</p>
+<form class="buscador lista-buscar" role="search" action="buscar.html"><label class="solo-lector" for="q">Busca en Instituciones y empresas</label><span class="campo"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input id="q" name="q" type="search" autocomplete="off" placeholder="Busca en Instituciones y empresas"></span><input type="hidden" name="seccion" value="Instituciones y empresas"></form>
 <div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-novedades">
   <figure class="ilu"><svg role="img" aria-label="Línea de tiempo bajo el rótulo «13 noviembre» con dos sesiones: a las «10:30», un libro abierto con el rótulo «Guía IA», y a las «13:30», un documento con el rótulo «Centros»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><text class="lbl" x="300" y="44" text-anchor="middle">13 noviembre</text><path class="t" d="M50 150 H550"/><circle class="ft" cx="170" cy="150" r="8"/><circle class="ft" cx="430" cy="150" r="8"/><text class="lbl" x="170" y="125" text-anchor="middle">10:30</text><text class="lbl" x="430" y="125" text-anchor="middle">13:30</text><path class="a" d="M170 160 V192 M430 160 V192"/><rect class="fa" x="70" y="192" width="200" height="120" rx="10"/><rect class="a" x="70" y="192" width="200" height="120" rx="10"/><rect class="fa" x="330" y="192" width="200" height="120" rx="10"/><rect class="t" x="330" y="192" width="200" height="120" rx="10"/><g class="a li3" transform="translate(134 202) scale(3)"><!-- Lucide: book-open (ISC) --><path d="M12 5v16"/><path d="M20.001 19A2 2 0 0022 17V5a2 2 0 00-1.999-2L16 3.002A5 5 0 0012 5a5 5 0 00-4-2H4a2 2 0 00-2 2v12a2 2 0 001.999 2H8a5 5 0 014 2 5 5 0 014-2z"/></g><g class="t li3" transform="translate(394 202) scale(3)"><!-- Lucide: file-text (ISC) --><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></g><text class="lbl" x="170" y="300" text-anchor="middle">Guía IA</text><text class="lbl" x="430" y="300" text-anchor="middle">Centros</text></svg></figure>
   <div class="texto">
@@ -371,5 +372,6 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
 })();
 </script>
+
 </body>
 </html>

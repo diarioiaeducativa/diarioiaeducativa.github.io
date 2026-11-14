@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=fdf93e38">
+<link rel="stylesheet" href="../diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Salta al contingut</a>
@@ -68,6 +68,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <main id="contenido" tabindex="-1" class="portada">
 <h1 class="titulo-seccion sec-herramientas"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg> Eines</h1>
 <p class="descripcion-seccion">Assistents, serveis i models d'intel·ligència artificial dels quals es parla als grups, explicats des del seu ús docent: què ofereixen, en quines condicions i per a què pot servir cadascun a classe.</p>
+<form class="buscador lista-buscar" role="search" action="buscar.html"><label class="solo-lector" for="q">Cerca a Eines</label><span class="campo"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input id="q" name="q" type="search" autocomplete="off" placeholder="Cerca a Eines"></span><input type="hidden" name="seccion" value="Eines"></form>
 <div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-herramientas">
   <figure class="ilu"><svg role="img" aria-label="Esquema en dos requadres: a l&#x27;esquerra, un docent amb el rètol «Docent» lliura la seva conversa i rep un document amb una marca d&#x27;aprovat, rotulat «Disseny»; a la dreta, una persona de l&#x27;alumnat, rotulada «Alumne», dialoga amb un personatge, rotulat «Personatge»; a sota, una fletxa vermella amb el rètol «Informe» torna de la simulació al docent." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><rect class="fa" x="20" y="30" width="250" height="200" rx="10"/><rect class="t" x="20" y="30" width="250" height="200" rx="10"/><rect class="fa" x="330" y="30" width="250" height="200" rx="10"/><rect class="t" x="330" y="30" width="250" height="200" rx="10"/><g class="t li3" transform="translate(36 90) scale(3)"><!-- Lucide: user (ISC) --><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></g><path class="t" d="M114 126 H168 M158 118 L168 126 L158 134"/><g class="a li3" transform="translate(176 90) scale(3)"><!-- Lucide: file-check (ISC) --><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"/><path d="M14 2v5a1 1 0 0 0 1 1h5"/><path d="m9 15 2 2 4-4"/></g><text class="lbl" x="72" y="205" text-anchor="middle">Docent</text><text class="lbl" x="212" y="205" text-anchor="middle">Disseny</text><path class="t" d="M272 130 H328 M318 122 L328 130 L318 138"/><g class="t li3" transform="translate(346 90) scale(3)"><!-- Lucide: user (ISC) --><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></g><path class="a" d="M424 126 H464 M504 126 H524"/><g class="a li2" transform="translate(440 70) scale(2)"><!-- Lucide: message-square (ISC) --><path d="M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z"/></g><circle class="fa" cx="540" cy="100" r="18"/><circle class="t" cx="540" cy="100" r="18"/><path class="t" d="M510 160 Q540 120 570 160 Z"/><circle class="ft" cx="533" cy="97" r="2.5"/><circle class="ft" cx="547" cy="97" r="2.5"/><text class="lbl" x="382" y="205" text-anchor="middle">Alumne</text><text class="lbl" x="540" y="205" text-anchor="middle">Personatge</text><path class="r" d="M455 232 V298 H145 V240 M135 252 L145 240 L155 252"/><text class="lbl" x="300" y="285" text-anchor="middle">Informe</text></svg></figure>
   <div class="texto">
@@ -357,5 +358,6 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
 })();
 </script>
+
 </body>
 </html>

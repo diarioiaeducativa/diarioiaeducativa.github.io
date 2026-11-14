@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=fdf93e38">
+<link rel="stylesheet" href="../diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Skip to content</a>
@@ -68,6 +68,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <main id="contenido" tabindex="-1" class="portada">
 <h1 class="titulo-seccion sec-vibecoding"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</h1>
 <p class="descripcion-seccion">Apps that teachers create by describing them to an artificial intelligence, without needing to know how to code, and what the groups learn about making them: instructions for generating resources, coding agents and solutions to common problems. Each app is presented with its author's name, and those that join the Vibe Coding Educativo <a href="https://vibe-coding-educativo.github.io/app_edu/" target="_blank" rel="noopener">Resource repository</a> have their article here.</p>
+<form class="buscador lista-buscar" role="search" action="buscar.html"><label class="solo-lector" for="q">Search Vibe coding</label><span class="campo"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input id="q" name="q" type="search" autocomplete="off" placeholder="Search Vibe coding"></span><input type="hidden" name="seccion" value="Vibe coding"></form>
 <div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-vibecoding">
   <figure class="ilu captura"><img src="../capturas/2026-11-13-legis-cpmdem.jpg" alt="Home page of the Legis CPMDEM catalogue with a search box, filters for validity and categories of regulation, and the first entries for decrees and orders." width="1280" height="800" loading="lazy" decoding="async"></figure>
   <div class="texto">
@@ -152,7 +153,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <h2 class="titular"><a href="2026-11-09/xifres-i-lletres-acollida.html">Two Catalan-language apps by David Cordones: a letters and numbers game and a reception classroom</a></h2>
   <p class="entradilla">Xifres i Lletres trains vocabulary and mental arithmetic by age; Aula d&#x27;Acollida Digital offers initial language support.</p>
   </div>
-</article></div><nav class="archivo-meses" aria-labelledby="t-meses"><h2 id="t-meses">By month</h2><p><a href="vibecoding/2026-11.html">November 2026</a> · <a href="vibecoding/2026-10.html">October 2026</a></p></nav>
+</article></div><nav class="archivo-meses" aria-labelledby="t-meses"><h2 id="t-meses">By month</h2><div class="selector-meses"><div class="meses-anyo" data-anyo="2026"><div class="cal-nav"><button type="button" class="cal-ant" title="Previous year" aria-label="Previous year" hidden><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></button><p class="meses-titulo">2026</p><button type="button" class="cal-sig" title="Next year" aria-label="Next year" hidden><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></button></div><ol class="meses-rejilla"><li data-mes="2026-01"><span><abbr title="January 2026">Jan</abbr></span></li><li data-mes="2026-02"><span><abbr title="February 2026">Feb</abbr></span></li><li data-mes="2026-03"><span><abbr title="March 2026">Mar</abbr></span></li><li data-mes="2026-04"><span><abbr title="April 2026">Apr</abbr></span></li><li data-mes="2026-05"><span><abbr title="May 2026">May</abbr></span></li><li data-mes="2026-06"><span><abbr title="June 2026">Jun</abbr></span></li><li data-mes="2026-07"><span><abbr title="July 2026">Jul</abbr></span></li><li data-mes="2026-08"><span><abbr title="August 2026">Aug</abbr></span></li><li data-mes="2026-09"><span><abbr title="September 2026">Sept</abbr></span></li><li data-mes="2026-10"><a href="vibecoding/2026-10.html" title="October 2026" aria-label="October 2026">Oct</a></li><li data-mes="2026-11"><a href="vibecoding/2026-11.html" title="November 2026" aria-label="November 2026">Nov</a></li><li data-mes="2026-12"><span><abbr title="December 2026">Dec</abbr></span></li></ol></div></div><noscript><style>.meses-anyo[hidden]{display:block}</style></noscript></nav>
 </main>
 <footer class="pie">
   <div class="pie-unete">
@@ -404,6 +405,29 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.addEventListener('click',function(e){var h=destino(e);if(!h)return;
     if(e.ctrlKey||e.metaKey||e.shiftKey)window.open(h,'_blank');else location.href=h;});
   document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
+})();
+</script>
+<script>
+(() => {
+  // Un año cada vez, con flechas, como el mes en la hemeroteca (ADR 0062); el mes en curso, con el bolígrafo rojo
+  const h = new Date(), hoy = `${h.getFullYear()}-${String(h.getMonth() + 1).padStart(2, '0')}`;
+  document.querySelectorAll('.selector-meses').forEach(s => {
+    const bloques = [...s.querySelectorAll('.meses-anyo')];
+    function ver(i, foco) {
+      bloques.forEach((b, j) => { b.hidden = j !== i; });
+      const b = bloques[i].querySelector(foco);
+      (b.disabled ? bloques[i].querySelector(foco === '.cal-ant' ? '.cal-sig' : '.cal-ant') : b).focus();
+    }
+    bloques.forEach((b, i) => {
+      const ant = b.querySelector('.cal-ant'), sig = b.querySelector('.cal-sig');
+      ant.hidden = sig.hidden = false;
+      ant.disabled = i === 0; sig.disabled = i === bloques.length - 1;
+      ant.addEventListener('click', () => ver(i - 1, '.cal-ant'));
+      sig.addEventListener('click', () => ver(i + 1, '.cal-sig'));
+    });
+    const li = s.querySelector(`li[data-mes="${hoy}"]`);
+    if (li) li.classList.add('hoy');
+  });
 })();
 </script>
 </body>

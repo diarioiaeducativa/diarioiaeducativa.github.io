@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="comun.css?v=173bf639">
-<link rel="stylesheet" href="diario.css?v=fdf93e38">
+<link rel="stylesheet" href="diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -68,6 +68,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <main id="contenido" tabindex="-1" class="portada">
 <h1 class="titulo-seccion sec-hace-un-ano"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l4 2"/></svg> Hace un año</h1>
 <p class="descripcion-seccion">Cada día, algo que se hablaba en los grupos el mismo día del año anterior, contado desde hoy: lo que ha cambiado, lo que ya no existe y lo que el tiempo ha resuelto.</p>
+<form class="buscador lista-buscar" role="search" action="buscar.html"><label class="solo-lector" for="q">Busca en Hace un año</label><span class="campo"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input id="q" name="q" type="search" autocomplete="off" placeholder="Busca en Hace un año"></span><input type="hidden" name="seccion" value="Hace un año"></form>
 <div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-hace-un-ano">
   <figure class="ilu"><svg role="img" aria-label="Díptico en dos mitades. A la izquierda, «Nov. 2025»: una claqueta de cine y una moneda con el signo del dólar, bajo el rótulo «Licencia». A la derecha, «Hoy»: la misma claqueta y la misma moneda tachadas con líneas azules, bajo el rótulo «Cerrado»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><rect class="fa" x="310" y="20" width="270" height="300" rx="10"/><path class="t" d="M300 20 V320"/><text class="lbl" x="150" y="55" text-anchor="middle">Nov. 2025</text><text class="lbl" x="450" y="55" text-anchor="middle">Hoy</text><g class="t li4" transform="translate(50 110) scale(4)"><!-- Lucide: clapperboard (ISC) --><path d="m12.296 3.464 3.02 3.956"/><path d="M20.2 6 3 11l-.9-2.4c-.3-1.1.3-2.2 1.3-2.5l13.5-4c1.1-.3 2.2.3 2.5 1.3z"/><path d="M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="m6.18 5.276 3.1 3.899"/></g><g class="t li3" transform="translate(190 122) scale(3)"><!-- Lucide: circle-dollar-sign (ISC) --><circle cx="12" cy="12" r="10"/><path d="M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8"/><path d="M12 18V6"/></g><text class="lbl" x="150" y="250" text-anchor="middle">Licencia</text><g class="t li4" transform="translate(350 110) scale(4)"><!-- Lucide: clapperboard (ISC) --><path d="m12.296 3.464 3.02 3.956"/><path d="M20.2 6 3 11l-.9-2.4c-.3-1.1.3-2.2 1.3-2.5l13.5-4c1.1-.3 2.2.3 2.5 1.3z"/><path d="M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="m6.18 5.276 3.1 3.899"/></g><g class="t li3" transform="translate(490 122) scale(3)"><!-- Lucide: circle-dollar-sign (ISC) --><circle cx="12" cy="12" r="10"/><path d="M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8"/><path d="M12 18V6"/></g><path class="a" d="M350 220 L446 110 M490 194 L562 122"/><text class="lbl" x="450" y="250" text-anchor="middle">Cerrado</text></svg></figure>
   <div class="texto">
@@ -391,5 +392,6 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
 })();
 </script>
+
 </body>
 </html>

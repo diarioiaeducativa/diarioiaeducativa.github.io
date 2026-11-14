@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=fdf93e38">
+<link rel="stylesheet" href="../diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Joan edukira</a>
@@ -273,7 +273,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 })();
 </script>
 <script type="module">
-const T = {"resultados_1": "Emaitza 1", "resultados_n": "{n} emaitza", "sin_resultados": "Ez dago hitz horiekin argitaratutako ezer.", "todas": "Guztiak", "mas_resultados": "Emaitza gehiago", "buscando": "Bilatzen…", "sin_buscador": "Ezin izan da bilatzailea kargatu."}, POR_PAGINA = 10;
+const T = {"resultados_1": "Emaitza 1", "resultados_n": "{n} emaitza", "sin_resultados": "Ez dago hitz horiekin argitaratutako ezer.", "todas": "Guztiak", "mas_resultados": "Emaitza gehiago", "buscando": "Bilatzen…", "sin_buscador": "Ezin izan da bilatzailea kargatu."}, ICONOS = {"herramientas": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z\"/></svg>", "vibecoding": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><polyline points=\"16 18 22 12 16 6\"/><polyline points=\"8 6 2 12 8 18\"/></svg>", "multimedia": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M20.2 6 3 11l-.9-2.4c-.3-1.1.3-2.2 1.3-2.5l13.5-4c1.1-.3 2.2.3 2.5 1.3Z\"/><path d=\"m6.2 5.3 3.1 3.9\"/><path d=\"m12.4 3.4 3.1 4\"/><path d=\"M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z\"/></svg>", "debates": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2z\"/><path d=\"M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1\"/></svg>", "novedades": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><line x1=\"3\" x2=\"21\" y1=\"22\" y2=\"22\"/><line x1=\"6\" x2=\"6\" y1=\"18\" y2=\"11\"/><line x1=\"10\" x2=\"10\" y1=\"18\" y2=\"11\"/><line x1=\"14\" x2=\"14\" y1=\"18\" y2=\"11\"/><line x1=\"18\" x2=\"18\" y1=\"18\" y2=\"11\"/><polygon points=\"12 2 20 7 4 7\"/></svg>", "biblioteca": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m16 6 4 14\"/><path d=\"M12 6v14\"/><path d=\"M8 8v12\"/><path d=\"M4 4v16\"/></svg>", "hace-un-ano": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8\"/><path d=\"M3 3v5h5\"/><path d=\"M12 7v5l4 2\"/></svg>", "reportaje": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z\"/><path d=\"M14 2v4a2 2 0 0 0 2 2h4\"/><path d=\"M10 9H8\"/><path d=\"M16 13H8\"/><path d=\"M16 17H8\"/></svg>", "breves": "<svg class=\"ico\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z\"/></svg>"}, POR_PAGINA = 10;
 const campo = document.getElementById('q'), estado = document.getElementById('estado'), lista = document.getElementById('resultados'),
       filtros = document.getElementById('filtros'), mas = document.getElementById('mas');
 let pf = null, seccion = null, actuales = [], mostrados = 0, vuelta = 0;
@@ -311,7 +311,18 @@ async function siguientes() {
     const h = document.createElement('h2'); h.className = 'titular';
     const a = document.createElement('a'); a.href = d.url; a.textContent = (d.meta && d.meta.title) || d.url; h.append(a);
     const x = document.createElement('p'); x.className = 'extracto'; x.innerHTML = d.excerpt;   // Pagefind lo da escapado, con <mark>
-    li.append(rot, h, x); lista.append(li);
+    // Puntos suspensivos donde el fragmento corta el texto: delante si no empieza al principio, detrás si no
+    // llega al final (Juanjo, 14-11-2026, ADR 0062)
+    const plano = s => (s || '').replace(/\s+/g, ' ').trim(), todo = plano(d.content), trozo = plano(x.textContent);
+    if (trozo && !todo.startsWith(trozo)) x.prepend('…\u00a0');   // sin partir: los puntos no quedan solos en su línea
+    if (trozo && !todo.endsWith(trozo)) x.append('\u00a0…');
+    // Una miniatura pequeña bajo el titular, con el texto alrededor y el titular entero (ADR 0062): el dibujo de la
+    // pieza o la captura de su recurso; sin ella (los breves), el icono de la sección sobre su color
+    const fig = document.createElement('a'); fig.className = 'miniatura'; fig.href = d.url; fig.tabIndex = -1; fig.setAttribute('aria-hidden', 'true');
+    const img = d.meta && d.meta.imagen;
+    if (img) { const im = document.createElement('img'); im.src = img; im.alt = ''; im.loading = 'lazy'; im.decoding = 'async'; fig.append(im); }
+    else { fig.classList.add('sin-imagen'); fig.innerHTML = ICONOS[(d.meta && d.meta.clave) || ''] || ''; }
+    li.append(rot, h, fig, x); lista.append(li);
   }
   mostrados += tanda.length; mas.hidden = mostrados >= actuales.length;
 }
@@ -327,7 +338,9 @@ async function buscar() {
   estado.textContent = n === 0 ? T.sin_resultados : n === 1 ? T.resultados_1 : T.resultados_n.replace('{n}', n);
   pintaFiltros(r); await siguientes();
 }
-campo.addEventListener('input', () => { seccion = null; buscar(); });
+// La sección elegida se mantiene al escribir otra búsqueda, hasta pulsar «Todas»: quien llega desde el buscador de una
+// sección sigue buscando en ella (ADR 0062)
+campo.addEventListener('input', () => buscar());
 document.getElementById('buscador').addEventListener('submit', ev => { ev.preventDefault(); buscar(); });
 mas.addEventListener('click', siguientes);
 if (campo.value) buscar(); else campo.focus();

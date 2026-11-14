@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=fdf93e38">
+<link rel="stylesheet" href="../diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Salta al contingut</a>
@@ -68,6 +68,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <main id="contenido" tabindex="-1" class="portada">
 <h1 class="titulo-seccion sec-debates"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2z"/><path d="M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1"/></svg> Debats</h1>
 <p class="descripcion-seccion">El que es discuteix amb arguments als grups, com l'avaluació, l'autoria, la privacitat o la relació amb les famílies. Les postures s'exposen sense atribuir-les a ningú i, quan hi ha arguments seriosos en tots dos sentits, es recullen tots dos.</p>
+<form class="buscador lista-buscar" role="search" action="buscar.html"><label class="solo-lector" for="q">Cerca a Debats</label><span class="campo"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input id="q" name="q" type="search" autocomplete="off" placeholder="Cerca a Debats"></span><input type="hidden" name="seccion" value="Debats"></form>
 <div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-debates">
   <figure class="ilu"><svg role="img" aria-label="Esquema en dues meitats: a l&#x27;esquerra, sota el rètol «Formats segurs», tres icones rotulades «Oral» (un micròfon), «Presentació» (una pissarra) i «Pràctica» (un llapis); a la dreta, una lupa ratllada en vermell amb el rètol «Detector»." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><path class="t" d="M400 30 V320"/><text class="lbl" x="210" y="60" text-anchor="middle">Formats segurs</text><g class="a li3" transform="translate(54 120) scale(3)"><!-- Lucide: mic (ISC) --><path d="M12 19v3"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><rect x="9" y="2" width="6" height="13" rx="3"/></g><g class="a li3" transform="translate(174 120) scale(3)"><!-- Lucide: presentation (ISC) --><path d="M2 3h20"/><path d="M21 3v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V3"/><path d="m7 21 5-5 5 5"/></g><g class="a li3" transform="translate(294 120) scale(3)"><!-- Lucide: pencil (ISC) --><path d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"/><path d="m15 5 4 4"/></g><text class="lbl" x="90" y="240" text-anchor="middle">Oral</text><text class="lbl" x="210" y="240" text-anchor="middle">Presentació</text><text class="lbl" x="330" y="240" text-anchor="middle">Pràctica</text><circle class="t" cx="485" cy="150" r="32"/><path class="t" d="M508 173 L538 203"/><path class="r" d="M450 115 L520 185 M520 115 L450 185"/><text class="lbl" x="495" y="270" text-anchor="middle">Detector</text></svg></figure>
   <div class="texto">
@@ -378,5 +379,6 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
 })();
 </script>
+
 </body>
 </html>

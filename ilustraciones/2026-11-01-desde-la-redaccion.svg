@@ -1,0 +1,45 @@
+<svg class="ilu-d" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><style>svg.ilu-d{background:var(--sec-tinte,#f1f2f4)}.ilu-d .t{stroke: var(--ilu-tinta,#16181d); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .a{stroke: var(--ilu-azul,#1c3faa); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .r{stroke: var(--ilu-rojo,#c8202c); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .fa{fill: var(--ilu-relleno,#dfe5f7); stroke: none;}.ilu-d .ft{fill: var(--ilu-tinta,#16181d); stroke: none;}.ilu-d .fz{fill: var(--ilu-azul,#1c3faa); stroke: none;}.ilu-d .lbl{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px;}.ilu-d .num{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 34px; font-weight: 600;}.ilu-d .num-tres{font-size: 38px; font-weight: 700;}.ilu-d .nom-chatgpt{fill: var(--c-herramientas,#1c3faa);}.ilu-d .nom-vce{fill: var(--c-comunidad,#1d7547);}.ilu-d .nom-edumedia{fill: var(--c-multimedia,#a8206f);}.ilu-d .total{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 60px; font-weight: 700;}.ilu-d g.li2{stroke-width: 1.25;}.ilu-d g.li3{stroke-width: 0.8333;}.ilu-d g.li4{stroke-width: 0.625;}</style>
+  <!-- Los grupos -->
+  <path class="t fa" d="M18 92 h56 a8 8 0 0 1 8 8 v22 a8 8 0 0 1 -8 8 h-40 l-10 10 v-10 h-6 a8 8 0 0 1 -8 -8 v-22 a8 8 0 0 1 8 -8 z"/>
+  <path class="t fa" d="M18 150 h56 a8 8 0 0 1 8 8 v22 a8 8 0 0 1 -8 8 h-40 l-10 10 v-10 h-6 a8 8 0 0 1 -8 -8 v-22 a8 8 0 0 1 8 -8 z"/>
+  <path class="t fa" d="M18 208 h56 a8 8 0 0 1 8 8 v22 a8 8 0 0 1 -8 8 h-40 l-10 10 v-10 h-6 a8 8 0 0 1 -8 -8 v-22 a8 8 0 0 1 8 -8 z"/>
+  <path class="t" d="M30 106 h34 M30 116 h22 M30 164 h34 M30 174 h26 M30 222 h34 M30 232 h18"/>
+  <text class="lbl" x="48" y="290" text-anchor="middle">Grupos</text>
+  <!-- Redactor -->
+  <path class="t" d="M88 170 L118 170 M110 163 L118 170 L110 177"/>
+  <rect class="t fa" x="124" y="140" width="80" height="60" rx="8"/>
+  <path class="a" d="M146 186 L172 160 L180 168 L154 194 L144 196 Z M168 164 L176 172"/>
+  <text class="lbl" x="164" y="226" text-anchor="middle">Redactor</text>
+  <!-- Revisor -->
+  <path class="t" d="M206 170 L234 170 M226 163 L234 170 L226 177"/>
+  <rect class="t fa" x="240" y="140" width="80" height="60" rx="8"/>
+  <path class="r" d="M260 170 L274 184 L300 156"/>
+  <text class="lbl" x="280" y="226" text-anchor="middle">Revisor</text>
+  <!-- Reparto -->
+  <path class="t" d="M322 170 L340 170 M340 70 L340 270 M340 70 L362 70 M340 170 L362 170 M340 270 L362 270 M354 63 L362 70 L354 77 M354 163 L362 170 L354 177 M354 263 L362 270 L354 277"/>
+  <!-- Ilustrador -->
+  <rect class="t fa" x="368" y="44" width="80" height="52" rx="8"/>
+  <path class="a" d="M386 84 Q396 60 410 72 T432 58"/><circle class="fz" cx="432" cy="58" r="4"/>
+  <text class="lbl" x="408" y="118" text-anchor="middle">Ilustrador</text>
+  <!-- Guion y juez -->
+  <rect class="t fa" x="368" y="144" width="80" height="52" rx="8"/>
+  <path class="t" d="M380 158 h26 a5 5 0 0 1 5 5 v10 a5 5 0 0 1 -5 5 h-16 l-6 6 v-6 h-4 a5 5 0 0 1 -5 -5 v-10 a5 5 0 0 1 5 -5 z"/>
+  <text class="ft" x="428" y="182" font-family="Newsreader, Georgia, serif" font-size="20" font-weight="700" text-anchor="middle">7</text>
+  <path class="r" d="M420 164 L436 164"/>
+  <text class="lbl" x="408" y="218" text-anchor="middle">Guion y juez</text>
+  <!-- Traductor -->
+  <rect class="t fa" x="368" y="244" width="80" height="52" rx="8"/>
+  <text class="ft" x="386" y="276" font-family="Newsreader, Georgia, serif" font-size="16" font-weight="700" text-anchor="middle">ES</text>
+  <path class="a" d="M399 270 L413 270 M408 265 L413 270 L408 275"/>
+  <text class="ft" x="431" y="276" font-family="Newsreader, Georgia, serif" font-size="16" font-weight="700" text-anchor="middle">CA</text>
+  <text class="lbl" x="408" y="318" text-anchor="middle">Traductor</text>
+  <!-- Al diario y a los grupos -->
+  <path class="t" d="M450 70 Q480 70 486 120 M450 170 L484 150 M476 147 L486 149 L481 158 M450 270 Q480 270 486 200 M476 112 L486 122 L492 110"/>
+  <rect class="t fa" x="494" y="96" width="92" height="110" rx="6"/>
+  <path class="t" d="M506 116 h68 M506 124 h68"/>
+  <path class="t" d="M506 140 h30 M506 150 h30 M506 160 h30 M506 170 h30 M544 140 h30 v34 h-30 z"/>
+  <text class="lbl" x="540" y="196" text-anchor="middle">7:00</text>
+  <path class="t" d="M540 206 L540 236 M533 229 L540 236 L547 229"/>
+  <path class="t fa" d="M504 242 h72 a8 8 0 0 1 8 8 v20 a8 8 0 0 1 -8 8 h-52 l-10 10 v-10 h-10 a8 8 0 0 1 -8 -8 v-20 a8 8 0 0 1 8 -8 z"/>
+  <text class="lbl" x="540" y="266" text-anchor="middle">Avisos</text>
+</svg>

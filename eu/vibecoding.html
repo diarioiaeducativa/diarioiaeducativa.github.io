@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=fdf93e38">
+<link rel="stylesheet" href="../diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Joan edukira</a>
@@ -68,6 +68,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <main id="contenido" tabindex="-1" class="portada">
 <h1 class="titulo-seccion sec-vibecoding"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg> Vibe coding</h1>
 <p class="descripcion-seccion">Irakasleek adimen artifizial bati deskribatuz sortzen dituzten aplikazioak, programatzen jakin beharrik gabe, eta haiek egiteko taldeetan ikasten dena: baliabideak sortzeko jarraibideak, programazio-agenteak eta ohiko arazoen konponbideak. Aplikazio bakoitza egilearen izenarekin aurkezten da, eta Vibe Coding Educativoren <a href="https://vibe-coding-educativo.github.io/app_edu/" target="_blank" rel="noopener">Baliabideen biltegia</a> sartzen direnek hemen dute beren artikulua.</p>
+<form class="buscador lista-buscar" role="search" action="buscar.html"><label class="solo-lector" for="q">Bilatu Vibe coding atalean</label><span class="campo"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input id="q" name="q" type="search" autocomplete="off" placeholder="Bilatu Vibe coding atalean"></span><input type="hidden" name="seccion" value="Vibe coding"></form>
 <div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-vibecoding">
   <figure class="ilu captura"><img src="../capturas/2026-11-13-legis-cpmdem.jpg" alt="Legis CPMDEM katalogoaren hasierako orria, bilatzaile batekin, indarraldi-iragazkiekin eta araudi-kategoriekin, eta dekretu eta aginduen lehen fitxekin." width="1280" height="800" loading="lazy" decoding="async"></figure>
   <div class="texto">
@@ -152,7 +153,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <h2 class="titular"><a href="2026-11-09/xifres-i-lletres-acollida.html">David Cordonesen katalanezko bi aplikazio: letra eta zifra jokoa eta harrera-gela bat</a></h2>
   <p class="entradilla">Xifres i Lletres-ek lexikoa eta buruz kalkulatzea lantzen ditu adinaren arabera; Aula d&#x27;Acollida Digital-ek hasierako hizkuntza-laguntza eskaintzen du.</p>
   </div>
-</article></div><nav class="archivo-meses" aria-labelledby="t-meses"><h2 id="t-meses">Hilabeteka</h2><p><a href="vibecoding/2026-11.html">2026ko azaroa</a> · <a href="vibecoding/2026-10.html">2026ko urria</a></p></nav>
+</article></div><nav class="archivo-meses" aria-labelledby="t-meses"><h2 id="t-meses">Hilabeteka</h2><div class="selector-meses"><div class="meses-anyo" data-anyo="2026"><div class="cal-nav"><button type="button" class="cal-ant" title="Aurreko urtea" aria-label="Aurreko urtea" hidden><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></button><p class="meses-titulo">2026</p><button type="button" class="cal-sig" title="Hurrengo urtea" aria-label="Hurrengo urtea" hidden><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></button></div><ol class="meses-rejilla"><li data-mes="2026-01"><span><abbr title="2026ko urtarrila">urt.</abbr></span></li><li data-mes="2026-02"><span><abbr title="2026ko otsaila">ots.</abbr></span></li><li data-mes="2026-03"><span><abbr title="2026ko martxoa">mar.</abbr></span></li><li data-mes="2026-04"><span><abbr title="2026ko apirila">api.</abbr></span></li><li data-mes="2026-05"><span><abbr title="2026ko maiatza">mai.</abbr></span></li><li data-mes="2026-06"><span><abbr title="2026ko ekaina">eka.</abbr></span></li><li data-mes="2026-07"><span><abbr title="2026ko uztaila">uzt.</abbr></span></li><li data-mes="2026-08"><span><abbr title="2026ko abuztua">abu.</abbr></span></li><li data-mes="2026-09"><span><abbr title="2026ko iraila">ira.</abbr></span></li><li data-mes="2026-10"><a href="vibecoding/2026-10.html" title="2026ko urria" aria-label="2026ko urria">urr.</a></li><li data-mes="2026-11"><a href="vibecoding/2026-11.html" title="2026ko azaroa" aria-label="2026ko azaroa">aza.</a></li><li data-mes="2026-12"><span><abbr title="2026ko abendua">abe.</abbr></span></li></ol></div></div><noscript><style>.meses-anyo[hidden]{display:block}</style></noscript></nav>
 </main>
 <footer class="pie">
   <div class="pie-unete">
@@ -404,6 +405,29 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.addEventListener('click',function(e){var h=destino(e);if(!h)return;
     if(e.ctrlKey||e.metaKey||e.shiftKey)window.open(h,'_blank');else location.href=h;});
   document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
+})();
+</script>
+<script>
+(() => {
+  // Un año cada vez, con flechas, como el mes en la hemeroteca (ADR 0062); el mes en curso, con el bolígrafo rojo
+  const h = new Date(), hoy = `${h.getFullYear()}-${String(h.getMonth() + 1).padStart(2, '0')}`;
+  document.querySelectorAll('.selector-meses').forEach(s => {
+    const bloques = [...s.querySelectorAll('.meses-anyo')];
+    function ver(i, foco) {
+      bloques.forEach((b, j) => { b.hidden = j !== i; });
+      const b = bloques[i].querySelector(foco);
+      (b.disabled ? bloques[i].querySelector(foco === '.cal-ant' ? '.cal-sig' : '.cal-ant') : b).focus();
+    }
+    bloques.forEach((b, i) => {
+      const ant = b.querySelector('.cal-ant'), sig = b.querySelector('.cal-sig');
+      ant.hidden = sig.hidden = false;
+      ant.disabled = i === 0; sig.disabled = i === bloques.length - 1;
+      ant.addEventListener('click', () => ver(i - 1, '.cal-ant'));
+      sig.addEventListener('click', () => ver(i + 1, '.cal-sig'));
+    });
+    const li = s.querySelector(`li[data-mes="${hoy}"]`);
+    if (li) li.classList.add('hoy');
+  });
 })();
 </script>
 </body>

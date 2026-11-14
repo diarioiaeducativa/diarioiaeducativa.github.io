@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=fdf93e38">
+<link rel="stylesheet" href="../diario.css?v=aba55d60">
 </head>
 <body class="pag-seccion">
 <a class="saltar" href="#contenido">Joan edukira</a>
@@ -68,6 +68,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <main id="contenido" tabindex="-1" class="portada">
 <h1 class="titulo-seccion sec-biblioteca"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="m16 6 4 14"/><path d="M12 6v14"/><path d="M8 8v12"/><path d="M4 4v16"/></svg> Liburutegia</h1>
 <p class="descripcion-seccion">Artikulu bat ChatGPT-IA-eduren <a href="https://t.me/ChatGPTedu/21753" target="_blank" rel="noopener">Liburutegi digitala</a> sartzen den dokumentu bakoitzeko; kideek biltzen duten adimen artifizialari eta hezkuntzari buruzko gida, txosten eta azterlanen bilduma da. Artikulu bakoitzak azaltzen du nork argitaratzen duen dokumentua, zer proposatzen duen eta besteekin nola uztartzen den, eta iturri ofizialera estekatzen du.</p>
+<form class="buscador lista-buscar" role="search" action="buscar.html"><label class="solo-lector" for="q">Bilatu Liburutegia atalean</label><span class="campo"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input id="q" name="q" type="search" autocomplete="off" placeholder="Bilatu Liburutegia atalean"></span><input type="hidden" name="seccion" value="Liburutegia"></form>
 <div class="fila fila-seccion" style="--n:3"><article class="pieza destacada sec-biblioteca">
   <figure class="ilu"><svg role="img" aria-label="Hiru zirkulu kontzentrikoko eskema: erdian «Zu», inguruan «AA sistemak» eta kanpoko eraztunean «Pertsonak eta erakundeak»; bi gezi kurbak lehen biak lotzen dituzte, eta gezi gorri batek kanpotik «Non eman dezaket iritzia?» galdera seinalatzen du. Azpian, «Bost galdera» izenburua eta bost kutxa, gidako galdera bakoitzeko bana." xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><circle class="fa" cx="170" cy="135" r="110"/><circle class="t" cx="170" cy="135" r="110"/><circle class="fa" cx="170" cy="135" r="73"/><circle class="t" cx="170" cy="135" r="73"/><circle class="fz" cx="170" cy="135" r="38"/><circle class="t" cx="170" cy="135" r="38"/><text class="lbl" x="170" y="142" text-anchor="middle">Zu</text><path class="a" d="M122 108 A55 55 0 0 0 122 162 M122 162 l-1 -10 M122 162 l9 -4"/><path class="a" d="M218 162 A55 55 0 0 0 218 108 M218 108 l1 10 M218 108 l-9 4"/><path class="t" d="M234 71 L328 50"/><text class="lbl" x="335" y="55">Pertsonak eta erakundeak</text><path class="t" d="M209 174 L328 200"/><text class="lbl" x="335" y="205">AA sistemak</text><path class="r" d="M328 121 L284 134 M284 134 l10 -1 M284 134 l6 -8"/><text class="lbl" x="335" y="126">Non eman dezaket iritzia?</text><text class="lbl" x="300" y="268" text-anchor="middle">Bost galdera</text><rect class="t" x="20" y="278" width="100" height="46" rx="8"/><circle class="ft" cx="42" cy="301" r="5"/><path class="t" d="M58 301 H100"/><rect class="t" x="135" y="278" width="100" height="46" rx="8"/><circle class="ft" cx="157" cy="301" r="5"/><path class="t" d="M173 301 H215"/><rect class="t" x="250" y="278" width="100" height="46" rx="8"/><circle class="ft" cx="272" cy="301" r="5"/><path class="t" d="M288 301 H330"/><rect class="t" x="365" y="278" width="100" height="46" rx="8"/><circle class="ft" cx="387" cy="301" r="5"/><path class="t" d="M403 301 H445"/><rect class="t" x="480" y="278" width="100" height="46" rx="8"/><circle class="ft" cx="502" cy="301" r="5"/><path class="t" d="M518 301 H560"/></svg></figure>
   <div class="texto">
@@ -371,5 +372,6 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.addEventListener('auxclick',function(e){var h=destino(e);if(h&&e.button===1)window.open(h,'_blank');});
 })();
 </script>
+
 </body>
 </html>
