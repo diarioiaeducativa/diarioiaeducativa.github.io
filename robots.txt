@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://diarioiaeducativa.github.io/sitemap.xml
+Sitemap: https://diarioiaeducativa.github.io/sitemap-news.xml
