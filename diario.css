@@ -433,6 +433,13 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .redaccion .red-proceso > .ilu { margin: 1.2rem 0 1.6rem; background: var(--papel-2); padding: 1rem; }
 .equipo { padding-left: 1.2rem; line-height: 1.6; }
 .equipo li { margin: 0.35rem 0; }
+/* El rótulo de cada turno (cada noche, el fin de semana) va con el primer agente en un bloque que no se parte,
+   para que no se quede solo al pie de una columna en ningún navegador; la lista sigue sin corte */
+.equipo-turno { font-weight: 700; margin: 1.1rem 0 0.2rem; }
+.turno-cabeza { break-inside: avoid; }
+.turno-cabeza > .equipo { margin-bottom: 0; }
+.turno-cabeza + .equipo { margin-top: 0; }
+.equipo li { break-inside: avoid; }
 
 /* La página de contacto (ADR 0051): el correo, a la vista, en una franja como la del editorial */
 .contacto-correo {
@@ -476,8 +483,6 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .ficha-doc dd { margin: 0; overflow-wrap: anywhere; }
 .ficha-doc .doc-leer { margin: 0.7rem 0 0; font-weight: 600; }
 @media (max-width: 30rem) { .ficha-doc dl { grid-template-columns: 1fr; } .ficha-doc dd + dt { margin-top: 0.35rem; } }
-.proceso { padding-left: 1.4rem; line-height: 1.6; }
-.proceso li + li { margin-top: 0.55rem; }
 /* Qué es cada sección, bajo su título */
 .descripcion-seccion { max-width: 46rem; margin: 0 0 1.6rem; font-size: 1.08rem; line-height: 1.55; color: var(--tinta-2); }
 /* Al pie de una página que acumula, todo lo publicado por meses (ADR 0050); cada mes, en su página */
