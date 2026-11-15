@@ -36,6 +36,15 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-breath-ejercicio-de-respiracion-guiada-p.jpg" medium="image" type="image/png"><media:description>Pantalla de GeoBreath con un cuadrado en el que un punto recorre los lados, la indicación «Inspira» en el centro, los contadores de sesión y ciclos y el selector de figura y segundos por lado.</media:description></media:content>
   </item>
   <item>
+    <title>Un editor web permite diseñar cromos coleccionables de fauna y flora para el aula</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Generador de Cromos Eco-Duel, creado por David Cordones, ofrece un formulario para componer tarjetas con datos de animales y plantas, con una colección por curso, desde 1.º de Primaria hasta 2.º de Bachillerato.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-generador-de-cromos-para-gamificacion-ed.jpg" medium="image" type="image/png"><media:description>Editor de cromos con el formulario a la izquierda y, a la derecha, un cromo de fauna llamado Senglar con tamaño 7, nivel 3 y velocidad 5, y los botones Descarregar y Copiar encima.</media:description></media:content>
+  </item>
+  <item>
     <title>Gemini iba y venía en las cuentas educativas; hoy lo enciende o lo apaga el centro</title>
     <link>https://diarioiaeducativa.github.io/2026-11-14/gemini-cuentas-educativas-control-centro.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-14/gemini-cuentas-educativas-control-centro.html</guid>
@@ -876,15 +885,6 @@
     <category>Debates</category>
     <description>Un reportaje de La Vanguardia recoge acusaciones de uso de IA basadas en detectores que se contradicen con el tiempo. El debate llega a la educación: cómo comprobar la autoría sin perseguir.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Balanza que pesa, en un platillo, «Detector», un informe de detector de IA marcado con un interrogante, y en el otro, «Conversación y reglas», la conversación con la persona y unas reglas claras de uso; abajo, una lupa y el rótulo «Indicio, no prueba».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una escuela de Cataluña comparte una aplicación para la autoevaluación del alumnado y la valoración docente</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-01/la-teva-veu.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-01/la-teva-veu.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«La teva veu», creada por Felip Sarroca para la Escola Ramon Pont, genera informes en PDF para familias y profesorado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Un grupo de figuras, «Alumnado», pasa por un embudo con la cifra «15» y el rótulo «Mínimo respuestas», y llega a un informe con barras y una línea de referencia, «Informe docente».</media:description></media:content>
   </item>
 </channel>
 </rss>

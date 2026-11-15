@@ -27,6 +27,15 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-breath-ejercicio-de-respiracion-guiada-p.jpg" medium="image" type="image/png"><media:description>Pantalla de GeoBreath con un cuadrado en el que un punto recorre los lados, la indicación «Inspira» en el centro, los contadores de sesión y ciclos y el selector de figura y segundos por lado.</media:description></media:content>
   </item>
   <item>
+    <title>Un editor web permite diseñar cromos coleccionables de fauna y flora para el aula</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Generador de Cromos Eco-Duel, creado por David Cordones, ofrece un formulario para componer tarjetas con datos de animales y plantas, con una colección por curso, desde 1.º de Primaria hasta 2.º de Bachillerato.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-generador-de-cromos-para-gamificacion-ed.jpg" medium="image" type="image/png"><media:description>Editor de cromos con el formulario a la izquierda y, a la derecha, un cromo de fauna llamado Senglar con tamaño 7, nivel 3 y velocidad 5, y los botones Descarregar y Copiar encima.</media:description></media:content>
+  </item>
+  <item>
     <title>Eduvers, la plataforma de simulaciones que el diario presentó el 12 de noviembre, tiene una simulación 3D…</title>
     <link>https://diarioiaeducativa.github.io/2026-11-14/breve-1.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-14/breve-1.html</guid>
@@ -437,14 +446,6 @@
     <category>Vibe coding</category>
     <description>Quien programa con asistentes de IA en varios equipos describe tres enfoques: repositorio Git, sincronización continua y una carpeta compartida en la nube.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Dos ordenadores, cada uno con una carpeta de skills, unidos por tres caminos: arriba, «Git», una cadena de puntos que representa un repositorio; en medio, «Syncthing», dos flechas de ida y vuelta de la sincronización continua, y abajo, «Nube», una carpeta compartida.</media:description></media:content>
-  </item>
-  <item>
-    <title>En el grupo se distinguió el vibe coding, crear recursos digitales con IA y lenguaje natural, de la IA…</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-30/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/breve-1.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>En el grupo se distinguió el vibe coding, crear recursos digitales con IA y lenguaje natural, de la IA agéntica, que persigue objetivos de forma autónoma. Es una explicación de uso corriente, no una definición oficial.</description>
   </item>
 </channel>
 </rss>
