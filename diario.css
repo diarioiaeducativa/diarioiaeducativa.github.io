@@ -967,6 +967,47 @@ p.con-nb { margin: 0 0 0.3rem; }
 .columnas-boton .a-columnas, .una-columna .columnas-boton .a-una { display: none; }
 .una-columna .columnas-boton .a-columnas { display: inline-flex; }
 @media print { .columnas-boton { display: none !important; } }
+/* Lectura en voz alta con la voz del dispositivo: el botón, como el de las columnas pero también en el móvil
+   (sale solo si hay voz del idioma); mientras lee, el párrafo marcado y una barra fija abajo para pausar o parar. */
+.escuchar-boton, .lector-barra button {
+  appearance: none; display: inline-flex; align-items: center; gap: 0.4rem; border: 1px solid var(--filete);
+  border-radius: 999px; background: transparent; color: var(--tinta-2); padding: 0.1rem 0.7rem; font: inherit;
+  font-size: 0.85rem; font-weight: 600; font-style: normal; letter-spacing: 0; cursor: pointer; white-space: nowrap;
+}
+.escuchar-boton:hover, .lector-barra button:hover { color: var(--tinta); border-color: var(--tinta); }
+.escuchar-boton .ico, .lector-barra .ico { width: 1.1em; height: 1.1em; vertical-align: 0; }
+.escuchar-boton[hidden], .lector-barra[hidden] { display: none; }
+.escuchar-boton .ico, .lector-barra .ico { flex: none; }
+/* Si no cabe en una línea del móvil, el botón y la fecha bajan juntos a la derecha; el nombre de la sección no se parte */
+.seccion:has(.escuchar-boton:not([hidden])) { flex-wrap: wrap; row-gap: 0.45rem; }
+.seccion:has(.escuchar-boton:not([hidden])) > span:first-child { white-space: nowrap; }
+.seccion:has(.escuchar-boton:not([hidden])) .seccion-dcha { margin-left: auto; }
+.escuchar-boton > span:not(.e-rotulo), .lector-pausa > span:not(.e-rotulo) { display: none; }
+.escuchar-boton:not(.sonando):not(.en-pausa) > .e-escuchar, .lector-pausa:not(.en-pausa) > .e-pausa,
+:is(.escuchar-boton, .lector-pausa).sonando > .e-pausa, :is(.escuchar-boton, .lector-pausa).en-pausa > .e-seguir { display: inline-flex; }
+.escuchar-boton.sonando, .escuchar-boton.en-pausa { color: var(--azul); border-color: var(--azul); }
+.leyendo { background: color-mix(in srgb, var(--azul) 14%, transparent); box-shadow: 0 0 0 0.25rem color-mix(in srgb, var(--azul) 14%, transparent); border-radius: 2px; }
+.lector-barra {
+  position: fixed; z-index: 50; left: 0; right: 0; margin: 0 auto; width: max-content; max-width: calc(100% - 2rem);
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  display: flex; gap: 0.5rem; padding: 0.45rem; background: var(--papel); border: 1px solid var(--filete);
+  border-radius: 999px; box-shadow: 0 4px 18px rgb(0 0 0 / 0.18);
+}
+.lector-barra button { font-size: 0.95rem; padding: 0.35rem 0.9rem; }
+.lector-barra .lector-pausa { color: var(--azul); border-color: var(--azul); }
+html.con-lector body { padding-bottom: 4.5rem; }
+.lector-vel-caja { position: relative; display: inline-flex; }
+.lector-barra .lector-vel { padding-inline: 0.75rem; font-variant-numeric: tabular-nums; }
+.lector-vel-menu {
+  position: absolute; bottom: calc(100% + 0.7rem); left: 50%; transform: translateX(-50%); display: flex;
+  flex-direction: column; gap: 0.15rem; padding: 0.35rem; background: var(--papel); border: 1px solid var(--filete);
+  border-radius: 0.8rem; box-shadow: 0 4px 18px rgb(0 0 0 / 0.18);
+}
+.lector-vel-menu[hidden] { display: none; }
+.lector-barra .lector-vel-menu button { border: 0; border-radius: 0.5rem; justify-content: center; min-width: 4.2rem; padding: 0.4rem 0.8rem; font-variant-numeric: tabular-nums; }
+.lector-barra .lector-vel-menu button:hover { background: var(--papel-2); }
+.lector-barra .lector-vel-menu [aria-checked="true"] { color: var(--azul); background: var(--papel-2); }
+@media print { .escuchar-boton, .lector-barra { display: none !important; } .leyendo { background: none; box-shadow: none; } }
 @media (min-width: 60rem) {
   .columnas-boton { display: inline-flex; }
   html:not(.una-columna) .en-columnas { max-width: 76rem; }
