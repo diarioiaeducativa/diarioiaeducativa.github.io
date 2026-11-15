@@ -9,6 +9,50 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>AI-text detectors are not proof, and institutions propose assessing the process instead</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-14/detectores-ia-evaluar-proceso.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/detectores-ia-evaluar-proceso.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>The Sunday feature</category>
+    <description>Programs that promise to reveal whether a piece of work was written by artificial intelligence get it wrong, including for students who have not used it, and even their own makers advise against punishing anyone on their say-so. This report explains what the studies, the European Regulation, data protection authorities and education guidelines say, and sets out a no-cost plan for assessing fairly in any subject: state which uses are allowed, ask for evidence of the process and listen to students.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-detectores-ia-evaluar-proceso.svg" medium="image" type="image/svg+xml"><media:description>Two-column infographic. On the left, under the label “Detector”, a document with a percentage bar and a question mark, and three warnings (an alert triangle, two speech bubbles and a half-and-half box) representing false positives, poorer results in a second language and failures with mixed texts; below, the label “Indication, not proof”. An arrow leads to the right, under the label “Process”, where four steps in a staircase labelled “Declared uses”, “Drafts”, “In stages” and “Oral explanation” lead to a person holding a scale and the label “A person decides”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A teacher asks Codex to model Industrial Revolution machines in Blender</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil says his computer cannot open Blender, but Codex can operate it, and it has generated 3D models for his Year 10 website.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-revolucion-industrial-blender-codex.svg" medium="image" type="image/svg+xml"><media:description>A diagram from left to right: a speech bubble labelled “Request” leads to a cog labelled “Codex + Blender”, which leads to a cube with three dots labelled “3D model”; a curved red arrow, labelled “More realism”, returns from the model to the request.</media:description></media:content>
+  </item>
+  <item>
+    <title>GeoBreath guides breathing exercises with geometric shapes and an adjustable rhythm</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Vilela Acuña&#x27;s app uses an animated shape to show when to breathe in, hold and breathe out. It opens in the browser, with nothing to install, and is available in six languages.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-breath-ejercicio-de-respiracion-guiada-p.jpg" medium="image" type="image/png"><media:description>GeoBreath screen with a square along whose sides a dot travels, the prompt “Inspira” in the centre, the session and cycle counters and the selector for shape and seconds per side.</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini came and went in educational accounts; today the school switches it on or off</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-14/gemini-cuentas-educativas-control-centro.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/gemini-cuentas-educativas-control-centro.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, anyone using Gemini with an educational account could not tell which features they would find from one day to the next. A year later, Google has opened up features that were then denied to them, but for students’ accounts each school will decide.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-gemini-cuentas-educativas-control-centro.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: two rows, “Gmail” with a video and a tick, and “XTEC” with a video and a red cross. On the right, “Today”: two school buildings, one with a switch turned on and the other with one turned off, next to the label “School”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Eduvers, the simulation platform that the paper presented on 12 November, has a 3D simulation for…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-14/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/breve-1.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Eduvers, the simulation platform that the paper presented on 12 November, has a 3D simulation for preparing a NaOH solution and measuring the acidity of vinegar, according to its description.</description>
+  </item>
+  <item>
     <title>Wharton releases Primer, an open system that turns a conversation into a simulation</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-13/primer-wharton.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/primer-wharton.html</guid>
@@ -841,49 +885,6 @@
     <category>Vibe coding</category>
     <description>“La teva veu” (“Your voice”), created by Felip Sarroca for Escola Ramon Pont, generates PDF reports for families and teaching staff.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>A group of figures, “Students”, passes through a funnel marked with the number “15” and the label “Minimum responses”, and ends up at a report with bars and a reference line, “Teacher report”.</media:description></media:content>
-  </item>
-  <item>
-    <title>A publication offers guidance to families when AI does the homework</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-01/familias-deberes-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/familias-deberes-ia.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>Chema Falcó proposes a simple test and a shared rule for telling apart using AI to learn from handing the learning over to it.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-01-familias-deberes-ia.svg" medium="image" type="image/svg+xml"><media:description>Three steps linked by arrows: “Think”, with a pencil; “Ask”, with a speech bubble; and “Check”, with a tick; below, a student explaining a homework sheet, “In your own words”.</media:description></media:content>
-  </item>
-  <item>
-    <title>rclone’s shared Google Drive access client will stop working in 2026, according to its documentation.</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-01/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/breve-1.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>rclone’s shared Google Drive access client will stop working in 2026, according to its documentation. Creating your own, which also avoids the shared query limit, is now considered essential.</description>
-  </item>
-  <item>
-    <title>UVic-UCC co-organised a conference in Lleida on integrity in teaching and AI.</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-01/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/breve-2.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>UVic-UCC co-organised a conference in Lleida on integrity in teaching and AI. The university’s news item gives no specific conclusions.</description>
-  </item>
-  <item>
-    <title>Handing tasks to an AI agent means deciding first what it can see, remember and do</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>The Sunday feature</category>
-    <description>Artificial intelligence assistants no longer just answer questions: they open folders, read email and act on behalf of the people who use them. Spain’s data protection authority has just published a ten-point guide to delegating without losing control. This report explains what changes, what companies and administrations say, and what a teacher can configure before granting an agent any permissions.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-31-agentes-ia-permisos-datos-alumnado.svg" medium="image" type="image/svg+xml"><media:description>Three overlapping circles, “Reads others’ content”, “Sensitive data” and “Acts alone”; in the overlaps of two, the safeguards “Read-only”, “No names” and “Ask for confirmation”, and in the centre, where all three meet, a red cross marked “Unacceptable risk”; at the bottom, a strip of five icons (eye, notebook, cursor, envelope and two people) for the AEPD’s five questions before delegating.</media:description></media:content>
-  </item>
-  <item>
-    <title>An AI-made horror web series documents its workflow step by step</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-31/webserie-never-sleep-again.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/webserie-never-sleep-again.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>“Never Sleep Again”, seven episodes released between 25 and 31 October, explains on its website how it combines Blender, Claude, a video generator and DaVinci Resolve.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-31-webserie-never-sleep-again.svg" medium="image" type="image/svg+xml"><media:description>Horizontal diagram in five steps: “3D house”, a house modelled in 3D; “Reference”, a grey clip showing the camera path; “AI video”, the video generation; “Review”, with an arrow looping back; and “Editing”, a timeline; below, a human figure connected to every step.</media:description></media:content>
   </item>
 </channel>
 </rss>

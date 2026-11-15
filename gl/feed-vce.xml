@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Un docente pídelle a Codex que modele en Blender as máquinas da Revolución Industrial</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-14/revolucion-industrial-blender-codex.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-14/revolucion-industrial-blender-codex.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil conta que o seu ordenador non abre Blender, pero que Codex si o maneja e lle xerou modelos 3D para a súa web de 4.º da ESO.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-14-revolucion-industrial-blender-codex.svg" medium="image" type="image/svg+xml"><media:description>Esquema de esquerda a dereita: un bocadillo de diálogo co rótulo «Petición» leva a unha engrenaxe co rótulo «Codex + Blender», que leva a un cubo con tres puntos co rótulo «Modelo 3D»; unha frecha vermella curva, co rótulo «Máis realismo», volve do modelo á petición.</media:description></media:content>
+  </item>
+  <item>
+    <title>GeoBreath guía exercicios de respiración con figuras xeométricas e ritmo axustable</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A aplicación de Luis Vilela Acuña marca cunha figura animada cando inspirar, agarrar o alento e exhalar. Ábrese no navegador, sen instalar nada, e está en seis linguas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-breath-ejercicio-de-respiracion-guiada-p.jpg" medium="image" type="image/png"><media:description>Pantalla de GeoBreath cun cadrado no que un punto percorre os lados, a indicación «Inspira» no centro, os contadores de sesión e ciclos e o selector de figura e segundos por lado.</media:description></media:content>
+  </item>
+  <item>
+    <title>Eduvers, a plataforma de simulacións que o diario presentou o 12 de novembro, ten unha simulación 3D para…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-14/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-14/breve-1.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Eduvers, a plataforma de simulacións que o diario presentou o 12 de novembro, ten unha simulación 3D para preparar unha disolución de NaOH e valorar a acidez do vinagre, segundo a súa descrición.</description>
+  </item>
+  <item>
     <title>Normativa de conservatorios, indicadores e xogos de aula, novidades no repositorio</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-13/semana-del-repositorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-13/semana-del-repositorio.html</guid>
@@ -419,33 +445,6 @@
     <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
     <category>Breves</category>
     <description>No grupo distinguiuse o vibe coding, crear recursos dixitais con IA e linguaxe natural, da IA axéntica, que persegue obxectivos de forma autónoma. É unha explicación de uso corrente, non unha definición oficial.</description>
-  </item>
-  <item>
-    <title>EDUmind ofrece ditados en galego e castelán con voces sintéticas de código aberto</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-10-29/dictados-voz-gallego.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-29/dictados-voz-gallego.html</guid>
-    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Unha aplicación web gratuíta, creada por Luis Vilela Acuña, reúne ditados en galego e castelán para sexto de primaria, con voces sintéticas de licenza aberta.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Esquema dun ditado: un texto na pantalla da aula pasa a unha voz sintética, representada por unha onda de son coas etiquetas «Galego» e «Castelán», e a unha folla de regras imprimible; debaixo, tres selos de licenza aberta para textos, programa e modelos de voz.</media:description></media:content>
-  </item>
-  <item>
-    <title>Plec xera ditados despregables en catalán, con audio, para que o alumnado se autocorrixa</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/plec-dictados.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/plec-dictados.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Unha aplicación aberta crea listas de palabras ou pseudopalabras para ditar na aula, que se imprimen nun folio dobrado para que o alumnado corrixa as súas propias respostas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-28-plec-dictados.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres momentos: «Dítase», cun altofalante; «Escríbese», cun folio dobrado onde o alumnado anota as súas respostas coa solución oculta, e «Corríxese», co folio despregado, as respostas xunto á solución e marcas de acerto e de erro.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un prompt para crear leccións 3D interactivas inspiradas en «Every Joule»</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-10-28/everyjoule-prompt.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-28/everyjoule-prompt.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un membro dos grupos compartiu un prompt extenso para que unha IA xere unha lección interactiva en 3D co estilo dun libro de física sobre enerxía.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres pasos: «Prompt», unha folla cun oco descontinuo para o tema; «Libro 3D», un libro aberto cunha solapa levantada que deixa ver a resposta, e «Selo», cunha marca de comprobación ao completar a lección.</media:description></media:content>
   </item>
 </channel>
 </rss>

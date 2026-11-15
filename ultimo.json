@@ -1,31 +1,31 @@
 {
- "numero": 13,
- "sale": "2026-11-14",
+ "numero": 14,
+ "sale": "2026-11-15",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Wharton publica Primer, un sistema abierto que convierte una conversación en simulación"
+   "titular": "Un docente pide a Codex que modele en Blender las máquinas de la Revolución Industrial"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Wharton publica Primer, un sistema obert que converteix una conversa en simulació"
+   "titular": "Un docent demana a Codex que modeli a Blender les màquines de la Revolució Industrial"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Wharton publica Primer, un sistema aberto que converte unha conversa en simulación"
+   "titular": "Un docente pídelle a Codex que modele en Blender as máquinas da Revolución Industrial"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Whartonek Primer argitaratu du, elkarrizketa bat simulazio bihurtzen duen sistema irekia"
+   "titular": "Irakasle batek Codexi eskatu dio Blenderren Iraultza Industrialeko makinak modelatzeko"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "Wharton releases Primer, an open system that turns a conversation into a simulation"
+   "titular": "A teacher asks Codex to model Industrial Revolution machines in Blender"
   }
  }
 }

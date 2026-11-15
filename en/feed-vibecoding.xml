@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe coding</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>A teacher asks Codex to model Industrial Revolution machines in Blender</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil says his computer cannot open Blender, but Codex can operate it, and it has generated 3D models for his Year 10 website.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-revolucion-industrial-blender-codex.svg" medium="image" type="image/svg+xml"><media:description>A diagram from left to right: a speech bubble labelled “Request” leads to a cog labelled “Codex + Blender”, which leads to a cube with three dots labelled “3D model”; a curved red arrow, labelled “More realism”, returns from the model to the request.</media:description></media:content>
+  </item>
+  <item>
+    <title>GeoBreath guides breathing exercises with geometric shapes and an adjustable rhythm</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Vilela Acuña&#x27;s app uses an animated shape to show when to breathe in, hold and breathe out. It opens in the browser, with nothing to install, and is available in six languages.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-breath-ejercicio-de-respiracion-guiada-p.jpg" medium="image" type="image/png"><media:description>GeoBreath screen with a square along whose sides a dot travels, the prompt “Inspira” in the centre, the session and cycle counters and the selector for shape and seconds per side.</media:description></media:content>
+  </item>
+  <item>
     <title>Conservatoire regulations, indicators and classroom games, new in the repository</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-13/semana-del-repositorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/semana-del-repositorio.html</guid>
