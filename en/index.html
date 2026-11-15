@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=8f1a2f80">
+<link rel="stylesheet" href="../diario.css?v=4860de07">
 </head>
 <body class="pag-portada">
 <a class="saltar" href="#contenido">Skip to content</a>
@@ -393,6 +393,25 @@ a.hidden=false;a.querySelector('.promo-app-cerrar').addEventListener('click',fun
       document.addEventListener('keydown',tecla);
     })();
   });
+  // El menú de secciones, en el móvil, se desliza (ADR 0072): en el borde por el que quedan secciones ocultas, un
+  // degradado con una flecha que, al tocarla, lo avanza; al llegar al final, desaparece. Y se abre desplazado hasta
+  // la sección en la que se está, para que se vea. En el ordenador cabe entero y no sale nada.
+  (function(){
+    var nav=document.querySelector('.secciones'),l=nav&&nav.querySelector('.secciones-lista');if(!l)return;
+    var F={izq:'<path d="m15 18-6-6 6-6"/>',der:'<path d="m9 18 6-6-6-6"/>'},b={};
+    ['izq','der'].forEach(function(k){var x=document.createElement('button');x.type='button';x.className='desliza desliza-'+k;
+      x.tabIndex=-1;x.setAttribute('aria-hidden','true');x.hidden=true;
+      x.innerHTML='<svg class="ico" viewBox="0 0 24 24">'+F[k]+'</svg>';
+      x.addEventListener('click',function(){l.scrollBy({left:(k==='der'?1:-1)*l.clientWidth*0.7,behavior:'smooth'});});
+      nav.appendChild(x);b[k]=x;});
+    function pon(){var sobra=l.scrollWidth-l.clientWidth;
+      ['izq','der'].forEach(function(k){b[k].style.top=l.offsetTop+'px';b[k].style.height=(l.clientHeight-parseFloat(getComputedStyle(l).paddingBottom))+'px';});
+      b.izq.hidden=!(sobra>2&&l.scrollLeft>4);b.der.hidden=!(sobra>2&&l.scrollLeft<sobra-4);}
+    var ac=l.querySelector('[aria-current]');
+    if(ac&&l.scrollWidth>l.clientWidth+2){var r=ac.offsetLeft+ac.offsetWidth-l.clientWidth*0.8;if(r>0)l.scrollLeft=Math.min(r+l.clientWidth*0.3,l.scrollWidth-l.clientWidth);}
+    l.addEventListener('scroll',pon,{passive:true});window.addEventListener('resize',pon);
+    if(document.fonts&&document.fonts.ready)document.fonts.ready.then(pon);pon();
+  })();
   // Instalar como app (ADR 0013): el enlace del pie sale solo donde el navegador deja instalar con un
   // toque (Chrome, Edge); en iPhone y iPad, cómo añadirlo a la pantalla de inicio. Instalada, nada.
   var inst=document.querySelector('.instalar-app'), ios=document.querySelector('.instalar-ios'), pide=null;
