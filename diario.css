@@ -416,6 +416,33 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .vineta-sub-pagina { margin: 0 0 0.6rem; font-style: italic; color: var(--tinta-2); font-size: 1.1rem; }
 
 /* «Desde la redacción»: la presentación del número 1, en una franja a todo el ancho */
+/* El anuncio de la app de Android (ADR 0071): una franja bajo las secciones, a todo el ancho */
+.promo-app { display: flex; align-items: center; gap: 1rem; margin: 0 0 0.2rem; padding: 0.7rem 0.9rem 0.7rem 1rem;
+  background: var(--ilu-relleno); border-radius: 6px; }
+.promo-app[hidden] { display: none; }
+.promo-app-ilu { height: 3.4rem; width: auto; flex: none; overflow: visible; }
+.promo-app .pa-cuerpo { fill: var(--azul); }
+.promo-app .pa-linea { fill: none; stroke: var(--azul); stroke-width: 5; stroke-linecap: round; }
+.promo-app .pa-disc { stroke-dasharray: 7 7; stroke-width: 3.5; }
+.promo-app .pa-ojo { fill: var(--papel); }
+.promo-app .pa-pupila { fill: var(--tinta); }
+.promo-app .pa-boca { fill: none; stroke: var(--papel); stroke-width: 3.4; stroke-linecap: round; }
+.promo-app-txt { flex: 1; margin: 0; font-size: 1.08rem; line-height: 1.4; }
+.promo-app-txt strong { color: var(--azul); }
+.promo-app-boton { flex: none; padding: 0.5rem 1.05rem; border-radius: 999px; background: var(--azul); color: var(--papel);
+  font-weight: 600; text-decoration: none; white-space: nowrap; }
+.promo-app-boton:hover, .promo-app-boton:focus-visible { background: var(--azul-hondo); color: #fff; }
+.promo-app-cerrar { flex: none; align-self: flex-start; margin: -0.3rem -0.4rem 0 -0.3rem; padding: 0.35rem; border: 0;
+  background: none; color: var(--tinta-2); cursor: pointer; line-height: 0; border-radius: 50%; }
+.promo-app-cerrar:hover { color: var(--tinta); background: var(--papel); }
+.promo-app-cerrar .ico { width: 1.1rem; height: 1.1rem; }
+@media (max-width: 40rem) {
+  .promo-app { flex-wrap: wrap; gap: 0.6rem 0.8rem; padding: 0.7rem 0.8rem; }
+  .promo-app-ilu { height: 2.9rem; }
+  .promo-app-txt { flex: 1 1 0; min-width: 0; font-size: 1rem; }
+  .promo-app-boton { order: 4; flex: 1 1 100%; text-align: center; }
+}
+@media print { .promo-app { display: none !important; } }
 .editorial {
   display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center;
   margin-bottom: 1.8rem; padding: 1.4rem 1.6rem; background: var(--papel-2); border-left: 5px solid var(--rojo);
