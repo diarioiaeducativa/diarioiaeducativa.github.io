@@ -407,11 +407,16 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     if(estado==='leyendo'){ turno++; ss.cancel(); lee(); }
   }); });
   function norma(v){return (v.lang||'').toLowerCase().replace('_','-');}
+  // Entre las voces del idioma, la mejor: antes las neuronales o mejoradas (Piper, «Mejorada» de Apple…) y nunca las
+  // sintéticas antiguas (espeak…) si hay otra; después, la de la región del diario y la que el sistema tiene por defecto
+  var BAJA=/espeak|croak|klatt|festival|flite|pico|mbrola/i, ALTA=/piper|neural|natural|enhanced|premium|mejorad|millorad|hobetu/i;
+  function puntos(v){
+    var n=(v.name||'')+' '+(v.voiceURI||'');
+    return (BAJA.test(n)?0:8)+(ALTA.test(n)?4:0)+(norma(v)===REGION[idioma]?2:0)+(v.default?1:0);
+  }
   function elige(){
     var vs=ss.getVoices().filter(function(v){return (v.localService||firefox)&&norma(v).split('-')[0]===idioma;});
-    var r=REGION[idioma];
-    return vs.filter(function(v){return norma(v)===r&&v.default;})[0]||vs.filter(function(v){return norma(v)===r;})[0]||
-           vs.filter(function(v){return v.default;})[0]||vs[0]||null;
+    return vs.reduce(function(m,v){return !m||puntos(v)>puntos(m)?v:m;},null);
   }
   function prepara(){ voz=elige(); b.hidden=!voz; if(!voz&&estado!=='parado') parar(); }
   prepara();
