@@ -392,6 +392,7 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 /* Con un solo breve, el reparto al revés: «Hace un año» más ancho (y más bajo) y los breves más estrechos (y más
    altos), para que no quede hueco bajo el breve (ADR 0041) */
 .fila-breves-hu.breves-pocos { grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); }
+.bloque.sec-breves .breve[hidden] { display: none; }
 .fila-breves-hu > .bloque { margin-top: 0; background: var(--papel-2); padding: 1rem 1.3rem 0.3rem; }
 .hace-un-ano-recuadro { background: var(--t-hace-un-ano); border-top: 3px solid var(--c-hace-un-ano); padding: 1rem 1.3rem 1.1rem; }
 .hace-un-ano-recuadro .ilu { float: right; width: 42%; margin: 0.3rem 0 0.5rem 1rem; padding: 0.2rem; background: var(--papel) !important; aspect-ratio: 600 / 340; display: grid; place-items: center; }
@@ -665,6 +666,7 @@ body.con-visor { overflow: hidden; }
 .semana-franja .seccion .ico { width: 1em; height: 1em; vertical-align: -0.12em; fill: none; stroke: currentColor; stroke-width: 2; }
 .semana-franja .titular { margin-top: 0.3rem; }
 .semana-piezas { list-style: none; margin: 1rem 0 0; padding: 0; display: grid; gap: 0.7rem; }
+.semana-piezas.dos-col { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 1.4rem; }
 .semana-piezas li { border-left: 4px solid var(--sec, var(--azul)); padding-left: 0.8rem; line-height: 1.3; }
 .semana-piezas .s { display: block; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--sec, var(--azul)); }
 .semana-piezas a { font-weight: 600; color: var(--tinta); text-decoration: none; }
