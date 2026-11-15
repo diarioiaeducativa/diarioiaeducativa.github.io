@@ -389,6 +389,9 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 /* Los breves y «Hace un año», en una fila de dos recuadros del mismo alto (ADR 0040): cada uno con su fondo,
    así el que tiene menos texto queda más holgado en lugar de dejar un blanco suelto */
 .fila-breves-hu { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 1.4rem 2rem; align-items: stretch; margin-top: 1.8rem; }
+/* Con un solo breve, el reparto al revés: «Hace un año» más ancho (y más bajo) y los breves más estrechos (y más
+   altos), para que no quede hueco bajo el breve (ADR 0041) */
+.fila-breves-hu.breves-pocos { grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); }
 .fila-breves-hu > .bloque { margin-top: 0; background: var(--papel-2); padding: 1rem 1.3rem 0.3rem; }
 .hace-un-ano-recuadro { background: var(--t-hace-un-ano); border-top: 3px solid var(--c-hace-un-ano); padding: 1rem 1.3rem 1.1rem; }
 .hace-un-ano-recuadro .ilu { float: right; width: 42%; margin: 0.3rem 0 0.5rem 1rem; padding: 0.2rem; background: var(--papel) !important; aspect-ratio: 600 / 340; display: grid; place-items: center; }
@@ -399,7 +402,7 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .hace-un-ano-recuadro .titular { font-size: 1.2rem; margin: 0.2rem 0 0.4rem; }
 .hace-un-ano-recuadro .entradilla { font-size: 0.98rem; color: var(--tinta-2); margin: 0; }
 .hace-un-ano-recuadro .leer { margin: 0.6rem 0 0; font-weight: 600; }
-@media (max-width: 60rem) { .fila-breves-hu { grid-template-columns: 1fr; } }
+@media (max-width: 60rem) { .fila-breves-hu, .fila-breves-hu.breves-pocos { grid-template-columns: 1fr; } }
 
 /* En la tableta, las columnas de las filas de tres y de las destacadas son tan estrechas que los titulares
    cambian mucho de largo y dejaban blancos: una columna, con la miniatura a la izquierda y el texto rodeándola */
@@ -656,8 +659,8 @@ body.con-visor { overflow: hidden; }
 }
 
 /* «La semana en vídeo», franja del domingo como la del reportaje (ADR 0016) */
-.semana-franja { grid-template-columns: 15rem minmax(0, 1fr); align-items: start; border-left-color: var(--tinta); margin-top: 1.8rem; }
-.semana-franja video { display: block; width: 100%; height: auto; aspect-ratio: 9 / 16; border-radius: 6px; background: var(--tinta); }
+.semana-franja { grid-template-columns: auto minmax(0, 1fr); align-items: start; border-left-color: var(--tinta); margin-top: 1.8rem; }
+.semana-franja video { display: block; width: 15rem; height: auto; aspect-ratio: 9 / 16; object-fit: cover; border-radius: 6px; background: var(--tinta); }
 .semana-franja .seccion a { color: var(--tinta); text-decoration: none; }
 .semana-franja .seccion .ico { width: 1em; height: 1em; vertical-align: -0.12em; fill: none; stroke: currentColor; stroke-width: 2; }
 .semana-franja .titular { margin-top: 0.3rem; }
@@ -667,7 +670,8 @@ body.con-visor { overflow: hidden; }
 .semana-piezas a { font-weight: 600; color: var(--tinta); text-decoration: none; }
 .semana-piezas a:hover { text-decoration: underline; }
 .semana-franja .video-pantalla { margin-top: 0.8rem; color: var(--tinta-2); }
-@media (max-width: 52rem) { .semana-franja { grid-template-columns: minmax(0, 1fr); } .semana-franja video { max-width: 20rem; margin: 0 auto; } }
+/* En una columna por debajo de 64rem: más estrecho, el texto crece tanto que el vídeo no llegaría a su alto */
+@media (max-width: 64rem) { .semana-franja { grid-template-columns: minmax(0, 1fr); } .semana-franja video { width: 100%; max-width: 20rem; margin: 0 auto; } }
 
 /* El día que la redacción falló y el número salió con una pieza de reserva (ADR 0021) */
 .aviso-reserva {

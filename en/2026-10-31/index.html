@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../../comun.css?v=173bf639">
-<link rel="stylesheet" href="../../diario.css?v=18f3dfef">
+<link rel="stylesheet" href="../../diario.css?v=a8809b68">
 </head>
 <body class="pag-portada">
 <a class="saltar" href="#contenido">Skip to content</a>
@@ -322,7 +322,19 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     el.querySelectorAll('figure').forEach(function(f){m=Math.max(m,f.getBoundingClientRect().bottom);});return m;}
   function suelta(e){e.style.display='block';e.style.webkitLineClamp='unset';e.style.lineClamp='none';e.style.overflow='visible';e.style.webkitBoxOrient='';}
   function recorta(e,l){e.style.display='-webkit-box';e.style.webkitBoxOrient='vertical';e.style.webkitLineClamp=l;e.style.lineClamp=l;e.style.overflow='hidden';}
+  /* «La semana en vídeo» (ADR 0041): el vídeo, del alto de lo que lleva al lado, para que no quede un hueco debajo
+     de él ni del texto; entre 15 y 24rem de ancho. Al cambiar el ancho del vídeo cambia el del texto, y con él su
+     alto: unas pocas pasadas bastan para que se ajusten. En una columna, el ancho de siempre. */
+  function semana(){
+    document.querySelectorAll('.semana-franja').forEach(function(f){
+      var v=f.querySelector('video'),t=f.querySelector('.texto');if(!v||!t)return;v.style.width='';
+      if(getComputedStyle(f).gridTemplateColumns.split(' ').length<2)return;
+      var rem=parseFloat(getComputedStyle(document.documentElement).fontSize),i;
+      for(i=0;i<4;i++)v.style.width=Math.max(15*rem,Math.min(24*rem,t.getBoundingClientRect().height*9/16))+'px';
+    });
+  }
   function igualar(){
+    semana();
     document.querySelectorAll(SEL).forEach(function(g){
       var hijos=[].slice.call(g.children).filter(function(c){return c.offsetParent;});
       hijos.forEach(function(c){c.querySelectorAll(ENT).forEach(suelta);});
@@ -354,6 +366,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   if(document.fonts&&document.fonts.ready)document.fonts.ready.then(igualar);else window.addEventListener('load',igualar);
   window.addEventListener('load',igualar);window.addEventListener('resize',luego);
   document.addEventListener('click',function(e){if(e.target.closest&&e.target.closest('.filtro-grupo'))luego();});   /* la semana: al elegir un grupo cambian las filas */
+  document.addEventListener('toggle',function(e){if(e.target.closest&&e.target.closest('.semana-franja'))luego();},true);   /* «Lo que aparece en pantalla» alarga el texto */
 })();
 /* El dibujo de una pieza, del reportaje o de «Hace un año» lleva a su artículo, como el titular (ADR 0045). Con Ctrl, Mayúsculas o la rueda, en otra
    pestaña. El teclado y el lector de pantalla entran por el titular, sin un enlace repetido. */

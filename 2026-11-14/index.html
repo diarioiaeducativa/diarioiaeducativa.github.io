@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=18f3dfef">
+<link rel="stylesheet" href="../diario.css?v=a8809b68">
 </head>
 <body class="pag-portada">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -119,7 +119,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     <p class="leer"><a href="../videos.html">Todos los vídeos</a> · <a href="https://www.instagram.com/reel/DfwbzCRjueS/" target="_blank" rel="noopener">Verlo en Instagram</a></p>
     <details class="video-pantalla"><summary>Lo que aparece en pantalla</summary><ol><li>La semana. Lo más destacado del Diario de IA Educativa. 9 – 15 nov 2026.</li><li>Lunes 9. Cine con IA. Un cortometraje se rueda dentro de la realidad virtual. Decorados en Blender y gafas Quest 3; las imágenes finales, con IA</li><li>Martes 10. Claude 5.2. Anthropic lanza Fable 5.2 y Mythos 5.2. Mythos 5.2, solo para organizaciones verificadas; cifras de la propia empresa</li><li>Miércoles 11. EduPrompts. EduGems pasa a llamarse EduPrompts. Google sustituye los Gems por Skills; el sitio ofrece 174 prompts</li><li>Jueves 12. Ciencia en SVG. Tres modelos dibujan una célula animal en SVG. Ninguno cometió errores de contenido, según el autor de la prueba</li><li>Viernes 13. Microsoft Classroom. Microsoft presenta Classroom para el trabajo de clase. Reúne tareas, notas e IA; llegará en 2027 sin coste en ciertos planes</li><li>Sábado 14. Primer. Wharton publica Primer, simulaciones por conversación. Código abierto y experimental: no se ha evaluado en aulas</li><li>Domingo 15. Blender con Codex. Codex modela en Blender la máquina de vapor. Un visor 3D que se gira con el ratón, para 4.º de ESO</li><li>Domingo 15. Detectores de IA. Los detectores de IA no valen como prueba. Evaluar el proceso: usos declarados, borradores y una explicación oral</li><li>Cada noticia, completa y con sus fuentes. diarioiaeducativa.github.io. Cada mañana a las 7:00.</li></ol></details>
   </div>
-</section><div class="fila-breves-hu"><section class="bloque sec-breves" aria-labelledby="b-breves">
+</section><div class="fila-breves-hu breves-pocos"><section class="bloque sec-breves" aria-labelledby="b-breves">
   <h2 id="b-breves" class="bloque-titulo"><a href="../breves.html"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg> Breves</a></h2>
   <div class="bloque-piezas" style="--n:1"><div class="breve">Eduvers, la plataforma de simulaciones que el diario <a href="/2026-11-11/eduvers-simulaciones.html">presentó el 12 de noviembre</a>, tiene una simulación 3D para preparar una disolución de NaOH y valorar la acidez del vinagre, según su descripción. <a href="https://eduvers.org/es/fisica-quimica/simulaciones/valoracion-vinagre" target="_blank" rel="noopener">Fuente</a> <a href="https://t.me/vceduca/14988" target="_blank" rel="noopener">Conversación</a> <button type="button" class="compartir solo-icono" data-url="https://diarioiaeducativa.github.io/2026-11-14/breve-1.html" data-titulo="Eduvers, la plataforma de simulaciones que el diario presentó el 12 de noviembre, tiene una simulación 3D…" data-copiado="Enlace copiado" title="Compartir este breve" aria-label="Compartir este breve"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg><span></span></button></div></div>
 </section><section class="hace-un-ano-recuadro sec-hace-un-ano" aria-labelledby="hu-gemini-cuentas-educativas-control-centro">
@@ -341,7 +341,19 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     el.querySelectorAll('figure').forEach(function(f){m=Math.max(m,f.getBoundingClientRect().bottom);});return m;}
   function suelta(e){e.style.display='block';e.style.webkitLineClamp='unset';e.style.lineClamp='none';e.style.overflow='visible';e.style.webkitBoxOrient='';}
   function recorta(e,l){e.style.display='-webkit-box';e.style.webkitBoxOrient='vertical';e.style.webkitLineClamp=l;e.style.lineClamp=l;e.style.overflow='hidden';}
+  /* «La semana en vídeo» (ADR 0041): el vídeo, del alto de lo que lleva al lado, para que no quede un hueco debajo
+     de él ni del texto; entre 15 y 24rem de ancho. Al cambiar el ancho del vídeo cambia el del texto, y con él su
+     alto: unas pocas pasadas bastan para que se ajusten. En una columna, el ancho de siempre. */
+  function semana(){
+    document.querySelectorAll('.semana-franja').forEach(function(f){
+      var v=f.querySelector('video'),t=f.querySelector('.texto');if(!v||!t)return;v.style.width='';
+      if(getComputedStyle(f).gridTemplateColumns.split(' ').length<2)return;
+      var rem=parseFloat(getComputedStyle(document.documentElement).fontSize),i;
+      for(i=0;i<4;i++)v.style.width=Math.max(15*rem,Math.min(24*rem,t.getBoundingClientRect().height*9/16))+'px';
+    });
+  }
   function igualar(){
+    semana();
     document.querySelectorAll(SEL).forEach(function(g){
       var hijos=[].slice.call(g.children).filter(function(c){return c.offsetParent;});
       hijos.forEach(function(c){c.querySelectorAll(ENT).forEach(suelta);});
@@ -373,6 +385,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   if(document.fonts&&document.fonts.ready)document.fonts.ready.then(igualar);else window.addEventListener('load',igualar);
   window.addEventListener('load',igualar);window.addEventListener('resize',luego);
   document.addEventListener('click',function(e){if(e.target.closest&&e.target.closest('.filtro-grupo'))luego();});   /* la semana: al elegir un grupo cambian las filas */
+  document.addEventListener('toggle',function(e){if(e.target.closest&&e.target.closest('.semana-franja'))luego();},true);   /* «Lo que aparece en pantalla» alarga el texto */
 })();
 /* El dibujo de una pieza, del reportaje o de «Hace un año» lleva a su artículo, como el titular (ADR 0045). Con Ctrl, Mayúsculas o la rueda, en otra
    pestaña. El teclado y el lector de pantalla entran por el titular, sin un enlace repetido. */
