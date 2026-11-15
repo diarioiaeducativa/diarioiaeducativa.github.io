@@ -27,6 +27,15 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-breath-ejercicio-de-respiracion-guiada-p.jpg" medium="image" type="image/png"><media:description>GeoBreath-en pantaila, karratu batekin, non puntu bat aldeetan barrena mugitzen den, erdian «Inspira» adierazpenarekin, saioaren eta zikloen kontagailuekin eta figuraren eta alde bakoitzeko segundoen hautatzailearekin.</media:description></media:content>
   </item>
   <item>
+    <title>Web-editore batek ikasgelarako fauna eta florako kromo bilgarriak diseinatzeko aukera ematen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>David Cordonesek sortutako Eco-Duel Kromo Sortzaileak formulario bat eskaintzen du animalia eta landareen datuekin txartelak osatzeko, ikasturte bakoitzeko bilduma batekin, Lehen Hezkuntzako 1. mailatik Batxilergoko 2. mailara arte.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-generador-de-cromos-para-gamificacion-ed.jpg" medium="image" type="image/png"><media:description>Kromo-editorea, ezkerrean formularioarekin eta eskuinean Senglar izeneko fauna-kromo batekin (tamaina 7, maila 3 eta abiadura 5), eta gainean Descarregar eta Copiar botoiekin.</media:description></media:content>
+  </item>
+  <item>
     <title>Eduvers simulazio-plataforma, diarioak azaroaren 12an aurkeztua, 3D simulazio bat du NaOH disoluzio bat…</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-14/breve-1.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-14/breve-1.html</guid>
@@ -437,14 +446,6 @@
     <category>Vibe coding</category>
     <description>AA laguntzaileekin hainbat ekipotan programatzen dutenek hiru ikuspegi deskribatzen dituzte: Git biltegia, etengabeko sinkronizazioa eta hodeiko karpeta partekatua.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Bi ordenagailu, bakoitza skill-karpeta batekin, hiru bidez lotuak: goian, «Git», biltegi bat irudikatzen duen puntu-kate bat; erdian, «Syncthing», etengabeko sinkronizazioaren joan-etorriko bi gezi, eta behean, «Hodeia», karpeta partekatu bat.</media:description></media:content>
-  </item>
-  <item>
-    <title>Taldean bereizi zen vibe coding-a, hau da, baliabide digitalak AArekin eta hizkuntza naturalean sortzea,…</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/breve-1.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Laburrak</category>
-    <description>Taldean bereizi zen vibe coding-a, hau da, baliabide digitalak AArekin eta hizkuntza naturalean sortzea, eta AA agentikoa, helburuak modu autonomoan lortzen dituena. Erabilera arruntean emandako azalpena da, ez definizio ofiziala.</description>
   </item>
 </channel>
 </rss>
