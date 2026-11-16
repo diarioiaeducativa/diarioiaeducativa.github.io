@@ -713,6 +713,11 @@ body.con-visor { overflow: hidden; }
   font-size: 1.02rem; line-height: 1.45;
 }
 
+/* Gráfico con datos (generar.grafico, ADR 0084): título, el dibujo y la fuente al pie */
+.articulo .grafico { margin: 1.6rem 0; padding: 1rem 1.1rem 0.9rem; background: var(--papel-2); break-inside: avoid; }
+.articulo .grafico .grafico-titulo { margin: 0 0 0.8rem; font-weight: 700; line-height: 1.35; text-align: left; }
+.articulo .grafico svg { display: block; }
+.articulo .grafico figcaption { margin-top: 0.7rem; font-size: 0.85rem; line-height: 1.45; color: var(--tinta-2); text-align: left; }
 /* Tabla de consulta dentro de un reportaje (generar.tabla); en el móvil, una ficha por fila */
 .articulo .tabla { margin: 1.6rem 0; }
 .articulo .tabla table { width: 100%; border-collapse: collapse; font-size: 0.95rem; line-height: 1.45; }
