@@ -713,6 +713,8 @@ body.con-visor { overflow: hidden; }
   font-size: 1.02rem; line-height: 1.45;
 }
 
+/* Aviso de traducción automática de las normas (generar.pagina_documento, ADR 0085) */
+.documento .doc-aviso { margin: 0.2rem 0 0; font-size: 0.9rem; font-style: italic; color: var(--tinta-2); }
 /* Gráfico con datos (generar.grafico, ADR 0084): título, el dibujo y la fuente al pie */
 .articulo .grafico { margin: 1.6rem 0; padding: 1rem 1.1rem 0.9rem; background: var(--papel-2); break-inside: avoid; }
 .articulo .grafico .grafico-titulo { margin: 0 0 0.8rem; font-weight: 700; line-height: 1.35; text-align: left; }
