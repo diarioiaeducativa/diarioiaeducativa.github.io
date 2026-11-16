@@ -41,7 +41,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</guid>
     <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Felip Sarroca i Gil says his computer cannot open Blender, but Codex can operate it, and it has generated 3D models for his Year 10 website.</description>
+    <description>Felip Sarroca i Gil says his computer cannot open Blender, but Codex can operate it, and it has generated 3D models for his website for fourth-year ESO students.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-revolucion-industrial-blender-codex.svg" medium="image" type="image/svg+xml"><media:description>A diagram from left to right: a speech bubble labelled “Request” leads to a cog labelled “Codex + Blender”, which leads to a cube with three dots labelled “3D model”; a curved red arrow, labelled “More realism”, returns from the model to the request.</media:description></media:content>
   </item>
   <item>
@@ -59,7 +59,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</guid>
     <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>The Eco-Duel Card Generator, created by David Cordones, offers a form for composing cards with data on animals and plants, with one collection per school year, from Year 2 of primary to the second year of sixth form.</description>
+    <description>The Eco-Duel Card Generator, created by David Cordones, offers a form for composing cards with data on animals and plants, with one collection per school year, from the first year of primary to the second year of Bachillerato.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-generador-de-cromos-para-gamificacion-ed.jpg" medium="image" type="image/png"><media:description>Card editor with the form on the left and, on the right, a fauna card called Senglar with size 7, level 3 and speed 5, and the buttons Descarregar and Copiar above it.</media:description></media:content>
   </item>
   <item>
@@ -361,7 +361,7 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Example project with the “Ver dentro” button and the stage with its flag, pause and stop controls, a green start notice and the “Empieza con una plantilla” and “Explora la galería” buttons.</media:description></media:content>
   </item>
   <item>
-    <title>A gamified activity takes the gravitational field in Year 13 Physics to nine orbital missions</title>
+    <title>A gamified activity teaches the gravitational field through nine orbital missions</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-03/misiones-orbitales.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/misiones-orbitales.html</guid>
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
@@ -440,7 +440,7 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-31-agentes-ia-permisos-datos-alumnado.svg" medium="image" type="image/svg+xml"><media:description>Three overlapping circles, “Reads others’ content”, “Sensitive data” and “Acts alone”; in the overlaps of two, the safeguards “Read-only”, “No names” and “Ask for confirmation”, and in the centre, where all three meet, a red cross marked “Unacceptable risk”; at the bottom, a strip of five icons (eye, notebook, cursor, envelope and two people) for the AEPD’s five questions before delegating.</media:description></media:content>
   </item>
   <item>
-    <title>An interactive lab guides Year 13 students through gravitational potential</title>
+    <title>An interactive lab guides final-year Bachillerato students through gravitational potential</title>
     <link>https://diarioiaeducativa.github.io/en/2026-10-31/mapa-potencial-gravitatorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/mapa-potencial-gravitatorio.html</guid>
     <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>

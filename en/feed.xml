@@ -93,7 +93,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</guid>
     <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>Felip Sarroca i Gil says his computer cannot open Blender, but Codex can operate it, and it has generated 3D models for his Year 10 website.</description>
+    <description>Felip Sarroca i Gil says his computer cannot open Blender, but Codex can operate it, and it has generated 3D models for his website for fourth-year ESO students.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-revolucion-industrial-blender-codex.svg" medium="image" type="image/svg+xml"><media:description>A diagram from left to right: a speech bubble labelled “Request” leads to a cog labelled “Codex + Blender”, which leads to a cube with three dots labelled “3D model”; a curved red arrow, labelled “More realism”, returns from the model to the request.</media:description></media:content>
   </item>
   <item>
@@ -111,7 +111,7 @@
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</guid>
     <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
-    <description>The Eco-Duel Card Generator, created by David Cordones, offers a form for composing cards with data on animals and plants, with one collection per school year, from Year 2 of primary to the second year of sixth form.</description>
+    <description>The Eco-Duel Card Generator, created by David Cordones, offers a form for composing cards with data on animals and plants, with one collection per school year, from the first year of primary to the second year of Bachillerato.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-generador-de-cromos-para-gamificacion-ed.jpg" medium="image" type="image/png"><media:description>Card editor with the form on the left and, on the right, a fauna card called Senglar with size 7, level 3 and speed 5, and the buttons Descarregar and Copiar above it.</media:description></media:content>
   </item>
   <item>
@@ -558,7 +558,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>The Sunday feature</category>
     <description>Each service’s terms, data protection law and some education authorities set different ages for using artificial intelligence, and they are often confused. This report explains what each says as of 6 November 2026, why research asks us to swap the question of age for the question of purpose, and how a primary or secondary teacher can decide which tool to use, with which account, and who operates it.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infographic on an age ruler from 0 to 18, with marks at 13, 14 and 18, in three blocks. “Companies”: “OpenAI and Microsoft: from 13”, with a line from 13 to 18; “Anthropic: from 18”, with a dot at 18; and “Gemini with a school account: all ages”, with a bar from 0 to 18. “Data law”: “Own consent: from 14”, with a dashed line up to 14 and a solid one after it; and “At school, no consent needed: educational function”, with a bar from 0 to 18. “Some education authorities”: “Catalonia: the teacher operates the AI”, with a red line up to 14, and “From 14: inform, authorisation advisable”, with a line from 14; and “Basque Country: chatbots from 13”, with a cross before 13 and a line after it; and “Murcia: autonomous access from Year 3 of ESO”, with a dashed line up to 14 and a solid one after it. At the foot, “What for? Which account? Who operates it?”.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infographic on an age ruler from 0 to 18, with marks at 13, 14 and 18, in three blocks. “Companies”: “OpenAI and Microsoft: from 13”, with a line from 13 to 18; “Anthropic: from 18”, with a dot at 18; and “Gemini with a school account: all ages”, with a bar from 0 to 18. “Data law”: “Own consent: from 14”, with a dashed line up to 14 and a solid one after it; and “At school, no consent needed: educational function”, with a bar from 0 to 18. “Some education authorities”: “Catalonia: the teacher operates the AI”, with a red line up to 14, and “From 14: inform, authorisation advisable”, with a line from 14; and “Basque Country: chatbots from 13”, with a cross before 13 and a line after it; and “Murcia: autonomous access from 3rd-year ESO”, with a dashed line up to 14 and a solid one after it. At the foot, “What for? Which account? Who operates it?”.</media:description></media:content>
   </item>
   <item>
     <title>Anthropic proposes organising AI agents&#x27; memory into four layers with a periodic review</title>
@@ -798,7 +798,7 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>On the left, an all-or-nothing master switch crossed out with a red X; on the right, four individual switches (Gemini, Notebook, Classroom and Search), two switched on in blue and two off.</media:description></media:content>
   </item>
   <item>
-    <title>A gamified activity takes the gravitational field in Year 13 Physics to nine orbital missions</title>
+    <title>A gamified activity teaches the gravitational field through nine orbital missions</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-03/misiones-orbitales.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/misiones-orbitales.html</guid>
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
