@@ -1033,6 +1033,8 @@ html.con-lector body { padding-bottom: 4.5rem; }
   html:not(.una-columna) .en-columnas .cuerpo :is(.ladillo, .claves, .tabla, figure, .video, .recurso) { column-span: all; text-align: left; }
   html:not(.una-columna) .en-columnas .cuerpo .ladillo { margin-top: 1.6rem; }
   html:not(.una-columna) .en-columnas .cuerpo :is(li, blockquote) { break-inside: avoid; }
+  /* Las normas (generar.pagina_documento): un tramo corto entre títulos o tablas, a lo ancho y sin columnas */
+  html:not(.una-columna) .en-columnas .cuerpo .corto { column-span: all; max-width: 48rem; }
   html:not(.una-columna) .en-columnas .cuerpo .claves ul { columns: 2; column-gap: 2.6rem; }
   /* La semana del repositorio: la captura y el texto de cada recurso, en las mismas columnas, una detrás de
      otro; así las columnas quedan igualadas, sin el hueco que dejaba el texto al lado de una captura más alta */
