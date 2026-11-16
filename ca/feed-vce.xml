@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Chrome publica Modern Web Guidance 1.0, una guia de la web actual per a agents de codi</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/modern-web-guidance.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/modern-web-guidance.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La guia reuneix solucions verificades per experts i dades de compatibilitat per corregir el coneixement desfasat dels models.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-15-modern-web-guidance.svg" medium="image" type="image/svg+xml"><media:description>Tres quadres units per fletxes: un fitxer amb rellotge, rotulat «Dades antigues», una guia de llibre obert, rotulada «Guia web actual», i un fitxer de codi amb una marca vermella de visat, rotulat «Codi actual».</media:description></media:content>
+  </item>
+  <item>
+    <title>Enfonsar la flota en català, contra la màquina o en línia amb un codi de sala</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/enfonsar-la-flota.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/enfonsar-la-flota.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Enfonsar la flota» és una versió web del clàssic joc dels vaixells, amb tauler de 10×10, que treballa les coordenades i l&#x27;estratègia a primària i secundària.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-15-enfonsar-la-flota.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici del joc amb dues targetes: «Partida en línia», amb botó per crear una sala i camp de codi, i «Contra la màquina», amb tres nivells de dificultat.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity incorpora Gemini 4 Hydrogen i un mode Orchestrator que reparteix la feina</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/gemini4-hydrogen-orchestrator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/gemini4-hydrogen-orchestrator.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>Orchestrator combina Hydrogen amb models més potents; l&#x27;accés depèn del pla de pagament de Google.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-15-gemini4-hydrogen-orchestrator.svg" medium="image" type="image/svg+xml"><media:description>Sota el títol «Orchestrator», dos quadres: a l&#x27;esquerra un amb un esquema de branques, rotulat «Carbon planifica», i a la dreta un amb un fitxer de codi, rotulat «Hydrogen edita». Una fletxa porta la feina del primer al segon i una fletxa vermella torna enrere, amb el rètol «Si s&#x27;encalla».</media:description></media:content>
+  </item>
+  <item>
     <title>Un docent demana a Codex que modeli a Blender les màquines de la Revolució Industrial</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-14/revolucion-industrial-blender-codex.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-14/revolucion-industrial-blender-codex.html</guid>
@@ -420,32 +447,6 @@
     <category>Vibe coding</category>
     <description>L&#x27;aplicació «Mapa de potencial gravitatorio», compartida pel professor Antonio González, inclou una guia didàctica de nou passos i calcula el treball entre dos punts.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, corbes d&#x27;igual potencial al voltant d&#x27;una massa amb dos punts, A i B, units per dos camins diferents; a la dreta, el mateix potencial com un embut vist de costat, amb A i B a dues alçades i una fletxa vermella amb el rètol «Mateix treball»: el treball és el mateix per qualsevol camí.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una activitat interactiva ensenya a escriure els símbols del teclat espanyol</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-10-31/teclado-espanol.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-31/teclado-espanol.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>La pràctica, compartida per Toni Magraner, entrena símbols, accents i dreceres amb un mode de prova i un altre d&#x27;entrenament.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>A dalt, dues files d&#x27;un teclat amb la tecla del 2 i la tecla AltGr ressaltades en blau; a sota, la combinació AltGr més 2, amb un signe igual en vermell, que dona com a resultat el símbol @.</media:description></media:content>
-  </item>
-  <item>
-    <title>Sincronitzar carpetes no és fer còpia de seguretat, va recordar un fil sobre Syncthing.</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-10-31/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-31/breve-1.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Sincronitzar carpetes no és fer còpia de seguretat, va recordar un fil sobre Syncthing. L&#x27;INCIBE recomana la regla 3-2-1: tres còpies, en dos suports diferents i una d&#x27;elles fora de casa.</description>
-  </item>
-  <item>
-    <title>Docents comparen com mantenir les mateixes skills i projectes en diversos ordinadors</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-10-30/skills-sincronizar.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-10-30/skills-sincronizar.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Qui programa amb assistents d&#x27;IA en diversos equips descriu tres enfocaments: repositori Git, sincronització contínua i una carpeta compartida al núvol.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Dos ordinadors, cadascun amb una carpeta de skills, units per tres camins: a dalt, «Git», una cadena de punts que representa un repositori; al mig, «Syncthing», dues fletxes d&#x27;anada i tornada de la sincronització contínua, i a baix, «Núvol», una carpeta compartida.</media:description></media:content>
   </item>
 </channel>
 </rss>

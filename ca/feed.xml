@@ -9,6 +9,76 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Declarar l&#x27;ús de la IA: un docent demana als centres aclarir quins usos són acceptables</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/declarar-uso-ia-transparencia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/declarar-uso-ia-transparencia.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debats</category>
+    <description>Un docent planteja si els centres, molt centrats a detectar treballs generats amb IA, expliquen amb prou claredat quins usos són acceptables i com declarar-los.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-15-declarar-uso-ia-transparencia.svg" medium="image" type="image/svg+xml"><media:description>Esquema amb la pregunta «Quins usos són vàlids?» a dalt. A l&#x27;esquerra, un document amb una fletxa blava que porta a una balança, sota el rètol «Procés declarat». A la dreta, un document amb una fletxa que porta a un interrogant vermell, sota el rètol «Procés ocult».</media:description></media:content>
+  </item>
+  <item>
+    <title>Chrome publica Modern Web Guidance 1.0, una guia de la web actual per a agents de codi</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/modern-web-guidance.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/modern-web-guidance.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La guia reuneix solucions verificades per experts i dades de compatibilitat per corregir el coneixement desfasat dels models.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-15-modern-web-guidance.svg" medium="image" type="image/svg+xml"><media:description>Tres quadres units per fletxes: un fitxer amb rellotge, rotulat «Dades antigues», una guia de llibre obert, rotulada «Guia web actual», i un fitxer de codi amb una marca vermella de visat, rotulat «Codi actual».</media:description></media:content>
+  </item>
+  <item>
+    <title>Enfonsar la flota en català, contra la màquina o en línia amb un codi de sala</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/enfonsar-la-flota.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/enfonsar-la-flota.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«Enfonsar la flota» és una versió web del clàssic joc dels vaixells, amb tauler de 10×10, que treballa les coordenades i l&#x27;estratègia a primària i secundària.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-15-enfonsar-la-flota.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici del joc amb dues targetes: «Partida en línia», amb botó per crear una sala i camp de codi, i «Contra la màquina», amb tres nivells de dificultat.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity incorpora Gemini 4 Hydrogen i un mode Orchestrator que reparteix la feina</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/gemini4-hydrogen-orchestrator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/gemini4-hydrogen-orchestrator.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>Orchestrator combina Hydrogen amb models més potents; l&#x27;accés depèn del pla de pagament de Google.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-15-gemini4-hydrogen-orchestrator.svg" medium="image" type="image/svg+xml"><media:description>Sota el títol «Orchestrator», dos quadres: a l&#x27;esquerra un amb un esquema de branques, rotulat «Carbon planifica», i a la dreta un amb un fitxer de codi, rotulat «Hydrogen edita». Una fletxa porta la feina del primer al segon i una fletxa vermella torna enrere, amb el rètol «Si s&#x27;encalla».</media:description></media:content>
+  </item>
+  <item>
+    <title>Seedream 5.5 promet mantenir una imatge estable en 100 rondes d&#x27;edició</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/seedream-55.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/seedream-55.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>ByteDance presenta una versió del seu generador d&#x27;imatges pensada per continuar retocant la mateixa imatge sense que canviï el que no es toca, i que genera fons transparents.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-15-seedream-55.svg" medium="image" type="image/svg+xml"><media:description>Sota el títol «Seedream 5.5», una imatge passa per fletxes circulars, amb el rètol «100 rondes», i en surt igual que hi ha entrat. A la dreta, un cercle blau sobre un fons de quadrats alternats, rotulat «Fons transparent».</media:description></media:content>
+  </item>
+  <item>
+    <title>Contrastar diverses IA era un truc casolà; avui Perplexity ho fa en una sola consulta</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/contrastar-varias-ia-model-council.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/contrastar-varias-ia-model-council.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, per refiar-se d&#x27;una resposta es recomanava preguntar a dues o tres intel·ligències artificials i fer servir una altra per buscar-ne les discrepàncies. Al febrer de 2026, Perplexity va convertir aquest mètode en una funció.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-15-contrastar-varias-ia-model-council.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: tres respostes de tres IA que una persona, dibuixada amb cap i espatlles i retolada «A mà», compara. A la dreta, «Avui»: les mateixes tres respostes entren en un únic requadre blau amb dues zones, «Coincideixen», amb una marca de verificació, i «Difereixen».</media:description></media:content>
+  </item>
+  <item>
+    <title>Segons el Financial Times, recollit per Deseret News, Spotify prepara per a principis de 2027 un…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/breve-1.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Segons el Financial Times, recollit per Deseret News, Spotify prepara per a principis de 2027 un complement de pagament (de 4 a 5 dòlars al mes, segons aquesta informació) per crear remixos i versions amb IA, amb acords amb Universal, Merlin i Believe. Spotify no n&#x27;ha confirmat ni la data ni el preu; a l&#x27;agost ja va anunciar el projecte amb Universal i Merlin.</description>
+  </item>
+  <item>
+    <title>Intelética, revista d&#x27;accés obert de IBERAMIA sobre intel·ligència artificial, ètica i societat, admet…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-15/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/breve-2.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Intelética, revista d&#x27;accés obert de IBERAMIA sobre intel·ligència artificial, ètica i societat, admet articles en castellà, portuguès i anglès.</description>
+  </item>
+  <item>
     <title>Els detectors d&#x27;IA no serveixen com a prova i les institucions proposen avaluar el procés</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-14/detectores-ia-evaluar-proceso.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-14/detectores-ia-evaluar-proceso.html</guid>
@@ -814,77 +884,6 @@
     <category>Debats</category>
     <description>Després d&#x27;una jornada sobre IA i educació, es planteja si el docent deixa de ser font d&#x27;informació i com evitar que l&#x27;alumnat delegui el seu raonament.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, «Font»: un docent transmet informació amb fletxes cap a tres estudiants; a la dreta, «Dissenyador i guia»: un altre docent amb un interrogant dissenya un recorregut d&#x27;etapes que porta a una bandera amb el rètol «Judici crític».</media:description></media:content>
-  </item>
-  <item>
-    <title>Donar accés total a un agent de consola exigeix protegir les dades de l&#x27;alumnat</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un docent amb experiència va explicar què pot fer un agent d&#x27;IA amb control complet d&#x27;un equip i quina informació convé mantenir fora del seu abast.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Una finestra de terminal, l&#x27;agent, té una fletxa cap a una carpeta de treball dins d&#x27;un equip, mentre que el seu camí cap a la carpeta de dades de l&#x27;alumnat, amb un cadenat, queda tallat per una creu vermella.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un informe per a la UNESCO sosté que no hi ha una edat única adequada per usar la IA a l&#x27;aula</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/unesco-edad-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/unesco-edad-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>Sonia Livingstone i tres coautores sostenen que no hi ha una única edat correcta per usar IA en educació i demanen decidir segons el desenvolupament infantil i uns objectius educatius clars.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>Un requadre amb la pregunta «A quina edat?» ratllada en vermell i una fletxa cap a tres preguntes en columna («Per a què?», «Condicions», «Evidència»); a sota, «Sobre / amb IA», una balança amb un llibre en un plat i una pantalla a l&#x27;altre.</media:description></media:content>
-  </item>
-  <item>
-    <title>El Fòrum Econòmic Mundial fixa set pràctiques perquè la IA sigui segura per a la infància sense tancar-li l&#x27;accés a l&#x27;aprenentatge</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/wef-infancia-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/wef-infancia-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>Un document del setembre del 2026 de la Global Coalition for Digital Safety pren el benestar infantil, i no només l&#x27;absència d&#x27;incidents, com a objectiu, i proposa pràctiques per a qui dissenya IA i incentius perquè es compleixin.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>Un temple esquemàtic: el frontó porta «Benestar infantil»; a sota, «Set pràctiques», set columnes, i sobre una llosa, «Set incentius», set blocs amb icones (informe, contracte, moneda, matràs, edifici públic, cadenat i cicle) que el sostenen.</media:description></media:content>
-  </item>
-  <item>
-    <title>Catalunya fixa en 45 orientacions quins usos de la IA promoure i quins limitar als centres educatius</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/cat-orientacions-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/cat-orientacions-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>El Departament d’Educació i Formació Professional publica el setembre de 2026 una guia que desaconsella l&#x27;ús autònom d&#x27;IA general per menors de 14 anys, la qualificació amb IA i els detectors de text generat.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dues columnes: a l&#x27;esquerra, «Menys de 14», un docent maneja la pantalla i l&#x27;alumnat observa; a la dreta, «De 14 a 18», l&#x27;alumne fa servir la pantalla amb un document d&#x27;autorització familiar. A sota, usos en avaluació: «Permès», crear instruments i corregir respostes tancades, i «Prohibit», qualificar i fer servir detectors.</media:description></media:content>
-  </item>
-  <item>
-    <title>Catalunya ofereix criteris per decidir quan una tecnologia aporta valor a primària i ESO, i situa la IA a 4t</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/cat-tecnologies-educatives.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/cat-tecnologies-educatives.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>La guia del Departament d’Educació situa la tecnologia al servei de l&#x27;aprenentatge amb taules de decisió, progressió per cicles, benestar digital i criteris de selecció de recursos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>Un embut amb «Nou criteris» de decisió deixa sortir una fletxa cap a una escala de cinc graons, «Autonomia creixent» de l&#x27;alumnat; només l&#x27;últim graó apareix destacat: «IA a 4t», d&#x27;ESO.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una web reuneix vídeos de motion graphics amb els seus prompts i skills per a agents</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/motionvideo-skills.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/motionvideo-skills.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>MotionVideo ofereix vídeos fets amb IA acompanyats del prompt, i skills que ensenyen un agent de programació a fer disseny en moviment.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-motionvideo-skills.svg" medium="image" type="image/svg+xml"><media:description>Tres quadres enllaçats per fletxes: un prompt escrit, una skill amb forma de finestra de terminal i un vídeo amb botó de reproducció i una trajectòria de moviment vermella a sota.</media:description></media:content>
-  </item>
-  <item>
-    <title>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar.</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar. Al grup es va valorar com a idea per a la divulgació.</description>
-  </item>
-  <item>
-    <title>El sector editorial adverteix d&#x27;una «cacera de bruixes» pels detectors de textos amb IA</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-01/detectores-caza-brujas.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>Un reportatge de La Vanguardia recull acusacions d&#x27;ús d&#x27;IA basades en detectors que es contradiuen amb el temps. El debat arriba a l&#x27;educació: com comprovar l&#x27;autoria sense perseguir.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Balança que pesa, en un plat, «Detector», un informe de detector d&#x27;IA marcat amb un interrogant, i en l&#x27;altre, «Conversa i regles», la conversa amb la persona i unes regles clares d&#x27;ús; a baix, una lupa i el rètol «Indici, no prova».</media:description></media:content>
   </item>
 </channel>
 </rss>

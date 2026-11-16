@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe coding</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Chrome publishes Modern Web Guidance 1.0, a guide to the current web for coding agents</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/modern-web-guidance.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/modern-web-guidance.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The guide brings together expert-verified solutions and compatibility data to correct the outdated knowledge of models.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-15-modern-web-guidance.svg" medium="image" type="image/svg+xml"><media:description>Three boxes joined by arrows: a file with a clock, labelled “Old data”, an open book guide, labelled “Current web guide”, and a code file with a red tick, labelled “Current code”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Battleships in Catalan, against the machine or online with a room code</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/enfonsar-la-flota.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/enfonsar-la-flota.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“Enfonsar la flota” is a web version of the classic battleships game, with a 10×10 board, which works on coordinates and strategy in primary and secondary school.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-15-enfonsar-la-flota.jpg" medium="image" type="image/png"><media:description>Start screen of the game with two cards: “Partida en línia”, with a button to create a room and a code field, and “Contra la màquina”, with three difficulty levels.</media:description></media:content>
+  </item>
+  <item>
     <title>A teacher asks Codex to model Industrial Revolution machines in Blender</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/revolucion-industrial-blender-codex.html</guid>

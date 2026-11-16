@@ -9,6 +9,76 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Declaring AI use: a teacher asks schools to clarify which uses are acceptable</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/declarar-uso-ia-transparencia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/declarar-uso-ia-transparencia.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>A teacher asks whether schools, very focused on detecting AI-generated work, explain clearly enough which uses are acceptable and how to declare them.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-15-declarar-uso-ia-transparencia.svg" medium="image" type="image/svg+xml"><media:description>Diagram with the question “Which uses are allowed?” at the top. On the left, a document with a blue arrow leading to a scale, under the label “Declared process”. On the right, a document with an arrow leading to a red question mark, under the label “Hidden process”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Chrome publishes Modern Web Guidance 1.0, a guide to the current web for coding agents</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/modern-web-guidance.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/modern-web-guidance.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The guide brings together expert-verified solutions and compatibility data to correct the outdated knowledge of models.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-15-modern-web-guidance.svg" medium="image" type="image/svg+xml"><media:description>Three boxes joined by arrows: a file with a clock, labelled “Old data”, an open book guide, labelled “Current web guide”, and a code file with a red tick, labelled “Current code”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Battleships in Catalan, against the machine or online with a room code</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/enfonsar-la-flota.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/enfonsar-la-flota.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>“Enfonsar la flota” is a web version of the classic battleships game, with a 10×10 board, which works on coordinates and strategy in primary and secondary school.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-15-enfonsar-la-flota.jpg" medium="image" type="image/png"><media:description>Start screen of the game with two cards: “Partida en línia”, with a button to create a room and a code field, and “Contra la màquina”, with three difficulty levels.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity adds Gemini 4 Hydrogen and an Orchestrator mode that shares out the work</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/gemini4-hydrogen-orchestrator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/gemini4-hydrogen-orchestrator.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>Orchestrator combines Hydrogen with more powerful models; access depends on Google’s paid plan.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-15-gemini4-hydrogen-orchestrator.svg" medium="image" type="image/svg+xml"><media:description>Under the title “Orchestrator”, two boxes: on the left one with a branching diagram, labelled “Carbon plans”, and on the right one with a code file, labelled “Hydrogen edits”. An arrow carries the work from the first to the second and a red arrow goes back, labelled “If it gets stuck”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Seedream 5.5 promises to keep an image stable across 100 rounds of editing</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/seedream-55.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/seedream-55.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>ByteDance presents a version of its image generator designed for retouching the same image again and again without changing what is left untouched, and which generates transparent backgrounds.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-15-seedream-55.svg" medium="image" type="image/svg+xml"><media:description>Under the title “Seedream 5.5”, an image passes through circular arrows, labelled “100 rounds”, and comes out the same as it went in. On the right, a blue circle on a background of alternating squares, labelled “Transparent background”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Cross-checking several AIs was a homemade trick; today Perplexity does it in a single query</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/contrastar-varias-ia-model-council.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/contrastar-varias-ia-model-council.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, the advice for trusting an answer was to ask two or three artificial intelligences and use another to look for the discrepancies. In February 2026, Perplexity turned that method into a feature.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-15-contrastar-varias-ia-model-council.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: three answers from three AIs that a person, drawn with head and shoulders and labelled “By hand”, compares. On the right, “Today”: the same three answers go into a single blue box with two zones, “Agree”, with a tick, and “Differ”.</media:description></media:content>
+  </item>
+  <item>
+    <title>According to the Financial Times, reported by Deseret News, Spotify is preparing for early 2027 a paid…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/breve-1.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>According to the Financial Times, reported by Deseret News, Spotify is preparing for early 2027 a paid add-on ($4 to $5 a month, according to that report) to create AI remixes and covers, with agreements with Universal, Merlin and Believe. Spotify has confirmed neither date nor price; in August it had already announced the project with Universal and Merlin.</description>
+  </item>
+  <item>
+    <title>Intelética, IBERAMIA’s open-access journal on artificial intelligence, ethics and society, accepts…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-15/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/breve-2.html</guid>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Intelética, IBERAMIA’s open-access journal on artificial intelligence, ethics and society, accepts articles in Spanish, Portuguese and English.</description>
+  </item>
+  <item>
     <title>AI-text detectors are not proof, and institutions propose assessing the process instead</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-14/detectores-ia-evaluar-proceso.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/detectores-ia-evaluar-proceso.html</guid>
@@ -814,77 +884,6 @@
     <category>Debates</category>
     <description>After a conference on AI and education, members ask whether teachers stop being a source of information and how to prevent students from delegating their reasoning.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>On the left, “Source”: a teacher transmits information with arrows towards three students; on the right, “Designer and guide”: another teacher with a question mark designs a route of stages leading to a flag labelled “Critical judgement”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Giving a command-line agent full access means protecting students’ data</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>An experienced teacher explained what an AI agent with full control of a computer can do and what information should be kept out of its reach.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>A terminal window, the agent, has an arrow towards a working folder inside a computer, while its path to the students’ data folder, marked with a padlock, is cut off by a red cross.</media:description></media:content>
-  </item>
-  <item>
-    <title>A report for UNESCO argues that there is no single right age for using AI in the classroom</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>Sonia Livingstone and three co-authors argue that there is no single right age for using AI in education and call for decisions based on child development and clear educational aims.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>A box with the question “At what age?” crossed out in red and an arrow towards three items in a column (“Purpose?”, “Conditions”, “Evidence”); below, “About / with AI”, a balance with a book in one pan and a screen in the other.</media:description></media:content>
-  </item>
-  <item>
-    <title>The World Economic Forum sets out seven practices to make AI safe for children without shutting them out of learning</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>A September 2026 document from the Global Coalition for Digital Safety takes children’s well-being, and not merely the absence of incidents, as its goal, and proposes practices for those who design AI and incentives to ensure they are followed.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>A schematic temple: the pediment reads “Child well-being”; below it, “Seven practices”, seven columns, and resting on a slab, “Seven incentives”, seven blocks with icons (report, contract, coin, flask, public building, padlock and cycle) holding it up.</media:description></media:content>
-  </item>
-  <item>
-    <title>Catalonia sets out 45 guidelines on which uses of AI to promote and which to limit in schools</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>The Department of Education and Vocational Training publishes a guide in September 2026 that advises against autonomous use of general-purpose AI by under-14s, grading with AI and AI-text detectors.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Diagram in two columns: on the left, “Under 14”, a teacher operates the screen while students look on; on the right, “14 to 18”, a student uses the screen with a family authorisation form. Below, uses in assessment: “Permitted”, creating instruments and marking closed answers, and “Prohibited”, grading and using detectors.</media:description></media:content>
-  </item>
-  <item>
-    <title>Catalonia offers criteria for deciding when a technology adds value in primary and ESO, and places AI in the fourth year</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>The Department of Education’s guide puts technology at the service of learning, with decision tables, progression by cycle, digital well-being and criteria for selecting resources.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>A funnel with “Nine criteria” for decision-making sends an arrow towards a staircase of five steps, “Growing autonomy” for students; only the top step is highlighted: “AI in year 4” of ESO.</media:description></media:content>
-  </item>
-  <item>
-    <title>A website gathers motion-graphics videos with their prompts and skills for agents</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/motionvideo-skills.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/motionvideo-skills.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>MotionVideo offers AI-made videos accompanied by their prompts, and skills that teach a coding agent how to do motion design.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-motionvideo-skills.svg" medium="image" type="image/svg+xml"><media:description>Three boxes linked by arrows: a written prompt, a skill shaped like a terminal window, and a video with a play button and a red motion path beneath it.</media:description></media:content>
-  </item>
-  <item>
-    <title>The website for Ethan Mollick’s new book includes an “AI cursor” that accompanies the reading and can be…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/breve-1.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>The website for Ethan Mollick’s new book includes an “AI cursor” that accompanies the reading and can be switched off. Members rated it as an idea for popularising the subject.</description>
-  </item>
-  <item>
-    <title>Publishing industry warns of a “witch hunt” over AI text detectors</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-01/detectores-caza-brujas.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-01/detectores-caza-brujas.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>A La Vanguardia report describes accusations of AI use based on detectors whose verdicts contradict themselves over time. The debate reaches education: how to check authorship without hunting for culprits.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Scales weighing, in one pan, “Detector”, an AI detector report marked with a question mark, and in the other, “Conversation and rules”, a conversation with the person and clear rules of use; below, a magnifying glass and the label “Indication, not proof”.</media:description></media:content>
   </item>
 </channel>
 </rss>
