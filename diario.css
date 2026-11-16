@@ -471,18 +471,18 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .redaccion .cabeza-pieza .titular { font-size: clamp(2.2rem, 5vw, 3rem); font-variation-settings: "opsz" 72; margin: 0 0 0.5rem; }
 .redaccion .red-proceso > .ilu { margin: 1.2rem 0 1.6rem; background: var(--papel-2); padding: 1rem; }
 /* «La redacción», la versión breve (ADR 0082): cuatro ideas en recuadros y los enlaces para saber más */
-.redaccion :is(.red-ideas, .red-mas) { margin-top: 1.6rem; padding-top: 1.2rem; border-top: 1px solid var(--filete); }
-.redaccion :is(.red-ideas, .red-mas) > ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem;
+:is(.redaccion, .documento) .red-mas, .redaccion .red-ideas { margin-top: 1.6rem; padding-top: 1.2rem; border-top: 1px solid var(--filete); }
+:is(.redaccion, .documento) .red-mas > ul, .redaccion .red-ideas > ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); }
 .redaccion .red-ideas li { background: var(--papel-2); padding: 1.1rem 1.2rem; }
 .redaccion .red-ideas .ico { width: 1.9rem; height: 1.9rem; color: var(--azul); fill: none; stroke: currentColor; stroke-width: 1.75; }
 .redaccion .red-ideas h3 { margin: 0.5rem 0 0.4rem; font-size: 1.1rem; line-height: 1.25; }
 .redaccion .red-ideas p { margin: 0; line-height: 1.5; text-align: left; hyphens: manual; }
-.redaccion .red-mas a { display: block; height: 100%; box-sizing: border-box; padding: 0.9rem 1.1rem; border: 1px solid var(--filete);
+:is(.redaccion, .documento) .red-mas a { display: block; height: 100%; box-sizing: border-box; padding: 0.9rem 1.1rem; border: 1px solid var(--filete);
   border-top: 3px solid var(--azul); text-decoration: none; color: inherit; }
-.redaccion .red-mas a:hover, .redaccion .red-mas a:focus-visible { background: var(--papel-2); }
-.redaccion .red-mas strong { display: block; color: var(--azul); margin-bottom: 0.25rem; }
-.redaccion .red-mas span { font-size: 0.95rem; line-height: 1.45; color: var(--tinta-2); }
+:is(.redaccion, .documento) .red-mas a:is(:hover, :focus-visible) { background: var(--papel-2); }
+:is(.redaccion, .documento) .red-mas strong { display: block; color: var(--azul); margin-bottom: 0.25rem; }
+:is(.redaccion, .documento) .red-mas span { font-size: 0.95rem; line-height: 1.45; color: var(--tinta-2); }
 .redaccion .red-guias { columns: 2 12rem; column-gap: 2rem; }
 .redaccion .red-proceso > .ilu figcaption { margin-top: 0.7rem; font-size: 0.9rem; line-height: 1.45; color: var(--tinta-2); text-align: left; }
 .redaccion .red-comunidades { margin-top: 1.6rem; padding-top: 1.2rem; border-top: 1px solid var(--filete); text-align: center; }
