@@ -1064,7 +1064,14 @@ html.con-lector body { padding-bottom: 4.5rem; }
   /* Las normas (generar.pagina_documento): los apartados, dentro de las columnas, sin quedarse solos al pie de
      una; un tramo corto entre dos tablas, a lo ancho */
   html:not(.una-columna) .en-columnas .cuerpo .corto { column-span: all; }
-  .documento .cuerpo .doc-apartado { break-after: avoid; break-inside: avoid; hyphens: manual; -webkit-hyphens: manual; margin-top: 1.4rem; }
+  /* Las normas, por tramos (generar.doc_html): el cuerpo no va en columnas; cada tramo, en las suyas */
+  html:not(.una-columna) .documento.en-columnas .cuerpo { columns: auto; column-rule: none; }
+  html:not(.una-columna) .documento .doc-bloque { columns: 3 19rem; column-gap: 2rem; column-rule: 1px solid var(--filete); }
+  html:not(.una-columna) .documento .doc-cabeza { break-inside: avoid; }
+  .documento .doc-cabeza > :is(ul, ol) { margin-bottom: 0; }
+  .documento .doc-sigue { margin-top: 0; }
+  html:not(.una-columna) .documento .doc-bloque + .doc-bloque { margin-top: 1.4rem; padding-top: 1.2rem; border-top: 1px solid var(--filete); }
+  .documento .cuerpo .doc-apartado { break-after: avoid; break-inside: avoid; hyphens: manual; -webkit-hyphens: manual; text-align: left; margin-top: 1.4rem; }
   .documento .cuerpo > .doc-apartado:first-child, .documento .cuerpo .corto > .doc-apartado:first-child { margin-top: 0; }
   html:not(.una-columna) .en-columnas .cuerpo .claves ul { columns: 2; column-gap: 2.6rem; }
   /* La semana del repositorio: la captura y el texto de cada recurso, en las mismas columnas, una detrás de
