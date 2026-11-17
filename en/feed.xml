@@ -9,6 +9,59 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>A robotic palletising cell is simulated in the browser and exports the scene as .glb</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/celda-paletizado-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/celda-paletizado-3d.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>According to the message of the person who shared it, the app was built with AI models; it lets users stop, resume and monitor a virtual industrial cell and export the scene for Blender.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-16-celda-paletizado-3d.svg" medium="image" type="image/svg+xml"><media:description>Diagram from left to right: a browser window with a robotic cell (conveyor with boxes, robot arm and pallet) and a vertical red line marking the safety curtain; a blue arrow towards a 3D cube. Labels: “Cell in the browser”, “Light curtain”, “.glb” and “Blender”.</media:description></media:content>
+  </item>
+  <item>
+    <title>INTEF updates its guide to AI in education with ten ethical principles and a phased plan for schools to adopt it</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/intef-guia-ia-v2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/intef-guia-ia-v2.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>Version 2.0 of the Ministry of Education&#x27;s guide, published in September 2026, organises the use of AI around three profiles (students, teachers and schools) and adds annexes ready for the classroom.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-16-intef-guia-ia-v2.svg" medium="image" type="image/svg+xml"><media:description>Three cards, each with a human figure, labelled “Students”, “Teachers” and “School”, resting on a base labelled “Four domains”; above the school card a seven-step staircase labelled “Seven phases” rises to a circle with a review arrow.</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama offers 206 reading texts with questions for building reading comprehension worksheets</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/trama-comprensio-lectora.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/trama-comprensio-lectora.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The catalogue, in Catalan and Spanish, is aimed mainly at the fourth to sixth years of primary school and lets teachers choose the questions before printing the worksheet or downloading it as a PDF.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-16-trama-comprensio-lectora.jpg" medium="image" type="image/png"><media:description>Trama&#x27;s catalogue of reading texts with filters on the left and cards showing an illustration, title, school year, difficulty and a “Prepara la fitxa” button.</media:description></media:content>
+  </item>
+  <item>
+    <title>EyeJack Creator: bringing an image to life on your phone with augmented reality</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/eyejack-creator-realidad-aumentada.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/eyejack-creator-realidad-aumentada.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>A website lets you attach a video or animation to an image and watch it on your phone by pointing at it. The free version limits views, duration and size.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-16-eyejack-creator-realidad-aumentada.svg" medium="image" type="image/svg+xml"><media:description>Diagram in two halves. On the left, “Before”: a poster with a drawn sun and mountain, a QR code and a phone pointing at it, labelled “Poster”. On the right, “After”: the same poster with motion lines and a phone showing the animated drawing, labelled “In motion”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Failed for studying from flawed ChatGPT notes; today Catalonia has 45 guidelines on use</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/apuntes-erroneos-chatgpt-orientaciones-cataluna.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/apuntes-erroneos-chatgpt-orientaciones-cataluna.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, a Catalan teacher said he had failed students who studied from flawed notes made with ChatGPT, and the group called for literacy and rules. A year later, the Departament d’Educació has set out how AI should enter schools.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-16-apuntes-erroneos-chatgpt-orientaciones-cataluna.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a document crossed out with an X, labelled “Flawed notes”. On the right, “Today”: the same document marked with a blue check mark, labelled “45 guidelines”.</media:description></media:content>
+  </item>
+  <item>
+    <title>ElevenLabs’ video translator page advertises more than 90 languages, although its FAQ section speaks of…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/breve-1.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>ElevenLabs’ video translator page advertises more than 90 languages, although its FAQ section speaks of more than 29 and does not mention Catalan. It states a limit of one minute or 50 MB per file.</description>
+  </item>
+  <item>
     <title>Declaring AI use: a teacher asks schools to clarify which uses are acceptable</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-15/declarar-uso-ia-transparencia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/declarar-uso-ia-transparencia.html</guid>
@@ -832,58 +885,6 @@
     <category>Vibe coding</category>
     <description>FiQuiPedia’s app lets users practise organic chemistry nomenclature with configurable tests and a tool that goes from formula to name.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Start screen titled “Formulación Química” with the Tests, F → N and Panel buttons, IUPAC and CAS logos, links to libraries and a row of functional groups.</media:description></media:content>
-  </item>
-  <item>
-    <title>A Geography teacher uses Gemini to build a counter of births and deaths around the world</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>“Pulso Demográfico Mundial en Tiempo Real”, by Ricardo Chao Prieto, simulates in real time the births and deaths in each country, based on the UN’s population projections for 2026.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>A globe in the centre with a births counter on the left, marked with a blue plus, and a deaths counter on the right, with a minus, and a red arrow pointing up to indicate net growth.</media:description></media:content>
-  </item>
-  <item>
-    <title>In EduMedia-IAG, members explained how to use MotionVideo’s skills: you install the skill in the AI,…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/breve-1.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>In EduMedia-IAG, members explained how to use MotionVideo’s skills: you install the skill in the AI, invoke it and give it the instruction with the details of the video you want to create. Each example video on the site comes with its prompt, as the piece of 3 November reported.</description>
-  </item>
-  <item>
-    <title>In the United States, the Los Angeles school district blocked students’ access to generative AI on their…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>In the United States, the Los Angeles school district blocked students’ access to generative AI on their devices in September, and the FCC is reviewing E-Rate subsidies for school internet connections amid the row over screen time. They were shared in the group as context for Google’s announcement.</description>
-  </item>
-  <item>
-    <title>A teacher recommends building infographics in HTML and SVG rather than as generated images</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/infografias-svg-html.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/infografias-svg-html.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>A member of Vibe Coding Educativo argues that, to illustrate concepts, AI should generate SVG shapes and icons in an HTML page, with generated images kept for when they are pedagogically necessary.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Diagram in which an “Idea” splits into two paths: one ends in a crossed-out opaque block, the “Generated image”, and the other in an infographic of shapes and icons, “HTML and SVG”, from which two advantages branch off: “Screen reader” and “Light and dark”.</media:description></media:content>
-  </item>
-  <item>
-    <title>An MIT report, from August, calls for rethinking teaching and assessment in the age of AI</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institutions &amp; Industry</category>
-    <description>The committee set up by MIT to study the use of AI in teaching, learning and research training recommends AI-aware educational processes and a review of assessments and policies.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>A “Report” from which three branches extend, each with its own icon: a sheet with a tick, “Assessment and rules”; two people, “People and campus”; and two arrows in a circle, “Continuous improvement”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Teachers as designers of learning are at the heart of the debate on AI in the classroom</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>After a conference on AI and education, members ask whether teachers stop being a source of information and how to prevent students from delegating their reasoning.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>On the left, “Source”: a teacher transmits information with arrows towards three students; on the right, “Designer and guide”: another teacher with a question mark designs a route of stages leading to a flag labelled “Critical judgement”.</media:description></media:content>
   </item>
 </channel>
 </rss>

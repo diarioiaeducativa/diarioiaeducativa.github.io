@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>A robotic palletising cell is simulated in the browser and exports the scene as .glb</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/celda-paletizado-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/celda-paletizado-3d.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>According to the message of the person who shared it, the app was built with AI models; it lets users stop, resume and monitor a virtual industrial cell and export the scene for Blender.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-16-celda-paletizado-3d.svg" medium="image" type="image/svg+xml"><media:description>Diagram from left to right: a browser window with a robotic cell (conveyor with boxes, robot arm and pallet) and a vertical red line marking the safety curtain; a blue arrow towards a 3D cube. Labels: “Cell in the browser”, “Light curtain”, “.glb” and “Blender”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama offers 206 reading texts with questions for building reading comprehension worksheets</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-16/trama-comprensio-lectora.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/trama-comprensio-lectora.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The catalogue, in Catalan and Spanish, is aimed mainly at the fourth to sixth years of primary school and lets teachers choose the questions before printing the worksheet or downloading it as a PDF.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-16-trama-comprensio-lectora.jpg" medium="image" type="image/png"><media:description>Trama&#x27;s catalogue of reading texts with filters on the left and cards showing an illustration, title, school year, difficulty and a “Prepara la fitxa” button.</media:description></media:content>
+  </item>
+  <item>
     <title>Chrome publishes Modern Web Guidance 1.0, a guide to the current web for coding agents</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-15/modern-web-guidance.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-15/modern-web-guidance.html</guid>
@@ -429,24 +447,6 @@
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>In brief</category>
     <description>rclone’s shared Google Drive access client will stop working in 2026, according to its documentation. Creating your own, which also avoids the shared query limit, is now considered essential.</description>
-  </item>
-  <item>
-    <title>Handing tasks to an AI agent means deciding first what it can see, remember and do</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>The Sunday feature</category>
-    <description>Artificial intelligence assistants no longer just answer questions: they open folders, read email and act on behalf of the people who use them. Spain’s data protection authority has just published a ten-point guide to delegating without losing control. This report explains what changes, what companies and administrations say, and what a teacher can configure before granting an agent any permissions.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-31-agentes-ia-permisos-datos-alumnado.svg" medium="image" type="image/svg+xml"><media:description>Three overlapping circles, “Reads others’ content”, “Sensitive data” and “Acts alone”; in the overlaps of two, the safeguards “Read-only”, “No names” and “Ask for confirmation”, and in the centre, where all three meet, a red cross marked “Unacceptable risk”; at the bottom, a strip of five icons (eye, notebook, cursor, envelope and two people) for the AEPD’s five questions before delegating.</media:description></media:content>
-  </item>
-  <item>
-    <title>An interactive lab guides final-year Bachillerato students through gravitational potential</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-31/mapa-potencial-gravitatorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-31/mapa-potencial-gravitatorio.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>The app “Mapa de potencial gravitatorio”, shared by teacher Antonio González, includes a nine-step teaching guide and calculates the work done between two points.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>On the left, equal-potential curves around a mass with two points, A and B, joined by two different paths; on the right, the same potential as a funnel seen from the side, with A and B at two heights and a red arrow labelled “Same work”: the work is the same along any path.</media:description></media:content>
   </item>
 </channel>
 </rss>

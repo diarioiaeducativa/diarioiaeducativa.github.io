@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Unha cela robotizada de paletizado simúlase no navegador e exporta a escena en .glb</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-16/celda-paletizado-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-16/celda-paletizado-3d.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Segundo a mensaxe da persoa que a comparte, a aplicación fíxose con modelos de IA; permite parar, retomar e vixiar unha cela industrial virtual e exportar a escena para Blender.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-16-celda-paletizado-3d.svg" medium="image" type="image/svg+xml"><media:description>Esquema de esquerda a dereita: unha xanela de navegador cunha cela robotizada (cinta con caixas, brazo robótico e palé) e unha liña vermella vertical que marca a cortina de seguridade; unha frecha azul cara a un cubo en 3D. Rótulos: «Cela no navegador», «Cortina óptica», «.glb» e «Blender».</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama ofrece 206 lecturas con preguntas para preparar fichas de comprensión lectora</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-16/trama-comprensio-lectora.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-16/trama-comprensio-lectora.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>O catálogo, en catalán e en castelán, está pensado sobre todo para 4.º a 6.º de primaria e permite escoller as preguntas antes de imprimir a ficha ou descargala en PDF.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-16-trama-comprensio-lectora.jpg" medium="image" type="image/png"><media:description>Catálogo de lecturas de Trama con filtros á esquerda e tarxetas con ilustración, título, curso, dificultade e botón «Prepara la fitxa».</media:description></media:content>
+  </item>
+  <item>
     <title>Chrome publica Modern Web Guidance 1.0, unha guía da web actual para axentes de código</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-15/modern-web-guidance.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-15/modern-web-guidance.html</guid>

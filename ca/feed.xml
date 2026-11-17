@@ -9,6 +9,59 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Una cel·la robotitzada de paletització se simula al navegador i exporta l&#x27;escena en .glb</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-16/celda-paletizado-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/celda-paletizado-3d.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Segons el missatge de la persona que la comparteix, l&#x27;aplicació es va fer amb models d&#x27;IA; permet aturar, reprendre i vigilar una cel·la industrial virtual i exportar l&#x27;escena per a Blender.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-16-celda-paletizado-3d.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;esquerra a dreta: una finestra de navegador amb una cel·la robotitzada (cinta amb caixes, braç robòtic i palet) i una línia vermella vertical que marca la cortina de seguretat; una fletxa blava cap a un cub en 3D. Rètols: «Cel·la al navegador», «Cortina òptica», «.glb» i «Blender».</media:description></media:content>
+  </item>
+  <item>
+    <title>L&#x27;INTEF actualitza la seva guia d&#x27;IA en educació amb deu principis ètics i un pla per fases perquè els centres la incorporin</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-16/intef-guia-ia-v2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/intef-guia-ia-v2.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>La versió 2.0 de la guia del Ministeri d&#x27;Educació, publicada el setembre del 2026, ordena l&#x27;ús de la IA en tres perfils (alumnat, professorat i centre) i hi afegeix annexos llestos per a l&#x27;aula.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-16-intef-guia-ia-v2.svg" medium="image" type="image/svg+xml"><media:description>Tres targetes amb una figura humana, rotulades «Alumnat», «Professorat» i «Centre», recolzades en una base rotulada «Quatre àmbits»; sobre la targeta del centre puja una escala de set graons rotulada «Set fases» que acaba en un cercle amb una fletxa de revisió.</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama ofereix 206 lectures amb preguntes per preparar fitxes de comprensió lectora</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-16/trama-comprensio-lectora.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/trama-comprensio-lectora.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El catàleg, en català i en castellà, està pensat sobretot per a 4t a 6è de primària i permet triar les preguntes abans d&#x27;imprimir la fitxa o descarregar-la en PDF.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-16-trama-comprensio-lectora.jpg" medium="image" type="image/png"><media:description>Catàleg de lectures de Trama amb filtres a l&#x27;esquerra i targetes amb il·lustració, títol, curs, dificultat i botó «Prepara la fitxa».</media:description></media:content>
+  </item>
+  <item>
+    <title>EyeJack Creator: donar moviment a una imatge al mòbil amb realitat augmentada</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-16/eyejack-creator-realidad-aumentada.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/eyejack-creator-realidad-aumentada.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Una web permet associar un vídeo o una animació a una imatge i veure&#x27;ls amb el mòbil en apuntar-hi. La versió gratuïta limita les visualitzacions, la durada i la mida.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-16-eyejack-creator-realidad-aumentada.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dues meitats. A l&#x27;esquerra, «Abans»: un cartell amb un sol i una muntanya dibuixats, un codi QR i un mòbil que l&#x27;apunta, amb el rètol «Cartell». A la dreta, «Després»: el mateix cartell amb línies de moviment i un mòbil que mostra el dibuix animat, amb el rètol «En moviment».</media:description></media:content>
+  </item>
+  <item>
+    <title>Suspesos per estudiar amb apunts de ChatGPT; avui Catalunya té 45 orientacions d&#x27;ús</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-16/apuntes-erroneos-chatgpt-orientaciones-cataluna.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/apuntes-erroneos-chatgpt-orientaciones-cataluna.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, un professor català explicava que havia suspès alumnes que van estudiar amb apunts erronis fets amb ChatGPT, i el grup reclamava alfabetització i normes. Un any després, el Departament d&#x27;Educació ha fixat com ha d&#x27;entrar la IA als centres.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-16-apuntes-erroneos-chatgpt-orientaciones-cataluna.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: un document ratllat amb una creu, amb el rètol «Apunts erronis». A la dreta, «Avui»: el mateix document marcat amb un senyal de verificació en blau, amb el rètol «45 orientacions».</media:description></media:content>
+  </item>
+  <item>
+    <title>La pàgina del traductor de vídeo d&#x27;ElevenLabs anuncia més de 90 idiomes, tot i que la secció de preguntes…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-16/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/breve-1.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>La pàgina del traductor de vídeo d&#x27;ElevenLabs anuncia més de 90 idiomes, tot i que la secció de preguntes en esmenta més de 29 i no hi menciona el català. Indica un límit d&#x27;un minut o 50 MB per arxiu.</description>
+  </item>
+  <item>
     <title>Declarar l&#x27;ús de la IA: un docent demana als centres aclarir quins usos són acceptables</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-15/declarar-uso-ia-transparencia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-15/declarar-uso-ia-transparencia.html</guid>
@@ -832,58 +885,6 @@
     <category>Vibe coding</category>
     <description>L&#x27;aplicació de FiQuiPedia permet practicar la nomenclatura de química orgànica amb tests configurables i una eina que passa de la fórmula al nom.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici titulada «Formulación Química» amb els botons Tests, F → N i Panel, logotips d&#x27;IUPAC i CAS, enllaços a biblioteques i una fila de grups funcionals.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un professor de Geografia crea amb Gemini un comptador de naixements i morts al món</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/pulso-demografico.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/pulso-demografico.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Pulso Demográfico Mundial en Tiempo Real», de Ricardo Chao Prieto, simula al ritme real els naixements i les defuncions de cada país a partir de les projeccions de població de l&#x27;ONU per al 2026.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>Un globus terraqüi al centre amb un comptador de naixements a l&#x27;esquerra, marcat amb un més blau, i un altre de defuncions a la dreta, amb un menys, i una fletxa vermella cap amunt que indica el creixement net.</media:description></media:content>
-  </item>
-  <item>
-    <title>A EduMedia-IAG es va explicar com fer servir les skills de MotionVideo: s&#x27;instal·la la skill a la IA,…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/breve-1.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>A EduMedia-IAG es va explicar com fer servir les skills de MotionVideo: s&#x27;instal·la la skill a la IA, s&#x27;invoca i se li dona la instrucció amb les dades del vídeo que es vol crear. Cada vídeo d&#x27;exemple del web porta el seu prompt, com explicava la peça del 3 de novembre.</description>
-  </item>
-  <item>
-    <title>Als Estats Units, el districte escolar de Los Angeles va bloquejar al setembre l&#x27;accés de l&#x27;alumnat a la…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/breve-2.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Als Estats Units, el districte escolar de Los Angeles va bloquejar al setembre l&#x27;accés de l&#x27;alumnat a la IA generativa als seus dispositius, i la FCC revisa els ajuts E-Rate a la connexió de les escoles en plena polèmica pel temps de pantalla. Al grup es van compartir com a context de l&#x27;anunci de Google.</description>
-  </item>
-  <item>
-    <title>Un docent recomana crear infografies en HTML i SVG abans que com a imatges generades</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/infografias-svg-html.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/infografias-svg-html.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Un membre de Vibe Coding Educativo defensa que, per il·lustrar conceptes, convé que la IA generi formes SVG i icones en una pàgina HTML i que les imatges generades quedin per a quan siguin pedagògicament necessàries.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Esquema en què una «Idea» es bifurca en dos camins: un acaba en un bloc opac ratllat, la «Imatge generada», i l&#x27;altre en una infografia de formes i icones, «HTML i SVG», de la qual surten dos avantatges: «Lector de pantalla» i «Clar i fosc».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un informe del MIT, d&#x27;agost, demana replantejar l&#x27;ensenyament i l&#x27;avaluació davant la IA</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/informe-mit-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/informe-mit-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institucions i empreses</category>
-    <description>El comitè creat pel MIT per estudiar l&#x27;ús de la IA en docència, aprenentatge i formació en recerca recomana processos educatius adaptats a la IA i revisar avaluacions i normes.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>Un «Informe» del qual parteixen tres branques, cadascuna amb la seva icona: un full amb una marca, «Avaluació i normes»; dues persones, «Persones i campus», i dues fletxes en cercle, «Millora contínua».</media:description></media:content>
-  </item>
-  <item>
-    <title>El professorat com a dissenyador de l&#x27;ensenyament centra el debat sobre la IA a l&#x27;aula</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/docente-disenador.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/docente-disenador.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>Després d&#x27;una jornada sobre IA i educació, es planteja si el docent deixa de ser font d&#x27;informació i com evitar que l&#x27;alumnat delegui el seu raonament.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, «Font»: un docent transmet informació amb fletxes cap a tres estudiants; a la dreta, «Dissenyador i guia»: un altre docent amb un interrogant dissenya un recorregut d&#x27;etapes que porta a una bandera amb el rètol «Judici crític».</media:description></media:content>
   </item>
 </channel>
 </rss>

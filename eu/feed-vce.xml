@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Paletizatze-gelaxka robotizatu bat nabigatzailean simulatzen da, eta eszena .glb formatuan esportatzen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-16/celda-paletizado-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-16/celda-paletizado-3d.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Eskuratu duen pertsonaren mezuaren arabera, aplikazioa AA ereduekin egin zen; industria-gelaxka birtual bat gelditu, berrabiarazi eta zaintzeko aukera ematen du, eta eszena Blenderrentzat esportatzeko ere bai.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-16-celda-paletizado-3d.svg" medium="image" type="image/svg+xml"><media:description>Ezkerretik eskuinera doan eskema: nabigatzaile-leiho bat gelaxka robotizatu batekin (kutxadun zinta, besoa robotikoa eta paleta) eta segurtasun-ate optikoa markatzen duen lerro gorri bertikal bat; gezi urdin bat 3Dko kubo batera. Errotuluak: «Gelaxka nabigatzailean», «Ate optikoa», «.glb» eta «Blender».</media:description></media:content>
+  </item>
+  <item>
+    <title>Tramak 206 irakurgai eskaintzen ditu, irakurmen-ulermeneko fitxak prestatzeko galderekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-16/trama-comprensio-lectora.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-16/trama-comprensio-lectora.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Katalanezko eta gaztelaniazko katalogoa batez ere Lehen Hezkuntzako 4. mailatik 6.era arteko ikasleentzat pentsatuta dago, eta fitxa inprimatu edo PDF gisa deskargatu aurretik galderak aukeratzeko aukera ematen du.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-16-trama-comprensio-lectora.jpg" medium="image" type="image/png"><media:description>Tramaren irakurgai-katalogoa: ezkerrean iragazkiak, eta eskuinean irudia, izenburua, maila, zailtasuna eta «Prepara la fitxa» botoia dituzten txartelak.</media:description></media:content>
+  </item>
+  <item>
     <title>Chromek Modern Web Guidance 1.0 argitaratu du, kode-agenteentzako egungo weberako gida</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-15/modern-web-guidance.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-15/modern-web-guidance.html</guid>
@@ -429,24 +447,6 @@
     <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
     <category>Laburrak</category>
     <description>rclone-k Google Drive-rako erabiltzen duen sarbide partekatuko bezeroak funtzionatzeari utziko dio 2026an, bere dokumentazioaren arabera. Berezko bat sortzea, partekatutako kontsulta-muga ere saihesten duena, derrigorrezkotzat jotzen da jada.</description>
-  </item>
-  <item>
-    <title>Zeregin bat AA agente bati eskuordetzeko, lehenago erabaki behar da zer ikus, zer gogoratu eta zer egin dezakeen</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/agentes-ia-permisos-datos-alumnado.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/agentes-ia-permisos-datos-alumnado.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Igandeko erreportajea</category>
-    <description>Adimen artifizialeko laguntzaileak ez dira jada erantzutera mugatzen: karpetak irekitzen dituzte, posta irakurtzen dute eta erabiltzaileen izenean jarduten dute. Datuak Babesteko Espainiako Agentziak dekalogo bat argitaratu berri du, kontrola galdu gabe eskuordetzeko. Erreportaje honek azaltzen du zer aldatzen den, zer diote enpresek eta administrazioek eta zer konfigura dezakeen irakasle batek agente bati baimenak eman aurretik.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-31-agentes-ia-permisos-datos-alumnado.svg" medium="image" type="image/svg+xml"><media:description>Elkar gurutzatzen diren hiru borobil, «Besteren edukia irakurtzen du», «Datu sentikorrak» eta «Bakarrik jarduten du»; bien arteko ebakiguneetan, «Irakurketa soilik», «Izenik gabe» eta «Berrespena eskatu» babes-neurriak, eta erdian, hirurak bat datozen tokian, «Onartezina den arriskua» dioen gurutze gorri bat; behealdean, bost ikonoko zerrenda (begia, koadernoa, kurtsorea, gutun-azala eta bi pertsona), AEPDren bost galderei dagozkienak, eskuordetu aurretik.</media:description></media:content>
-  </item>
-  <item>
-    <title>Laborategi interaktibo batek potentzial grabitatorioa erakusten die Batxilergoko 2. mailako ikasleei</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/mapa-potencial-gravitatorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/mapa-potencial-gravitatorio.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Antonio González irakasleak partekatutako «Mapa de potencial gravitatorio» aplikazioak bederatzi urratseko gida didaktikoa dauka eta bi punturen arteko lana kalkulatzen du.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>Ezkerrean, masa baten inguruko potentzial bereko kurbak, A eta B bi punturekin, bi bide desberdinez lotuta; eskuinean, potentzial bera alboko ikuspegiko inbutu gisa, A eta B bi altueratan eta gezi gorri bat «Lan bera» testuarekin: lana berbera da edozein bidetatik.</media:description></media:content>
   </item>
 </channel>
 </rss>
