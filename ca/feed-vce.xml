@@ -182,7 +182,7 @@
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>El seu autor va afegint simulacions a la web i anuncia que enllaçarà laboratoris en 3D en les properes setmanes.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Tres targetes sota el rètol «19 simulacions»: la trajectòria parabòlica d&#x27;una bola, «Física»; un matràs, «Química»; i un cub en 3D, «Laboratori 3D».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Tres targetes sota el rètol «Simulacions i laboratoris»: la trajectòria parabòlica d&#x27;una bola, «Física»; un matràs, «Química»; i un cub en 3D, «Laboratori 3D».</media:description></media:content>
   </item>
   <item>
     <title>Una aplicació per a classe de música proposa col·locar al pentagrama les notes d&#x27;una partitura</title>
@@ -270,7 +270,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Cada dia hi ha un cas nou amb 118 sospitosos, els elements químics, i sis acusacions per trobar el culpable; segons el seu autor, no requereix registre.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>Una quadrícula de caselles que imita la taula periòdica, amb el rètol «Cas del dia» a sobre i «118 elements» a sota; una lupa blava assenyala una casella. A la dreta, sis cercles, un amb una creu vermella, amb el rètol «6 acusacions».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>Una quadrícula de caselles que imita la taula periòdica, amb el rètol «Cas del dia» a sobre i «Un cas per element» a sota; una lupa blava assenyala una casella. A la dreta, sis cercles, un amb una creu vermella, amb el rètol «6 acusacions».</media:description></media:content>
   </item>
   <item>
     <title>Una calculadora reparteix la jornada del professorat itinerant entre diversos centres de la Generalitat Valenciana</title>
@@ -385,7 +385,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«Misiones orbitales», d&#x27;El profe de la bata, proposa a l&#x27;alumnat crear un astronauta i resoldre nou missions amb simuladors interactius. La versió de pràctica funciona al navegador, sense comptes.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta envoltat per una òrbita el·líptica blava amb nou punts, un per missió («9 missions»), i a la dreta tres estrelles que s&#x27;obtenen amb un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta envoltat per una òrbita el·líptica blava amb nou punts, un per missió («9 missions»), i a la dreta tres estrelles retolades «Totes les estrelles», que s&#x27;obtenen amb un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
   </item>
   <item>
     <title>Un laboratori en català permet practicar la formulació inorgànica amb preguntes, pistes i reptes</title>

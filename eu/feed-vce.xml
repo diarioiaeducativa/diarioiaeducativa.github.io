@@ -182,7 +182,7 @@
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Egilea simulazioak gehitzen ari da webgunera eta datozen asteetan 3Dko laborategiak lotuko dituela iragarri du.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>«19 simulazio» errotuluaren azpian hiru txartel: bola baten ibilbide parabolikoa, «Fisika»; matraze bat, «Kimika»; eta 3Dko kubo bat, «3D laborategia».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>«Simulazioak eta laborategiak» errotuluaren azpian hiru txartel: bola baten ibilbide parabolikoa, «Fisika»; matraze bat, «Kimika»; eta 3Dko kubo bat, «3D laborategia».</media:description></media:content>
   </item>
   <item>
     <title>Musika-klaserako aplikazio batek partitura bateko notak pentagraman jartzea proposatzen du</title>
@@ -270,7 +270,7 @@
     <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Egunero kasu berri bat dago, 118 susmagarrirekin, elementu kimikoekin, eta sei salaketa errudunari asmatzeko; bere egilearen arabera, ez du erregistrorik behar.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>Taula periodikoa imitatzen duen laukien sare bat, goian «Eguneko kasua» errotulua eta behean «118 elementu»; lupa urdin batek lauki bat seinalatzen du. Eskuinean, sei zirkulu, bat gurutze gorriarekin, «6 salaketa» errotuluarekin.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>Taula periodikoa imitatzen duen laukien sare bat, goian «Eguneko kasua» errotulua eta behean «Elementu bakoitzeko kasu bat»; lupa urdin batek lauki bat seinalatzen du. Eskuinean, sei zirkulu, bat gurutze gorriarekin, «6 salaketa» errotuluarekin.</media:description></media:content>
   </item>
   <item>
     <title>Kalkulagailu batek Valentziako Generalitateko hainbat ikastetxetan ibiltari diren irakasleen lanaldia banatzen du</title>
@@ -385,7 +385,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>El profe de la bata-ren «Misiones orbitales» jarduerak ikasleei astronauta bat sortzea eta bederatzi misio ebaztea proposatzen die, simulagailu interaktiboekin. Praktika-bertsioak nabigatzailean funtzionatzen du, konturik gabe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Planeta bat, bederatzi puntu dituen elipse orbital urdin batez inguratua, misio bakoitzeko bat («9 misio»), eta eskuinean, % 5 baino errore txikiagoarekin lortzen diren hiru izar («Errorea &lt; % 5»).</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Planeta bat, bederatzi puntu dituen elipse orbital urdin batez inguratua, misio bakoitzeko bat («9 misio»), eta eskuinean, % 5 baino errore txikiagoarekin lortzen diren hiru izar, «Izar guztiak» errotuluarekin («Errorea &lt; % 5»).</media:description></media:content>
   </item>
   <item>
     <title>Katalanezko laborategi batek formulazio ez-organikoa praktikatzeko aukera ematen du, galderekin, aztarnekin eta erronkekin</title>
