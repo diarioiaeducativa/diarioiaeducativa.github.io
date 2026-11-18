@@ -51,7 +51,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=173bf639">
-<link rel="stylesheet" href="../diario.css?v=b257e983">
+<link rel="stylesheet" href="../diario.css?v=76acdf35">
 </head>
 <body class="pag-papel">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -81,7 +81,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/EduMediaIAG/12067" target="_blank" rel="noopener">Lee la conversación original en EduMedia-IAG</a></p>
-    
+    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
     <section class="comprobado" aria-labelledby="comp-camara-virtual-blender"><h2 id="comp-camara-virtual-blender">Comprobado en</h2><ul><li><a href="https://t.me/EduMediaIAG/12067" target="_blank" rel="noopener">Mensaje original en EduMedia-IAG</a></li><li><a href="https://docs.blender.org/manual/es/latest/addons/vr_scene_inspection.html" target="_blank" rel="noopener">Blender: manual del complemento VR Scene Inspection</a></li><li><a href="https://seed.bytedance.com/en/seedance2_5" target="_blank" rel="noopener">ByteDance Seed: Seedance 2.5</a></li></ul></section>
   </article>
 <article id="p-tongjiang-lab-3d" class="sec-vibecoding">
@@ -96,7 +96,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     <p class="correccion">Actualización del 13 de noviembre de 2026: el repositorio y la web del proyecto han dejado de estar disponibles. Quedan copias en la Wayback Machine de Internet Archive: <a href="https://web.archive.org/web/20261102164409/https://github.com/smithjohn78390/tongjiang-lab" target="_blank" rel="noopener">el repositorio</a> y <a href="https://web.archive.org/web/20261030005733/https://lab.tongjiang.app/" target="_blank" rel="noopener">la web de las lecciones</a>.</p>
     <p class="origen"><a href="https://t.me/vceduca/14628" target="_blank" rel="noopener">Lee la conversación original en Vibe Coding Educativo</a></p>
-    
+    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
     <section class="comprobado" aria-labelledby="comp-tongjiang-lab-3d"><h2 id="comp-tongjiang-lab-3d">Comprobado en</h2><ul><li><a href="https://github.com/smithjohn78390/tongjiang-lab" target="_blank" rel="noopener">Tongjiang Lab (repositorio en GitHub)</a></li><li><a href="https://lab.tongjiang.app" target="_blank" rel="noopener">Tongjiang Lab (web de las lecciones)</a></li></ul></section>
   </article>
 <article id="p-rompecabezas-tecnica-jigsaw" class="sec-vibecoding">
@@ -111,7 +111,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://vibe-coding-educativo.github.io/app_edu/" target="_blank" rel="noopener">Ver el Repositorio de recursos de Vibe Coding Educativo</a></p>
-    
+    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
     <section class="comprobado" aria-labelledby="comp-rompecabezas-tecnica-jigsaw"><h2 id="comp-rompecabezas-tecnica-jigsaw">Comprobado en</h2><ul><li><a href="https://jigsawcoop.github.io/" target="_blank" rel="noopener">Rompecabezas – Técnica Jigsaw</a></li></ul></section>
   </article>
 <article id="p-edutictac-blocs" class="sec-vibecoding">
@@ -126,7 +126,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://vibe-coding-educativo.github.io/app_edu/" target="_blank" rel="noopener">Ver el Repositorio de recursos de Vibe Coding Educativo</a></p>
-    
+    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
     <section class="comprobado" aria-labelledby="comp-edutictac-blocs"><h2 id="comp-edutictac-blocs">Comprobado en</h2><ul><li><a href="https://blocs.edutictac.es/" target="_blank" rel="noopener">EduTicTac Blocs</a></li></ul></section>
   </article>
 <section class="vineta sec-vineta" aria-labelledby="t-vineta-2026-11-04">
@@ -305,7 +305,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.querySelectorAll('button.imprimir').forEach(function(b){b.addEventListener('click',imprimir);});
   if(new URLSearchParams(location.search).get('imprimir')==='1'&&document.body.classList.contains('pag-papel'))
     addEventListener('load',function(){(document.fonts?document.fonts.ready:Promise.resolve()).then(imprimir);});
-  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver)').forEach(function(b){
+  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver):not(.como-imagen)').forEach(function(b){
     b.addEventListener('click',function(){
       var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}

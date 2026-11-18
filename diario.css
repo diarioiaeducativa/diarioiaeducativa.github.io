@@ -771,6 +771,7 @@ body.con-visor { overflow: hidden; }
   border: 1px solid var(--filete); border-radius: 0.5rem; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
 }
 .llevar-menu[hidden] { display: none; }
+.llevar-op[hidden] { display: none; }
 .llevar-op {
   appearance: none; display: block; width: 100%; text-align: left; border: 0; background: none; font: inherit;
   color: var(--tinta); padding: 0.55rem 0.9rem; cursor: pointer; text-decoration: none;
