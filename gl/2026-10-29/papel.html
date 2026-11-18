@@ -81,7 +81,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/vceduca/14374" target="_blank" rel="noopener">Le a conversa orixinal en Vibe Coding Educativo</a></p>
-    <script src="../../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-dictados-voz-gallego"><h2 id="comp-dictados-voz-gallego">Comprobado en</h2><ul><li><a href="https://dictados.edumind.es" target="_blank" rel="noopener">EDUmind, ditados en galego e castelán (en castelán)</a></li></ul></section>
   </article>
 <section class="vineta sec-vineta" aria-labelledby="t-vineta-2026-10-29">
@@ -260,7 +260,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.querySelectorAll('button.imprimir').forEach(function(b){b.addEventListener('click',imprimir);});
   if(new URLSearchParams(location.search).get('imprimir')==='1'&&document.body.classList.contains('pag-papel'))
     addEventListener('load',function(){(document.fonts?document.fonts.ready:Promise.resolve()).then(imprimir);});
-  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver):not(.como-imagen)').forEach(function(b){
+  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver):not(.abre-compartir)').forEach(function(b){
     b.addEventListener('click',function(){
       var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}

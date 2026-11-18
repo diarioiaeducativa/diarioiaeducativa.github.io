@@ -81,7 +81,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/ChatGPTedu/54453" target="_blank" rel="noopener">Lee la conversación original en ChatGPT-IA-edu</a></p>
-    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-gemini-notebook-sitios"><h2 id="comp-gemini-notebook-sitios">Comprobado en</h2><ul><li><a href="https://x.com/Google/status/2122449668613579018" target="_blank" rel="noopener">Google en X: Gemini Notebook y los sitios interactivos</a></li><li><a href="https://www.androidauthority.com/gemini-notebook-research-interactive-sites-3735782/" target="_blank" rel="noopener">Android Authority: Gemini Notebook can now turn your research into interactive websites</a></li></ul></section>
   </article>
 <article id="p-sarroca-subhasta-densitat" class="sec-vibecoding">
@@ -96,7 +96,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/vceduca/15100" target="_blank" rel="noopener">Lee la conversación original en Vibe Coding Educativo</a></p>
-    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-sarroca-subhasta-densitat"><h2 id="comp-sarroca-subhasta-densitat">Comprobado en</h2><ul><li><a href="https://ja.cat/subhasta" target="_blank" rel="noopener">Subhasta</a></li><li><a href="https://ja.cat/densitats" target="_blank" rel="noopener">Densitats</a></li><li><a href="https://ja.cat/labdensitat" target="_blank" rel="noopener">Densitat</a></li></ul></section>
   </article>
 <article id="p-agente-clima-ies" class="sec-vibecoding">
@@ -111,7 +111,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/vceduca/15081" target="_blank" rel="noopener">Lee la conversación original en Vibe Coding Educativo</a></p>
-    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-agente-clima-ies"><h2 id="comp-agente-clima-ies">Comprobado en</h2><ul><li><a href="https://mcardenosah.github.io/agenteclimaies" target="_blank" rel="noopener">Agente Clima IES</a></li></ul></section>
   </article>
 <article id="p-flow-retirada-veo-omni" class="sec-multimedia">
@@ -126,7 +126,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/EduMediaIAG/12310" target="_blank" rel="noopener">Lee la conversación original en EduMedia-IAG</a></p>
-    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-flow-retirada-veo-omni"><h2 id="comp-flow-retirada-veo-omni">Comprobado en</h2><ul><li><a href="https://support.google.com/flow/answer/16352836?hl=es" target="_blank" rel="noopener">Ayuda de Google Flow: modelos y funciones compatibles</a></li></ul></section>
   </article>
 <article id="p-scholar-labs-lista-espera" class="sec-hace-un-ano">
@@ -141,7 +141,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/ChatGPTedu/42312" target="_blank" rel="noopener">Lee la conversación original en ChatGPT-IA-edu</a></p>
-    <script src="../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-scholar-labs-lista-espera"><h2 id="comp-scholar-labs-lista-espera">Comprobado en</h2><ul><li><a href="https://scholar.googleblog.com/2025/11/scholar-labs-ai-powered-scholar-search.html" target="_blank" rel="noopener">Scholar Labs: An AI Powered Scholar Search (Google Scholar Blog, 18-11-2025)</a></li><li><a href="https://scholar.googleblog.com/2026/06/scholar-labs-update-search-10x-faster.html" target="_blank" rel="noopener">Scholar Labs update: Search 10x faster, 3x deeper (Google Scholar Blog, 3-6-2026)</a></li><li><a href="https://scholar.googleblog.com/2026/08/quick-read-see-how-paper-answers-your.html" target="_blank" rel="noopener">Quick Read: see how a paper answers your question (Google Scholar Blog, 25-8-2026)</a></li></ul></section>
   </article>
 <section class="vineta sec-vineta" aria-labelledby="t-vineta-2026-11-17">
@@ -320,7 +320,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.querySelectorAll('button.imprimir').forEach(function(b){b.addEventListener('click',imprimir);});
   if(new URLSearchParams(location.search).get('imprimir')==='1'&&document.body.classList.contains('pag-papel'))
     addEventListener('load',function(){(document.fonts?document.fonts.ready:Promise.resolve()).then(imprimir);});
-  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver):not(.como-imagen)').forEach(function(b){
+  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver):not(.abre-compartir)').forEach(function(b){
     b.addEventListener('click',function(){
       var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}

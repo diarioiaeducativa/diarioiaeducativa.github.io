@@ -81,7 +81,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://t.me/EduMediaIAG/12067" target="_blank" rel="noopener">Read the original conversation in EduMedia-IAG</a></p>
-    <script src="../../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-camara-virtual-blender"><h2 id="comp-camara-virtual-blender">Checked in</h2><ul><li><a href="https://t.me/EduMediaIAG/12067" target="_blank" rel="noopener">Original message in EduMedia-IAG (in Spanish)</a></li><li><a href="https://docs.blender.org/manual/en/latest/addons/vr_scene_inspection.html" target="_blank" rel="noopener">Blender: VR Scene Inspection add-on manual</a></li><li><a href="https://seed.bytedance.com/en/seedance2_5" target="_blank" rel="noopener">ByteDance Seed: Seedance 2.5</a></li></ul></section>
   </article>
 <article id="p-tongjiang-lab-3d" class="sec-vibecoding">
@@ -96,7 +96,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     <p class="correccion">Update on 13 November 2026: the project’s repository and website are no longer available. Copies remain on the Internet Archive’s Wayback Machine: <a href="https://web.archive.org/web/20261102164409/https://github.com/smithjohn78390/tongjiang-lab" target="_blank" rel="noopener">the repository</a> and <a href="https://web.archive.org/web/20261030005733/https://lab.tongjiang.app/" target="_blank" rel="noopener">the lessons website</a>.</p>
     <p class="origen"><a href="https://t.me/vceduca/14628" target="_blank" rel="noopener">Read the original conversation in Vibe Coding Educativo</a></p>
-    <script src="../../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-tongjiang-lab-3d"><h2 id="comp-tongjiang-lab-3d">Checked in</h2><ul><li><a href="https://github.com/smithjohn78390/tongjiang-lab" target="_blank" rel="noopener">Tongjiang Lab (GitHub repository)</a></li><li><a href="https://lab.tongjiang.app" target="_blank" rel="noopener">Tongjiang Lab (lessons website)</a></li></ul></section>
   </article>
 <article id="p-rompecabezas-tecnica-jigsaw" class="sec-vibecoding">
@@ -111,7 +111,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://vibe-coding-educativo.github.io/app_edu/" target="_blank" rel="noopener">See the Vibe Coding Educativo resource repository</a></p>
-    <script src="../../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-rompecabezas-tecnica-jigsaw"><h2 id="comp-rompecabezas-tecnica-jigsaw">Checked in</h2><ul><li><a href="https://jigsawcoop.github.io/" target="_blank" rel="noopener">Rompecabezas – Técnica Jigsaw (in Spanish)</a></li></ul></section>
   </article>
 <article id="p-edutictac-blocs" class="sec-vibecoding">
@@ -126,7 +126,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
     
     
     <p class="origen"><a href="https://vibe-coding-educativo.github.io/app_edu/" target="_blank" rel="noopener">See the Vibe Coding Educativo resource repository</a></p>
-    <script src="../../compartir-imagen.js?v=8c789bfd" defer></script>
+    <script src="../../compartir.js?v=0cdebaf6" defer></script>
     <section class="comprobado" aria-labelledby="comp-edutictac-blocs"><h2 id="comp-edutictac-blocs">Checked in</h2><ul><li><a href="https://blocs.edutictac.es/" target="_blank" rel="noopener">EduTicTac Blocs (in Catalan)</a></li></ul></section>
   </article>
 <section class="vineta sec-vineta" aria-labelledby="t-vineta-2026-11-04">
@@ -305,7 +305,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   document.querySelectorAll('button.imprimir').forEach(function(b){b.addEventListener('click',imprimir);});
   if(new URLSearchParams(location.search).get('imprimir')==='1'&&document.body.classList.contains('pag-papel'))
     addEventListener('load',function(){(document.fonts?document.fonts.ready:Promise.resolve()).then(imprimir);});
-  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver):not(.como-imagen)').forEach(function(b){
+  document.querySelectorAll('.compartir:not(.copiar):not(.llevar-boton):not(.imprimir):not(.comentarios-ver):not(.abre-compartir)').forEach(function(b){
     b.addEventListener('click',function(){
       var url=b.dataset.url||location.href, datos={title:b.dataset.titulo||document.title,url:url}, r=b.querySelector('span');
       if(navigator.share){navigator.share(datos).catch(function(){});return;}
