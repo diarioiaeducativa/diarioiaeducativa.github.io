@@ -1,31 +1,31 @@
 {
- "numero": 16,
- "sale": "2026-11-17",
+ "numero": 17,
+ "sale": "2026-11-18",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Una celda robotizada de paletizado se simula en el navegador y exporta la escena en .glb"
+   "titular": "Gemini Notebook convierte las fuentes de un cuaderno en un sitio web interactivo"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Una cel·la robotitzada de paletització se simula al navegador i exporta l'escena en .glb"
+   "titular": "Gemini Notebook converteix les fonts d'un quadern en un lloc web interactiu"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Unha cela robotizada de paletizado simúlase no navegador e exporta a escena en .glb"
+   "titular": "Gemini Notebook converte as fontes dun caderno nun sitio web interactivo"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Paletizatze-gelaxka robotizatu bat nabigatzailean simulatzen da, eta eszena .glb formatuan esportatzen du"
+   "titular": "Gemini Notebookek koaderno bateko iturriak webgune interaktibo bihurtzen ditu"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "A robotic palletising cell is simulated in the browser and exports the scene as .glb"
+   "titular": "Gemini Notebook turns a notebook’s sources into an interactive website"
   }
  }
 }

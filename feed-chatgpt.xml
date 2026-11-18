@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Gemini Notebook convierte las fuentes de un cuaderno en un sitio web interactivo</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Basta escribir «make me a site» en el chat del cuaderno. Miembros de los grupos ya lo han probado y uno ha subido el resultado a Moodle.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-gemini-notebook-sitios.svg" medium="image" type="image/svg+xml"><media:description>Esquema de izquierda a derecha: tres documentos rotulados «Fuentes» entran en un cuaderno con un globo de chat rotulado «make me a site»; de él sale una página web con un panel y líneas de texto, rotulada «Sitio web», que se descarga como archivo «.html» y se sube a «Moodle».</media:description></media:content>
+  </item>
+  <item>
+    <title>Scholar Labs, de la lista de espera y el inglés a abrirse a todos los idiomas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/scholar-labs-lista-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/scholar-labs-lista-espera.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, Scholar Labs solo admitía preguntas en inglés y muchas personas tenían que apuntarse a una lista de espera. Desde junio de 2026 está abierto a todo usuario con sesión iniciada y admite preguntas en todos los idiomas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-scholar-labs-lista-espera.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: un candado cerrado con los rótulos «Lista de espera» y «Solo inglés». A la derecha, «Hoy»: un candado abierto, en azul, con el rótulo «Todos los idiomas» y el icono de traducción.</media:description></media:content>
+  </item>
+  <item>
+    <title>Corea del Sur revisará todas las gafas en el examen de acceso a la universidad (Suneung) tras confesar el…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/breve-1.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Corea del Sur revisará todas las gafas en el examen de acceso a la universidad (Suneung) tras confesar el número uno del examen de contador tributario que usó una microcámara y una IA generativa para copiar. Según The Next Web, el examen lo hacen más de 500.000 estudiantes en 1.300 centros.</description>
+  </item>
+  <item>
     <title>El INTEF actualiza su guía de IA en educación con diez principios éticos y un plan por fases para que los centros la incorporen</title>
     <link>https://diarioiaeducativa.github.io/2026-11-16/intef-guia-ia-v2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-16/intef-guia-ia-v2.html</guid>
@@ -420,23 +446,6 @@
     <category>Instituciones y empresas</category>
     <description>El marco europeo de competencia digital del profesorado se está revisando, con versión final prevista para la primavera de 2027 y consultas al profesorado.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Seis círculos alrededor de un centro, «Criterio», el criterio docente, rodeados por un anillo discontinuo, «IA en todas», la IA presente en todo el marco; a la derecha, «Bienestar», un eje con tres iconos: un reloj, una pantalla y un botón de apagado.</media:description></media:content>
-  </item>
-  <item>
-    <title>Google presenta Gemini 4 Carbon, de momento solo para especialistas en ciberseguridad</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-28/gemini4carbon.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-28/gemini4carbon.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Instituciones y empresas</category>
-    <description>Google DeepMind ha anunciado su nuevo modelo de frontera, que por ahora solo usa un grupo reducido de profesionales de la defensa informática. No hay fecha para el público general.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>Escalera de tres peldaños que sube de izquierda a derecha: el primero, con unas pocas personas, es la defensa en ciberseguridad; el segundo, con más personas, los socios de confianza; el tercero, en trazo discontinuo y con un candado entreabierto, queda marcado «sin fecha».</media:description></media:content>
-  </item>
-  <item>
-    <title>La AEPD publicó el 27 de octubre un decálogo para quien usa asistentes y agentes de IA.</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-28/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-28/breve-1.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La AEPD publicó el 27 de octubre un decálogo para quien usa asistentes y agentes de IA. Recomienda que el agente prepare y la persona apruebe, con los permisos justos y confirmación antes de enviar, compartir o pagar.</description>
   </item>
 </channel>
 </rss>

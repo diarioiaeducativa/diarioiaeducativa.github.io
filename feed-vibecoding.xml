@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Tres aplicaciones en catalán: una subasta en el aula y dos laboratorios de densidad</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/sarroca-subhasta-densitat.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/sarroca-subhasta-densitat.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil comparte Subhasta, para trabajar escasez y presupuesto, y Densitats y Densitat, para estudiar flotación con el principio de Arquímedes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-sarroca-subhasta-densitat.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, un mazo de subastador sobre su base, con monedas, rotulado «Subasta». A la derecha, un tanque con agua en el que flota un bloque, con una flecha hacia arriba rotulada «Empuje» y el rótulo «Flotación».</media:description></media:content>
+  </item>
+  <item>
+    <title>Agente Clima IES analiza en el navegador la temperatura y la humedad de las aulas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/agente-clima-ies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/agente-clima-ies.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La aplicación lee los registros de sensores y los compara con los límites de la norma sobre lugares de trabajo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a una ventana de navegador, rotulada «En el navegador», que contiene un termómetro con el rótulo «17–27 °C» y gotas de agua con el rótulo «30–70 %».</media:description></media:content>
+  </item>
+  <item>
     <title>Una celda robotizada de paletizado se simula en el navegador y exporta la escena en .glb</title>
     <link>https://diarioiaeducativa.github.io/2026-11-16/celda-paletizado-3d.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-16/celda-paletizado-3d.html</guid>

@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Tres aplicacions en català: una subhasta a l&#x27;aula i dos laboratoris de densitat</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/sarroca-subhasta-densitat.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/sarroca-subhasta-densitat.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil comparteix Subhasta, per treballar escassetat i pressupost, i Densitats i Densitat, per estudiar la flotació amb el principi d&#x27;Arquimedes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-sarroca-subhasta-densitat.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, un martell de subhastador sobre la seva base, amb monedes, amb el rètol «Subhasta». A la dreta, un tanc amb aigua en què sura un bloc, amb una fletxa cap amunt amb el rètol «Empenta» i el rètol «Flotació».</media:description></media:content>
+  </item>
+  <item>
+    <title>Agente Clima IES analitza al navegador la temperatura i la humitat de les aules</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/agente-clima-ies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/agente-clima-ies.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>L&#x27;aplicació llegeix els registres de sensors i els compara amb els límits de la norma sobre llocs de treball.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un document amb el rètol «CSV» passa a una finestra de navegador, amb el rètol «Al navegador», que conté un termòmetre amb el rètol «17–27 °C» i gotes d&#x27;aigua amb el rètol «30–70 %».</media:description></media:content>
+  </item>
+  <item>
     <title>Una cel·la robotitzada de paletització se simula al navegador i exporta l&#x27;escena en .glb</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-16/celda-paletizado-3d.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/celda-paletizado-3d.html</guid>

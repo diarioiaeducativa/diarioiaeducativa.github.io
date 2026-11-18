@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Tres aplicacións en catalán: unha poxa na aula e dous laboratorios de densidade</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-17/sarroca-subhasta-densitat.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-17/sarroca-subhasta-densitat.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil comparte Subhasta, para traballar escaseza e orzamento, e Densitats e Densitat, para estudar a flotación co principio de Arquimedes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-17-sarroca-subhasta-densitat.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, un martelo de poxador sobre a súa base, con moedas, rotulado «Poxa». Á dereita, un tanque con auga no que flota un bloque, cunha frecha cara arriba rotulada «Empuxe» e o rótulo «Flotación».</media:description></media:content>
+  </item>
+  <item>
+    <title>Agente Clima IES analiza no navegador a temperatura e a humidade das aulas</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-17/agente-clima-ies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-17/agente-clima-ies.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A aplicación le os rexistros de sensores e compáraos cos límites da norma sobre lugares de traballo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a unha xanela de navegador, rotulada «No navegador», que contén un termómetro co rótulo «17–27 °C» e pingas de auga co rótulo «30–70 %».</media:description></media:content>
+  </item>
+  <item>
     <title>Unha cela robotizada de paletizado simúlase no navegador e exporta a escena en .glb</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-16/celda-paletizado-3d.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-16/celda-paletizado-3d.html</guid>
@@ -430,23 +448,6 @@
     <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breves</category>
     <description>A web do novo libro de Ethan Mollick inclúe un «cursor con IA» que acompaña a lectura e pode desactivarse. No grupo valorouse como idea para a divulgación.</description>
-  </item>
-  <item>
-    <title>Unha escola de Cataluña comparte unha aplicación para a autoavaliación do alumnado e a valoración docente</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«La teva veu», creada por Felip Sarroca para a Escola Ramon Pont, xera informes en PDF para familias e profesorado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Un grupo de figuras, «Alumnado», pasa por un funil coa cifra «15» e o rótulo «Mínimo de respostas», e chega a un informe con barras e unha liña de referencia, «Informe docente».</media:description></media:content>
-  </item>
-  <item>
-    <title>O cliente de acceso compartido de rclone a Google Drive deixará de funcionar en 2026, segundo a súa…</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/breve-1.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>O cliente de acceso compartido de rclone a Google Drive deixará de funcionar en 2026, segundo a súa documentación. Crear un propio, que ademais evita o límite de consultas compartido, considérase xa obrigatorio.</description>
   </item>
 </channel>
 </rss>

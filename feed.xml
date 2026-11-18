@@ -9,6 +9,59 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Gemini Notebook convierte las fuentes de un cuaderno en un sitio web interactivo</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Basta escribir «make me a site» en el chat del cuaderno. Miembros de los grupos ya lo han probado y uno ha subido el resultado a Moodle.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-gemini-notebook-sitios.svg" medium="image" type="image/svg+xml"><media:description>Esquema de izquierda a derecha: tres documentos rotulados «Fuentes» entran en un cuaderno con un globo de chat rotulado «make me a site»; de él sale una página web con un panel y líneas de texto, rotulada «Sitio web», que se descarga como archivo «.html» y se sube a «Moodle».</media:description></media:content>
+  </item>
+  <item>
+    <title>Tres aplicaciones en catalán: una subasta en el aula y dos laboratorios de densidad</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/sarroca-subhasta-densitat.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/sarroca-subhasta-densitat.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil comparte Subhasta, para trabajar escasez y presupuesto, y Densitats y Densitat, para estudiar flotación con el principio de Arquímedes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-sarroca-subhasta-densitat.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, un mazo de subastador sobre su base, con monedas, rotulado «Subasta». A la derecha, un tanque con agua en el que flota un bloque, con una flecha hacia arriba rotulada «Empuje» y el rótulo «Flotación».</media:description></media:content>
+  </item>
+  <item>
+    <title>Agente Clima IES analiza en el navegador la temperatura y la humedad de las aulas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/agente-clima-ies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/agente-clima-ies.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La aplicación lee los registros de sensores y los compara con los límites de la norma sobre lugares de trabajo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a una ventana de navegador, rotulada «En el navegador», que contiene un termómetro con el rótulo «17–27 °C» y gotas de agua con el rótulo «30–70 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google Flow retirará el 5 de diciembre Veo 3.1 Fast, Veo 3.1 Quality y Omni Flash 1.1</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/flow-retirada-veo-omni.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/flow-retirada-veo-omni.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>La ayuda de Flow recomienda pasar a Omni Flash 1.2 o a Veo 3.1 Lite para los proyectos futuros.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-flow-retirada-veo-omni.svg" medium="image" type="image/svg+xml"><media:description>Un calendario tachado en rojo con el rótulo «5 dic» encabeza dos grupos de claquetas: a la izquierda, tres con el rótulo «Se retiran»; a la derecha, dos rotuladas «Omni Flash 1.2» y «Veo 3.1 Lite», bajo el rótulo «Se mantienen».</media:description></media:content>
+  </item>
+  <item>
+    <title>Scholar Labs, de la lista de espera y el inglés a abrirse a todos los idiomas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/scholar-labs-lista-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/scholar-labs-lista-espera.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, Scholar Labs solo admitía preguntas en inglés y muchas personas tenían que apuntarse a una lista de espera. Desde junio de 2026 está abierto a todo usuario con sesión iniciada y admite preguntas en todos los idiomas.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-scholar-labs-lista-espera.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: un candado cerrado con los rótulos «Lista de espera» y «Solo inglés». A la derecha, «Hoy»: un candado abierto, en azul, con el rótulo «Todos los idiomas» y el icono de traducción.</media:description></media:content>
+  </item>
+  <item>
+    <title>Corea del Sur revisará todas las gafas en el examen de acceso a la universidad (Suneung) tras confesar el…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/breve-1.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Corea del Sur revisará todas las gafas en el examen de acceso a la universidad (Suneung) tras confesar el número uno del examen de contador tributario que usó una microcámara y una IA generativa para copiar. Según The Next Web, el examen lo hacen más de 500.000 estudiantes en 1.300 centros.</description>
+  </item>
+  <item>
     <title>Una celda robotizada de paletizado se simula en el navegador y exporta la escena en .glb</title>
     <link>https://diarioiaeducativa.github.io/2026-11-16/celda-paletizado-3d.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-16/celda-paletizado-3d.html</guid>
@@ -832,59 +885,6 @@
     <category>Vibe coding</category>
     <description>EduTicTac Blocs es un entorno de programación visual compatible con proyectos de Scratch y con plantillas para el aula; según su web, sin publicidad ni rastreadores.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Proyecto de ejemplo con el botón «Ver dentro» y el escenario y sus controles de bandera, pausa y parada, un aviso verde de inicio y los botones «Empieza con una plantilla» y «Explora la galería».</media:description></media:content>
-  </item>
-  <item>
-    <title>Raül Torres compartió en EduMedia-IAG un paseo en modo videojuego por Girona hecho con Claude, con lugares…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-04/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/breve-1.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Raül Torres compartió en EduMedia-IAG un paseo en modo videojuego por Girona hecho con Claude, con lugares tomados del mapa real y viaje en el tiempo desde el Paleolítico hasta 2026. Se ejecuta desde la web y no consta enlace público.</description>
-  </item>
-  <item>
-    <title>Docentes debaten el anuncio de Google que desactiva por defecto la IA y el buscador en cuentas escolares</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/google-ia-cuentas-escolares.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/google-ia-cuentas-escolares.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>Google ha anunciado que Gemini y el buscador de Google estarán desactivados en las cuentas de alumnado de primaria y secundaria hasta que los administradores los activen. En los grupos, la noticia abrió una discusión sobre quién decide el uso de la IA en un centro.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, un interruptor general de todo o nada tachado con una aspa roja; a la derecha, cuatro interruptores individuales (Gemini, Notebook, Classroom y Búsqueda), dos encendidos en azul y dos apagados.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una actividad gamificada lleva el campo gravitatorio de 2.º de Bachillerato a nueve misiones orbitales</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/misiones-orbitales.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/misiones-orbitales.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Misiones orbitales», de El profe de la bata, propone al alumnado crear un astronauta y resolver nueve misiones con simuladores interactivos. La versión de práctica funciona en el navegador, sin cuentas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta rodeado por una órbita elíptica azul con nueve puntos, uno por misión («9 misiones»), y a la derecha tres estrellas rotuladas «Todas las estrellas», que se obtienen con un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
-  </item>
-  <item>
-    <title>Un comité del MIT pide rediseñar objetivos, evaluación y comunidad presencial ante una IA que ya resuelve casi cualquier trabajo escrito</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/mit-comite-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/mit-comite-ia.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>El comité ad hoc del Instituto Tecnológico de Massachusetts propone ocho principios y un conjunto de recomendaciones para adaptar la enseñanza universitaria a la IA generativa.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema con una barra superior de ocho principios de la que parten tres flechas hacia tres columnas: procesos educativos (examen oral, portafolio), comunidad (grupo de personas) y estructuras de apoyo (organigrama y herramientas).</media:description></media:content>
-  </item>
-  <item>
-    <title>Un laboratorio en catalán permite practicar la formulación inorgánica con preguntas, pistas y retos</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/laboratori-de-formulacio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/laboratori-de-formulacio.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Laboratori de formulació», creada por Felip Sarroca i Gil, ofrece ejercicios de nomenclatura inorgánica para Secundaria y Bachillerato, con tres modos de trabajo y marcador de progreso.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-laboratori-de-formulacio.jpg" medium="image" type="image/png"><media:description>Pantalla del modo Practica con la pregunta «Quina és la fórmula de: sulfur de bari» y cuatro opciones (BaS, Ba2S2, BaCl2, PbCl2), botones de pista y solución, y a la derecha la lista de tipos de actividad.</media:description></media:content>
-  </item>
-  <item>
-    <title>FoQo genera tests de formulación orgánica y da el nombre de una estructura dibujada</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/foqo-formulacion-quimica-organica.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/foqo-formulacion-quimica-organica.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>La aplicación de FiQuiPedia permite practicar la nomenclatura de química orgánica con tests configurables y una herramienta que pasa de la fórmula al nombre.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio titulada «Formulación Química» con los botones Tests, F → N y Panel, logotipos de IUPAC y CAS, enlaces a bibliotecas y una fila de grupos funcionales.</media:description></media:content>
   </item>
 </channel>
 </rss>

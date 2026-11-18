@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Herramientas</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Gemini Notebook convierte las fuentes de un cuaderno en un sitio web interactivo</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Basta escribir «make me a site» en el chat del cuaderno. Miembros de los grupos ya lo han probado y uno ha subido el resultado a Moodle.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-gemini-notebook-sitios.svg" medium="image" type="image/svg+xml"><media:description>Esquema de izquierda a derecha: tres documentos rotulados «Fuentes» entran en un cuaderno con un globo de chat rotulado «make me a site»; de él sale una página web con un panel y líneas de texto, rotulada «Sitio web», que se descarga como archivo «.html» y se sube a «Moodle».</media:description></media:content>
+  </item>
+  <item>
     <title>Wharton publica Primer, un sistema abierto que convierte una conversación en simulación</title>
     <link>https://diarioiaeducativa.github.io/2026-11-13/primer-wharton.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/primer-wharton.html</guid>

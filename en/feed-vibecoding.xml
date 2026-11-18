@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe coding</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Three apps in Catalan: a classroom auction and two density labs</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-17/sarroca-subhasta-densitat.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/sarroca-subhasta-densitat.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil shares Subhasta, for working on scarcity and budgeting, and Densitats and Densitat, for studying flotation with Archimedes’ principle.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-17-sarroca-subhasta-densitat.svg" medium="image" type="image/svg+xml"><media:description>On the left, an auctioneer’s gavel on its block, with coins, labelled “Auction”. On the right, a tank of water in which a block floats, with an upward arrow labelled “Buoyancy” and the label “Flotation”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Agente Clima IES analyses classroom temperature and humidity in the browser</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-17/agente-clima-ies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/agente-clima-ies.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The app reads sensor logs and compares them with the limits set by the regulation on workplaces.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>A document labelled “CSV” passes into a browser window, labelled “In the browser”, containing a thermometer with the label “17–27 °C” and water drops with the label “30–70%”.</media:description></media:content>
+  </item>
+  <item>
     <title>A robotic palletising cell is simulated in the browser and exports the scene as .glb</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-16/celda-paletizado-3d.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/celda-paletizado-3d.html</guid>

@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Gemini Notebook turns a notebook’s sources into an interactive website</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-17/gemini-notebook-sitios.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/gemini-notebook-sitios.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>All it takes is typing “make me a site” in the notebook’s chat. Members of the groups have already tried it, and one has uploaded the result to Moodle.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-17-gemini-notebook-sitios.svg" medium="image" type="image/svg+xml"><media:description>Diagram from left to right: three documents labelled “Sources” go into a notebook with a chat bubble labelled “make me a site”; out of it comes a web page with a panel and lines of text, labelled “Website”, which is downloaded as a “.html” file and uploaded to “Moodle”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Scholar Labs goes from a waiting list and English only to opening up in every language</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-17/scholar-labs-lista-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/scholar-labs-lista-espera.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, Scholar Labs accepted questions only in English and many people had to join a waiting list. Since June 2026 it has been open to every signed-in user and accepts questions in all languages.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-17-scholar-labs-lista-espera.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a closed padlock with the labels “Waiting list” and “English only”. On the right, “Today”: an open padlock, in blue, with the label “All languages” and the translation icon.</media:description></media:content>
+  </item>
+  <item>
+    <title>South Korea will check all glasses at the university entrance exam (Suneung) after the top scorer in the…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-17/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/breve-1.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>South Korea will check all glasses at the university entrance exam (Suneung) after the top scorer in the tax accountant exam confessed to using a micro-camera and generative AI to cheat. According to The Next Web, more than 500,000 students sit the exam at 1,300 centres.</description>
+  </item>
+  <item>
     <title>INTEF updates its guide to AI in education with ten ethical principles and a phased plan for schools to adopt it</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-16/intef-guia-ia-v2.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-16/intef-guia-ia-v2.html</guid>
@@ -420,23 +446,6 @@
     <category>Institutions &amp; Industry</category>
     <description>The European framework for teachers&#x27; digital competence is under revision, with a final version expected in spring 2027 and consultations with teachers.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Six circles around a centre, “Judgement”, teachers&#x27; professional judgement, surrounded by a dashed ring, “AI throughout”, AI present across the whole framework; on the right, “Wellbeing”, an axis with three icons: a clock, a screen and a power button.</media:description></media:content>
-  </item>
-  <item>
-    <title>Google unveils Gemini 4 Carbon, for now only for cybersecurity specialists</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/gemini4carbon.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Institutions &amp; Industry</category>
-    <description>Google DeepMind has announced its new frontier model, which for now is used only by a small group of cyber-defence professionals. There is no date for the general public.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-28-gemini4carbon.svg" medium="image" type="image/svg+xml"><media:description>A staircase of three steps rising from left to right: the first, with a few people, is cybersecurity defence; the second, with more people, is trusted partners; the third, dashed and with a half-open padlock, is marked “no date”.</media:description></media:content>
-  </item>
-  <item>
-    <title>On 27 October the AEPD (Spain’s data protection authority) published a ten-point guide for people who use…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-28/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/breve-1.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>On 27 October the AEPD (Spain’s data protection authority) published a ten-point guide for people who use AI assistants and agents. It recommends that the agent prepares and the person approves, with minimal permissions and confirmation before sending, sharing or paying.</description>
   </item>
 </channel>
 </rss>

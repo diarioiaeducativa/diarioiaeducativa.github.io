@@ -9,6 +9,59 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Gemini Notebook converteix les fonts d&#x27;un quadern en un lloc web interactiu</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/gemini-notebook-sitios.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/gemini-notebook-sitios.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>N&#x27;hi ha prou d&#x27;escriure «make me a site» al xat del quadern. Membres dels grups ja l&#x27;han provat i un ha pujat el resultat a Moodle.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-gemini-notebook-sitios.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;esquerra a dreta: tres documents amb el rètol «Fonts» entren en un quadern amb un globus de xat amb el rètol «make me a site»; en surt una pàgina web amb un tauler i línies de text, amb el rètol «Lloc web», que es descarrega com a arxiu «.html» i es puja a «Moodle».</media:description></media:content>
+  </item>
+  <item>
+    <title>Tres aplicacions en català: una subhasta a l&#x27;aula i dos laboratoris de densitat</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/sarroca-subhasta-densitat.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/sarroca-subhasta-densitat.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca i Gil comparteix Subhasta, per treballar escassetat i pressupost, i Densitats i Densitat, per estudiar la flotació amb el principi d&#x27;Arquimedes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-sarroca-subhasta-densitat.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, un martell de subhastador sobre la seva base, amb monedes, amb el rètol «Subhasta». A la dreta, un tanc amb aigua en què sura un bloc, amb una fletxa cap amunt amb el rètol «Empenta» i el rètol «Flotació».</media:description></media:content>
+  </item>
+  <item>
+    <title>Agente Clima IES analitza al navegador la temperatura i la humitat de les aules</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/agente-clima-ies.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/agente-clima-ies.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>L&#x27;aplicació llegeix els registres de sensors i els compara amb els límits de la norma sobre llocs de treball.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un document amb el rètol «CSV» passa a una finestra de navegador, amb el rètol «Al navegador», que conté un termòmetre amb el rètol «17–27 °C» i gotes d&#x27;aigua amb el rètol «30–70 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google Flow retirarà el 5 de desembre Veo 3.1 Fast, Veo 3.1 Quality i Omni Flash 1.1</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/flow-retirada-veo-omni.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/flow-retirada-veo-omni.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>L&#x27;ajuda de Flow recomana passar a Omni Flash 1.2 o a Veo 3.1 Lite per als projectes futurs.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-flow-retirada-veo-omni.svg" medium="image" type="image/svg+xml"><media:description>Un calendari ratllat en vermell amb el rètol «5 des.» encapçala dos grups de claquetes: a l&#x27;esquerra, tres amb el rètol «Es retiren»; a la dreta, dues amb els rètols «Omni Flash 1.2» i «Veo 3.1 Lite», sota el rètol «Es mantenen».</media:description></media:content>
+  </item>
+  <item>
+    <title>Scholar Labs, de la llista d&#x27;espera i l&#x27;anglès a obrir-se a tots els idiomes</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/scholar-labs-lista-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/scholar-labs-lista-espera.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, Scholar Labs només admetia preguntes en anglès i moltes persones s&#x27;havien d&#x27;apuntar a una llista d&#x27;espera. Des del juny de 2026 està obert a tot usuari amb la sessió iniciada i admet preguntes en tots els idiomes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-scholar-labs-lista-espera.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: un cadenat tancat amb els rètols «Llista d&#x27;espera» i «Només anglès». A la dreta, «Avui»: un cadenat obert, en blau, amb el rètol «Tots els idiomes» i la icona de traducció.</media:description></media:content>
+  </item>
+  <item>
+    <title>Corea del Sud revisarà totes les ulleres a l&#x27;examen d&#x27;accés a la universitat (Suneung) després que el…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/breve-1.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Corea del Sud revisarà totes les ulleres a l&#x27;examen d&#x27;accés a la universitat (Suneung) després que el número u de l&#x27;examen de comptador tributari confessés que havia fet servir una microcàmera i una IA generativa per copiar. Segons The Next Web, l&#x27;examen el fan més de 500.000 estudiants en 1.300 centres.</description>
+  </item>
+  <item>
     <title>Una cel·la robotitzada de paletització se simula al navegador i exporta l&#x27;escena en .glb</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-16/celda-paletizado-3d.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-16/celda-paletizado-3d.html</guid>
@@ -832,59 +885,6 @@
     <category>Vibe coding</category>
     <description>EduTicTac Blocs és un entorn de programació visual compatible amb projectes de Scratch i amb plantilles per a l&#x27;aula; segons la seva web, sense publicitat ni rastrejadors.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Projecte d&#x27;exemple amb el botó «Ver dentro» i l&#x27;escenari i els seus controls de bandera, pausa i parada, un avís verd d&#x27;inici i els botons «Empieza con una plantilla» i «Explora la galería».</media:description></media:content>
-  </item>
-  <item>
-    <title>Raül Torres va compartir a EduMedia-IAG un passeig en mode videojoc per Girona fet amb Claude, amb llocs…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/breve-1.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Raül Torres va compartir a EduMedia-IAG un passeig en mode videojoc per Girona fet amb Claude, amb llocs presos del mapa real i viatge en el temps des del Paleolític fins al 2026. S&#x27;executa des del web i no consta enllaç públic.</description>
-  </item>
-  <item>
-    <title>Docents debaten l&#x27;anunci de Google que desactiva per defecte la IA i el cercador en comptes escolars</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>Google ha anunciat que Gemini i el cercador de Google estaran desactivats als comptes de l&#x27;alumnat de primària i secundària fins que els administradors els activin. Als grups, la notícia va obrir una discussió sobre qui decideix l&#x27;ús de la IA en un centre.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, un interruptor general de tot o res ratllat amb una creu vermella; a la dreta, quatre interruptors individuals (Gemini, Notebook, Classroom i Cerca), dos encesos en blau i dos apagats.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una activitat gamificada porta el camp gravitatori de 2n de Batxillerat a nou missions orbitals</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/misiones-orbitales.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/misiones-orbitales.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Misiones orbitales», d&#x27;El profe de la bata, proposa a l&#x27;alumnat crear un astronauta i resoldre nou missions amb simuladors interactius. La versió de pràctica funciona al navegador, sense comptes.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta envoltat per una òrbita el·líptica blava amb nou punts, un per missió («9 missions»), i a la dreta tres estrelles retolades «Totes les estrelles», que s&#x27;obtenen amb un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
-  </item>
-  <item>
-    <title>Un comitè del MIT demana redissenyar objectius, avaluació i comunitat presencial davant d&#x27;una IA que ja resol gairebé qualsevol treball escrit</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/mit-comite-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/mit-comite-ia.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>El comitè ad hoc de l&#x27;Institut Tecnològic de Massachusetts proposa vuit principis i un conjunt de recomanacions per adaptar l&#x27;ensenyament universitari a la IA generativa.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema amb una barra superior de vuit principis de la qual surten tres fletxes cap a tres columnes: processos educatius (examen oral, portafolis), comunitat (grup de persones) i estructures de suport (organigrama i eines).</media:description></media:content>
-  </item>
-  <item>
-    <title>Un laboratori en català permet practicar la formulació inorgànica amb preguntes, pistes i reptes</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/laboratori-de-formulacio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/laboratori-de-formulacio.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Laboratori de formulació», creada per Felip Sarroca i Gil, ofereix exercicis de nomenclatura inorgànica per a Secundària i Batxillerat, amb tres modes de treball i marcador de progrés.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-laboratori-de-formulacio.jpg" medium="image" type="image/png"><media:description>Pantalla del mode Practica amb la pregunta «Quina és la fórmula de: sulfur de bari» i quatre opcions (BaS, Ba2S2, BaCl2, PbCl2), botons de pista i solució, i a la dreta la llista de tipus d&#x27;activitat.</media:description></media:content>
-  </item>
-  <item>
-    <title>FoQo genera tests de formulació orgànica i dona el nom d&#x27;una estructura dibuixada</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/foqo-formulacion-quimica-organica.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/foqo-formulacion-quimica-organica.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>L&#x27;aplicació de FiQuiPedia permet practicar la nomenclatura de química orgànica amb tests configurables i una eina que passa de la fórmula al nom.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici titulada «Formulación Química» amb els botons Tests, F → N i Panel, logotips d&#x27;IUPAC i CAS, enllaços a biblioteques i una fila de grups funcionals.</media:description></media:content>
   </item>
 </channel>
 </rss>
