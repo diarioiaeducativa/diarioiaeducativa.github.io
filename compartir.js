@@ -1,12 +1,15 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
-// Compartir un artículo (ADR 0090): el botón «Compartir» despliega todas las formas de hacerlo. El enlace se
+// Compartir un artículo o una viñeta (ADR 0090): el botón «Compartir» despliega todas las formas de hacerlo. El enlace se
 // comparte con el menú de compartir del sistema o, donde no lo hay (el ordenador con Linux, Firefox), se copia.
 // La imagen (cabecera del diario, número y fecha, sección, titular, entradilla y dibujo) la dibuja el navegador
 // de quien lee, con lo que ya hay en la página: no se guarda en el sitio ni se pide a ningún servidor. Se puede
-// compartir (donde hay menú), copiar o guardar.
+// compartir (donde hay menú), copiar o guardar. La de la viñeta, en horizontal, con los tres paneles.
+// Una página puede tener varios botones (un artículo y su viñeta) y cargar este archivo más de una vez.
 (function () {
-  var boton = document.querySelector('button.abre-compartir');
-  if (!boton || !window.HTMLCanvasElement) return;
+  if (window.__compartirDiario) return;
+  window.__compartirDiario = true;
+  var botones = document.querySelectorAll('button.abre-compartir');
+  if (!botones.length || !window.HTMLCanvasElement) return;
 
   var W = 1080, H = 1350, M = 72, ANCHO = W - 2 * M;
   var TINTA = '#16181d', GRIS = '#4f5562', ROJO = '#c42b1c', PAPEL = '#fbfbf9';
@@ -70,32 +73,45 @@
     });
   }
 
-  // El dibujo. Un SVG puesto como imagen no ve las letras de la página: se le meten dentro, si las usa
+  function carga(src) {
+    return new Promise(function (ok) {
+      var im = new Image(); im.onload = function () { ok(im); }; im.onerror = function () { ok(null); }; im.src = src;
+    });
+  }
+
+  // Un SVG puesto como imagen no ve las letras de la página: se le meten dentro (Newsreader, normal y cursiva)
+  var letrasListas = null;
+  function letrasSvg() {
+    if (letrasListas) return letrasListas;
+    var hoja = document.querySelector('link[href*="fuentes.css"]');
+    letrasListas = !hoja ? Promise.resolve('') : Promise.all(['normal', 'italic'].map(function (estilo) {
+      var u = new URL('fuentes/newsreader-' + estilo + '-latin.woff2', hoja.href).href;
+      return fetch(u).then(function (r) { return r.blob(); }).then(enDataUrl).then(function (d) {
+        return "@font-face{font-family:'Newsreader';font-style:" + estilo + ";font-weight:200 800;src:url(" + d + ") format('woff2')}";
+      });
+    })).then(function (ff) { return ff.join(''); }).catch(function () { return ''; });
+    return letrasListas;
+  }
+
+  // Un SVG en texto, como imagen: con su tamaño y, dentro, las letras y los estilos que necesite
+  function svgImagen(svg, css) {
+    return letrasSvg().then(function (ff) {
+      var vb = (svg.match(/viewBox="([\d.\s-]+)"/) || [])[1];
+      var p = vb ? vb.trim().split(/\s+/).map(Number) : [0, 0, 600, 340];
+      var estilo = (/Newsreader/.test(svg + css) ? ff : '') + (css || '');
+      svg = svg.replace(/<\?xml[^>]*\?>/, '').replace(/<svg\b/, '<svg width="' + p[2] * 2 + '" height="' + p[3] * 2 + '"')
+        .replace(/(<svg\b[^>]*>)/, '$1' + (estilo ? '<style>' + estilo + '</style>' : ''));
+      var u = URL.createObjectURL(new Blob([svg], { type: 'image/svg+xml' }));
+      return carga(u).then(function (im) { setTimeout(function () { URL.revokeObjectURL(u); }, 1000); return im; });
+    });
+  }
+
+  // El dibujo de un artículo: una captura (PNG, JPG) o un SVG suelto
   function dibujo(ruta) {
     if (!ruta) return Promise.resolve(null);
-    var carga = function (src) {
-      return new Promise(function (ok) {
-        var im = new Image(); im.onload = function () { ok(im); }; im.onerror = function () { ok(null); }; im.src = src;
-      });
-    };
     if (!/\.svg$/.test(ruta)) return carga(ruta);
-    return fetch(ruta).then(function (r) { return r.ok ? r.text() : Promise.reject(); }).then(function (svg) {
-      var hoja = document.querySelector('link[href*="fuentes.css"]');
-      var letras = hoja && /Newsreader/.test(svg) ? Promise.all(['normal', 'italic'].map(function (estilo) {
-        var u = new URL('fuentes/newsreader-' + estilo + '-latin.woff2', hoja.href).href;
-        return fetch(u).then(function (r) { return r.blob(); }).then(enDataUrl).then(function (d) {
-          return "@font-face{font-family:'Newsreader';font-style:" + estilo + ";font-weight:200 800;src:url(" + d + ") format('woff2')}";
-        });
-      })).catch(function () { return []; }) : Promise.resolve([]);
-      return letras.then(function (ff) {
-        var vb = (svg.match(/viewBox="([\d.\s-]+)"/) || [])[1];
-        var p = vb ? vb.trim().split(/\s+/).map(Number) : [0, 0, 600, 340];
-        svg = svg.replace(/<\?xml[^>]*\?>/, '').replace(/<svg\b/, '<svg width="' + p[2] * 2 + '" height="' + p[3] * 2 + '"')
-          .replace(/(<svg\b[^>]*>)/, '$1' + (ff.length ? '<style>' + ff.join('') + '</style>' : ''));
-        var u = URL.createObjectURL(new Blob([svg], { type: 'image/svg+xml' }));
-        return carga(u).then(function (im) { setTimeout(function () { URL.revokeObjectURL(u); }, 1000); return im; });
-      });
-    }).catch(function () { return null; });
+    return fetch(ruta).then(function (r) { return r.ok ? r.text() : Promise.reject(); })
+      .then(function (svg) { return svgImagen(svg, ''); }).catch(function () { return null; });
   }
 
   function tarjeta(d, im) {
@@ -158,32 +174,114 @@
     return cv;
   }
 
-  function prepara() {
-    var d = datos();
-    var letras = document.fonts ? Promise.all(['800 66px', '700 66px', '400 36px', 'italic 400 30px'].map(function (f) {
+  function letrasPagina() {
+    return document.fonts ? Promise.all(['800 66px', '700 66px', '400 36px', 'italic 400 30px'].map(function (f) {
       return document.fonts.load(f + ' Newsreader');
     })).catch(function () {}) : Promise.resolve();
-    return Promise.all([letras, dibujo(d.imagen)]).then(function (r) {
-      var cv = tarjeta(d, r[1]);
-      return new Promise(function (ok) { cv.toBlob(function (b) { ok({ blob: b, d: d }); }, 'image/png'); });
+  }
+
+  function enPng(cv, d) {
+    return new Promise(function (ok) { cv.toBlob(function (b) { ok({ blob: b, d: d }); }, 'image/png'); });
+  }
+
+  function preparaArticulo() {
+    var d = datos();
+    return Promise.all([letrasPagina(), dibujo(d.imagen)]).then(function (r) { return enPng(tarjeta(d, r[1]), d); });
+  }
+
+  // ---------- La viñeta ----------
+
+  // Los colores del tema claro, para los estilos de los paneles (comun.css), aunque quien lee tenga el oscuro
+  var CLARO = {
+    papel: PAPEL, 'papel-2': '#f1f2f4', tinta: TINTA, 'tinta-2': GRIS, filete: '#cfd2d8', azul: '#1c3faa',
+    rojo: '#c8202c', verde: '#1a7f37', 'ilu-relleno': '#dfe5f7', 'ilu-tinta': TINTA, 'ilu-azul': '#1c3faa',
+    'ilu-rojo': '#c8202c', tiza: '#ffffff', cara: TINTA
+  };
+  // Los paneles se dibujan con las reglas «.vineta …» de las hojas de la página: se copian dentro de cada SVG,
+  // sin el «.vineta» de delante y con los colores claros
+  var cssVinetaListo = null;
+  function cssVineta() {
+    if (cssVinetaListo !== null) return cssVinetaListo;
+    var out = [];
+    [].forEach.call(document.styleSheets, function (h) {
+      var rs; try { rs = h.cssRules; } catch (_) { return; }
+      [].forEach.call(rs || [], function (r) {
+        if (r.type === 1 && /\.vineta\s/.test(r.selectorText)) out.push(r.selectorText.replace(/\.vineta\s+/g, '') + '{' + r.style.cssText + '}');
+      });
     });
+    cssVinetaListo = out.join('').replace(/var\(--([\w-]+)(?:,[^)]*)?\)/g, function (m, n) { return CLARO[n] || TINTA; });
+    return cssVinetaListo;
+  }
+
+  function datosVineta(boton) {
+    var sec = boton.closest('.vineta');
+    return {
+      diario: (document.querySelector('meta[property="og:site_name"]') || {}).content || '',
+      titulo: boton.dataset.titulo, fecha: boton.dataset.fecha, url: boton.dataset.url, nombre: boton.dataset.nombre,
+      origen: boton.dataset.origen || '',
+      titular: boton.dataset.titulo + ' · ' + boton.dataset.fecha,
+      paneles: [].slice.call(sec.querySelectorAll('.tira svg'))
+    };
+  }
+
+  // En horizontal: la cabecera en una línea, los tres paneles en fila, de qué noticia sale (lo que sitúa la tira)
+  // y el nombre del sitio al pie
+  function tarjetaVineta(d, ims) {
+    var VW = 1920, VM = 60, GAP = 30, n = ims.length || 1;
+    var pw = (VW - 2 * VM - GAP * (n - 1)) / n, ph = 0;
+    ims.forEach(function (im) { if (im) ph = Math.max(ph, pw * (im.naturalHeight || im.height) / (im.naturalWidth || im.width)); });
+    ph = ph || pw * 0.9;
+    var cv = document.createElement('canvas'), c = cv.getContext('2d');
+    // «A partir de «titular».», en una o dos líneas, en redonda; más pequeño si no cabe
+    var orig = null;
+    if (d.origen) {
+      for (var so = 32; so >= 24; so -= 2) {
+        c.font = '400 ' + so + 'px ' + LETRA;
+        var lo = lineas(c, d.origen, VW - 2 * VM);
+        if (lo.length <= 2 || so === 24) { orig = { s: so, ls: lo.slice(0, 2) }; break; }
+      }
+    }
+    var arriba = 170, bajo = arriba + ph + (orig ? 30 + orig.ls.length * orig.s * 1.35 : 0);
+    var pie = bajo + 30, VH = pie + 98;
+    cv.width = VW; cv.height = VH;
+    c.fillStyle = PAPEL; c.fillRect(0, 0, VW, VH);
+    c.fillStyle = TINTA; c.font = '800 46px ' + LETRA; c.textBaseline = 'alphabetic';
+    c.fillText(d.diario, VM, 100);
+    var izq = VM + c.measureText(d.diario).width + 40;
+    // A la derecha, el título de la viñeta y la fecha, más pequeños si no caben
+    for (var s = 30; s >= 20; s -= 2) {
+      c.font = 'italic 400 ' + s + 'px ' + LETRA; var wf = c.measureText(' · ' + d.fecha).width;
+      c.font = '700 ' + s + 'px ' + LETRA; var wt = c.measureText(d.titulo).width;
+      if (VW - VM - wf - wt >= izq || s === 20) break;
+    }
+    c.textAlign = 'right';
+    c.font = 'italic 400 ' + s + 'px ' + LETRA; c.fillStyle = GRIS; c.fillText(' · ' + d.fecha, VW - VM, 100);
+    c.font = '700 ' + s + 'px ' + LETRA; c.fillStyle = SEC.vineta[0]; c.fillText(d.titulo, VW - VM - wf, 100);
+    c.textAlign = 'left';
+    c.fillStyle = TINTA; c.fillRect(VM, 124, VW - 2 * VM, 4); c.fillRect(VM, 133, VW - 2 * VM, 2);
+    ims.forEach(function (im, i) { if (im) c.drawImage(im, VM + i * (pw + GAP), arriba, pw, ph); });
+    if (orig) {
+      c.font = '400 ' + orig.s + 'px ' + LETRA; c.fillStyle = GRIS;
+      orig.ls.forEach(function (l, i) { c.fillText(l, VM, arriba + ph + 30 + (i + 1) * orig.s * 1.35 - orig.s * 0.35); });
+    }
+    c.fillStyle = TINTA; c.fillRect(VM, pie, VW - 2 * VM, 2);
+    c.font = 'italic 400 28px ' + LETRA; c.fillStyle = GRIS;
+    c.fillText(new URL(d.url).host, VM, pie + 50);
+    return cv;
+  }
+
+  function preparaVineta(boton) {
+    var d = datosVineta(boton), css = cssVineta();
+    var ims = Promise.all(d.paneles.map(function (svg) {
+      return svgImagen(new XMLSerializer().serializeToString(svg), css);
+    }));
+    return Promise.all([letrasPagina(), ims]).then(function (r) { return enPng(tarjetaVineta(d, r[1]), d); });
   }
 
   function descarga(blob, nombre) {
     var a = document.createElement('a'), u = URL.createObjectURL(blob);
     a.href = u; a.download = nombre; document.body.appendChild(a); a.click(); a.remove();
     setTimeout(function () { URL.revokeObjectURL(u); }, 2000);
-  }
-
-  // Se prepara antes de que se pulse, cuando el botón está cerca de verse: Safari solo deja abrir el menú
-  // de compartir justo al pulsar, sin esperas por medio
-  var lista = null;
-  function pide() { if (!lista) lista = prepara(); return lista; }
-  if ('IntersectionObserver' in window) {
-    var ob = new IntersectionObserver(function (es) {
-      if (es.some(function (e) { return e.isIntersecting; })) { ob.disconnect(); pide(); }
-    }, { rootMargin: '600px' });
-    ob.observe(boton);
   }
 
   // La imagen, al portapapeles, para pegarla donde se quiera
@@ -193,7 +291,7 @@
   }
 
   // «Copiado», en la opción y para quien no lo ve (la misma región viva que el resto de la página)
-  function hecho(op, t) {
+  function hecho(op, t, cierra) {
     var r = op.querySelector('span'), antes = r.textContent;
     r.textContent = t; op.classList.add('hecho');
     var v = document.getElementById('aviso-lector');
@@ -214,42 +312,57 @@
   // Las opciones que salen dependen de lo que deja el navegador: compartir (el enlace o la imagen) solo donde hay
   // menú de compartir del sistema, y entonces no hace falta copiar el enlace; copiar la imagen, donde se puede.
   // Se cierra al pulsar fuera o con Escape, como «Para tu web»
-  var menu = document.getElementById('menu-compartir');
-  if (!menu) return;
-  var op = function (a) { return menu.querySelector('[data-accion="' + a + '"]'); };
-  if (navigator.share) { op('enlace').hidden = false; op('copiar-enlace').hidden = true; }
-  if (navigator.canShare && window.File && navigator.canShare({ files: [new File([''], 'x.png', { type: 'image/png' })] })) op('imagen').hidden = false;
-  if (!(navigator.clipboard && navigator.clipboard.write && window.ClipboardItem && window.isSecureContext)) op('copiar-imagen').hidden = true;
-  function cierra() { if (!menu.hidden) { menu.hidden = true; boton.setAttribute('aria-expanded', 'false'); } }
-  boton.addEventListener('click', function (ev) {
-    ev.stopPropagation(); pide();
-    var abre = menu.hidden; menu.hidden = !abre; boton.setAttribute('aria-expanded', abre ? 'true' : 'false');
-    if (abre) menu.querySelector('.compartir-op:not([hidden])').focus();
-  });
-  document.addEventListener('click', function (ev) { if (!menu.hidden && !menu.contains(ev.target) && !boton.contains(ev.target)) cierra(); });
-  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !menu.hidden) { cierra(); boton.focus(); } });
-
-  var d = null;
-  function enlace() { if (!d) d = datos(); return d; }
-  // Quien cierra el menú de compartir sin elegir nada no ha tenido un error
-  function trasCompartir(e) { if (!e || e.name === 'AbortError') cierra(); }
-
-  [].forEach.call(menu.querySelectorAll('.compartir-op'), function (b) {
-    b.addEventListener('click', function () {
-      var accion = b.dataset.accion, x = enlace();
-      if (accion === 'enlace') { navigator.share({ title: x.titular || document.title, url: x.url }).then(cierra, trasCompartir); return; }
-      if (accion === 'copiar-enlace') { copiaTexto(x.url).then(function () { hecho(b, b.dataset.hecho); }, cierra); return; }
-      b.disabled = true;
-      pide().then(function (r) {
-        var nombre = 'diario-ia-educativa-' + r.d.nombre + '.png';
-        if (accion === 'imagen') {
-          var f = new File([r.blob], nombre, { type: 'image/png' });
-          return navigator.share({ files: [f], title: r.d.titular, text: r.d.titular + '\n' + r.d.url })
-            .then(cierra, function (e) { if (e && e.name === 'AbortError') cierra(); else { descarga(r.blob, nombre); cierra(); } });
-        }
-        if (accion === 'copiar-imagen') return copia(r.blob).then(function () { hecho(b, b.dataset.hecho); }, function () { descarga(r.blob, nombre); cierra(); });
-        descarga(r.blob, nombre); cierra();
-      }).catch(function () {}).then(function () { b.disabled = false; });
+  function monta(boton) {
+    var menu = document.getElementById(boton.getAttribute('aria-controls'));
+    if (!menu) return;
+    var esVineta = !!boton.closest('.vineta');
+    // Se prepara antes de que se pulse, cuando el botón está cerca de verse: Safari solo deja abrir el menú
+    // de compartir justo al pulsar, sin esperas por medio
+    var lista = null;
+    function pide() { if (!lista) lista = esVineta ? preparaVineta(boton) : preparaArticulo(); return lista; }
+    if ('IntersectionObserver' in window) {
+      var ob = new IntersectionObserver(function (es) {
+        if (es.some(function (e) { return e.isIntersecting; })) { ob.disconnect(); pide(); }
+      }, { rootMargin: '600px' });
+      ob.observe(boton);
+    }
+    var op = function (a) { return menu.querySelector('[data-accion="' + a + '"]'); };
+    if (navigator.share) { op('enlace').hidden = false; op('copiar-enlace').hidden = true; }
+    if (navigator.canShare && window.File && navigator.canShare({ files: [new File([''], 'x.png', { type: 'image/png' })] })) op('imagen').hidden = false;
+    if (!(navigator.clipboard && navigator.clipboard.write && window.ClipboardItem && window.isSecureContext)) op('copiar-imagen').hidden = true;
+    function cierra() { if (!menu.hidden) { menu.hidden = true; boton.setAttribute('aria-expanded', 'false'); } }
+    boton.addEventListener('click', function (ev) {
+      ev.stopPropagation(); pide();
+      var abre = menu.hidden; menu.hidden = !abre; boton.setAttribute('aria-expanded', abre ? 'true' : 'false');
+      if (abre) menu.querySelector('.compartir-op:not([hidden])').focus();
     });
-  });
+    document.addEventListener('click', function (ev) { if (!menu.hidden && !menu.contains(ev.target) && !boton.contains(ev.target)) cierra(); });
+    document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !menu.hidden) { cierra(); boton.focus(); } });
+
+    var d = null;
+    function enlace() { if (!d) d = esVineta ? datosVineta(boton) : datos(); return d; }
+    // Quien cierra el menú de compartir sin elegir nada no ha tenido un error
+    function trasCompartir(e) { if (!e || e.name === 'AbortError') cierra(); }
+
+    [].forEach.call(menu.querySelectorAll('.compartir-op'), function (b) {
+      b.addEventListener('click', function () {
+        var accion = b.dataset.accion, x = enlace();
+        if (accion === 'enlace') { navigator.share({ title: x.titular || document.title, url: x.url }).then(cierra, trasCompartir); return; }
+        if (accion === 'copiar-enlace') { copiaTexto(x.url).then(function () { hecho(b, b.dataset.hecho, cierra); }, cierra); return; }
+        b.disabled = true;
+        pide().then(function (r) {
+          var nombre = 'diario-ia-educativa-' + r.d.nombre + '.png';
+          if (accion === 'imagen') {
+            var f = new File([r.blob], nombre, { type: 'image/png' });
+            return navigator.share({ files: [f], title: r.d.titular, text: r.d.titular + '\n' + r.d.url })
+              .then(cierra, function (e) { if (e && e.name === 'AbortError') cierra(); else { descarga(r.blob, nombre); cierra(); } });
+          }
+          if (accion === 'copiar-imagen') return copia(r.blob).then(function () { hecho(b, b.dataset.hecho, cierra); }, function () { descarga(r.blob, nombre); cierra(); });
+          descarga(r.blob, nombre); cierra();
+        }).catch(function () {}).then(function () { b.disabled = false; });
+      });
+    });
+  }
+
+  [].forEach.call(botones, monta);
 })();
