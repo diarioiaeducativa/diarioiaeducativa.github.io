@@ -1236,3 +1236,16 @@ html.con-lector body { padding-bottom: 4.5rem; }
   /* En papel, la tira en fila, como en la portada: la página no llega al ancho en que la pantalla la pone así */
   .vineta .tira, .articulo > .vineta .tira { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; max-width: none !important; gap: 3mm; }
 }
+/* La firma del columnista (ADR 0092), encima del titular: su dibujo, el nombre y quién es, en los colores del tema */
+.firma-columnista { display: flex; align-items: center; gap: 0.7rem; margin: 0.1rem 0 0.6rem; }
+.firma-columnista .avatar { width: 4.2rem; height: auto; flex: none; border-radius: 50%; background: var(--papel); }
+/* En la página de la columna y en la de la sección, sobre el papel: el círculo, en el tinte de la sección */
+.opinion-item .firma-columnista .avatar, .articulo .firma-columnista .avatar { background: var(--t-opinion); }
+.firma-columnista p { margin: 0; display: flex; flex-direction: column; line-height: 1.25; }
+.firma-columnista .firma-nombre { font-size: 1.15rem; font-weight: 700; color: var(--c-opinion); }
+.firma-columnista .firma-quien { font-size: 0.86rem; font-weight: 400; color: var(--tinta-2); letter-spacing: 0; }
+.firma-columnista .sin-corte { white-space: nowrap; }
+.avatar .as-fuste { fill: var(--m-opinion); stroke: var(--c-opinion); stroke-width: 4.5px; stroke-linejoin: round; }
+.avatar .as-estria { fill: none; stroke: var(--c-opinion); stroke-width: 3.5px; stroke-linecap: round; }
+.avatar .as-piedra, .avatar .as-ojo { fill: var(--c-opinion); }
+.avatar .as-rasgo { fill: none; stroke: var(--c-opinion); stroke-width: 3.8px; stroke-linecap: round; }
