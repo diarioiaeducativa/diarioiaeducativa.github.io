@@ -1239,8 +1239,17 @@ html.con-lector body { padding-bottom: 4.5rem; }
 /* La firma del columnista (ADR 0092), encima del titular: su dibujo, el nombre y quién es, en los colores del tema */
 .firma-columnista { display: flex; align-items: center; gap: 0.7rem; margin: 0.1rem 0 0.6rem; }
 .firma-columnista .avatar { width: 4.2rem; height: auto; flex: none; border-radius: 50%; background: var(--papel); }
-/* En la página de la columna y en la de la sección, sobre el papel: el círculo, en el tinte de la sección */
-.opinion-item .firma-columnista .avatar, .articulo .firma-columnista .avatar { background: var(--t-opinion); }
+/* En la página de la columna, sobre el papel: el círculo, en el tinte de la sección */
+.articulo .firma-columnista .avatar { background: var(--t-opinion); }
+/* La ficha del columnista, arriba de la página «Opinión» */
+.columnista { display: flex; gap: 1.3rem; align-items: flex-start; max-width: 46rem; margin: 0 0 1.6rem;
+  padding: 0 0 1.4rem; border-bottom: 1px solid var(--filete); }
+.columnista .avatar { width: 6.5rem; height: auto; flex: none; border-radius: 50%; background: var(--t-opinion); }
+.columnista-texto p { margin: 0; }
+.columnista-nombre { font-size: 1.5rem; font-weight: 700; color: var(--c-opinion); line-height: 1.2; }
+.columnista .firma-quien { font-size: 0.92rem; color: var(--tinta-2); }
+.columnista-bio { margin-top: 0.6rem !important; line-height: 1.55; }
+@media (max-width: 34rem) { .columnista { gap: 0.9rem; } .columnista .avatar { width: 4.6rem; } }
 .firma-columnista p { margin: 0; display: flex; flex-direction: column; line-height: 1.25; }
 .firma-columnista .firma-nombre { font-size: 1.15rem; font-weight: 700; color: var(--c-opinion); }
 .firma-columnista .firma-quien { font-size: 0.86rem; font-weight: 400; color: var(--tinta-2); letter-spacing: 0; }
