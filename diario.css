@@ -524,7 +524,11 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .hace-un-ano-franja .titular { font-size: clamp(1.35rem, 2.4vw, 1.8rem); }
 .hace-un-ano-franja.sin-ilu { grid-template-columns: minmax(0, 1fr); }
 .hace-un-ano-franja .ilu { background: var(--papel) !important; }
-/* La columna de opinión en la portada (ADR 0092): un anuncio sin dibujo a la derecha de la apertura, con el filete de
+/* La columna de opinión los días siguientes (ADR 0092): franja sin dibujo tras la viñeta, con el filete de su color */
+.opinion-franja { background: var(--t-opinion); border-left-color: var(--c-opinion); margin-top: 1.8rem; grid-template-columns: minmax(0, 1fr); }
+.opinion-franja .seccion { margin-bottom: 0.3rem; }
+.opinion-franja .titular { font-size: clamp(1.35rem, 2.4vw, 1.8rem); }
+/* El día que sale (ADR 0092): un anuncio sin dibujo a la derecha de la apertura, con el filete de
    su color y la firma del modelo a la vista. La apertura, a su lado, con el titular a lo ancho y, debajo, la entradilla
    y el dibujo. Por debajo de 64 rem, el anuncio pasa debajo de la apertura, que vuelve a su forma de siempre. */
 .opinion-anuncio { display: flex; flex-direction: column; justify-content: center; padding: 1.3rem 1.5rem 1.4rem;
