@@ -1,31 +1,31 @@
 {
- "numero": 18,
- "sale": "2026-11-19",
+ "numero": 19,
+ "sale": "2099-01-06",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Stanford reúne 52 estudios causales sobre IA en la escuela y ve resultados desiguales"
+   "titular": "Polycam convierte objetos y espacios en modelos 3D con la cámara del móvil"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Stanford reuneix 52 estudis causals sobre IA a l'escola i en veu resultats desiguals"
+   "titular": "Polycam convierte objetos y espacios en modelos 3D con la cámara del móvil"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Stanford reúne 52 estudos causais sobre IA na escola e ve resultados desiguais"
+   "titular": "Polycam convierte objetos y espacios en modelos 3D con la cámara del móvil"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Stanfordek eskolan AAri buruzko 52 azterketa kausal bildu ditu eta emaitza desberdinak ikusten ditu"
+   "titular": "Polycam convierte objetos y espacios en modelos 3D con la cámara del móvil"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "Stanford gathers 52 causal studies on AI in schools and sees uneven results"
+   "titular": "Polycam convierte objetos y espacios en modelos 3D con la cámara del móvil"
   }
  }
 }

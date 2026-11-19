@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Polycam convierte objetos y espacios en modelos 3D con la cámara del móvil</title>
+    <link>https://diarioiaeducativa.github.io/ca/2099-01-05/polycam-escaneo-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2099-01-05/polycam-escaneo-3d.html</guid>
+    <pubDate>Tue, 06 Jan 2099 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>La aplicación escanea lo que hay delante y genera un modelo que se puede girar, medir y compartir. Su plan gratuito tiene límites claros.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2099-01-05-polycam-escaneo-3d.svg" medium="image" type="image/svg+xml"><media:description>Antes y después: a la izquierda, una escultura sobre una mesa rodeada por una línea de puntos que recorre un móvil, con el rótulo «Escaneo»; a la derecha, la misma figura como malla de puntos y líneas en una pantalla, con una flecha de giro y una línea de medida en rojo, con los rótulos «Modelo 3D» y «Medida».</media:description></media:content>
+  </item>
+  <item>
     <title>Stanford reuneix 52 estudis causals sobre IA a l&#x27;escola i en veu resultats desiguals</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-18/stanford-evidencia-ia-escuela.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-18/stanford-evidencia-ia-escuela.html</guid>
@@ -876,14 +885,6 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breus</category>
     <description>Luis Vilela Acuña va publicar el codi obert de Liga de Valores, la seva aplicació de lligues escolars d&#x27;Educació Física en què també puntuen el joc net, l&#x27;arbitratge i la grada, amb un instal·lador per fer-la servir a la xarxa del centre sense servidor extern. La presenta en un article de la Revista Española de Educación Física y Deportes.</description>
-  </item>
-  <item>
-    <title>Antigravity, l&#x27;entorn de programació amb agents de Google, executa des de la versió 2.29 (3 de novembre)…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/breve-2.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Antigravity, l&#x27;entorn de programació amb agents de Google, executa des de la versió 2.29 (3 de novembre) projectes al núvol que es gestionen des del navegador, en lloc de fer-ho a l&#x27;ordinador mateix; segons el seu registre de canvis, s&#x27;està desplegant per als subscriptors de Google AI Pro i Ultra.</description>
   </item>
 </channel>
 </rss>
