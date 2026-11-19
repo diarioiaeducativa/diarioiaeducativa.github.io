@@ -118,8 +118,13 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
         if(c.respuestas&&c.respuestas.length) h+='<ol class="comentario-respuestas">'+c.respuestas.map(uno).join('')+'</ol>';
         return h+'</li>';
       }
-      // Sin copia (aún nadie ha comentado), un 404 y nada más: solo queda el botón
-      fetch('/comentarios/2026-11-07/incluxat-conservatorio.json',{cache:'no-cache'}).then(function(r){return r.ok? r.json() : null;}).then(function(d){
+      // Primero el índice de las piezas con comentarios: sin ellos, no se pide el archivo de la pieza (daría un 404) y
+      // solo queda el botón. Si falta el índice, se pide el archivo directamente, como antes
+      var clave='2026-11-07/incluxat-conservatorio';
+      function json(u){return fetch(u,{cache:'no-cache'}).then(function(r){return r.ok? r.json() : null;});}
+      json('/comentarios/indice.json').then(function(ind){
+        return ind&&ind.piezas&&ind.piezas.indexOf(clave)<0? null : json('/comentarios/'+clave+'.json');
+      }).then(function(d){
         if(!d||!d.comentarios||!d.comentarios.length||!caja.hidden) return;
         lista.innerHTML=d.comentarios.map(uno).join(''); lista.hidden=false;
       }).catch(function(){});
