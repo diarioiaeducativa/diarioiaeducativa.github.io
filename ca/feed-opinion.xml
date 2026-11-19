@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diari d&#x27;IA Educativa · Opinió</title>
+  <link>https://diarioiaeducativa.github.io/ca/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/ca/feed-opinion.xml" rel="self" type="application/rss+xml"/>
+  <description>La intel·ligència artificial, explicada des de tres comunitats docents</description>
+  <language>ca</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Opinió</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
+  <item>
+    <title>Per qualificar un text preparat amb IA cal una mostra d&#x27;escriptura pròpia</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Opinió</category>
+    <description>Demanar a l&#x27;alumnat que expliqui com ha fet servir la intel·ligència artificial té sentit si coneix les regles abans de començar. Per posar una nota cal alguna cosa més, fins i tot quan la declaració és del tot sincera.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Hezkuntzako AA Egunkaria · Iritzia</title>
+  <link>https://diarioiaeducativa.github.io/eu/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/eu/feed-opinion.xml" rel="self" type="application/rss+xml"/>
+  <description>Adimen artifiziala, hiru irakasle-komunitatetatik azaldua</description>
+  <language>eu</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Iritzia</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
+  <item>
+    <title>AAren laguntzaz prestatutako testu bat kalifikatzeko, idatzizko lagin propio bat behar da</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Iritzia</category>
+    <description>Ikasleei AA nola erabili duten azaltzeko eskatzeak zentzua du, hasi aurretik arauak ezagutzen badituzte. Nota jartzeko, ordea, zerbait gehiago behar da, baita adierazpena guztiz zintzoa denean ere.</description>
+  </item>
+</channel>
+</rss>

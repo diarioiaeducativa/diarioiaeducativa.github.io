@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Diario de IA Educativa · Opinión</title>
+  <link>https://diarioiaeducativa.github.io/gl/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/gl/feed-opinion.xml" rel="self" type="application/rss+xml"/>
+  <description>A intelixencia artificial, contada desde tres comunidades docentes</description>
+  <language>gl</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Opinión</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
+  <item>
+    <title>Para cualificar un texto preparado con IA fai falta unha mostra de escritura propia</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Opinión</category>
+    <description>Pedirlle ao alumnado que explique como usou a intelixencia artificial ten sentido se coñece as regras antes de comezar. Para poñer unha nota fai falta algo máis, mesmo cando a declaración é de todo sincera.</description>
+  </item>
+</channel>
+</rss>

@@ -140,6 +140,14 @@
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-17-flow-retirada-veo-omni.svg" medium="image" type="image/svg+xml"><media:description>Gorriz marraztutako egutegi batek, «Abe 5» errotulua duenak, bi klaketa-multzo gidatzen ditu: ezkerrean, hiru, «Kentzen dira» errotulua dutenak; eskuinean, bi, «Omni Flash 1.2» eta «Veo 3.1 Lite» errotuluak dituztenak, «Mantentzen dira» errotuluaren azpian.</media:description></media:content>
   </item>
   <item>
+    <title>AAren laguntzaz prestatutako testu bat kalifikatzeko, idatzizko lagin propio bat behar da</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Iritzia</category>
+    <description>Ikasleei AA nola erabili duten azaltzeko eskatzeak zentzua du, hasi aurretik arauak ezagutzen badituzte. Nota jartzeko, ordea, zerbait gehiago behar da, baita adierazpena guztiz zintzoa denean ere.</description>
+  </item>
+  <item>
     <title>Scholar Labs, itxaron-zerrendatik eta ingelesetik hizkuntza guztietara irekitzera</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-17/scholar-labs-lista-espera.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-17/scholar-labs-lista-espera.html</guid>
@@ -876,14 +884,6 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Laburrak</category>
     <description>Luis Vilela Acuñak Liga de Valores aplikazioaren kode irekia argitaratu zuen: Gorputz Hezkuntzako eskola-ligetarako aplikazioa da, eta joko garbiak, arbitrajeak eta harmailak ere puntuatzen dute; instalatzaile bat du, zentroko sarean kanpoko zerbitzaririk gabe erabiltzeko. Revista Española de Educación Física y Deportes aldizkariko artikulu batean aurkezten du.</description>
-  </item>
-  <item>
-    <title>Antigravityk, Googleren agenteekin programatzeko inguruneak, 2.29 bertsiotik aurrera (azaroaren 3a)…</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/breve-2.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Laburrak</category>
-    <description>Antigravityk, Googleren agenteekin programatzeko inguruneak, 2.29 bertsiotik aurrera (azaroaren 3a) hodeiko proiektuak exekutatzen ditu, nabigatzailetik kudeatzen direnak, ordenagailuan bertan exekutatu beharrean; aldaketa-erregistroaren arabera, Google AI Pro eta Ultra harpidedunentzat zabaltzen ari da.</description>
   </item>
 </channel>
 </rss>

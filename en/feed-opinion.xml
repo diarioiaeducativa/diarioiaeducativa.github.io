@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title>Educational AI Daily · Opinion</title>
+  <link>https://diarioiaeducativa.github.io/en/</link>
+  <atom:link href="https://diarioiaeducativa.github.io/en/feed-opinion.xml" rel="self" type="application/rss+xml"/>
+  <description>Artificial intelligence, as told by three teaching communities</description>
+  <language>en</language>
+  <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+  <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Opinion</title><link>https://diarioiaeducativa.github.io/en/</link></image>
+  <item>
+    <title>Grading a text prepared with AI requires a sample of the student’s own writing</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Opinion</category>
+    <description>Asking students to explain how they used artificial intelligence makes sense if they know the rules before they start. Giving a mark takes something more, even when the declaration is entirely sincere.</description>
+  </item>
+</channel>
+</rss>

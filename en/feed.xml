@@ -140,6 +140,14 @@
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-17-flow-retirada-veo-omni.svg" medium="image" type="image/svg+xml"><media:description>A calendar crossed out in red, labelled “5 Dec”, heads two groups of clapperboards: on the left, three labelled “Being retired”; on the right, two labelled “Omni Flash 1.2” and “Veo 3.1 Lite”, under the label “Staying”.</media:description></media:content>
   </item>
   <item>
+    <title>Grading a text prepared with AI requires a sample of the student’s own writing</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Opinion</category>
+    <description>Asking students to explain how they used artificial intelligence makes sense if they know the rules before they start. Giving a mark takes something more, even when the declaration is entirely sincere.</description>
+  </item>
+  <item>
     <title>Scholar Labs goes from a waiting list and English only to opening up in every language</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-17/scholar-labs-lista-espera.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/scholar-labs-lista-espera.html</guid>
@@ -876,14 +884,6 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>In brief</category>
     <description>Luis Vilela Acuña released the open-source code of Liga de Valores, his app for school Physical Education leagues in which fair play, refereeing and the stands also score, with an installer to run it on the school&#x27;s own network without an external server. He presents it in an article in the Revista Española de Educación Física y Deportes.</description>
-  </item>
-  <item>
-    <title>Antigravity, Google&#x27;s agent-based programming environment, has run cloud projects managed from the browser…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-06/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/breve-2.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>Antigravity, Google&#x27;s agent-based programming environment, has run cloud projects managed from the browser since version 2.29 (3 November), instead of on the user&#x27;s own computer; according to its changelog, it is rolling out to Google AI Pro and Ultra subscribers.</description>
   </item>
 </channel>
 </rss>

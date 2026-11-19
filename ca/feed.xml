@@ -140,6 +140,14 @@
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-flow-retirada-veo-omni.svg" medium="image" type="image/svg+xml"><media:description>Un calendari ratllat en vermell amb el rètol «5 des.» encapçala dos grups de claquetes: a l&#x27;esquerra, tres amb el rètol «Es retiren»; a la dreta, dues amb els rètols «Omni Flash 1.2» i «Veo 3.1 Lite», sota el rètol «Es mantenen».</media:description></media:content>
   </item>
   <item>
+    <title>Per qualificar un text preparat amb IA cal una mostra d&#x27;escriptura pròpia</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Opinió</category>
+    <description>Demanar a l&#x27;alumnat que expliqui com ha fet servir la intel·ligència artificial té sentit si coneix les regles abans de començar. Per posar una nota cal alguna cosa més, fins i tot quan la declaració és del tot sincera.</description>
+  </item>
+  <item>
     <title>Scholar Labs, de la llista d&#x27;espera i l&#x27;anglès a obrir-se a tots els idiomes</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-17/scholar-labs-lista-espera.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/scholar-labs-lista-espera.html</guid>
@@ -876,14 +884,6 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breus</category>
     <description>Luis Vilela Acuña va publicar el codi obert de Liga de Valores, la seva aplicació de lligues escolars d&#x27;Educació Física en què també puntuen el joc net, l&#x27;arbitratge i la grada, amb un instal·lador per fer-la servir a la xarxa del centre sense servidor extern. La presenta en un article de la Revista Española de Educación Física y Deportes.</description>
-  </item>
-  <item>
-    <title>Antigravity, l&#x27;entorn de programació amb agents de Google, executa des de la versió 2.29 (3 de novembre)…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/breve-2.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Antigravity, l&#x27;entorn de programació amb agents de Google, executa des de la versió 2.29 (3 de novembre) projectes al núvol que es gestionen des del navegador, en lloc de fer-ho a l&#x27;ordinador mateix; segons el seu registre de canvis, s&#x27;està desplegant per als subscriptors de Google AI Pro i Ultra.</description>
   </item>
 </channel>
 </rss>

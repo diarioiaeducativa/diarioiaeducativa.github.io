@@ -140,6 +140,14 @@
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-17-flow-retirada-veo-omni.svg" medium="image" type="image/svg+xml"><media:description>Un calendario riscado en vermello co rótulo «5 dec.» encabeza dous grupos de claquetas: á esquerda, tres co rótulo «Retíranse»; á dereita, dúas rotuladas «Omni Flash 1.2» e «Veo 3.1 Lite», baixo o rótulo «Mantéñense».</media:description></media:content>
   </item>
   <item>
+    <title>Para cualificar un texto preparado con IA fai falta unha mostra de escritura propia</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-17/calificar-con-ia-muestra-propia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-17/calificar-con-ia-muestra-propia.html</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Opinión</category>
+    <description>Pedirlle ao alumnado que explique como usou a intelixencia artificial ten sentido se coñece as regras antes de comezar. Para poñer unha nota fai falta algo máis, mesmo cando a declaración é de todo sincera.</description>
+  </item>
+  <item>
     <title>Scholar Labs, da lista de espera e o inglés a abrirse a todos os idiomas</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-17/scholar-labs-lista-espera.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-17/scholar-labs-lista-espera.html</guid>
@@ -876,14 +884,6 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breves</category>
     <description>Luis Vilela Acuña publicou o código aberto de Liga de Valores, a súa aplicación de ligas escolares de Educación Física na que tamén puntúan o xogo limpo, a arbitraxe e a bancada, cun instalador para usala na rede do centro sen servidor externo. Preséntaa nun artigo da Revista Española de Educación Física y Deportes.</description>
-  </item>
-  <item>
-    <title>Antigravity, o contorno de programación con axentes de Google, executa desde a súa versión 2.29 (3 de…</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-06/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-06/breve-2.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Antigravity, o contorno de programación con axentes de Google, executa desde a súa versión 2.29 (3 de novembro) proxectos na nube que se manexan desde o navegador, en lugar de facelo no propio ordenador; segundo o seu rexistro de cambios, estase a despregar para subscritores de Google AI Pro e Ultra.</description>
   </item>
 </channel>
 </rss>

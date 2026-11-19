@@ -226,6 +226,7 @@ main:focus { outline: none; }
   --c-reportaje: var(--azul); --t-reportaje: #eef1fa;  --m-reportaje: #dfe5f7;
   --c-biblioteca: #0b6e79;   --t-biblioteca: #e0f2f3;   --m-biblioteca: #b7e1e5;
   --c-hace-un-ano: #7a4f2a;  --t-hace-un-ano: #f6ede3;  --m-hace-un-ano: #e8d3bd;
+  --c-opinion: #4a3f6b;      --t-opinion: #efedf5;      --m-opinion: #dcd7ea;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -238,6 +239,7 @@ main:focus { outline: none; }
   --c-reportaje: var(--azul); --t-reportaje: #1b1e25;  --m-reportaje: #26315a;
   --c-biblioteca: #67d3df;   --t-biblioteca: #13302f;   --m-biblioteca: #1f4d52;
   --c-hace-un-ano: #e3b98f;  --t-hace-un-ano: #2e241b;  --m-hace-un-ano: #4d3b2a;
+  --c-opinion: #c3b6f0;      --t-opinion: #25222f;      --m-opinion: #3d3854;
   }
 }
 :root[data-theme="dark"] {
@@ -250,6 +252,7 @@ main:focus { outline: none; }
   --c-reportaje: var(--azul); --t-reportaje: #1b1e25;  --m-reportaje: #26315a;
   --c-biblioteca: #67d3df;   --t-biblioteca: #13302f;   --m-biblioteca: #1f4d52;
   --c-hace-un-ano: #e3b98f;  --t-hace-un-ano: #2e241b;  --m-hace-un-ano: #4d3b2a;
+  --c-opinion: #c3b6f0;      --t-opinion: #25222f;      --m-opinion: #3d3854;
 }
 .sec-herramientas { --sec: var(--c-herramientas); --sec-tinte: var(--t-herramientas); --sec-medio: var(--m-herramientas); }
 .sec-debates      { --sec: var(--c-debates);      --sec-tinte: var(--t-debates);      --sec-medio: var(--m-debates); }
@@ -260,6 +263,7 @@ main:focus { outline: none; }
 .sec-reportaje    { --sec: var(--c-reportaje);    --sec-tinte: var(--t-reportaje);    --sec-medio: var(--m-reportaje); }
 .sec-biblioteca   { --sec: var(--c-biblioteca);   --sec-tinte: var(--t-biblioteca);   --sec-medio: var(--m-biblioteca); }
 .sec-hace-un-ano  { --sec: var(--c-hace-un-ano);  --sec-tinte: var(--t-hace-un-ano);  --sec-medio: var(--m-hace-un-ano); }   /* sepia de foto antigua (ADR 0040) */
+.sec-opinion      { --sec: var(--c-opinion);      --sec-tinte: var(--t-opinion);      --sec-medio: var(--m-opinion); }   /* la columna de opinión (ADR 0092) */
 .sec-breves       { --sec: var(--tinta); }
 /* Las ilustraciones toman el color de su sección: fondo teñido y trazos destacados */
 [class*="sec-"] .ilu { --ilu-azul: var(--sec); --ilu-relleno: var(--sec-medio); background: var(--sec-tinte) !important; }
@@ -305,5 +309,6 @@ main:focus { outline: none; }
     --c-reportaje: var(--azul); --t-reportaje: #eef1fa;  --m-reportaje: #dfe5f7;
     --c-biblioteca: #0b6e79;   --t-biblioteca: #e0f2f3;   --m-biblioteca: #b7e1e5;
     --c-hace-un-ano: #7a4f2a;  --t-hace-un-ano: #f6ede3;  --m-hace-un-ano: #e8d3bd;
+    --c-opinion: #4a3f6b;      --t-opinion: #efedf5;      --m-opinion: #dcd7ea;
   }
 }
