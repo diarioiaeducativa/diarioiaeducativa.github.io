@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>A teacher measures the use of their apps with Umami, cookie-free statistics</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-18/umami-analitica-privacidad.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-18/umami-analitica-privacidad.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>This tool shows which features students use without collecting names or email addresses.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-18-umami-analitica-privacidad.svg" medium="image" type="image/svg+xml"><media:description>Diagram: an app window with a pointer clicking sends its usage to a dashboard with a crossed-out eye; beside it, a cookie crossed out in red and a flag. Labels: App, Umami, No cookies, Error flag.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity buckled under demand at its free launch; a year on, it has paid plans</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, Google’s agent-based coding environment launched, free and overwhelmed. A year later it is on version 2.32, and extra usage requires a subscription.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-18-antigravity-saturado-estreno-un-ano-despues.svg" medium="image" type="image/svg+xml"><media:description>Diptych with two identical windows. On the left, “Nov. 2025”: a window with a warning triangle and the label “Overloaded”. On the right, “Today”: the same window with a blue padlock and the labels “Weekly limits” and “Pro and Ultra”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama now has 245 reading texts in Catalan and Spanish, from the third year of primary school to the first…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-18/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-18/breve-2.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Trama now has 245 reading texts in Catalan and Spanish, from the third year of primary school to the first year of ESO, according to its own website.</description>
+  </item>
+  <item>
     <title>Three apps in Catalan: a classroom auction and two density labs</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-17/sarroca-subhasta-densitat.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-17/sarroca-subhasta-densitat.html</guid>
@@ -422,32 +448,6 @@
     <category>Vibe coding</category>
     <description>FiQuiPedia’s app lets users practise organic chemistry nomenclature with configurable tests and a tool that goes from formula to name.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Start screen titled “Formulación Química” with the Tests, F → N and Panel buttons, IUPAC and CAS logos, links to libraries and a row of functional groups.</media:description></media:content>
-  </item>
-  <item>
-    <title>A teacher recommends building infographics in HTML and SVG rather than as generated images</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/infografias-svg-html.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/infografias-svg-html.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>A member of Vibe Coding Educativo argues that, to illustrate concepts, AI should generate SVG shapes and icons in an HTML page, with generated images kept for when they are pedagogically necessary.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Diagram in which an “Idea” splits into two paths: one ends in a crossed-out opaque block, the “Generated image”, and the other in an infographic of shapes and icons, “HTML and SVG”, from which two advantages branch off: “Screen reader” and “Light and dark”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Giving a command-line agent full access means protecting students’ data</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>An experienced teacher explained what an AI agent with full control of a computer can do and what information should be kept out of its reach.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>A terminal window, the agent, has an arrow towards a working folder inside a computer, while its path to the students’ data folder, marked with a padlock, is cut off by a red cross.</media:description></media:content>
-  </item>
-  <item>
-    <title>The website for Ethan Mollick’s new book includes an “AI cursor” that accompanies the reading and can be…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/breve-1.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>The website for Ethan Mollick’s new book includes an “AI cursor” that accompanies the reading and can be switched off. Members rated it as an idea for popularising the subject.</description>
   </item>
 </channel>
 </rss>

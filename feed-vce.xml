@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Un docente mide el uso de sus aplicaciones con Umami, unas estadísticas sin cookies</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/umami-analitica-privacidad.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/umami-analitica-privacidad.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Esta herramienta permite saber qué funciones usa el alumnado sin recoger nombres ni correos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-umami-analitica-privacidad.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una ventana de aplicación con un puntero que hace clic envía su uso a un panel con un ojo tachado; al lado, una galleta tachada en rojo y una bandera. Rótulos: Aplicación, Umami, Sin cookies, Aviso de error.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity se saturaba en su estreno gratuito; un año después tiene planes de pago</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, el entorno de programación con agentes de Google se estrenaba, gratis y desbordado. Un año después va por la versión 2.32 y ampliar el uso exige suscripción.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-antigravity-saturado-estreno-un-ano-despues.svg" medium="image" type="image/svg+xml"><media:description>Díptico con dos ventanas iguales. A la izquierda, «Nov. 2025»: una ventana con un triángulo de aviso y el rótulo «Saturado». A la derecha, «Hoy»: la misma ventana con un candado azul y los rótulos «Límites semanales» y «Pro y Ultra».</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama ya tiene 245 lecturas en catalán y castellano, de 3.º de primaria a 1.º de ESO, según su propia web.</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/breve-2.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Trama ya tiene 245 lecturas en catalán y castellano, de 3.º de primaria a 1.º de ESO, según su propia web.</description>
+  </item>
+  <item>
     <title>Tres aplicaciones en catalán: una subasta en el aula y dos laboratorios de densidad</title>
     <link>https://diarioiaeducativa.github.io/2026-11-17/sarroca-subhasta-densitat.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/sarroca-subhasta-densitat.html</guid>
@@ -422,32 +448,6 @@
     <category>Vibe coding</category>
     <description>La aplicación de FiQuiPedia permite practicar la nomenclatura de química orgánica con tests configurables y una herramienta que pasa de la fórmula al nombre.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio titulada «Formulación Química» con los botones Tests, F → N y Panel, logotipos de IUPAC y CAS, enlaces a bibliotecas y una fila de grupos funcionales.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un docente recomienda crear infografías en HTML y SVG antes que como imágenes generadas</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-02/infografias-svg-html.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/infografias-svg-html.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>Un miembro de Vibe Coding Educativo defiende que, para ilustrar conceptos, conviene que la IA genere formas SVG e iconos en una página HTML y que las imágenes generadas queden para cuando sean pedagógicamente necesarias.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Esquema en el que una «Idea» se bifurca en dos caminos: uno acaba en un bloque opaco tachado, la «Imagen generada», y otro en una infografía de formas e iconos, «HTML y SVG», de la que salen dos ventajas: «Lector de pantalla» y «Claro y oscuro».</media:description></media:content>
-  </item>
-  <item>
-    <title>Dar acceso total a un agente de consola exige proteger los datos del alumnado</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un docente con experiencia explicó qué puede hacer un agente de IA con control completo de un equipo y qué información conviene mantener fuera de su alcance.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Una ventana de terminal, el agente, tiene una flecha hacia una carpeta de trabajo dentro de un equipo, mientras su camino hacia la carpeta de datos del alumnado, con un candado, queda cortado por una cruz roja.</media:description></media:content>
-  </item>
-  <item>
-    <title>La web del nuevo libro de Ethan Mollick incluye un «cursor con IA» que acompaña la lectura y puede…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-02/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/breve-1.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La web del nuevo libro de Ethan Mollick incluye un «cursor con IA» que acompaña la lectura y puede desactivarse. En el grupo se valoró como idea para la divulgación.</description>
   </item>
 </channel>
 </rss>

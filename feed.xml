@@ -9,6 +9,101 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Stanford reúne 52 estudios causales sobre IA en la escuela y ve resultados desiguales</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/stanford-evidencia-ia-escuela.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/stanford-evidencia-ia-escuela.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>La revisión de noviembre pasa de 20 a 52 trabajos y concluye que la IA parece más prometedora para entender material nuevo que para producir tareas, pero ningún uso mejora el aprendizaje de forma consistente.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-stanford-evidencia-ia-escuela.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una persona usa un asistente, del que salen dos caminos: uno hacia «Entender» y otro, en rojo, hacia «Producir tarea», y al final una balanza. Rótulos: Asistente, Entender, Producir tarea, Desiguales.</media:description></media:content>
+  </item>
+  <item>
+    <title>El Parlamento de Galicia aprueba la ley que regula móviles, pantallas e IA en las aulas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/galicia-ley-educacion-digital.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/galicia-ley-educacion-digital.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>La Ley de educación digital limita el uso individual de dispositivos hasta 5.º de Primaria y se aprobó con los votos del PPdeG y el rechazo del BNG y el PSdeG.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-galicia-ley-educacion-digital.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un edificio de parlamento lleva a una ley, de la que salen un móvil tachado en rojo y una cámara de vídeo. Rótulos: Parlamento, Ley digital, Móviles, Sin grabar.</media:description></media:content>
+  </item>
+  <item>
+    <title>Madrid incorpora a EducaMadrid un agente de IA que prepara materiales personalizados</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/educamadrid-agente-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/educamadrid-agente-ia.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>Según la Comunidad de Madrid, el agente lo han desarrollado funcionarios de su Consejería de Digitalización y puede usarlo el profesorado de los centros sostenidos con fondos públicos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-educamadrid-agente-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una persona docente usa un agente, del que salen tres resultados: un documento, una marca de verificación y un sobre. Rótulos: Docente, Agente, Apuntes, Cuestionarios, Correos.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un experimento con 400 adultos halla que un tutor de IA socrático enseña más que explicar el error</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/cmu-tutoria-socratica-errores.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/cmu-tutoria-socratica-errores.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Investigadores de Carnegie Mellon comparan cuatro formas de dar retroalimentación tras un fallo y sugieren que lo que funciona es devolver al alumno a la tarea hasta que acierte.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dos caminos tras un error, marcado con una cruz roja. Arriba, el error lleva a un recuadro «Explicación» y de ahí a los siguientes problemas. Abajo, el error lleva a «Pregunta», luego a «Reintento», con una flecha que vuelve de «Reintento» a «Pregunta» mientras no se acierta, y por fin a una marca de verificación bajo el rótulo «Acierto». Encima, el rótulo «64 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Suno lanza Visuals para crear vídeos con letra y portadas a partir de sus canciones</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/suno-visuals.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/suno-visuals.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>La función genera clips de hasta 15 segundos y se paga con créditos aparte de los de las canciones.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-suno-visuals.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una nota musical con tres flechas hacia tres tarjetas: una clapperboard de vídeo, una imagen y una cámara. Rótulos: Canción, Vídeo con letra, Portada, Clip de 15 s, Créditos aparte.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un docente mide el uso de sus aplicaciones con Umami, unas estadísticas sin cookies</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/umami-analitica-privacidad.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/umami-analitica-privacidad.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Esta herramienta permite saber qué funciones usa el alumnado sin recoger nombres ni correos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-umami-analitica-privacidad.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una ventana de aplicación con un puntero que hace clic envía su uso a un panel con un ojo tachado; al lado, una galleta tachada en rojo y una bandera. Rótulos: Aplicación, Umami, Sin cookies, Aviso de error.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity se saturaba en su estreno gratuito; un año después tiene planes de pago</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, el entorno de programación con agentes de Google se estrenaba, gratis y desbordado. Un año después va por la versión 2.32 y ampliar el uso exige suscripción.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-antigravity-saturado-estreno-un-ano-despues.svg" medium="image" type="image/svg+xml"><media:description>Díptico con dos ventanas iguales. A la izquierda, «Nov. 2025»: una ventana con un triángulo de aviso y el rótulo «Saturado». A la derecha, «Hoy»: la misma ventana con un candado azul y los rótulos «Límites semanales» y «Pro y Ultra».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google despliega hilos temporales en el Modo IA de su buscador: las preguntas de esas conversaciones no se…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/breve-1.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Google despliega hilos temporales en el Modo IA de su buscador: las preguntas de esas conversaciones no se guardan en el historial ni influyen en la personalización, según su anuncio del 17 de noviembre.</description>
+  </item>
+  <item>
+    <title>Trama ya tiene 245 lecturas en catalán y castellano, de 3.º de primaria a 1.º de ESO, según su propia web.</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/breve-2.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Trama ya tiene 245 lecturas en catalán y castellano, de 3.º de primaria a 1.º de ESO, según su propia web.</description>
+  </item>
+  <item>
+    <title>ChatGPT Learn publica una guía para pedir tareas a GPT-6.2 Astra y Sol en Codex, el asistente de…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/breve-3.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>ChatGPT Learn publica una guía para pedir tareas a GPT-6.2 Astra y Sol en Codex, el asistente de programación de OpenAI; la página no indica fecha de lanzamiento ni planes.</description>
+  </item>
+  <item>
+    <title>Kling AI anuncia Kling Image 4.0, con imágenes generadas directamente en resolución 8K, texto en varios…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/breve-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/breve-4.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Kling AI anuncia Kling Image 4.0, con imágenes generadas directamente en resolución 8K, texto en varios idiomas y hasta 10 imágenes coherentes entre sí en cada petición, según su comunicado del 17 de noviembre; no indica disponibilidad ni precios.</description>
+  </item>
+  <item>
     <title>Gemini Notebook convierte las fuentes de un cuaderno en un sitio web interactivo</title>
     <link>https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</guid>
@@ -789,102 +884,6 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breves</category>
     <description>Antigravity, el entorno de programación con agentes de Google, ejecuta desde su versión 2.29 (3 de noviembre) proyectos en la nube que se manejan desde el navegador, en lugar de hacerlo en el propio ordenador; según su registro de cambios, se está desplegando para suscriptores de Google AI Pro y Ultra.</description>
-  </item>
-  <item>
-    <title>Gemini permite exportar con un clic sus aplicaciones interactivas a un sitio de Google Sites</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Herramientas</category>
-    <description>Google ha habilitado que una aplicación interactiva creada en la app de Gemini se publique como un sitio de Google Sites. En el grupo se discutió su utilidad real para el profesorado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un globo de conversación con el rótulo «Gemini» lleva una flecha rotulada «Un clic» hasta una página web con un candado y el rótulo «Borrador privado»; una segunda flecha de trazos, tachada en rojo, apunta a un recuadro de trazos con el rótulo «Sitio existente».</media:description></media:content>
-  </item>
-  <item>
-    <title>MechSimulator reúne simuladores gratuitos de ingeniería mecánica que se usan en el navegador</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/mechsimulator.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/mechsimulator.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un miembro del grupo destacó esta web de simulaciones 2D y 3D como ejemplo de lo que puede lograr una sola persona.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-05-mechsimulator.svg" medium="image" type="image/svg+xml"><media:description>Una ventana de navegador con un engranaje, una regla y una llave, y una curva de flexión debajo, con el rótulo «En el navegador»; una flecha lleva a una cuadrícula de puntos, uno destacado en azul, con el rótulo «Más de 150».</media:description></media:content>
-  </item>
-  <item>
-    <title>Fil i compte permite preparar fichas imprimibles de problemas de matemáticas en catalán y en castellano, con solucionario</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/fil-i-compte.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/fil-i-compte.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un banco de 252 problemas permite al profesorado de primaria y de los primeros cursos de ESO elegir enunciados, ordenarlos e imprimir la ficha o guardarla en PDF.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-05-fil-i-compte.jpg" medium="image" type="image/png"><media:description>Pantalla del banco de problemas con filtros de nivel, dificultad y contenidos a la izquierda y tarjetas de problemas en catalán a la derecha.</media:description></media:content>
-  </item>
-  <item>
-    <title>Google presenta Gemini Omni 1.2 Flash, que genera y edita vídeos de hasta 15 segundos</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-omni-1-2-flash.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-omni-1-2-flash.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>La nueva versión del modelo de vídeo de Google amplía la duración de los clips y permite refinarlos en varios turnos. En EduMedia-IAG se compartió el anuncio.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-05-gemini-omni-1-2-flash.svg" medium="image" type="image/svg+xml"><media:description>Dos barras comparan la duración: «Omni 1.1: 10 s» y, más larga, «Omni 1.2: 15 s». Debajo, tres cámaras de vídeo unidas por flechas con el rótulo «Turno a turno» muestran el clip refinado paso a paso, y una etiqueta con el rótulo «SynthID» marca la salida.</media:description></media:content>
-  </item>
-  <item>
-    <title>La página de XTEC sobre IA enlaza como documento de orientaciones el de 2024, con la nota «Actualització…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/breve-1.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La página de XTEC sobre IA enlaza como documento de orientaciones el de 2024, con la nota «Actualització prevista: des.26», y no recoge las 45 orientaciones de Cataluña que el diario contó.</description>
-  </item>
-  <item>
-    <title>OpenAI presentó Images 2.6, que según su anuncio acelera la generación de imágenes, permite crear GIF en…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/breve-2.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>OpenAI presentó Images 2.6, que según su anuncio acelera la generación de imágenes, permite crear GIF en ChatGPT y mejora la edición. Se compartió en EduMedia-IAG; la página de OpenAI no cargó y la descripción oficial se leyó en su vista previa.</description>
-  </item>
-  <item>
-    <title>Raül Torres, autor de la cámara virtual para Blender que el diario contó, publicó un ejemplo con su…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/breve-3.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/breve-3.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Raül Torres, autor de la cámara virtual para Blender que el diario contó, publicó un ejemplo con su herramienta VirtuCam y unas gafas Meta Quest 3: cinco planos grabados en VR sirvieron de referencia de cámara a Seedance 2.5. Según él, el modelo siguió los cortes casi cuadro a cuadro, aunque añadió planos no grabados.</description>
-  </item>
-  <item>
-    <title>Una herramienta convierte el móvil y las gafas de realidad virtual en una cámara virtual para Blender</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/camara-virtual-blender.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>Raül Torres describe cómo ha hecho, con ayuda de Claude, un sistema que graba movimientos de cámara reales en Blender para guiar después a un generador de vídeo con IA.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-04-camara-virtual-blender.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres pasos de izquierda a derecha: un móvil con un punto rojo y el rótulo REC, bajo el rótulo «Móvil o gafas»; una flecha hacia un cubo 3D con una cámara al final de una trayectoria de puntos, bajo el rótulo «Escena en Blender»; y otra flecha hacia un fotograma de vídeo con un paisaje, bajo el rótulo «Vídeo con IA».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un proyecto abierto ofrece 54 lecciones interactivas en 3D de ciencias para secundaria superior, en chino</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-04/tongjiang-lab-3d.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/tongjiang-lab-3d.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Tongjiang Lab reúne lecciones de física, química, biología y geografía en archivos HTML que funcionan sin conexión; en el grupo se señaló como ejemplo de lo que se podrá hacer con IA.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-04-tongjiang-lab-3d.svg" medium="image" type="image/svg+xml"><media:description>Una barra dividida en cuatro tramos de ancho proporcional, bajo el rótulo «54 lecciones»; sobre cada tramo un icono: un átomo sobre «Física», un matraz sobre «Química» (el tramo más largo, en azul), una hélice de ADN sobre «Biología» (el más corto) y un globo terráqueo sobre «Geografía».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una herramienta forma al azar los grupos base y de expertos de la técnica Jigsaw</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Rompecabezas – Técnica Jigsaw» recibe la lista del alumnado y los subtemas y reparte los grupos de forma equilibrada. Se abre en el navegador y está disponible en cinco lenguas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio con un cuadro para escribir los nombres del alumnado, cuatro subtemas con colores, un campo de tema general y el botón «Formar grupos».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un editor de programación por bloques, basado en TurboWarp y compatible con Scratch, para aprender a programar</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-04/edutictac-blocs.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/edutictac-blocs.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>EduTicTac Blocs es un entorno de programación visual compatible con proyectos de Scratch y con plantillas para el aula; según su web, sin publicidad ni rastreadores.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Proyecto de ejemplo con el botón «Ver dentro» y el escenario y sus controles de bandera, pausa y parada, un aviso verde de inicio y los botones «Empieza con una plantilla» y «Explora la galería».</media:description></media:content>
   </item>
 </channel>
 </rss>

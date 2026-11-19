@@ -9,6 +9,50 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Stanford reúne 52 estudios causales sobre IA en la escuela y ve resultados desiguales</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/stanford-evidencia-ia-escuela.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/stanford-evidencia-ia-escuela.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>La revisión de noviembre pasa de 20 a 52 trabajos y concluye que la IA parece más prometedora para entender material nuevo que para producir tareas, pero ningún uso mejora el aprendizaje de forma consistente.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-stanford-evidencia-ia-escuela.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una persona usa un asistente, del que salen dos caminos: uno hacia «Entender» y otro, en rojo, hacia «Producir tarea», y al final una balanza. Rótulos: Asistente, Entender, Producir tarea, Desiguales.</media:description></media:content>
+  </item>
+  <item>
+    <title>El Parlamento de Galicia aprueba la ley que regula móviles, pantallas e IA en las aulas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/galicia-ley-educacion-digital.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/galicia-ley-educacion-digital.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>La Ley de educación digital limita el uso individual de dispositivos hasta 5.º de Primaria y se aprobó con los votos del PPdeG y el rechazo del BNG y el PSdeG.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-galicia-ley-educacion-digital.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un edificio de parlamento lleva a una ley, de la que salen un móvil tachado en rojo y una cámara de vídeo. Rótulos: Parlamento, Ley digital, Móviles, Sin grabar.</media:description></media:content>
+  </item>
+  <item>
+    <title>Madrid incorpora a EducaMadrid un agente de IA que prepara materiales personalizados</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/educamadrid-agente-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/educamadrid-agente-ia.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Instituciones y empresas</category>
+    <description>Según la Comunidad de Madrid, el agente lo han desarrollado funcionarios de su Consejería de Digitalización y puede usarlo el profesorado de los centros sostenidos con fondos públicos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-educamadrid-agente-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una persona docente usa un agente, del que salen tres resultados: un documento, una marca de verificación y un sobre. Rótulos: Docente, Agente, Apuntes, Cuestionarios, Correos.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un experimento con 400 adultos halla que un tutor de IA socrático enseña más que explicar el error</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/cmu-tutoria-socratica-errores.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/cmu-tutoria-socratica-errores.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Investigadores de Carnegie Mellon comparan cuatro formas de dar retroalimentación tras un fallo y sugieren que lo que funciona es devolver al alumno a la tarea hasta que acierte.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dos caminos tras un error, marcado con una cruz roja. Arriba, el error lleva a un recuadro «Explicación» y de ahí a los siguientes problemas. Abajo, el error lleva a «Pregunta», luego a «Reintento», con una flecha que vuelve de «Reintento» a «Pregunta» mientras no se acierta, y por fin a una marca de verificación bajo el rótulo «Acierto». Encima, el rótulo «64 %».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google despliega hilos temporales en el Modo IA de su buscador: las preguntas de esas conversaciones no se…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-18/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/breve-1.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Google despliega hilos temporales en el Modo IA de su buscador: las preguntas de esas conversaciones no se guardan en el historial ni influyen en la personalización, según su anuncio del 17 de noviembre.</description>
+  </item>
+  <item>
     <title>Gemini Notebook convierte las fuentes de un cuaderno en un sitio web interactivo</title>
     <link>https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-17/gemini-notebook-sitios.html</guid>
@@ -402,50 +446,6 @@
     <category>Biblioteca</category>
     <description>La guía del Departament d’Educació sitúa la tecnología al servicio del aprendizaje con tablas de decisión, progresión por ciclos, bienestar digital y criterios de selección de recursos.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>Un embudo con «Nueve criterios» de decisión deja salir una flecha hacia una escalera de cinco peldaños, «Autonomía creciente» del alumnado; solo el último peldaño aparece destacado: «IA en 4.º», de ESO.</media:description></media:content>
-  </item>
-  <item>
-    <title>El sector editorial advierte de una «caza de brujas» por los detectores de textos con IA</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-01/detectores-caza-brujas.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-01/detectores-caza-brujas.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>Un reportaje de La Vanguardia recoge acusaciones de uso de IA basadas en detectores que se contradicen con el tiempo. El debate llega a la educación: cómo comprobar la autoría sin perseguir.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-01-detectores-caza-brujas.svg" medium="image" type="image/svg+xml"><media:description>Balanza que pesa, en un platillo, «Detector», un informe de detector de IA marcado con un interrogante, y en el otro, «Conversación y reglas», la conversación con la persona y unas reglas claras de uso; abajo, una lupa y el rótulo «Indicio, no prueba».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una publicación orienta a las familias cuando la IA hace los deberes</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-01/familias-deberes-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-01/familias-deberes-ia.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>Chema Falcó propone una prueba sencilla y una regla común para distinguir usar la IA para aprender de delegarle el aprendizaje.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-01-familias-deberes-ia.svg" medium="image" type="image/svg+xml"><media:description>Tres pasos enlazados con flechas, «Pensar», con un lápiz; «Preguntar», con un bocadillo, y «Verificar», con una marca de comprobación, y debajo un alumno que explica una hoja de deberes, «Con tus palabras».</media:description></media:content>
-  </item>
-  <item>
-    <title>La UVic-UCC coorganizó en Lleida una jornada sobre integridad en la actividad docente y la IA.</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-01/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-01/breve-2.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La UVic-UCC coorganizó en Lleida una jornada sobre integridad en la actividad docente y la IA. La noticia de la universidad no recoge conclusiones concretas.</description>
-  </item>
-  <item>
-    <title>Eductia ofrece una IA de pago para preparar materiales docentes en Cataluña</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-30/eductia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/eductia.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Herramientas</category>
-    <description>El servicio genera situaciones de aprendizaje, actividades e instrumentos de evaluación alineados con la normativa catalana, y plantea la duda de qué aporta frente a una IA de uso general.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-eductia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres capas: arriba, «Docente», una persona ante una ventana web; en medio, «Eductia», la capa propia del servicio con documentos y pasos encadenados; abajo, dos proveedores de modelos, «OpenAI» y «Anthropic», conectados por una línea discontinua que termina en un interrogante rojo, «¿País?», sobre el país donde se procesan los datos.</media:description></media:content>
-  </item>
-  <item>
-    <title>La Comisión Europea actualiza DigCompEdu para incorporar la IA y el bienestar digital</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-30/digcompedu.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/digcompedu.html</guid>
-    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Instituciones y empresas</category>
-    <description>El marco europeo de competencia digital del profesorado se está revisando, con versión final prevista para la primavera de 2027 y consultas al profesorado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-digcompedu.svg" medium="image" type="image/svg+xml"><media:description>Seis círculos alrededor de un centro, «Criterio», el criterio docente, rodeados por un anillo discontinuo, «IA en todas», la IA presente en todo el marco; a la derecha, «Bienestar», un eje con tres iconos: un reloj, una pantalla y un botón de apagado.</media:description></media:content>
   </item>
 </channel>
 </rss>

@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Irakasle batek bere aplikazioen erabilera neurtzen du Umamirekin, cookierik gabeko estatistikekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-18/umami-analitica-privacidad.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-18/umami-analitica-privacidad.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Tresna honek ikasleek zer funtzio erabiltzen dituzten jakiteko aukera ematen du, izenik edo posta elektronikorik jaso gabe.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-18-umami-analitica-privacidad.svg" medium="image" type="image/svg+xml"><media:description>Eskema bat: aplikazio-leiho bat, klik egiten duen erakusle batekin, bere erabilera panel batera bidaltzen du, begi marratu batekin; alboan, gorriz marratutako gaileta bat eta bandera bat. Errotuluak: Aplikazioa, Umami, Cookierik ez, Akats-abisua.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity gainezka zegoen doako estreinaldian; urtebete geroago, ordainpeko planak ditu</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Duela urtebete</category>
+    <description>2025eko azaroan, Googleren agenteekin programatzeko ingurunea aurkeztu zen, doakoa eta jendez gainezka. Urtebete geroago 2.32 bertsioan dago, eta erabilera zabaltzeko harpidetza behar da.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-18-antigravity-saturado-estreno-un-ano-despues.svg" medium="image" type="image/svg+xml"><media:description>Diptikoa bi leiho berdinekin. Ezkerrean, «2025 aza.»: abisu-triangelua eta «Saturatuta» errotulua dituen leihoa. Eskuinean, «Gaur»: leiho bera, giltzar urdin batekin eta «Asteko mugak» eta «Pro eta Ultra» errotuluekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama-k 245 irakurgai ditu jada katalanez eta gaztelaniaz, Lehen Hezkuntzako 3.</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-18/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-18/breve-2.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Trama-k 245 irakurgai ditu jada katalanez eta gaztelaniaz, Lehen Hezkuntzako 3. mailatik DBHko 1. mailara arte, bere webgunearen arabera.</description>
+  </item>
+  <item>
     <title>Katalanezko hiru aplikazio: enkante bat ikasgelan eta dentsitateko bi laborategi</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-17/sarroca-subhasta-densitat.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-17/sarroca-subhasta-densitat.html</guid>
@@ -422,32 +448,6 @@
     <category>Vibe coding</category>
     <description>FiQuiPediaren aplikazioak kimika organikoaren nomenklatura praktikatzeko aukera ematen du, test konfiguragarriekin eta formulatik izenera pasatzen den tresna batekin.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>«Formulación Química» izeneko hasierako pantaila, Tests, F → N eta Panel botoiekin, IUPAC eta CASen logotipoekin, liburutegietarako estekekin eta talde funtzionalen errenkada batekin.</media:description></media:content>
-  </item>
-  <item>
-    <title>Irakasle batek infografiak HTMLn eta SVGn sortzea gomendatzen du, irudi sortuen ordez</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/infografias-svg-html.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/infografias-svg-html.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>Vibe Coding Educativo taldeko kide batek defendatzen du kontzeptuak ilustratzeko komeni dela AAk SVG formak eta ikonoak sor ditzala HTML orri batean, eta sortutako irudiak pedagogikoki beharrezkoak direnerako uztea.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Eskema batean, «Ideia» bat bi bidetan bifurkatzen da: batek bloke opaku marratu batean amaitzen da, «Sortutako irudia», eta besteak formez eta ikonoz egindako infografia batean, «HTML eta SVG», non bi abantaila ateratzen diren: «Pantaila-irakurlea» eta «Argia eta iluna».</media:description></media:content>
-  </item>
-  <item>
-    <title>Kontsola-agente bati sarbide osoa emateak ikasleen datuak babestea eskatzen du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Esperientzia duen irakasle batek azaldu zuen zer egin dezakeen AA agente batek ekipo baten kontrol osoarekin eta zer informazio komeni den bere eskumenetik kanpo uztea.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Terminal-leiho batek, agenteak, gezi bat du ekipo baten barruko lan-karpeta batera, eta ikasleen datuen karpetarako bidea, giltzarrapo batekin, gurutze gorri batek mozten du.</media:description></media:content>
-  </item>
-  <item>
-    <title>Ethan Mollick-en liburu berriaren webguneak «AAdun kurtsore» bat dauka, irakurketa laguntzen duena eta…</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/breve-1.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Laburrak</category>
-    <description>Ethan Mollick-en liburu berriaren webguneak «AAdun kurtsore» bat dauka, irakurketa laguntzen duena eta desaktiba daitekeena. Taldean dibulgaziorako ideia gisa baloratu zen.</description>
   </item>
 </channel>
 </rss>

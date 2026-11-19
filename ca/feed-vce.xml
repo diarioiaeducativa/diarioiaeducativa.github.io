@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Un docent mesura l&#x27;ús de les seves aplicacions amb Umami, unes estadístiques sense galetes</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-18/umami-analitica-privacidad.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-18/umami-analitica-privacidad.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Aquesta eina permet saber quines funcions fa servir l&#x27;alumnat sense recollir noms ni correus.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-18-umami-analitica-privacidad.svg" medium="image" type="image/svg+xml"><media:description>Esquema: una finestra d&#x27;aplicació amb un punter que fa clic envia el seu ús a un tauler amb un ull ratllat; al costat, una galeta ratllada en vermell i una bandera. Rètols: Aplicació, Umami, Sense galetes, Avís d&#x27;error.</media:description></media:content>
+  </item>
+  <item>
+    <title>Antigravity es saturava en l&#x27;estrena gratuïta; un any després té plans de pagament</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-18/antigravity-saturado-estreno-un-ano-despues.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, l&#x27;entorn de programació amb agents de Google s&#x27;estrenava, gratuït i desbordat. Un any després va per la versió 2.32 i ampliar-ne l&#x27;ús exigeix subscripció.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-18-antigravity-saturado-estreno-un-ano-despues.svg" medium="image" type="image/svg+xml"><media:description>Díptic amb dues finestres iguals. A l&#x27;esquerra, «Nov. 2025»: una finestra amb un triangle d&#x27;avís i el rètol «Saturat». A la dreta, «Avui»: la mateixa finestra amb un cadenat blau i els rètols «Límits setmanals» i «Pro i Ultra».</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama ja té 245 lectures en català i castellà, de 3r de primària a 1r d&#x27;ESO, segons el seu web.</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-18/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-18/breve-2.html</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Trama ja té 245 lectures en català i castellà, de 3r de primària a 1r d&#x27;ESO, segons el seu web.</description>
+  </item>
+  <item>
     <title>Tres aplicacions en català: una subhasta a l&#x27;aula i dos laboratoris de densitat</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-17/sarroca-subhasta-densitat.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-17/sarroca-subhasta-densitat.html</guid>
@@ -422,32 +448,6 @@
     <category>Vibe coding</category>
     <description>L&#x27;aplicació de FiQuiPedia permet practicar la nomenclatura de química orgànica amb tests configurables i una eina que passa de la fórmula al nom.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici titulada «Formulación Química» amb els botons Tests, F → N i Panel, logotips d&#x27;IUPAC i CAS, enllaços a biblioteques i una fila de grups funcionals.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un docent recomana crear infografies en HTML i SVG abans que com a imatges generades</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/infografias-svg-html.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/infografias-svg-html.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Un membre de Vibe Coding Educativo defensa que, per il·lustrar conceptes, convé que la IA generi formes SVG i icones en una pàgina HTML i que les imatges generades quedin per a quan siguin pedagògicament necessàries.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-infografias-svg-html.svg" medium="image" type="image/svg+xml"><media:description>Esquema en què una «Idea» es bifurca en dos camins: un acaba en un bloc opac ratllat, la «Imatge generada», i l&#x27;altre en una infografia de formes i icones, «HTML i SVG», de la qual surten dos avantatges: «Lector de pantalla» i «Clar i fosc».</media:description></media:content>
-  </item>
-  <item>
-    <title>Donar accés total a un agent de consola exigeix protegir les dades de l&#x27;alumnat</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un docent amb experiència va explicar què pot fer un agent d&#x27;IA amb control complet d&#x27;un equip i quina informació convé mantenir fora del seu abast.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Una finestra de terminal, l&#x27;agent, té una fletxa cap a una carpeta de treball dins d&#x27;un equip, mentre que el seu camí cap a la carpeta de dades de l&#x27;alumnat, amb un cadenat, queda tallat per una creu vermella.</media:description></media:content>
-  </item>
-  <item>
-    <title>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar.</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-02/breve-1.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>La web del nou llibre d&#x27;Ethan Mollick inclou un «cursor amb IA» que acompanya la lectura i es pot desactivar. Al grup es va valorar com a idea per a la divulgació.</description>
   </item>
 </channel>
 </rss>
