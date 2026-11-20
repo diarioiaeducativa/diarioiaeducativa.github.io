@@ -1,31 +1,31 @@
 {
- "numero": 18,
- "sale": "2026-11-19",
+ "numero": 19,
+ "sale": "2026-11-20",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Stanford reúne 52 estudios causales sobre IA en la escuela y ve resultados desiguales"
+   "titular": "Gemini separará el historial de las conversaciones del permiso para entrenar modelos"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Stanford reuneix 52 estudis causals sobre IA a l'escola i en veu resultats desiguals"
+   "titular": "Gemini separarà l'historial de les converses del permís per entrenar models"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Stanford reúne 52 estudos causais sobre IA na escola e ve resultados desiguais"
+   "titular": "Gemini separará o historial das conversas do permiso para adestrar modelos"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Stanfordek eskolan AAri buruzko 52 azterketa kausal bildu ditu eta emaitza desberdinak ikusten ditu"
+   "titular": "Geminik elkarrizketen historia eta ereduak entrenatzeko baimena bereiziko ditu"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "Stanford gathers 52 causal studies on AI in schools and sees uneven results"
+   "titular": "Gemini will separate conversation history from permission to train models"
   }
  }
 }

@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Google AI Studio crea aplicaciones Android completas a partir de una descripción</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-19/ai-studio-apps-android.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-19/ai-studio-apps-android.html</guid>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Genera aplicaciones en Kotlin con inicio de sesión y base de datos, las prueba en un emulador del navegador y permite instalarlas desde la biblioteca personal de Google Play.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-19-ai-studio-apps-android.svg" medium="image" type="image/svg+xml"><media:description>Un globo de diálogo rotulado «Descripción» lleva, con una flecha, a una ventana de navegador con un móvil dentro, rotulada «Emulador», y de ahí, con otra flecha, a un recuadro con el símbolo de reproducir, rotulado «Google Play».</media:description></media:content>
+  </item>
+  <item>
     <title>Un docente mide el uso de sus aplicaciones con Umami, unas estadísticas sin cookies</title>
     <link>https://diarioiaeducativa.github.io/2026-11-18/umami-analitica-privacidad.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/umami-analitica-privacidad.html</guid>

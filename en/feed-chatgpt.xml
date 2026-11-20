@@ -9,6 +9,51 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Gemini will separate conversation history from permission to train models</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-19/gemini-historial-entrenamiento.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-19/gemini-historial-entrenamiento.html</guid>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>Google will replace the “Keep Activity” setting with two: one for history and, separately, one that lets its models use the content of conversations.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-19-gemini-historial-entrenamiento.svg" medium="image" type="image/svg+xml"><media:description>A switch labelled “Keep Activity” splits, with two arrows, into two independent settings: “History”, with a calendar and a switch, and “Training”, with a cogwheel and another switch.</media:description></media:content>
+  </item>
+  <item>
+    <title>Canada launches a national AI literacy initiative with three strands: students, teachers and the public</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-19/canada-alfabetizacion-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-19/canada-alfabetizacion-ia.html</guid>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>The Canadian government has launched, with the Amii institute, a national AI literacy initiative with three training strands, one of them yet to launch. The document shared in the library presents it and points out its shortcomings.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-19-canada-alfabetizacion-ia.svg" medium="image" type="image/svg+xml"><media:description>Diagram: a box on the left, “AI literacy”, from which three paths lead, each with an icon: a graduation cap labelled “Students”, a whiteboard labelled “Teachers” and a group of people labelled “Citizens”; beneath the last one, a dashed line labelled “Yet to launch”.</media:description></media:content>
+  </item>
+  <item>
+    <title>The 1994 Clark–Kozma debate helps in reading Stanford’s studies on AI</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-19/clark-kozma-medios-aprendizaje.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-19/clark-kozma-medios-aprendizaje.html</guid>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>An academic argument over whether technology influences learning or only the method matters, recalled in the group in connection with Stanford’s review.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-19-clark-kozma-medios-aprendizaje.svg" medium="image" type="image/svg+xml"><media:description>A drawing divided into two halves. On the left, a package labelled “Method” on a lorry labelled “Medium”, with the name “Clark”: the medium only carries the method. On the right, two overlapping circles, with the name “Kozma”: medium and method cannot be separated.</media:description></media:content>
+  </item>
+  <item>
+    <title>A teacher reflective journal with AI raises the question of whether the assistant supports or replaces judgement</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-19/diario-reflexivo-docente-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-19/diario-reflexivo-docente-ia.html</guid>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>A master’s thesis project proposes dictating after each class and having an assistant organise the text and return questions; the group debates whether that weakens judgement.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-19-diario-reflexivo-docente-ia.svg" medium="image" type="image/svg+xml"><media:description>A microphone labelled “Dictation” leads to a document labelled “Summary” and to a speech bubble with a question mark labelled “Questions”. An arrow goes down from the document to a box labelled “The teacher decides”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Free ChatGPT for teachers only in the US: a year on, the border remains</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-19/chatgpt-for-teachers-solo-estados-unidos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-19/chatgpt-for-teachers-solo-estados-unidos.html</guid>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, OpenAI launched ChatGPT for Teachers and Spanish teachers wondered whether it would reach them. A year on, it has grown in US schools, but it has not crossed the ocean.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-19-chatgpt-for-teachers-solo-estados-unidos.svg" medium="image" type="image/svg+xml"><media:description>Diptych. On the left, “Nov. 2025”: a globe with a single pin on “US” and a closed padlock below. On the right, “Today”: the same globe with three blue pins on “US” and the padlock still closed, next to the label “Spain”.</media:description></media:content>
+  </item>
+  <item>
     <title>Stanford gathers 52 causal studies on AI in schools and sees uneven results</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-18/stanford-evidencia-ia-escuela.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-18/stanford-evidencia-ia-escuela.html</guid>
@@ -401,51 +446,6 @@
     <category>Institutions &amp; Industry</category>
     <description>The committee set up by MIT to study the use of AI in teaching, learning and research training recommends AI-aware educational processes and a review of assessments and policies.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>A “Report” from which three branches extend, each with its own icon: a sheet with a tick, “Assessment and rules”; two people, “People and campus”; and two arrows in a circle, “Continuous improvement”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Teachers as designers of learning are at the heart of the debate on AI in the classroom</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/docente-disenador.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>After a conference on AI and education, members ask whether teachers stop being a source of information and how to prevent students from delegating their reasoning.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-docente-disenador.svg" medium="image" type="image/svg+xml"><media:description>On the left, “Source”: a teacher transmits information with arrows towards three students; on the right, “Designer and guide”: another teacher with a question mark designs a route of stages leading to a flag labelled “Critical judgement”.</media:description></media:content>
-  </item>
-  <item>
-    <title>A report for UNESCO argues that there is no single right age for using AI in the classroom</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/unesco-edad-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>Sonia Livingstone and three co-authors argue that there is no single right age for using AI in education and call for decisions based on child development and clear educational aims.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-unesco-edad-ia.svg" medium="image" type="image/svg+xml"><media:description>A box with the question “At what age?” crossed out in red and an arrow towards three items in a column (“Purpose?”, “Conditions”, “Evidence”); below, “About / with AI”, a balance with a book in one pan and a screen in the other.</media:description></media:content>
-  </item>
-  <item>
-    <title>The World Economic Forum sets out seven practices to make AI safe for children without shutting them out of learning</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/wef-infancia-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>A September 2026 document from the Global Coalition for Digital Safety takes children’s well-being, and not merely the absence of incidents, as its goal, and proposes practices for those who design AI and incentives to ensure they are followed.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-wef-infancia-ia.svg" medium="image" type="image/svg+xml"><media:description>A schematic temple: the pediment reads “Child well-being”; below it, “Seven practices”, seven columns, and resting on a slab, “Seven incentives”, seven blocks with icons (report, contract, coin, flask, public building, padlock and cycle) holding it up.</media:description></media:content>
-  </item>
-  <item>
-    <title>Catalonia sets out 45 guidelines on which uses of AI to promote and which to limit in schools</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-orientacions-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>The Department of Education and Vocational Training publishes a guide in September 2026 that advises against autonomous use of general-purpose AI by under-14s, grading with AI and AI-text detectors.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-orientacions-ia.svg" medium="image" type="image/svg+xml"><media:description>Diagram in two columns: on the left, “Under 14”, a teacher operates the screen while students look on; on the right, “14 to 18”, a student uses the screen with a family authorisation form. Below, uses in assessment: “Permitted”, creating instruments and marking closed answers, and “Prohibited”, grading and using detectors.</media:description></media:content>
-  </item>
-  <item>
-    <title>Catalonia offers criteria for deciding when a technology adds value in primary and ESO, and places AI in the fourth year</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/cat-tecnologies-educatives.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>The Department of Education’s guide puts technology at the service of learning, with decision tables, progression by cycle, digital well-being and criteria for selecting resources.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-cat-tecnologies-educatives.svg" medium="image" type="image/svg+xml"><media:description>A funnel with “Nine criteria” for decision-making sends an arrow towards a staircase of five steps, “Growing autonomy” for students; only the top step is highlighted: “AI in year 4” of ESO.</media:description></media:content>
   </item>
 </channel>
 </rss>
