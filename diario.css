@@ -454,6 +454,17 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
   .promo-app-txt { flex: 1 1 0; min-width: 0; font-size: 1rem; }
   .promo-app-boton { order: 4; flex: 1 1 100%; text-align: center; }
 }
+/* La oferta de los avisos del número dentro de la app (ADR 0095): la misma franja, con la campana y «Ahora no» */
+.oferta-avisos-ilu { height: 2.6rem; width: 2.6rem; flex: none; fill: none; stroke: var(--azul); stroke-width: 2;
+  stroke-linecap: round; stroke-linejoin: round; }
+.oferta-no { flex: none; padding: 0.5rem 0.9rem; border: 1px solid var(--azul); border-radius: 999px; background: none;
+  color: var(--azul); font: inherit; font-weight: 600; cursor: pointer; white-space: nowrap; }
+.oferta-no:hover, .oferta-no:focus-visible { background: var(--papel); }
+@media (max-width: 40rem) {
+  .oferta-avisos-ilu { height: 2.2rem; width: 2.2rem; }
+  .oferta-avisos .promo-app-txt { flex: 1 1 calc(100% - 3rem); }
+  .oferta-avisos .promo-app-boton, .oferta-no { order: 4; flex: 1 1 40%; text-align: center; }
+}
 @media print { .promo-app { display: none !important; } }
 .editorial {
   display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.5rem 2.6rem; align-items: center;

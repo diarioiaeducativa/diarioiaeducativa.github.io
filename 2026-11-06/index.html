@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=4c44674b">
-<link rel="stylesheet" href="../diario.css?v=c879c675">
+<link rel="stylesheet" href="../diario.css?v=6ff893b6">
 </head>
 <body class="pag-portada">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
@@ -66,6 +66,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   <nav class="secciones" aria-label="Secciones"><div class="secciones-lista"><a class="dia-ant" href="../2026-11-05/" title="Día anterior" aria-label="Día anterior"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="m12 8-4 4 4 4"/><path d="M16 12H8"/></svg></a><a class="este-numero" href="../2026-11-06/" title="este número" aria-current="page">Núm.&nbsp;6</a><a class="dia-sig" href="../2026-11-07/" title="Día siguiente" aria-label="Día siguiente"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="m12 16 4-4-4-4"/><path d="M8 12h8"/></svg></a><a href="../" title="La portada del número de hoy">Hoy</a><a class="sec-herramientas" href="../herramientas.html">Herramientas</a><a class="sec-vibecoding" href="../vibecoding.html">Vibe coding</a><a class="sec-multimedia" href="../multimedia.html">Multimedia</a><a class="sec-debates" href="../debates.html">Debates</a><a class="sec-novedades" href="../novedades.html">Instituciones y empresas</a><a class="sec-biblioteca" href="../biblioteca.html">Biblioteca</a><a class="sec-reportaje" href="../reportajes.html">Reportajes</a><a class="sec-vineta" href="../vineta.html">La viñeta</a><a class="quees" href="../redaccion.html">La redacción</a></div></nav>
 </header>
 <main id="contenido" tabindex="-1" class="portada">
+
 
 
 
@@ -290,6 +291,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
   // La marca la pone CADUCIDAD, el primer script de la cabecera, antes de que la portada salte de idioma.
   var av=document.querySelector('.avisos-app');
   if(av){try{if(sessionStorage.getItem('diario.app'))av.hidden=false;}catch(_){}}
+  if(av)av.addEventListener('click',function(){try{localStorage.setItem('diario.oferta-avisos','1');}catch(_){}});   // ADR 0095
   // «Para tu web» (ADR 0032): el botón despliega sus opciones y se cierra al pulsar fuera o con Escape
   var bl=document.querySelector('.llevar-boton'), ml=document.getElementById('menu-llevar');
   function cerrarLlevar(){ if(ml&&!ml.hidden){ml.hidden=true; bl.setAttribute('aria-expanded','false');} }

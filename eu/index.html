@@ -50,7 +50,7 @@ if(nueva||cuenta)navigator.sendBeacon('https://bilateria.org/app/diario-ia-educa
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="../comun.css?v=4c44674b">
-<link rel="stylesheet" href="../diario.css?v=c879c675">
+<link rel="stylesheet" href="../diario.css?v=6ff893b6">
 </head>
 <body class="pag-portada">
 <a class="saltar" href="#contenido">Joan edukira</a>
@@ -77,6 +77,16 @@ try{if(sessionStorage.getItem('diario.app')||localStorage.getItem('diario.promo-
 if(/iP(hone|ad|od)/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1))return;
 if(Date.now()>=new Date('2026-11-23T00:00:00').getTime())return;
 a.hidden=false;a.querySelector('.promo-app-cerrar').addEventListener('click',function(){a.hidden=true;try{localStorage.setItem('diario.promo-app','1');}catch(_){}});})();</script>
+<aside class="promo-app oferta-avisos" id="oferta-avisos" aria-label="Zenbakiaren abisua goizero" hidden>
+  <svg class="oferta-avisos-ilu" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.268 21a2 2 0 0 0 3.464 0"/><path d="M22 8c0-2.3-.8-4.3-2-6"/><path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326"/><path d="M4 2C2.8 3.7 2 5.7 2 8"/></svg>
+  <p class="promo-app-txt"><strong>Zenbakiaren abisua goizero.</strong> Aplikazioak abisatuko dizu 7:00ak aldera (Espainiako penintsulako ordua, UTC+1), zenbakia ateratzen denean, irekierako izenburuarekin.</p>
+  <a class="promo-app-boton oferta-si" href="intent://avisos?idioma=eu&amp;activar=1#Intent;scheme=diarioia;package=io.github.diarioiaeducativa;end">Aktibatu</a>
+  <button type="button" class="oferta-no">Orain ez</button>
+</aside>
+<script>(function(){var a=document.getElementById('oferta-avisos');if(!a)return;
+try{if(!sessionStorage.getItem('diario.app')||localStorage.getItem('diario.oferta-avisos'))return;}catch(_){return;}
+function fuera(){a.hidden=true;try{localStorage.setItem('diario.oferta-avisos','1');}catch(_){}}
+a.hidden=false;a.querySelector('.oferta-si').addEventListener('click',fuera);a.querySelector('.oferta-no').addEventListener('click',fuera);})();</script>
 
 
 
@@ -464,6 +474,7 @@ a.hidden=false;a.querySelector('.promo-app-cerrar').addEventListener('click',fun
   // La marca la pone CADUCIDAD, el primer script de la cabecera, antes de que la portada salte de idioma.
   var av=document.querySelector('.avisos-app');
   if(av){try{if(sessionStorage.getItem('diario.app'))av.hidden=false;}catch(_){}}
+  if(av)av.addEventListener('click',function(){try{localStorage.setItem('diario.oferta-avisos','1');}catch(_){}});   // ADR 0095
   // «Para tu web» (ADR 0032): el botón despliega sus opciones y se cierra al pulsar fuera o con Escape
   var bl=document.querySelector('.llevar-boton'), ml=document.getElementById('menu-llevar');
   function cerrarLlevar(){ if(ml&&!ml.hidden){ml.hidden=true; bl.setAttribute('aria-expanded','false');} }

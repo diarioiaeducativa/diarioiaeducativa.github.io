@@ -41,7 +41,7 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
 <meta name="theme-color" content="#16181d">
 <link rel="stylesheet" href="/eu/../fuentes.css?v=e8b00d22">
 <link rel="stylesheet" href="/eu/../comun.css?v=4c44674b">
-<link rel="stylesheet" href="/eu/../diario.css?v=c879c675">
+<link rel="stylesheet" href="/eu/../diario.css?v=6ff893b6">
 </head>
 <body class="pag-que-es">
 <header class="cabecera">
@@ -173,6 +173,7 @@ if(/^android-app:\/\/io\.github\.diarioiaeducativa/.test(document.referrer))sess
   // La marca la pone CADUCIDAD, el primer script de la cabecera, antes de que la portada salte de idioma.
   var av=document.querySelector('.avisos-app');
   if(av){try{if(sessionStorage.getItem('diario.app'))av.hidden=false;}catch(_){}}
+  if(av)av.addEventListener('click',function(){try{localStorage.setItem('diario.oferta-avisos','1');}catch(_){}});   // ADR 0095
   // «Para tu web» (ADR 0032): el botón despliega sus opciones y se cierra al pulsar fuera o con Escape
   var bl=document.querySelector('.llevar-boton'), ml=document.getElementById('menu-llevar');
   function cerrarLlevar(){ if(ml&&!ml.hidden){ml.hidden=true; bl.setAttribute('aria-expanded','false');} }
