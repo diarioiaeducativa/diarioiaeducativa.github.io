@@ -1,31 +1,31 @@
 {
- "numero": 19,
- "sale": "2026-11-20",
+ "numero": 20,
+ "sale": "2026-11-21",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Gemini separará el historial de las conversaciones del permiso para entrenar modelos"
+   "titular": "El Consejo de la UE aprueba conclusiones sobre las competencias de la ciudadanía en IA"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Gemini separarà l'historial de les converses del permís per entrenar models"
+   "titular": "El Consell de la UE aprova unes conclusions sobre les competències de la ciutadania en IA"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Gemini separará o historial das conversas do permiso para adestrar modelos"
+   "titular": "O Consello da UE aproba conclusións sobre as competencias da cidadanía en IA"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Geminik elkarrizketen historia eta ereduak entrenatzeko baimena bereiziko ditu"
+   "titular": "EBko Kontseiluak ondorioak onartu ditu herritarren AA gaitasunei buruz"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "Gemini will separate conversation history from permission to train models"
+   "titular": "The Council of the EU approves conclusions on citizens’ AI skills"
   }
  }
 }

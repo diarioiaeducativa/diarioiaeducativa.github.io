@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>O Consello da UE aproba conclusións sobre as competencias da cidadanía en IA</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-20/consejo-ue-competencias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-20/consejo-ue-competencias-ia.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucións e empresas</category>
+    <description>Os Estados membros apoian que as persoas de calquera idade aprendan a usar a intelixencia artificial con criterio e de forma responsable. Son orientacións políticas, non unha norma que obrigue os centros.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-20-consejo-ue-competencias-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres chanzos unidos por frechas: un edificio con columnas, «Marco europeo»; unha bandeira, «Cada Estado»; e un libro aberto, «Aulas». A frecha vermella de puntos entre os dous últimos leva o rótulo «Só orientación».</media:description></media:content>
+  </item>
+  <item>
+    <title>Chicago estuda que facer se Google retira o seu buscador aos distritos que rexeitan a súa IA</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-20/google-distritos-ia-buscador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-20/google-distritos-ia-buscador.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucións e empresas</category>
+    <description>Segundo o Chicago Sun-Times, Google avisa de que os distritos escolares que non permitan as súas ferramentas de IA perderán o acceso ao buscador o ano próximo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-20-google-distritos-ia-buscador.svg" medium="image" type="image/svg+xml"><media:description>Un edificio, «Distrito», cunha frecha rotulada «Rexeita a IA» que apunta a unha lupa tachada cun círculo vermello, «Buscador», e debaixo a pregunta «Sen acceso?».</media:description></media:content>
+  </item>
+  <item>
+    <title>Do 9 % ao 36 % en física de investigación: a IA aínda falla case dous de cada tres</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-20/critpt-fisica-investigacion-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-20/critpt-fisica-investigacion-modelos.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>En novembro de 2025 estreábase unha avaliación con problemas inéditos de física na que ningún modelo de IA chegaba ao 10 %. Un ano despois, o mellor resultado roza o 36 %.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-20-critpt-fisica-investigacion-modelos.svg" medium="image" type="image/svg+xml"><media:description>Díptico en dúas metades. Á esquerda, co rótulo «Nov. 2025», unha folla con tres retos de física, os tres marcados cunha cruz e o rótulo «Falla case todo». Á dereita, co rótulo «Hoxe», a mesma folla co primeiro reto resolto, cunha marca azul, e os outros dous aínda con cruz, co rótulo «Aínda falla moito».</media:description></media:content>
+  </item>
+  <item>
     <title>Gemini separará o historial das conversas do permiso para adestrar modelos</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-19/gemini-historial-entrenamiento.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-19/gemini-historial-entrenamiento.html</guid>
@@ -420,32 +447,6 @@
     <category>Biblioteca</category>
     <description>O comité ad hoc do Instituto Tecnolóxico de Massachusetts propón oito principios e un conxunto de recomendacións para adaptar o ensino universitario á IA xenerativa.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema cunha barra superior de oito principios da que parten tres frechas cara a tres columnas: procesos educativos (exame oral, portfolio), comunidade (grupo de persoas) e estruturas de apoio (organigrama e ferramentas).</media:description></media:content>
-  </item>
-  <item>
-    <title>Un profesor de Xeografía crea con Gemini un contador de nacementos e mortes no mundo</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/pulso-demografico.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/pulso-demografico.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Pulso Demográfico Mundial en Tiempo Real», de Ricardo Chao Prieto, simula ao ritmo real os nacementos e as defuncións de cada país a partir das proxeccións de poboación da ONU para 2026.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>Un globo terráqueo no centro cun contador de nacementos á esquerda, marcado cun máis azul, e outro de defuncións á dereita, cun menos, e unha frecha vermella cara a arriba que indica o crecemento neto.</media:description></media:content>
-  </item>
-  <item>
-    <title>Nos Estados Unidos, o distrito escolar de Los Ángeles bloqueou en setembro o acceso do alumnado á IA…</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-03/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-03/breve-2.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Nos Estados Unidos, o distrito escolar de Los Ángeles bloqueou en setembro o acceso do alumnado á IA xenerativa nos seus dispositivos, e a FCC revisa as axudas E-Rate á conexión das escolas en plena polémica polo tempo de pantalla. No grupo compartíronse como contexto do anuncio de Google.</description>
-  </item>
-  <item>
-    <title>Un informe do MIT, de agosto, pide replantear ensino e avaliación ante a IA</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-02/informe-mit-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-02/informe-mit-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institucións e empresas</category>
-    <description>O comité creado polo MIT para estudar o uso da IA en docencia, aprendizaxe e formación en investigación recomenda procesos educativos adaptados á IA e revisar avaliacións e normas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>Un «Informe» do que parten tres ramas, cada unha coa súa icona: unha folla cunha marca, «Avaliación e normas»; dúas persoas, «Persoas e campus», e dúas frechas en círculo, «Mellora continua».</media:description></media:content>
   </item>
 </channel>
 </rss>

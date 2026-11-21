@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>The Council of the EU approves conclusions on citizens’ AI skills</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-20/consejo-ue-competencias-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-20/consejo-ue-competencias-ia.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>Member states back the idea that people of all ages should learn to use artificial intelligence critically and responsibly. These are policy guidelines, not a rule that binds schools.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-20-consejo-ue-competencias-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram of three steps joined by arrows: a building with columns, “European framework”; a flag, “Each state”; and an open book, “Classrooms”. The dotted red arrow between the last two is labelled “Guidance only”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Chicago weighs its options if Google withdraws search from districts that reject its AI</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-20/google-distritos-ia-buscador.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-20/google-distritos-ia-buscador.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>According to the Chicago Sun-Times, Google warns that school districts that do not allow its AI tools will lose access to search next year.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-20-google-distritos-ia-buscador.svg" medium="image" type="image/svg+xml"><media:description>A building, “District”, with an arrow labelled “Rejects AI” pointing to a magnifying glass crossed out with a red circle, “Search”, and below it the question “No access?”.</media:description></media:content>
+  </item>
+  <item>
+    <title>From 9% to 36% in research-level physics: AI still fails almost two in three</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-20/critpt-fisica-investigacion-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-20/critpt-fisica-investigacion-modelos.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025 a new evaluation of unseen physics problems was launched, and no AI model reached 10%. A year later, the best result is close to 36%.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-20-critpt-fisica-investigacion-modelos.svg" medium="image" type="image/svg+xml"><media:description>Diptych in two halves. On the left, labelled “Nov. 2025”, a sheet with three physics challenges, all three crossed out, and the label “Fails almost everything”. On the right, labelled “Today”, the same sheet with the first challenge solved, with a blue mark, and the other two still crossed out, with the label “Still fails a lot”.</media:description></media:content>
+  </item>
+  <item>
     <title>Gemini will separate conversation history from permission to train models</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-19/gemini-historial-entrenamiento.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-19/gemini-historial-entrenamiento.html</guid>
@@ -420,32 +447,6 @@
     <category>Library</category>
     <description>The ad hoc committee of the Massachusetts Institute of Technology proposes eight principles and a set of recommendations for adapting university teaching to generative AI.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram with a top bar of eight principles from which three arrows lead to three columns: educational processes (oral exam, portfolio), community (a group of people) and support structures (organisation chart and tools).</media:description></media:content>
-  </item>
-  <item>
-    <title>A Geography teacher uses Gemini to build a counter of births and deaths around the world</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>“Pulso Demográfico Mundial en Tiempo Real”, by Ricardo Chao Prieto, simulates in real time the births and deaths in each country, based on the UN’s population projections for 2026.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>A globe in the centre with a births counter on the left, marked with a blue plus, and a deaths counter on the right, with a minus, and a red arrow pointing up to indicate net growth.</media:description></media:content>
-  </item>
-  <item>
-    <title>In the United States, the Los Angeles school district blocked students’ access to generative AI on their…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/breve-2.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>In the United States, the Los Angeles school district blocked students’ access to generative AI on their devices in September, and the FCC is reviewing E-Rate subsidies for school internet connections amid the row over screen time. They were shared in the group as context for Google’s announcement.</description>
-  </item>
-  <item>
-    <title>An MIT report, from August, calls for rethinking teaching and assessment in the age of AI</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/informe-mit-ia.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institutions &amp; Industry</category>
-    <description>The committee set up by MIT to study the use of AI in teaching, learning and research training recommends AI-aware educational processes and a review of assessments and policies.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-informe-mit-ia.svg" medium="image" type="image/svg+xml"><media:description>A “Report” from which three branches extend, each with its own icon: a sheet with a tick, “Assessment and rules”; two people, “People and campus”; and two arrows in a circle, “Continuous improvement”.</media:description></media:content>
   </item>
 </channel>
 </rss>

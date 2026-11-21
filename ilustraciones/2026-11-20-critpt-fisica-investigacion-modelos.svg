@@ -1,0 +1,27 @@
+<svg class="ilu-d" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><style>svg.ilu-d{background:var(--sec-tinte,#f6ede3)}.ilu-d .t{stroke: var(--ilu-tinta,#16181d); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .a{stroke: var(--ilu-azul,#7a4f2a); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .r{stroke: var(--ilu-rojo,#c8202c); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .fa{fill: var(--ilu-relleno,#e8d3bd); stroke: none;}.ilu-d .ft{fill: var(--ilu-tinta,#16181d); stroke: none;}.ilu-d .fz{fill: var(--ilu-azul,#7a4f2a); stroke: none;}.ilu-d .lbl{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px;}.ilu-d .num{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 34px; font-weight: 600;}.ilu-d .num-tres{font-size: 38px; font-weight: 700;}.ilu-d .nom-chatgpt{fill: var(--c-herramientas,#1c3faa);}.ilu-d .nom-vce{fill: var(--c-comunidad,#1d7547);}.ilu-d .nom-edumedia{fill: var(--c-multimedia,#a8206f);}.ilu-d .total{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 60px; font-weight: 700;}.ilu-d g.li2{stroke-width: 1.25;}.ilu-d g.li3{stroke-width: 0.8333;}.ilu-d g.li4{stroke-width: 0.625;}</style>
+<line class="t" x1="300" y1="20" x2="300" y2="320"/>
+<text class="lbl" x="150" y="40" text-anchor="middle">Nov. 2025</text>
+<text class="lbl" x="450" y="40" text-anchor="middle">Hoy</text>
+<rect class="t" x="80" y="65" width="140" height="215" rx="8"/>
+<rect class="fa" x="108" y="85" width="32" height="32" rx="4"/>
+<path class="t" d="M116 93l16 16M132 93l-16 16"/>
+<path class="t" d="M152 95h50M152 107h34"/>
+<rect class="fa" x="108" y="147" width="32" height="32" rx="4"/>
+<path class="t" d="M116 155l16 16M132 155l-16 16"/>
+<path class="t" d="M152 157h50M152 169h34"/>
+<rect class="fa" x="108" y="209" width="32" height="32" rx="4"/>
+<path class="t" d="M116 217l16 16M132 217l-16 16"/>
+<path class="t" d="M152 219h50M152 231h34"/>
+<text class="lbl" x="150" y="311" text-anchor="middle">Falla casi todo</text>
+<rect class="t" x="380" y="65" width="140" height="215" rx="8"/>
+<rect class="fz" x="408" y="85" width="32" height="32" rx="4"/>
+<path class="a" d="M415 101l8 8 11-14"/>
+<path class="a" d="M452 95h50M452 107h34"/>
+<rect class="fa" x="408" y="147" width="32" height="32" rx="4"/>
+<path class="t" d="M416 155l16 16M432 155l-16 16"/>
+<path class="t" d="M452 157h50M452 169h34"/>
+<rect class="fa" x="408" y="209" width="32" height="32" rx="4"/>
+<path class="t" d="M416 217l16 16M432 217l-16 16"/>
+<path class="t" d="M452 219h50M452 231h34"/>
+<text class="lbl" x="450" y="311" text-anchor="middle">Aún falla mucho</text>
+</svg>

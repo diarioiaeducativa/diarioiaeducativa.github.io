@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Un puzle de trenes en catalán para planificar maniobras, nuevo en el repositorio</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-20/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-20/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Repositorio de recursos de Vibe Coding Educativo suma en la semana que termina el 20 de noviembre ocho recursos: uno se presenta aquí y siete ya tuvieron su artículo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-20-maniobres-cada-moviment-compta.jpg" medium="image" type="image/png"><media:description>Pantalla de bienvenida del juego sobre un tablero de vías con vagones numerados de colores, con un campo para escribir el nombre de jugador.</media:description></media:content>
+  </item>
+  <item>
+    <title>Trama añade lecturas agrupadas por «universos» y versiones de distinta dificultad</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-20/trama-universos-variantes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-20/trama-universos-variantes.html</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El catálogo de comprensión lectora permite elegir lecturas que comparten un mismo mundo y versiones del mismo texto con distinto nivel. Su autor pide ayuda para traducirlo al gallego, al euskera y al aranés.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-20-trama-universos-variantes.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, tres libros abiertos dentro de un círculo punteado, «Universo»; a la derecha, tres hojas apiladas con líneas de texto de distinta longitud, «Variantes».</media:description></media:content>
+  </item>
+  <item>
     <title>Google AI Studio crea aplicaciones Android completas a partir de una descripción</title>
     <link>https://diarioiaeducativa.github.io/2026-11-19/ai-studio-apps-android.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-19/ai-studio-apps-android.html</guid>
@@ -429,24 +447,6 @@
     <category>Vibe coding</category>
     <description>«Rompecabezas – Técnica Jigsaw» recibe la lista del alumnado y los subtemas y reparte los grupos de forma equilibrada. Se abre en el navegador y está disponible en cinco lenguas.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio con un cuadro para escribir los nombres del alumnado, cuatro subtemas con colores, un campo de tema general y el botón «Formar grupos».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un editor de programación por bloques, basado en TurboWarp y compatible con Scratch, para aprender a programar</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-04/edutictac-blocs.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-04/edutictac-blocs.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>EduTicTac Blocs es un entorno de programación visual compatible con proyectos de Scratch y con plantillas para el aula; según su web, sin publicidad ni rastreadores.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Proyecto de ejemplo con el botón «Ver dentro» y el escenario y sus controles de bandera, pausa y parada, un aviso verde de inicio y los botones «Empieza con una plantilla» y «Explora la galería».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una actividad gamificada lleva el campo gravitatorio de 2.º de Bachillerato a nueve misiones orbitales</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/misiones-orbitales.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/misiones-orbitales.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Misiones orbitales», de El profe de la bata, propone al alumnado crear un astronauta y resolver nueve misiones con simuladores interactivos. La versión de práctica funciona en el navegador, sin cuentas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta rodeado por una órbita elíptica azul con nueve puntos, uno por misión («9 misiones»), y a la derecha tres estrellas rotuladas «Todas las estrellas», que se obtienen con un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
   </item>
 </channel>
 </rss>
