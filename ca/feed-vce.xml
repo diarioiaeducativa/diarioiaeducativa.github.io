@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Android permet compartir una aplicació pròpia amb fins a 50 dispositius sense Google Play</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/android-distribucion-limitada-50.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/android-distribucion-limitada-50.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El compte de distribució limitada és gratuït i està pensat per a les persones que creen aplicacions per a classe o per a un grup petit.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-android-distribucion-limitada-50.svg" medium="image" type="image/svg+xml"><media:description>Un codi QR, amb el rètol «Codi QR», amb una fletxa cap a una quadrícula de mòbils seguida de punts suspensius i el rètol «Fins a 50 dispositius»; a sota, una creu vermella i el rètol «Sense Google Play».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un simulador permet construir màquines de Rube Goldberg i analitzar-ne les palanques</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/maquina-rube-goldberg-simple.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/maquina-rube-goldberg-simple.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>L&#x27;alumnat col·loca peces sobre un tauler, posa en marxa la cadena i revisa el punt de suport, la càrrega i la força de cada màquina simple. Està en català.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-maquina-rube-goldberg-simple.svg" medium="image" type="image/svg+xml"><media:description>Una palanca sobre un punt de suport triangular, amb el rètol «Suport»; a l&#x27;esquerra, una fletxa vermella cap avall amb el rètol «Força», i a la dreta, un bloc sobre la palanca amb el rètol «Càrrega».</media:description></media:content>
+  </item>
+  <item>
     <title>Un trencaclosques de trens en català per planificar maniobres, nou al repositori</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-20/semana-del-repositorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-20/semana-del-repositorio.html</guid>
@@ -429,24 +447,6 @@
     <category>Vibe coding</category>
     <description>Un banc de 252 problemes permet al professorat de primària i dels primers cursos d&#x27;ESO triar enunciats, ordenar-los i imprimir la fitxa o desar-la en PDF.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-05-fil-i-compte.jpg" medium="image" type="image/png"><media:description>Pantalla del banc de problemes amb filtres de nivell, dificultat i continguts a l&#x27;esquerra i targetes de problemes en català a la dreta.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un projecte obert ofereix 54 lliçons interactives en 3D de ciències per a secundària superior, en xinès</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/tongjiang-lab-3d.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/tongjiang-lab-3d.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Tongjiang Lab reuneix lliçons de física, química, biologia i geografia en fitxers HTML que funcionen sense connexió; al grup es va assenyalar com a exemple del que es podrà fer amb IA.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-04-tongjiang-lab-3d.svg" medium="image" type="image/svg+xml"><media:description>Una barra dividida en quatre trams d&#x27;ample proporcional, sota el rètol «54 lliçons»; sobre cada tram una icona: un àtom sobre «Física», un matràs sobre «Química» (el tram més llarg, en blau), una hèlix d&#x27;ADN sobre «Biologia» (el més curt) i un globus terraqüi sobre «Geografia».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una eina forma a l&#x27;atzar els grups base i d&#x27;experts de la tècnica Jigsaw</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Rompecabezas – Técnica Jigsaw» rep la llista de l&#x27;alumnat i els subtemes i reparteix els grups de manera equilibrada. S&#x27;obre al navegador i està disponible en cinc llengües.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici amb un quadre per escriure els noms de l&#x27;alumnat, quatre subtemes amb colors, un camp de tema general i el botó «Formar grupos».</media:description></media:content>
   </item>
 </channel>
 </rss>

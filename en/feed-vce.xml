@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Android lets you share your own app with up to 50 devices without Google Play</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/android-distribucion-limitada-50.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/android-distribucion-limitada-50.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The limited distribution account is free and is intended for people who build apps for a class or a small group.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-android-distribucion-limitada-50.svg" medium="image" type="image/svg+xml"><media:description>A QR code, labelled “QR code”, with an arrow towards a grid of phones followed by an ellipsis and the label “Up to 50 devices”; below, a red cross and the label “No Google Play”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A simulator lets you build Rube Goldberg machines and analyse their levers</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/maquina-rube-goldberg-simple.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/maquina-rube-goldberg-simple.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Students place pieces on a board, set the chain going and check the fulcrum, load and force of each simple machine. It is in Catalan.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-maquina-rube-goldberg-simple.svg" medium="image" type="image/svg+xml"><media:description>A lever on a triangular fulcrum, labelled “Fulcrum”; on the left, a red downward arrow labelled “Force”, and on the right, a block on the lever labelled “Load”.</media:description></media:content>
+  </item>
+  <item>
     <title>A Catalan-language train puzzle for planning shunting moves is new in the repository</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-20/semana-del-repositorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-20/semana-del-repositorio.html</guid>
@@ -429,24 +447,6 @@
     <category>Vibe coding</category>
     <description>A bank of 252 problems lets primary and lower secondary teachers pick problems, put them in order and print the worksheet or save it as a PDF.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-05-fil-i-compte.jpg" medium="image" type="image/png"><media:description>Screen of the problem bank with level, difficulty and content filters on the left and problem cards in Catalan on the right.</media:description></media:content>
-  </item>
-  <item>
-    <title>An open project offers 54 interactive 3D science lessons for upper secondary school, in Chinese</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-04/tongjiang-lab-3d.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/tongjiang-lab-3d.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Tongjiang Lab brings together physics, chemistry, biology and geography lessons in HTML files that work offline; in the group it was pointed to as an example of what will be possible with AI.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-04-tongjiang-lab-3d.svg" medium="image" type="image/svg+xml"><media:description>A bar divided into four sections of proportional width, under the label “54 lessons”; above each section an icon: an atom over “Physics”, a flask over “Chemistry” (the longest section, in blue), a DNA helix over “Biology” (the shortest) and a globe over “Geography”.</media:description></media:content>
-  </item>
-  <item>
-    <title>A tool randomly forms the home and expert groups for the Jigsaw technique</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-04/rompecabezas-tecnica-jigsaw.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-04/rompecabezas-tecnica-jigsaw.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>“Rompecabezas – Técnica Jigsaw” takes a list of students and subtopics and splits them into balanced groups. It opens in the browser and is available in five languages.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Start screen with a box for typing students’ names, four colour-coded subtopics, a general topic field and the “Formar grupos” button.</media:description></media:content>
   </item>
 </channel>
 </rss>

@@ -9,6 +9,77 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>La IA ayuda más a aprender cuando sirve para entender que cuando hace la tarea</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/ia-aprender-entender-o-entregar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>El reportaje del domingo</category>
+    <description>Una revisión de la Universidad de Stanford reúne ya 52 estudios que miden el efecto de la IA en el aprendizaje: usarla para entender material nuevo sale mejor parado que usarla para producir el trabajo, aunque ningún uso mejora los resultados de forma constante. Este reportaje explica cómo leer esos estudios, por qué un tutor que pregunta no basta por sí solo y qué puede hacer un docente para que la IA no haga el trabajo del alumnado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografía: un estudiante ante un asistente de IA con dos caminos. Arriba, «Entregar»: la IA hace el trabajo y, sin la herramienta, el resultado cae: «Sin la herramienta: −17 %». Abajo, «Entender»: el asistente pregunta y el estudiante corrige sus errores: «64 % corregidos solos». Debajo, cuatro recomendaciones: «Intento propio», «Tutor pregunta», «Separar tareas» y «Comprobar sin IA».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini Notebook ya tiene API oficial, aunque limitada y en versión preliminar</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Permite crear cuadernos y añadirles fuentes desde otros programas, pero solo con cuentas personales. Una librería de código no oficial hace más, aunque puede dejar de funcionar sin aviso.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-gemini-notebook-api-oficial.svg" medium="image" type="image/svg+xml"><media:description>Esquema de dos caminos hacia un mismo cuaderno: el de arriba, rotulado «API oficial», pasa por un candado y lleva el rótulo «Solo personales»; el de abajo, rotulado «No oficial», va en trazo discontinuo rojo con el rótulo «Puede romperse». A la derecha, el cuaderno, rotulado «Cuaderno».</media:description></media:content>
+  </item>
+  <item>
+    <title>Android permite compartir una aplicación propia con hasta 50 dispositivos sin Google Play</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La cuenta de distribución limitada es gratuita y está pensada para las personas que crean aplicaciones para clase o para un grupo pequeño.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-android-distribucion-limitada-50.svg" medium="image" type="image/svg+xml"><media:description>Un código QR, rotulado «Código QR», con una flecha hacia una cuadrícula de móviles seguida de puntos suspensivos y el rótulo «Hasta 50 dispositivos»; abajo, una cruz roja y el rótulo «Sin Google Play».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un manual argentino lleva al aula el coste ambiental, laboral y social de la IA</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/manual-ia-aula-abya-yala.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/manual-ia-aula-abya-yala.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Dos investigadoras proponen a profesorado de secundaria preguntar para qué, desde dónde y con qué consecuencias se usa la inteligencia artificial, antes de decidir cómo. El manual, de 2026, parte de una mirada latinoamericana y feminista.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-manual-ia-aula-abya-yala.svg" medium="image" type="image/svg+xml"><media:description>Esquema de capas: una pantalla rotulada «Asistente de IA» se apoya en tres capas apiladas, «Decisiones», «Centros de datos» y «Etiquetado», mientras una lupa baja por ellas junto a una flecha roja y la pregunta «¿Con qué consecuencias?».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini ofrece desde octubre recorridos visuales e interactivos por temas para estudiar</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/gemini-exploraciones-inmersivas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/gemini-exploraciones-inmersivas.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Las exploraciones inmersivas son una biblioteca de temas ya preparados que se recorren por capas. Según el grupo, no se pueden crear temas propios, y la experiencia solo está en seis idiomas, sin castellano.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-gemini-exploraciones-inmersivas.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, círculos concéntricos como capas que se recorren, rotulados «Por capas»; a la derecha, un globo terráqueo tachado con una raya roja, con los rótulos «6 idiomas» y «Sin castellano».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un simulador permite construir máquinas de Rube Goldberg y analizar sus palancas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/maquina-rube-goldberg-simple.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/maquina-rube-goldberg-simple.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El alumnado coloca piezas sobre un tablero, pone en marcha la cadena y revisa el punto de apoyo, la carga y la fuerza de cada máquina simple. Está en catalán.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-maquina-rube-goldberg-simple.svg" medium="image" type="image/svg+xml"><media:description>Una palanca sobre un punto de apoyo triangular, rotulado «Apoyo»; a la izquierda, una flecha roja hacia abajo con el rótulo «Fuerza», y a la derecha, un bloque sobre la palanca con el rótulo «Carga».</media:description></media:content>
+  </item>
+  <item>
+    <title>El modelo de imágenes que dibujó un eneágono de once lados fue sustituido en Gemini</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/nano-banana-pro-poligonos-precio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/nano-banana-pro-poligonos-precio.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, el nuevo modelo de imágenes de Google acertaba unos polígonos y fallaba otros. En febrero de 2026 Nano Banana 2 lo sustituyó en Gemini, y para los desarrolladores hay otro que cuesta la cuarta parte por imagen de 1K.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptico con una línea vertical en el centro. A la izquierda, «Nov. 2025»: cuatro billetes de tinta y debajo «0,134 $». A la derecha, «Hoy»: un solo billete azul, la cuarta parte, y debajo «0,0336 $».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google DeepMind ofrece, en inglés, una guía interactiva que explica con su modelo Gemma 4 cómo un modelo…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/breve-1.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Google DeepMind ofrece, en inglés, una guía interactiva que explica con su modelo Gemma 4 cómo un modelo de lenguaje, el tipo de programa que hay detrás de ChatGPT, genera a partir de un texto el fragmento que viene a continuación. Recorre cinco etapas, desde dividir el texto hasta el formato de chat.</description>
+  </item>
+  <item>
     <title>El Consejo de la UE aprueba conclusiones sobre las competencias de la ciudadanía en IA</title>
     <link>https://diarioiaeducativa.github.io/2026-11-20/consejo-ue-competencias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-20/consejo-ue-competencias-ia.html</guid>
@@ -816,74 +887,6 @@
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Hace un año</category>
     <description>En noviembre de 2025 se compartía que un modelo chino de pesos abiertos, Kimi K2 Thinking, superaba a GPT-5 en algunas pruebas. Hoy Kimi K3, de la misma familia, es casi tres veces mayor, pero su fabricante admite que no alcanza a los mejores modelos cerrados.</description>
-  </item>
-  <item>
-    <title>Un conector gratuito para Windows envía datos de sensores de una placa micro:bit, por USB, a la plataforma…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-09/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/breve-1.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Un conector gratuito para Windows envía datos de sensores de una placa micro:bit, por USB, a la plataforma ThingSpeak, útil para estaciones meteorológicas o huertos con gráficas.</description>
-  </item>
-  <item>
-    <title>Google AI Studio permite ahora crear aplicaciones con mapas, datos de lugares y rutas de Google Maps…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-09/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/breve-2.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Google AI Studio permite ahora crear aplicaciones con mapas, datos de lugares y rutas de Google Maps Platform sin salir de la herramienta; con la clave de demostración, gratuita y sin facturación, el límite es de 100 llamadas diarias por API.</description>
-  </item>
-  <item>
-    <title>Un porcentaje de un detector de IA abre una conversación con el alumno, pero no prueba que haya copiado</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-08/detector-ia-no-es-prueba.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/detector-ia-no-es-prueba.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>Una entrada del blog «Familias con inteligencia» plantea qué hacer cuando un detector marca el trabajo de un alumno que asegura haberlo escrito él, y propone acompañar el porcentaje con evidencias del proceso.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-08-detector-ia-no-es-prueba.svg" medium="image" type="image/svg+xml"><media:description>Una balanza inclinada hacia la derecha: en el platillo izquierdo, más ligero, una tarjeta con el rótulo «Detector 87 %»; en el derecho, más pesado, otra con los rótulos «Borradores», «Versiones» y «Explicación oral». Entre los dos platillos, una lupa y el rótulo «Decide una persona».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un cortometraje se rueda dentro de la realidad virtual y se termina con IA</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-08/buzz-cortometraje-vr.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/buzz-cortometraje-vr.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>Raül Torres comparte un adelanto de «Buzz», un cortometraje cuyos planos dirige con unas gafas de realidad virtual sobre decorados creados en Blender.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-08-buzz-cortometraje-vr.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres pasos unidos por flechas: un decorado en 3D con el rótulo «Decorado en Blender», unas gafas de realidad virtual con el rótulo «Cámara en VR» y una claqueta con el rótulo «Final con IA». Debajo, en un recuadro de trazos, lo que falta: «Color, sonido, montaje».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un planificador permite montar el calendario del curso a partir del oficial de la Comunitat Valenciana o desde cero</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-08/calendari-planificador-de-curso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/calendari-planificador-de-curso.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Calendari, creado por José Luis Miralles Bono con ayuda de Claude, permite montar el calendario escolar de un centro desde el navegador, partiendo del oficial valenciano o desde cero.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio de Calendari con cuatro tarjetas: calendario oficial de la Comunitat Valenciana, crear calendario nuevo, importar desde archivo y ver calendarios publicados.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una nube de votos con «backend» en un solo prompt: hoy los artefactos nuevos de Claude guardan datos sin publicarse</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-08/artefactos-claude-almacenamiento.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/artefactos-claude-almacenamiento.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Hace un año</category>
-    <description>En noviembre de 2025, una nube de palabras hecha con Claude guardaba los votos de todos con un solo prompt. Hoy los artefactos nuevos guardan datos sin necesidad de publicarlos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptico. A la izquierda, «Nov. 2025»: una aplicación con barras de votos, una base de datos con un candado y el rótulo «Solo publicado». A la derecha, «Hoy»: la misma aplicación, con la base de datos marcada con una señal de visto y el rótulo «Sin publicar».</media:description></media:content>
-  </item>
-  <item>
-    <title>La BBC probó juguetes con IA para niños pequeños: uno de los peluches respondió «I can&#x27;t help with killing…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-08/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/breve-1.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La BBC probó juguetes con IA para niños pequeños: uno de los peluches respondió «I can&#x27;t help with killing you» tras malinterpretar una pregunta. Parlamentarios británicos piden a los comercios retirar estos juguetes antes del Black Friday.</description>
-  </item>
-  <item>
-    <title>Juan José de Haro ha ampliado su artículo con la idea de que agentes distintos (Claude Code, Codex,…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-08/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-08/breve-2.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Juan José de Haro ha ampliado su artículo con la idea de que agentes distintos (Claude Code, Codex, Antigravity) compartan un conocimiento común que todos pueden aumentar, como contó el diario sobre la memoria en cuatro capas. Solo funciona con agentes instalados en el ordenador, no con las versiones web.</description>
   </item>
 </channel>
 </rss>

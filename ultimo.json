@@ -1,31 +1,31 @@
 {
- "numero": 20,
- "sale": "2026-11-21",
+ "numero": 21,
+ "sale": "2026-11-22",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "El Consejo de la UE aprueba conclusiones sobre las competencias de la ciudadanía en IA"
+   "titular": "Gemini Notebook ya tiene API oficial, aunque limitada y en versión preliminar"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "El Consell de la UE aprova unes conclusions sobre les competències de la ciutadania en IA"
+   "titular": "Gemini Notebook ja té una API oficial, tot i que limitada i en versió preliminar"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "O Consello da UE aproba conclusións sobre as competencias da cidadanía en IA"
+   "titular": "Gemini Notebook xa ten API oficial, aínda que limitada e en versión preliminar"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "EBko Kontseiluak ondorioak onartu ditu herritarren AA gaitasunei buruz"
+   "titular": "Gemini Notebookek API ofiziala du jada, mugatua eta aurrebertsioan bada ere"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "The Council of the EU approves conclusions on citizens’ AI skills"
+   "titular": "Gemini Notebook now has an official API, though limited and in preview"
   }
  }
 }

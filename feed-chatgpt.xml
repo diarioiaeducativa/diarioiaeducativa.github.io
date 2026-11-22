@@ -9,6 +9,50 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>La IA ayuda más a aprender cuando sirve para entender que cuando hace la tarea</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/ia-aprender-entender-o-entregar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>El reportaje del domingo</category>
+    <description>Una revisión de la Universidad de Stanford reúne ya 52 estudios que miden el efecto de la IA en el aprendizaje: usarla para entender material nuevo sale mejor parado que usarla para producir el trabajo, aunque ningún uso mejora los resultados de forma constante. Este reportaje explica cómo leer esos estudios, por qué un tutor que pregunta no basta por sí solo y qué puede hacer un docente para que la IA no haga el trabajo del alumnado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografía: un estudiante ante un asistente de IA con dos caminos. Arriba, «Entregar»: la IA hace el trabajo y, sin la herramienta, el resultado cae: «Sin la herramienta: −17 %». Abajo, «Entender»: el asistente pregunta y el estudiante corrige sus errores: «64 % corregidos solos». Debajo, cuatro recomendaciones: «Intento propio», «Tutor pregunta», «Separar tareas» y «Comprobar sin IA».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini Notebook ya tiene API oficial, aunque limitada y en versión preliminar</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Permite crear cuadernos y añadirles fuentes desde otros programas, pero solo con cuentas personales. Una librería de código no oficial hace más, aunque puede dejar de funcionar sin aviso.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-gemini-notebook-api-oficial.svg" medium="image" type="image/svg+xml"><media:description>Esquema de dos caminos hacia un mismo cuaderno: el de arriba, rotulado «API oficial», pasa por un candado y lleva el rótulo «Solo personales»; el de abajo, rotulado «No oficial», va en trazo discontinuo rojo con el rótulo «Puede romperse». A la derecha, el cuaderno, rotulado «Cuaderno».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un manual argentino lleva al aula el coste ambiental, laboral y social de la IA</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/manual-ia-aula-abya-yala.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/manual-ia-aula-abya-yala.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Dos investigadoras proponen a profesorado de secundaria preguntar para qué, desde dónde y con qué consecuencias se usa la inteligencia artificial, antes de decidir cómo. El manual, de 2026, parte de una mirada latinoamericana y feminista.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-manual-ia-aula-abya-yala.svg" medium="image" type="image/svg+xml"><media:description>Esquema de capas: una pantalla rotulada «Asistente de IA» se apoya en tres capas apiladas, «Decisiones», «Centros de datos» y «Etiquetado», mientras una lupa baja por ellas junto a una flecha roja y la pregunta «¿Con qué consecuencias?».</media:description></media:content>
+  </item>
+  <item>
+    <title>El modelo de imágenes que dibujó un eneágono de once lados fue sustituido en Gemini</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/nano-banana-pro-poligonos-precio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/nano-banana-pro-poligonos-precio.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025, el nuevo modelo de imágenes de Google acertaba unos polígonos y fallaba otros. En febrero de 2026 Nano Banana 2 lo sustituyó en Gemini, y para los desarrolladores hay otro que cuesta la cuarta parte por imagen de 1K.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptico con una línea vertical en el centro. A la izquierda, «Nov. 2025»: cuatro billetes de tinta y debajo «0,134 $». A la derecha, «Hoy»: un solo billete azul, la cuarta parte, y debajo «0,0336 $».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google DeepMind ofrece, en inglés, una guía interactiva que explica con su modelo Gemma 4 cómo un modelo…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/breve-1.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Google DeepMind ofrece, en inglés, una guía interactiva que explica con su modelo Gemma 4 cómo un modelo de lenguaje, el tipo de programa que hay detrás de ChatGPT, genera a partir de un texto el fragmento que viene a continuación. Recorre cinco etapas, desde dividir el texto hasta el formato de chat.</description>
+  </item>
+  <item>
     <title>El Consejo de la UE aprueba conclusiones sobre las competencias de la ciudadanía en IA</title>
     <link>https://diarioiaeducativa.github.io/2026-11-20/consejo-ue-competencias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-20/consejo-ue-competencias-ia.html</guid>
@@ -403,50 +447,6 @@
     <category>Instituciones y empresas</category>
     <description>La actualización, publicada el 8 de octubre de 2026, entra en vigor el 12 de noviembre y se aplicará solo en casos extremos.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Una barra horizontal dividida por una raya roja. A la izquierda, con el rótulo «Permitido», tres bocadillos de conversación: dos con los rótulos «Frustración» y «Desacuerdo». A la derecha de la raya, un bocadillo azul con el rótulo «Crueldad repetida» y, debajo, un calendario con el rótulo «Desde 12 nov».</media:description></media:content>
-  </item>
-  <item>
-    <title>Las presentaciones de NotebookLM, que no se podían retocar, ahora se revisan diapositiva a diapositiva</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-06/notebooklm-presentaciones-editables.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/notebooklm-presentaciones-editables.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Hace un año</category>
-    <description>Hace un año, quien quería una presentación editable tenía que salir de NotebookLM. Hoy la herramienta, que ya ni se llama así, hace diapositivas, las corrige por encargo y las exporta a PowerPoint.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: una diapositiva con un triángulo de reproducción y un candado, rotulada «Vídeo cerrado». A la derecha, «Hoy»: la misma diapositiva, en azul, con líneas de texto y un lápiz, rotulada «Se edita».</media:description></media:content>
-  </item>
-  <item>
-    <title>Gemini permite exportar con un clic sus aplicaciones interactivas a un sitio de Google Sites</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/gemini-google-sites.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Herramientas</category>
-    <description>Google ha habilitado que una aplicación interactiva creada en la app de Gemini se publique como un sitio de Google Sites. En el grupo se discutió su utilidad real para el profesorado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un globo de conversación con el rótulo «Gemini» lleva una flecha rotulada «Un clic» hasta una página web con un candado y el rótulo «Borrador privado»; una segunda flecha de trazos, tachada en rojo, apunta a un recuadro de trazos con el rótulo «Sitio existente».</media:description></media:content>
-  </item>
-  <item>
-    <title>La página de XTEC sobre IA enlaza como documento de orientaciones el de 2024, con la nota «Actualització…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-05/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/breve-1.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La página de XTEC sobre IA enlaza como documento de orientaciones el de 2024, con la nota «Actualització prevista: des.26», y no recoge las 45 orientaciones de Cataluña que el diario contó.</description>
-  </item>
-  <item>
-    <title>Docentes debaten el anuncio de Google que desactiva por defecto la IA y el buscador en cuentas escolares</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/google-ia-cuentas-escolares.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/google-ia-cuentas-escolares.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>Google ha anunciado que Gemini y el buscador de Google estarán desactivados en las cuentas de alumnado de primaria y secundaria hasta que los administradores los activen. En los grupos, la noticia abrió una discusión sobre quién decide el uso de la IA en un centro.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, un interruptor general de todo o nada tachado con una aspa roja; a la derecha, cuatro interruptores individuales (Gemini, Notebook, Classroom y Búsqueda), dos encendidos en azul y dos apagados.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un comité del MIT pide rediseñar objetivos, evaluación y comunidad presencial ante una IA que ya resuelve casi cualquier trabajo escrito</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/mit-comite-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/mit-comite-ia.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>El comité ad hoc del Instituto Tecnológico de Massachusetts propone ocho principios y un conjunto de recomendaciones para adaptar la enseñanza universitaria a la IA generativa.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema con una barra superior de ocho principios de la que parten tres flechas hacia tres columnas: procesos educativos (examen oral, portafolio), comunidad (grupo de personas) y estructuras de apoyo (organigrama y herramientas).</media:description></media:content>
   </item>
 </channel>
 </rss>

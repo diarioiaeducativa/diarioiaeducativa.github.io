@@ -9,6 +9,77 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>La IA ajuda més a aprendre quan serveix per entendre que quan fa la tasca</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/ia-aprender-entender-o-entregar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>El reportatge del diumenge</category>
+    <description>Una revisió de la Universitat de Stanford reuneix ja 52 estudis que mesuren l&#x27;efecte de la IA en l&#x27;aprenentatge: fer-la servir per entendre material nou surt més ben parat que fer-la servir per produir el treball, encara que cap ús no millora els resultats de manera constant. Aquest reportatge explica com llegir aquests estudis, per què un tutor que pregunta no n&#x27;hi ha prou per si sol i què pot fer un docent perquè la IA no faci el treball de l&#x27;alumnat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografia: un estudiant davant d&#x27;un assistent d&#x27;IA amb dos camins. A dalt, «Lliurar»: la IA fa el treball i, sense l&#x27;eina, el resultat cau: «Sense l&#x27;eina: −17 %». A baix, «Entendre»: l&#x27;assistent pregunta i l&#x27;estudiant corregeix els seus errors: «64 % corregits sols». A sota, quatre recomanacions: «Intent propi», «Tutor pregunta», «Separar tasques» i «Comprovar sense IA».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini Notebook ja té una API oficial, tot i que limitada i en versió preliminar</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/gemini-notebook-api-oficial.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/gemini-notebook-api-oficial.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Permet crear quaderns i afegir-hi fonts des d&#x27;altres programes, però només amb comptes personals. Una biblioteca de codi no oficial fa més coses, encara que pot deixar de funcionar sense avís.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-gemini-notebook-api-oficial.svg" medium="image" type="image/svg+xml"><media:description>Esquema de dos camins cap a un mateix quadern: el d&#x27;amunt, amb el rètol «API oficial», passa per un cadenat i porta el rètol «Només personals»; el d&#x27;avall, amb el rètol «No oficial», va amb traç discontinu vermell i el rètol «Pot trencar-se». A la dreta, el quadern, amb el rètol «Quadern».</media:description></media:content>
+  </item>
+  <item>
+    <title>Android permet compartir una aplicació pròpia amb fins a 50 dispositius sense Google Play</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/android-distribucion-limitada-50.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/android-distribucion-limitada-50.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El compte de distribució limitada és gratuït i està pensat per a les persones que creen aplicacions per a classe o per a un grup petit.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-android-distribucion-limitada-50.svg" medium="image" type="image/svg+xml"><media:description>Un codi QR, amb el rètol «Codi QR», amb una fletxa cap a una quadrícula de mòbils seguida de punts suspensius i el rètol «Fins a 50 dispositius»; a sota, una creu vermella i el rètol «Sense Google Play».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un manual argentí porta a l&#x27;aula el cost ambiental, laboral i social de la IA</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/manual-ia-aula-abya-yala.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/manual-ia-aula-abya-yala.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Dues investigadores proposen al professorat de secundària preguntar per a què, des d&#x27;on i amb quines conseqüències s&#x27;utilitza la intel·ligència artificial, abans de decidir com. El manual, del 2026, parteix d&#x27;una mirada llatinoamericana i feminista.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-manual-ia-aula-abya-yala.svg" medium="image" type="image/svg+xml"><media:description>Esquema de capes: una pantalla amb el rètol «Assistent d&#x27;IA» es recolza en tres capes apilades, «Decisions», «Centres de dades» i «Etiquetatge», mentre una lupa hi baixa al costat d&#x27;una fletxa vermella i la pregunta «Amb quines conseqüències?».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini ofereix des d&#x27;octubre recorreguts visuals i interactius per temes per estudiar</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/gemini-exploraciones-inmersivas.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/gemini-exploraciones-inmersivas.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Les exploracions immersives són una biblioteca de temes ja preparats que es recorren per capes. Segons el grup, no es poden crear temes propis, i l&#x27;experiència només és en sis idiomes, sense castellà.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-gemini-exploraciones-inmersivas.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, cercles concèntrics com a capes que es recorren, amb el rètol «Per capes»; a la dreta, un globus terraqüi ratllat amb una ratlla vermella, amb els rètols «6 idiomes» i «Sense castellà».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un simulador permet construir màquines de Rube Goldberg i analitzar-ne les palanques</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/maquina-rube-goldberg-simple.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/maquina-rube-goldberg-simple.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>L&#x27;alumnat col·loca peces sobre un tauler, posa en marxa la cadena i revisa el punt de suport, la càrrega i la força de cada màquina simple. Està en català.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-maquina-rube-goldberg-simple.svg" medium="image" type="image/svg+xml"><media:description>Una palanca sobre un punt de suport triangular, amb el rètol «Suport»; a l&#x27;esquerra, una fletxa vermella cap avall amb el rètol «Força», i a la dreta, un bloc sobre la palanca amb el rètol «Càrrega».</media:description></media:content>
+  </item>
+  <item>
+    <title>El model d&#x27;imatges que va dibuixar un eneàgon d&#x27;onze costats ha estat substituït a Gemini</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/nano-banana-pro-poligonos-precio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/nano-banana-pro-poligonos-precio.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, el nou model d&#x27;imatges de Google encertava alguns polígons i en fallava d&#x27;altres. Al febrer de 2026 Nano Banana 2 el va substituir a Gemini, i per als desenvolupadors n&#x27;hi ha un altre que costa la quarta part per imatge d&#x27;1K.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptic amb una línia vertical al centre. A l&#x27;esquerra, «Nov. 2025»: quatre bitllets de tinta i a sota «0,134 $». A la dreta, «Avui»: un sol bitllet blau, la quarta part, i a sota «0,0336 $».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google DeepMind ofereix, en anglès, una guia interactiva que explica amb el seu model Gemma 4 com un model…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/breve-1.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Google DeepMind ofereix, en anglès, una guia interactiva que explica amb el seu model Gemma 4 com un model de llenguatge, el tipus de programa que hi ha darrere de ChatGPT, genera a partir d&#x27;un text el fragment que ve a continuació. Recorre cinc etapes, des de dividir el text fins al format de xat.</description>
+  </item>
+  <item>
     <title>El Consell de la UE aprova unes conclusions sobre les competències de la ciutadania en IA</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-20/consejo-ue-competencias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-20/consejo-ue-competencias-ia.html</guid>
@@ -816,74 +887,6 @@
     <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
     <category>Fa un any</category>
     <description>Al novembre de 2025 es compartia que un model xinès de pesos oberts, Kimi K2 Thinking, superava GPT-5 en algunes proves. Avui Kimi K3, de la mateixa família, és gairebé tres vegades més gran, però el fabricant admet que no arriba als millors models tancats.</description>
-  </item>
-  <item>
-    <title>Un connector gratuït per a Windows envia dades de sensors d&#x27;una placa micro:bit, per USB, a la plataforma…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/breve-1.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Un connector gratuït per a Windows envia dades de sensors d&#x27;una placa micro:bit, per USB, a la plataforma ThingSpeak, útil per a estacions meteorològiques o horts amb gràfiques.</description>
-  </item>
-  <item>
-    <title>Google AI Studio permet ara crear aplicacions amb mapes, dades de llocs i rutes de Google Maps Platform…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/breve-2.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Google AI Studio permet ara crear aplicacions amb mapes, dades de llocs i rutes de Google Maps Platform sense sortir de l&#x27;eina; amb la clau de demostració, gratuïta i sense facturació, el límit és de 100 crides diàries per API.</description>
-  </item>
-  <item>
-    <title>Un percentatge d&#x27;un detector d&#x27;IA obre una conversa amb l&#x27;alumne, però no prova que hagi copiat</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/detector-ia-no-es-prueba.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/detector-ia-no-es-prueba.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>Una entrada del blog «Familias con inteligencia» planteja què cal fer quan un detector assenyala el treball d&#x27;un alumne que assegura haver-lo escrit ell, i proposa acompanyar el percentatge amb evidències del procés.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-detector-ia-no-es-prueba.svg" medium="image" type="image/svg+xml"><media:description>Una balança inclinada cap a la dreta: al plat esquerre, més lleuger, una targeta amb el rètol «Detector 87 %»; al dret, més pesat, una altra amb els rètols «Esborranys», «Versions» i «Explicació oral». Entre els dos plats, una lupa i el rètol «Decideix una persona».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un curtmetratge es roda dins de la realitat virtual i s&#x27;acaba amb IA</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/buzz-cortometraje-vr.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/buzz-cortometraje-vr.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Raül Torres comparteix un avanç de «Buzz», un curtmetratge els plans del qual dirigeix amb unes ulleres de realitat virtual sobre decorats creats amb Blender.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-buzz-cortometraje-vr.svg" medium="image" type="image/svg+xml"><media:description>Esquema en tres passos units per fletxes: un decorat en 3D amb el rètol «Decorat en Blender», unes ulleres de realitat virtual amb el rètol «Càmera en VR» i una claqueta amb el rètol «Final amb IA». A sota, en un requadre de traços, el que falta: «Color, so, muntatge».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un planificador permet muntar el calendari del curs a partir de l&#x27;oficial de la Comunitat Valenciana o des de zero</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Calendari, creat per José Luis Miralles Bono amb ajuda de Claude, permet muntar el calendari escolar d&#x27;un centre des del navegador, partint de l&#x27;oficial valencià o des de zero.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici de Calendari amb quatre targetes: calendari oficial de la Comunitat Valenciana, crear calendari nou, importar des d&#x27;arxiu i veure calendaris publicats.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un núvol de vots amb «backend» en un sol prompt: avui els artefactes nous de Claude desen dades sense publicar-se</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>El novembre de 2025, un núvol de paraules fet amb Claude desava els vots de tothom amb un sol prompt. Avui els artefactes nous desen dades sense necessitat de publicar-los.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptic. A l&#x27;esquerra, «Nov. 2025»: una aplicació amb barres de vots, una base de dades amb un cadenat i el rètol «Només publicat». A la dreta, «Avui»: la mateixa aplicació, amb la base de dades marcada amb un senyal de visat i el rètol «Sense publicar».</media:description></media:content>
-  </item>
-  <item>
-    <title>La BBC va provar joguines amb IA per a nens petits: un dels peluixos va respondre «I can&#x27;t help with…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/breve-1.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>La BBC va provar joguines amb IA per a nens petits: un dels peluixos va respondre «I can&#x27;t help with killing you» després de malinterpretar una pregunta. Parlamentaris britànics demanen als comerços retirar aquestes joguines abans del Black Friday.</description>
-  </item>
-  <item>
-    <title>Juan José de Haro ha ampliat el seu article amb la idea que agents diferents (Claude Code, Codex,…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/breve-2.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Juan José de Haro ha ampliat el seu article amb la idea que agents diferents (Claude Code, Codex, Antigravity) comparteixin un coneixement comú que tots poden augmentar, com va explicar el diari sobre la memòria en quatre capes. Només funciona amb agents instal·lats a l&#x27;ordinador, no amb les versions web.</description>
   </item>
 </channel>
 </rss>

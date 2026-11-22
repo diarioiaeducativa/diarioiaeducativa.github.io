@@ -9,6 +9,50 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>La IA ajuda més a aprendre quan serveix per entendre que quan fa la tasca</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/ia-aprender-entender-o-entregar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>El reportatge del diumenge</category>
+    <description>Una revisió de la Universitat de Stanford reuneix ja 52 estudis que mesuren l&#x27;efecte de la IA en l&#x27;aprenentatge: fer-la servir per entendre material nou surt més ben parat que fer-la servir per produir el treball, encara que cap ús no millora els resultats de manera constant. Aquest reportatge explica com llegir aquests estudis, per què un tutor que pregunta no n&#x27;hi ha prou per si sol i què pot fer un docent perquè la IA no faci el treball de l&#x27;alumnat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografia: un estudiant davant d&#x27;un assistent d&#x27;IA amb dos camins. A dalt, «Lliurar»: la IA fa el treball i, sense l&#x27;eina, el resultat cau: «Sense l&#x27;eina: −17 %». A baix, «Entendre»: l&#x27;assistent pregunta i l&#x27;estudiant corregeix els seus errors: «64 % corregits sols». A sota, quatre recomanacions: «Intent propi», «Tutor pregunta», «Separar tasques» i «Comprovar sense IA».</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini Notebook ja té una API oficial, tot i que limitada i en versió preliminar</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/gemini-notebook-api-oficial.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/gemini-notebook-api-oficial.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Permet crear quaderns i afegir-hi fonts des d&#x27;altres programes, però només amb comptes personals. Una biblioteca de codi no oficial fa més coses, encara que pot deixar de funcionar sense avís.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-gemini-notebook-api-oficial.svg" medium="image" type="image/svg+xml"><media:description>Esquema de dos camins cap a un mateix quadern: el d&#x27;amunt, amb el rètol «API oficial», passa per un cadenat i porta el rètol «Només personals»; el d&#x27;avall, amb el rètol «No oficial», va amb traç discontinu vermell i el rètol «Pot trencar-se». A la dreta, el quadern, amb el rètol «Quadern».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un manual argentí porta a l&#x27;aula el cost ambiental, laboral i social de la IA</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/manual-ia-aula-abya-yala.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/manual-ia-aula-abya-yala.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Dues investigadores proposen al professorat de secundària preguntar per a què, des d&#x27;on i amb quines conseqüències s&#x27;utilitza la intel·ligència artificial, abans de decidir com. El manual, del 2026, parteix d&#x27;una mirada llatinoamericana i feminista.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-manual-ia-aula-abya-yala.svg" medium="image" type="image/svg+xml"><media:description>Esquema de capes: una pantalla amb el rètol «Assistent d&#x27;IA» es recolza en tres capes apilades, «Decisions», «Centres de dades» i «Etiquetatge», mentre una lupa hi baixa al costat d&#x27;una fletxa vermella i la pregunta «Amb quines conseqüències?».</media:description></media:content>
+  </item>
+  <item>
+    <title>El model d&#x27;imatges que va dibuixar un eneàgon d&#x27;onze costats ha estat substituït a Gemini</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/nano-banana-pro-poligonos-precio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/nano-banana-pro-poligonos-precio.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, el nou model d&#x27;imatges de Google encertava alguns polígons i en fallava d&#x27;altres. Al febrer de 2026 Nano Banana 2 el va substituir a Gemini, i per als desenvolupadors n&#x27;hi ha un altre que costa la quarta part per imatge d&#x27;1K.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptic amb una línia vertical al centre. A l&#x27;esquerra, «Nov. 2025»: quatre bitllets de tinta i a sota «0,134 $». A la dreta, «Avui»: un sol bitllet blau, la quarta part, i a sota «0,0336 $».</media:description></media:content>
+  </item>
+  <item>
+    <title>Google DeepMind ofereix, en anglès, una guia interactiva que explica amb el seu model Gemma 4 com un model…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-21/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/breve-1.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Google DeepMind ofereix, en anglès, una guia interactiva que explica amb el seu model Gemma 4 com un model de llenguatge, el tipus de programa que hi ha darrere de ChatGPT, genera a partir d&#x27;un text el fragment que ve a continuació. Recorre cinc etapes, des de dividir el text fins al format de xat.</description>
+  </item>
+  <item>
     <title>El Consell de la UE aprova unes conclusions sobre les competències de la ciutadania en IA</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-20/consejo-ue-competencias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-20/consejo-ue-competencias-ia.html</guid>
@@ -403,50 +447,6 @@
     <category>Institucions i empreses</category>
     <description>L&#x27;actualització, publicada el 8 d&#x27;octubre de 2026, entra en vigor el 12 de novembre i només s&#x27;aplicarà en casos extrems.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Una barra horitzontal dividida per una ratlla vermella. A l&#x27;esquerra, amb el rètol «Permès», tres globus de conversa: dos amb els rètols «Frustració» i «Desacord». A la dreta de la ratlla, un globus blau amb el rètol «Crueltat repetida» i, a sota, un calendari amb el rètol «Des del 12 nov.».</media:description></media:content>
-  </item>
-  <item>
-    <title>Les presentacions de NotebookLM, que no es podien retocar, ara es revisen diapositiva a diapositiva</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/notebooklm-presentaciones-editables.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/notebooklm-presentaciones-editables.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>Fa un any, qui volia una presentació editable havia de sortir de NotebookLM. Avui l&#x27;eina, que ja ni es diu així, fa diapositives, les corregeix per encàrrec i les exporta a PowerPoint.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: una diapositiva amb un triangle de reproducció i un cadenat, retolada «Vídeo tancat». A la dreta, «Avui»: la mateixa diapositiva, en blau, amb línies de text i un llapis, retolada «S&#x27;edita».</media:description></media:content>
-  </item>
-  <item>
-    <title>Gemini permet exportar amb un clic les seves aplicacions interactives a un lloc de Google Sites</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-05/gemini-google-sites.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-05/gemini-google-sites.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Eines</category>
-    <description>Google ha habilitat que una aplicació interactiva creada a l&#x27;app de Gemini es publiqui com a lloc de Google Sites. Al grup es va discutir la seva utilitat real per al professorat.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Esquema: un globus de conversa amb el rètol «Gemini» porta una fletxa rotulada «Un clic» fins a una pàgina web amb un cadenat i el rètol «Esborrany privat»; una segona fletxa de traços, ratllada en vermell, apunta a un requadre de traços amb el rètol «Lloc existent».</media:description></media:content>
-  </item>
-  <item>
-    <title>La pàgina de l&#x27;XTEC sobre IA enllaça com a document d&#x27;orientacions el de 2024, amb la nota «Actualització…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-05/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-05/breve-1.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>La pàgina de l&#x27;XTEC sobre IA enllaça com a document d&#x27;orientacions el de 2024, amb la nota «Actualització prevista: des.26», i no recull les 45 orientacions de Catalunya que el diari va explicar.</description>
-  </item>
-  <item>
-    <title>Docents debaten l&#x27;anunci de Google que desactiva per defecte la IA i el cercador en comptes escolars</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/google-ia-cuentas-escolares.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>Google ha anunciat que Gemini i el cercador de Google estaran desactivats als comptes de l&#x27;alumnat de primària i secundària fins que els administradors els activin. Als grups, la notícia va obrir una discussió sobre qui decideix l&#x27;ús de la IA en un centre.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>A l&#x27;esquerra, un interruptor general de tot o res ratllat amb una creu vermella; a la dreta, quatre interruptors individuals (Gemini, Notebook, Classroom i Cerca), dos encesos en blau i dos apagats.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un comitè del MIT demana redissenyar objectius, avaluació i comunitat presencial davant d&#x27;una IA que ja resol gairebé qualsevol treball escrit</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/mit-comite-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/mit-comite-ia.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>El comitè ad hoc de l&#x27;Institut Tecnològic de Massachusetts proposa vuit principis i un conjunt de recomanacions per adaptar l&#x27;ensenyament universitari a la IA generativa.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema amb una barra superior de vuit principis de la qual surten tres fletxes cap a tres columnes: processos educatius (examen oral, portafolis), comunitat (grup de persones) i estructures de suport (organigrama i eines).</media:description></media:content>
   </item>
 </channel>
 </rss>

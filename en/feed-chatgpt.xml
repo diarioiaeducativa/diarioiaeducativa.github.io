@@ -9,6 +9,50 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>AI helps learning more when it is used to understand than when it does the task</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/ia-aprender-entender-o-entregar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>The Sunday feature</category>
+    <description>A review by Stanford University now brings together 52 studies measuring the effect of AI on learning: using it to understand new material fares better than using it to produce the work, although no use improves results consistently. This report explains how to read those studies, why a tutor that asks questions is not enough on its own and what a teacher can do so that AI does not do the students’ work.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infographic: a student facing an AI assistant with two paths. At the top, “Hand in”: the AI does the work and, without the tool, the result falls: “Without the tool: −17%”. Below, “Understand”: the assistant asks questions and the student corrects their own errors: “64% self-corrected”. Underneath, four recommendations: “Try it first”, “Tutor asks”, “Split the tasks” and “Check without AI”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini Notebook now has an official API, though limited and in preview</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/gemini-notebook-api-oficial.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/gemini-notebook-api-oficial.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>It lets other programs create notebooks and add sources to them, but only with personal accounts. An unofficial code library does more, although it may stop working without warning.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-gemini-notebook-api-oficial.svg" medium="image" type="image/svg+xml"><media:description>A diagram of two paths to the same notebook: the upper one, labelled “Official API”, passes through a padlock and carries the label “Personal only”; the lower one, labelled “Unofficial”, is a dashed red line with the label “May break”. On the right, the notebook, labelled “Notebook”.</media:description></media:content>
+  </item>
+  <item>
+    <title>An Argentine handbook brings the environmental, labour and social costs of AI into the classroom</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/manual-ia-aula-abya-yala.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/manual-ia-aula-abya-yala.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Library</category>
+    <description>Two researchers propose that secondary school teachers ask what for, from where and with what consequences artificial intelligence is used, before deciding how. The 2026 handbook takes a Latin American and feminist perspective.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-manual-ia-aula-abya-yala.svg" medium="image" type="image/svg+xml"><media:description>Layered diagram: a screen labelled “AI assistant” rests on three stacked layers, “Decisions”, “Data centres” and “Labelling”, while a magnifying glass descends through them beside a red arrow and the question “With what consequences?”.</media:description></media:content>
+  </item>
+  <item>
+    <title>The image model that drew a nine-sided shape with eleven sides has been replaced in Gemini</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/nano-banana-pro-poligonos-precio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/nano-banana-pro-poligonos-precio.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, Google’s new image model got some polygons right and others wrong. In February 2026 Nano Banana 2 replaced it in Gemini, and for developers there is another that costs a quarter as much per 1K image.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: four ink-coloured banknotes and below them “$0.134”. On the right, “Today”: a single blue banknote, a quarter as many, and below it “$0.0336”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Google DeepMind offers, in English, an interactive guide that uses its Gemma 4 model to explain how a…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/breve-1.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Google DeepMind offers, in English, an interactive guide that uses its Gemma 4 model to explain how a language model, the kind of program behind ChatGPT, generates from a text the fragment that comes next. It goes through five stages, from splitting the text to the chat format.</description>
+  </item>
+  <item>
     <title>The Council of the EU approves conclusions on citizens’ AI skills</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-20/consejo-ue-competencias-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-20/consejo-ue-competencias-ia.html</guid>
@@ -403,50 +447,6 @@
     <category>Institutions &amp; Industry</category>
     <description>The update, published on 8 October 2026, takes effect on 12 November and will be enforced only in extreme cases.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>A horizontal bar divided by a red line. On the left, labelled “Allowed”, three speech bubbles: two labelled “Frustration” and “Disagreement”. To the right of the line, a blue speech bubble labelled “Repeated cruelty” and, below it, a calendar labelled “From 12 Nov”.</media:description></media:content>
-  </item>
-  <item>
-    <title>NotebookLM presentations, once impossible to tweak, can now be revised slide by slide</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/notebooklm-presentaciones-editables.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>A year ago</category>
-    <description>A year ago, anyone wanting an editable presentation had to leave NotebookLM. Today the tool, which no longer even goes by that name, makes slides, amends them on request and exports them to PowerPoint.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-notebooklm-presentaciones-editables.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a slide with a play triangle and a padlock, labelled “Video locked”. On the right, “Today”: the same slide, in blue, with lines of text and a pencil, labelled “Editable”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Gemini lets users export their interactive apps to a Google Sites site with one click</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/gemini-google-sites.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Tools</category>
-    <description>Google has made it possible to publish an interactive app created in the Gemini app as a Google Sites site. The group discussed how useful it really is for teachers.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-05-gemini-google-sites.svg" medium="image" type="image/svg+xml"><media:description>Diagram: a speech bubble labelled “Gemini” leads, via an arrow labelled “One click”, to a web page with a padlock labelled “Private draft”; a second dashed arrow, crossed out in red, points to a dashed box labelled “Existing site”.</media:description></media:content>
-  </item>
-  <item>
-    <title>The XTEC page on AI links to the 2024 document as its guidance, with the note “Actualització prevista:…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-05/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-05/breve-1.html</guid>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>The XTEC page on AI links to the 2024 document as its guidance, with the note “Actualització prevista: des.26” (update expected: December 2026), and does not include the 45 guidelines from Catalonia that the paper reported.</description>
-  </item>
-  <item>
-    <title>Teachers debate Google’s announcement that switches off AI and search by default in school accounts</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/google-ia-cuentas-escolares.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/google-ia-cuentas-escolares.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>Google has announced that Gemini and Google Search will be switched off in primary and secondary school student accounts until administrators turn them on. In the groups, the news sparked a discussion about who decides how AI is used in a school.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-google-ia-cuentas-escolares.svg" medium="image" type="image/svg+xml"><media:description>On the left, an all-or-nothing master switch crossed out with a red X; on the right, four individual switches (Gemini, Notebook, Classroom and Search), two switched on in blue and two off.</media:description></media:content>
-  </item>
-  <item>
-    <title>An MIT committee calls for rethinking aims, assessment and the in-person community in the face of an AI that can already do almost any written work</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/mit-comite-ia.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>The ad hoc committee of the Massachusetts Institute of Technology proposes eight principles and a set of recommendations for adapting university teaching to generative AI.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-mit-comite-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram with a top bar of eight principles from which three arrows lead to three columns: educational processes (oral exam, portfolio), community (a group of people) and support structures (organisation chart and tools).</media:description></media:content>
   </item>
 </channel>
 </rss>

@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe coding</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Android lets you share your own app with up to 50 devices without Google Play</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/android-distribucion-limitada-50.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/android-distribucion-limitada-50.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The limited distribution account is free and is intended for people who build apps for a class or a small group.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-android-distribucion-limitada-50.svg" medium="image" type="image/svg+xml"><media:description>A QR code, labelled “QR code”, with an arrow towards a grid of phones followed by an ellipsis and the label “Up to 50 devices”; below, a red cross and the label “No Google Play”.</media:description></media:content>
+  </item>
+  <item>
+    <title>A simulator lets you build Rube Goldberg machines and analyse their levers</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/maquina-rube-goldberg-simple.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/maquina-rube-goldberg-simple.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Students place pieces on a board, set the chain going and check the fulcrum, load and force of each simple machine. It is in Catalan.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-maquina-rube-goldberg-simple.svg" medium="image" type="image/svg+xml"><media:description>A lever on a triangular fulcrum, labelled “Fulcrum”; on the left, a red downward arrow labelled “Force”, and on the right, a block on the lever labelled “Load”.</media:description></media:content>
+  </item>
+  <item>
     <title>A Catalan-language train puzzle for planning shunting moves is new in the repository</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-20/semana-del-repositorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-20/semana-del-repositorio.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>A free web app created by Luis Vilela Acuña gathers dictations in Galician and Spanish for the final year of primary school, with openly licensed synthetic voices.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Diagram of a dictation: a text on the classroom screen is turned into a synthetic voice, shown as a sound wave labelled “Galician” and “Spanish”, and into a printable rules sheet; below, three open-licence badges for texts, software and voice models.</media:description></media:content>
-  </item>
-  <item>
-    <title>Plec generates foldable Catalan dictations, with audio, so that students can mark their own work</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-28/plec-dictados.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/plec-dictados.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>An open app creates lists of words or pseudowords to dictate in class, printed on a folded sheet so that students can check their own answers.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-28-plec-dictados.svg" medium="image" type="image/svg+xml"><media:description>Diagram of three moments: “Dictated”, with a loudspeaker; “Written”, with a folded sheet on which students note their answers with the solution hidden; and “Marked”, with the sheet unfolded, the answers beside the solution and tick and cross marks.</media:description></media:content>
-  </item>
-  <item>
-    <title>A prompt for creating interactive 3D lessons inspired by “Every Joule”</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-10-28/everyjoule-prompt.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-10-28/everyjoule-prompt.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>A member of the groups shared a long prompt for an AI to generate an interactive 3D lesson in the style of a physics book about energy.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Diagram of three steps: “Prompt”, a sheet with a dashed gap for the topic; “3D book”, an open book with a lifted flap revealing the answer; and “Stamp”, with a tick mark on completing the lesson.</media:description></media:content>
   </item>
 </channel>
 </rss>

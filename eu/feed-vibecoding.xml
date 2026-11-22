@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe coding</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Androidek 50 gailuri arte partekatzen uzten du norberaren aplikazioa, Google Play gabe</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-21/android-distribucion-limitada-50.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-21/android-distribucion-limitada-50.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Banaketa mugatuko kontua doakoa da, eta ikasgelarako edo talde txiki baterako aplikazioak sortzen dituzten pertsonentzat pentsatuta dago.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-21-android-distribucion-limitada-50.svg" medium="image" type="image/svg+xml"><media:description>QR kode bat, «QR kodea» errotuluarekin, geziz mugikor-koadrikula baterantz doana, eta ondoren etenpuntuak eta «Gehienez 50 gailu» errotulua; behean, gurutze gorri bat eta «Google Play gabe» errotulua.</media:description></media:content>
+  </item>
+  <item>
+    <title>Simulagailu batean Rube Goldbergen makinak eraiki eta palankak azter daitezke</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-21/maquina-rube-goldberg-simple.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-21/maquina-rube-goldberg-simple.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Ikasleek piezak taula batean jartzen dituzte, katea martxan jartzen dute eta makina bakoitzaren euskarri-puntua, karga eta indarra berrikusten dituzte. Katalanez dago.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-21-maquina-rube-goldberg-simple.svg" medium="image" type="image/svg+xml"><media:description>Palanka bat euskarri-puntu hirukoitz baten gainean, «Euskarria» errotuluarekin; ezkerrean, beherantz doan gezi gorri bat «Indarra» errotuluarekin, eta eskuinean, palankaren gaineko bloke bat «Karga» errotuluarekin.</media:description></media:content>
+  </item>
+  <item>
     <title>Maniobrak planifikatzeko katalanezko tren-puzzle bat, berria biltegian</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-20/semana-del-repositorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-20/semana-del-repositorio.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>Luis Vilela Acuñak sortutako web aplikazio doakoak galizierazko eta gaztelaniazko diktaketak biltzen ditu lehen hezkuntzako seigarren mailarako, lizentzia irekiko ahots sintetikoekin.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Dikteta baten eskema: ikasgelako pantailako testu bat ahots sintetiko batera igarotzen da, soinu-uhin batez irudikatua, «Galiziera» eta «Gaztelania» etiketekin, eta inprimatzeko moduko arau-orri batera; azpian, lizentzia irekiko hiru zigilu testuentzat, programarentzat eta ahots-ereduentzat.</media:description></media:content>
-  </item>
-  <item>
-    <title>Plecek katalanezko dikatu tolesgarriak sortzen ditu, audioarekin, ikasleek beren burua zuzen dezaten</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/plec-dictados.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/plec-dictados.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Aplikazio ireki batek ikasgelan dikta daitezkeen hitz- edo pseudohitz-zerrendak sortzen ditu, orri tolestu batean inprimatzeko, ikasleek beren erantzunak zuzen ditzaten.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-28-plec-dictados.svg" medium="image" type="image/svg+xml"><media:description>Hiru uneko eskema: «Dikatzen da», bozgorailu batekin; «Idazten da», orri tolestu batekin, non ikasleek erantzunak idazten dituzten soluzioa ezkutuan dagoela, eta «Zuzentzen da», orria zabalduta, erantzunak soluzioaren ondoan eta asmatze- eta akats-markekin.</media:description></media:content>
-  </item>
-  <item>
-    <title>«Every Joule»-n inspiratutako 3D ikasgai interaktiboak sortzeko prompt bat</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-10-28/everyjoule-prompt.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-28/everyjoule-prompt.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Taldeetako kide batek prompt luze bat partekatu du, AA batek energiari buruzko fisika-liburu baten estiloko 3D ikasgai interaktiboa sor dezan.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Hiru urratsen eskema: «Prompt», gaiarentzako hutsune etena duen orri bat; «3D liburua», hegal altxatu bat duen liburu irekia, erantzuna ikusten uzten duena, eta «Zigilua», ikasgaia osatzean egiaztatze-marka batekin.</media:description></media:content>
   </item>
 </channel>
 </rss>

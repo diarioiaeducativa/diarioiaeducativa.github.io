@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Android permite compartir una aplicación propia con hasta 50 dispositivos sin Google Play</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La cuenta de distribución limitada es gratuita y está pensada para las personas que crean aplicaciones para clase o para un grupo pequeño.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-android-distribucion-limitada-50.svg" medium="image" type="image/svg+xml"><media:description>Un código QR, rotulado «Código QR», con una flecha hacia una cuadrícula de móviles seguida de puntos suspensivos y el rótulo «Hasta 50 dispositivos»; abajo, una cruz roja y el rótulo «Sin Google Play».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un simulador permite construir máquinas de Rube Goldberg y analizar sus palancas</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/maquina-rube-goldberg-simple.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/maquina-rube-goldberg-simple.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El alumnado coloca piezas sobre un tablero, pone en marcha la cadena y revisa el punto de apoyo, la carga y la fuerza de cada máquina simple. Está en catalán.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-maquina-rube-goldberg-simple.svg" medium="image" type="image/svg+xml"><media:description>Una palanca sobre un punto de apoyo triangular, rotulado «Apoyo»; a la izquierda, una flecha roja hacia abajo con el rótulo «Fuerza», y a la derecha, un bloque sobre la palanca con el rótulo «Carga».</media:description></media:content>
+  </item>
+  <item>
     <title>Un puzle de trenes en catalán para planificar maniobras, nuevo en el repositorio</title>
     <link>https://diarioiaeducativa.github.io/2026-11-20/semana-del-repositorio.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-20/semana-del-repositorio.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>Una aplicación web gratuita, creada por Luis Vilela Acuña, reúne dictados en gallego y castellano para sexto de primaria, con voces sintéticas de licencia abierta.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Esquema de un dictado: un texto en la pantalla del aula pasa a una voz sintética, representada por una onda de sonido con las etiquetas «Gallego» y «Castellano», y a una hoja de reglas imprimible; debajo, tres sellos de licencia abierta para textos, programa y modelos de voz.</media:description></media:content>
-  </item>
-  <item>
-    <title>Plec genera dictados plegables en catalán, con audio, para que el alumnado se autocorrija</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-28/plec-dictados.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-28/plec-dictados.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Una aplicación abierta crea listas de palabras o pseudopalabras para dictar en clase, que se imprimen en un folio plegado para que el alumnado corrija sus propias respuestas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-28-plec-dictados.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres momentos: «Se dicta», con un altavoz; «Se escribe», con un folio plegado donde el alumnado anota sus respuestas con la solución oculta, y «Se corrige», con el folio desplegado, las respuestas junto a la solución y marcas de acierto y de error.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un prompt para crear lecciones 3D interactivas inspiradas en «Every Joule»</title>
-    <link>https://diarioiaeducativa.github.io/2026-10-28/everyjoule-prompt.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-28/everyjoule-prompt.html</guid>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un miembro de los grupos compartió un prompt extenso para que una IA genere una lección interactiva en 3D con el estilo de un libro de física sobre energía.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-28-everyjoule-prompt.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres pasos: «Prompt», una hoja con un hueco discontinuo para el tema; «Libro 3D», un libro abierto con una solapa levantada que deja ver la respuesta, y «Sello», con una marca de comprobación al completar la lección.</media:description></media:content>
   </item>
 </channel>
 </rss>

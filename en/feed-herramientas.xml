@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Tools</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Gemini Notebook now has an official API, though limited and in preview</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-21/gemini-notebook-api-oficial.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/gemini-notebook-api-oficial.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>It lets other programs create notebooks and add sources to them, but only with personal accounts. An unofficial code library does more, although it may stop working without warning.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-21-gemini-notebook-api-oficial.svg" medium="image" type="image/svg+xml"><media:description>A diagram of two paths to the same notebook: the upper one, labelled “Official API”, passes through a padlock and carries the label “Personal only”; the lower one, labelled “Unofficial”, is a dashed red line with the label “May break”. On the right, the notebook, labelled “Notebook”.</media:description></media:content>
+  </item>
+  <item>
     <title>Stanford gathers 52 causal studies on AI in schools and sees uneven results</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-18/stanford-evidencia-ia-escuela.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-18/stanford-evidencia-ia-escuela.html</guid>

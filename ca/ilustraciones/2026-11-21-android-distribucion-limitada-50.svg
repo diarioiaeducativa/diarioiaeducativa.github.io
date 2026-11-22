@@ -1,0 +1,18 @@
+<svg class="ilu-d" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><style>svg.ilu-d{background:var(--sec-tinte,#e2f1e8)}.ilu-d .t{stroke: var(--ilu-tinta,#16181d); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .a{stroke: var(--ilu-azul,#1d7547); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .r{stroke: var(--ilu-rojo,#c8202c); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .fa{fill: var(--ilu-relleno,#bfe0cc); stroke: none;}.ilu-d .ft{fill: var(--ilu-tinta,#16181d); stroke: none;}.ilu-d .fz{fill: var(--ilu-azul,#1d7547); stroke: none;}.ilu-d .lbl{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px;}.ilu-d .num{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 34px; font-weight: 600;}.ilu-d .num-tres{font-size: 38px; font-weight: 700;}.ilu-d .nom-chatgpt{fill: var(--c-herramientas,#1c3faa);}.ilu-d .nom-vce{fill: var(--c-comunidad,#1d7547);}.ilu-d .nom-edumedia{fill: var(--c-multimedia,#a8206f);}.ilu-d .total{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 60px; font-weight: 700;}.ilu-d g.li2{stroke-width: 1.25;}.ilu-d g.li3{stroke-width: 0.8333;}.ilu-d g.li4{stroke-width: 0.625;}</style>
+<g class="a li4" transform="translate(50 70) scale(4)"><!-- Lucide: qr-code (ISC) --><rect width="5" height="5" x="3" y="3" rx="1"/><rect width="5" height="5" x="16" y="3" rx="1"/><rect width="5" height="5" x="3" y="16" rx="1"/><path d="M21 16h-3a2 2 0 0 0-2 2v3"/><path d="M21 21v.01"/><path d="M12 7v3a2 2 0 0 1-2 2H7"/><path d="M3 12h.01"/><path d="M12 3h.01"/><path d="M12 16v.01"/><path d="M16 12h1"/><path d="M21 12v.01"/><path d="M12 21v-1"/></g>
+<text class="lbl" x="98" y="204" text-anchor="middle">Codi QR</text>
+<line class="t" x1="170" y1="118" x2="250" y2="118"/>
+<path class="t" d="M238 108 L252 118 L238 128"/>
+<g class="t li3" transform="translate(280 40) scale(3)"><!-- Lucide: smartphone (ISC) --><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g>
+<g class="t li3" transform="translate(360 40) scale(3)"><!-- Lucide: smartphone (ISC) --><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g>
+<g class="a li3" transform="translate(440 40) scale(3)"><!-- Lucide: smartphone (ISC) --><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g>
+<g class="t li3" transform="translate(280 130) scale(3)"><!-- Lucide: smartphone (ISC) --><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g>
+<g class="t li3" transform="translate(360 130) scale(3)"><!-- Lucide: smartphone (ISC) --><rect width="14" height="20" x="5" y="2" rx="2" ry="2"/><path d="M12 18h.01"/></g>
+<circle class="ft" cx="460" cy="190" r="4"/>
+<circle class="ft" cx="480" cy="190" r="4"/>
+<circle class="ft" cx="500" cy="190" r="4"/>
+<text class="lbl" x="400" y="250" text-anchor="middle">Fins a 50 dispositius</text>
+<line class="r" x1="50" y1="276" x2="84" y2="310"/>
+<line class="r" x1="84" y1="276" x2="50" y2="310"/>
+<text class="lbl" x="100" y="302">Sense Google Play</text>
+</svg>

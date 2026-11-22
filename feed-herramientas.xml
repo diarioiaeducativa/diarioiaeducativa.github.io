@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Herramientas</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Gemini Notebook ya tiene API oficial, aunque limitada y en versión preliminar</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>Permite crear cuadernos y añadirles fuentes desde otros programas, pero solo con cuentas personales. Una librería de código no oficial hace más, aunque puede dejar de funcionar sin aviso.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-gemini-notebook-api-oficial.svg" medium="image" type="image/svg+xml"><media:description>Esquema de dos caminos hacia un mismo cuaderno: el de arriba, rotulado «API oficial», pasa por un candado y lleva el rótulo «Solo personales»; el de abajo, rotulado «No oficial», va en trazo discontinuo rojo con el rótulo «Puede romperse». A la derecha, el cuaderno, rotulado «Cuaderno».</media:description></media:content>
+  </item>
+  <item>
     <title>Stanford reúne 52 estudios causales sobre IA en la escuela y ve resultados desiguales</title>
     <link>https://diarioiaeducativa.github.io/2026-11-18/stanford-evidencia-ia-escuela.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-18/stanford-evidencia-ia-escuela.html</guid>
