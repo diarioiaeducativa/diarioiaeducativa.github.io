@@ -9,33 +9,6 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
-    <title>Aplikazio batek ahoz emandako erantzunak familientzako ebaluazio-txosten bihurtzen ditu</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-22/informes-a-viva-voz.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-22/informes-a-viva-voz.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Ernesto Boixaderren «Informes a viva voz» aplikazioak irakasleari ikasle bakoitzari buruzko hiru edo zazpi galderari erantzuteko eskatzen dio, eta erantzun horiekin AAk txostena idazten du.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-22-informes-a-viva-voz.svg" medium="image" type="image/svg+xml"><media:description>«Ahotsa» errotulua duen mikrofono bat, «3 edo 7 galdera» errotuluarekin, «AAk idazten du» errotulua duen robot batera doan gezi bat eta «Txostena» errotulua duen dokumentu batera doan beste bat; behean, pertsona bat, «Irakasleak berrikusten du» errotuluarekin.</media:description></media:content>
-  </item>
-  <item>
-    <title>ABC notazioa partitura bihurtzen duen eta nabigatzailean erreproduzitzen duen editore bat</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-22/editor-musical-interactivo-con-audio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-22/editor-musical-interactivo-con-audio.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>María Teresa Gonzálezek editore musikal xume bat sortu du: melodia testu gisa idazten da, partitura agertzen da eta entzun egin daiteke, ezer instalatu gabe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-22-editor-musical-interactivo-con-audio.jpg" medium="image" type="image/png"><media:description>Editorea: ezkerrean ABC notazioko testu-koadro bat eta, eskuinean, audio-kontrolak eta Do maiorreko eskala baten partitura.</media:description></media:content>
-  </item>
-  <item>
-    <title>Googlek Opal eskaintzen zuen aplikazioak programatu gabe sortzeko; urtebete geroago, itxi egin du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-22/opal-google-cierre-skills-gemini.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-22/opal-google-cierre-skills-gemini.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Duela urtebete</category>
-    <description>2025eko azaroan, Googlek doan eskaintzen zuen Opal, programatzen jakin gabe AArekin aplikazioak sortzeko tresna. 2026ko azaroaren 17an itxi zuen, eta harekin egindakoa ez da bere kabuz Geminira pasatzen.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-22-opal-google-cierre-skills-gemini.svg" medium="image" type="image/svg+xml"><media:description>Diptikoa lerro bertikal batez erdibituta. Ezkerrean, «2025 aza.» errotuluarekin, aplikazio-leiho bat, «Opal» errotuluarekin. Eskuinean, «Gaur» errotuluarekin, leiho bera, gurutze gorri batekin tatxatuta eta «Itxita» errotuluarekin, eta gezi urdin bat «Skills» errotuludun barra zeiharreko ikono batera.</media:description></media:content>
-  </item>
-  <item>
     <title>Androidek 50 gailuri arte partekatzen uzten du norberaren aplikazioa, Google Play gabe</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-21/android-distribucion-limitada-50.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-21/android-distribucion-limitada-50.html</guid>
@@ -448,6 +421,32 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Laburrak</category>
     <description>Luis Vilela Acuñak Liga de Valores aplikazioaren kode irekia argitaratu zuen: Gorputz Hezkuntzako eskola-ligetarako aplikazioa da, eta joko garbiak, arbitrajeak eta harmailak ere puntuatzen dute; instalatzaile bat du, zentroko sarean kanpoko zerbitzaririk gabe erabiltzeko. Revista Española de Educación Física y Deportes aldizkariko artikulu batean aurkezten du.</description>
+  </item>
+  <item>
+    <title>Antigravityk, Googleren agenteekin programatzeko inguruneak, 2.29 bertsiotik aurrera (azaroaren 3a)…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/breve-2.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Antigravityk, Googleren agenteekin programatzeko inguruneak, 2.29 bertsiotik aurrera (azaroaren 3a) hodeiko proiektuak exekutatzen ditu, nabigatzailetik kudeatzen direnak, ordenagailuan bertan exekutatu beharrean; aldaketa-erregistroaren arabera, Google AI Pro eta Ultra harpidedunentzat zabaltzen ari da.</description>
+  </item>
+  <item>
+    <title>MechSimulator-ek nabigatzailean erabiltzen diren ingeniaritza mekanikoko simulatzaile doakoak biltzen ditu</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/mechsimulator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/mechsimulator.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Taldeko kide batek 2Dko eta 3Dko simulazioen web hau nabarmendu zuen, pertsona bakar batek lor dezakeenaren adibide gisa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-05-mechsimulator.svg" medium="image" type="image/svg+xml"><media:description>Nabigatzaile-leiho bat engranaje, erregela eta giltza batekin, eta flexio-kurba bat azpian, «Nabigatzailean» errotuluarekin; gezi batek puntuz osatutako koadrikula batera darama, puntu bat urdinez nabarmenduta, «150 baino gehiago» errotuluarekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Fil i compte tresnarekin, matematika-problemen fitxa inprimagarriak prestatu daitezke katalanez eta gaztelaniaz, soluzioekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-05/fil-i-compte.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-05/fil-i-compte.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>252 problemako banku batek aukera ematen die Lehen Hezkuntzako eta DBHko lehen mailetako irakasleei enuntziatuak aukeratzeko, ordenatzeko eta fitxa inprimatzeko edo PDF gisa gordetzeko.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-05-fil-i-compte.jpg" medium="image" type="image/png"><media:description>Problema-bankuaren pantaila: ezkerrean maila, zailtasun eta edukien iragazkiak, eta eskuinean katalanezko problema-txartelak.</media:description></media:content>
   </item>
 </channel>
 </rss>

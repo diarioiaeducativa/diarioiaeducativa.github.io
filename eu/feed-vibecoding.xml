@@ -9,24 +9,6 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe coding</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
-    <title>Aplikazio batek ahoz emandako erantzunak familientzako ebaluazio-txosten bihurtzen ditu</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-22/informes-a-viva-voz.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-22/informes-a-viva-voz.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Ernesto Boixaderren «Informes a viva voz» aplikazioak irakasleari ikasle bakoitzari buruzko hiru edo zazpi galderari erantzuteko eskatzen dio, eta erantzun horiekin AAk txostena idazten du.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-22-informes-a-viva-voz.svg" medium="image" type="image/svg+xml"><media:description>«Ahotsa» errotulua duen mikrofono bat, «3 edo 7 galdera» errotuluarekin, «AAk idazten du» errotulua duen robot batera doan gezi bat eta «Txostena» errotulua duen dokumentu batera doan beste bat; behean, pertsona bat, «Irakasleak berrikusten du» errotuluarekin.</media:description></media:content>
-  </item>
-  <item>
-    <title>ABC notazioa partitura bihurtzen duen eta nabigatzailean erreproduzitzen duen editore bat</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-22/editor-musical-interactivo-con-audio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-22/editor-musical-interactivo-con-audio.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>María Teresa Gonzálezek editore musikal xume bat sortu du: melodia testu gisa idazten da, partitura agertzen da eta entzun egin daiteke, ezer instalatu gabe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-22-editor-musical-interactivo-con-audio.jpg" medium="image" type="image/png"><media:description>Editorea: ezkerrean ABC notazioko testu-koadro bat eta, eskuinean, audio-kontrolak eta Do maiorreko eskala baten partitura.</media:description></media:content>
-  </item>
-  <item>
     <title>Androidek 50 gailuri arte partekatzen uzten du norberaren aplikazioa, Google Play gabe</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-21/android-distribucion-limitada-50.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-21/android-distribucion-limitada-50.html</guid>
@@ -456,6 +438,24 @@
     <category>Vibe coding</category>
     <description>Toni Magranerrek partekatutako praktikak ikurrak, azentuak eta lasterbideak lantzen ditu, proba-modu batekin eta entrenamendu-modu batekin.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>Goian, teklatu baten bi lerro, 2ko tekla eta AltGr tekla urdinez nabarmenduta; azpian, AltGr gehi 2 konbinazioa, berdin-ikur gorri batekin, @ ikurra emaitza gisa.</media:description></media:content>
+  </item>
+  <item>
+    <title>Irakasleek konparatzen dute nola eduki skill eta proiektu berberak hainbat ordenagailutan</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-30/skills-sincronizar.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>AA laguntzaileekin hainbat ekipotan programatzen dutenek hiru ikuspegi deskribatzen dituzte: Git biltegia, etengabeko sinkronizazioa eta hodeiko karpeta partekatua.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Bi ordenagailu, bakoitza skill-karpeta batekin, hiru bidez lotuak: goian, «Git», biltegi bat irudikatzen duen puntu-kate bat; erdian, «Syncthing», etengabeko sinkronizazioaren joan-etorriko bi gezi, eta behean, «Hodeia», karpeta partekatu bat.</media:description></media:content>
+  </item>
+  <item>
+    <title>EDUmind-ek diktaketak eskaintzen ditu galizieraz eta gaztelaniaz, kode irekiko ahots sintetikoekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-29/dictados-voz-gallego.html</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Vilela Acuñak sortutako web aplikazio doakoak galizierazko eta gaztelaniazko diktaketak biltzen ditu lehen hezkuntzako seigarren mailarako, lizentzia irekiko ahots sintetikoekin.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Dikteta baten eskema: ikasgelako pantailako testu bat ahots sintetiko batera igarotzen da, soinu-uhin batez irudikatua, «Galiziera» eta «Gaztelania» etiketekin, eta inprimatzeko moduko arau-orri batera; azpian, lizentzia irekiko hiru zigilu testuentzat, programarentzat eta ahots-ereduentzat.</media:description></media:content>
   </item>
 </channel>
 </rss>

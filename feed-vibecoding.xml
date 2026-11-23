@@ -9,24 +9,6 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
-    <title>Una aplicación convierte respuestas habladas en informes de evaluación para las familias</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-22/informes-a-viva-voz.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-22/informes-a-viva-voz.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Informes a viva voz», de Ernesto Boixader, pide al docente que responda a tres o a siete preguntas sobre cada estudiante, y con esas respuestas la IA redacta el informe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-22-informes-a-viva-voz.svg" medium="image" type="image/svg+xml"><media:description>Un micrófono rotulado «Voz», con el rótulo «3 o 7 preguntas», una flecha hacia un robot rotulado «IA redacta» y otra hacia un documento rotulado «Informe»; debajo, una persona con el rótulo «Docente revisa».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un editor que convierte la notación ABC en partitura y la reproduce en el navegador</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-22/editor-musical-interactivo-con-audio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-22/editor-musical-interactivo-con-audio.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>María Teresa González creó un editor musical sencillo: se escribe la melodía como texto, aparece la partitura y se puede escuchar, sin instalar nada.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-22-editor-musical-interactivo-con-audio.jpg" medium="image" type="image/png"><media:description>Editor con un cuadro de texto en notación ABC a la izquierda y, a la derecha, los controles de audio y la partitura de una escala de Do mayor.</media:description></media:content>
-  </item>
-  <item>
     <title>Android permite compartir una aplicación propia con hasta 50 dispositivos sin Google Play</title>
     <link>https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</guid>
@@ -456,6 +438,24 @@
     <category>Vibe coding</category>
     <description>La práctica, compartida por Toni Magraner, entrena símbolos, acentos y atajos con un modo de prueba y otro de entrenamiento.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>Arriba, dos filas de un teclado con la tecla del 2 y la tecla AltGr resaltadas en azul; debajo, la combinación AltGr más 2, con un signo igual en rojo, que da como resultado el símbolo @.</media:description></media:content>
+  </item>
+  <item>
+    <title>Docentes comparan cómo mantener las mismas skills y proyectos en varios ordenadores</title>
+    <link>https://diarioiaeducativa.github.io/2026-10-30/skills-sincronizar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-30/skills-sincronizar.html</guid>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Quien programa con asistentes de IA en varios equipos describe tres enfoques: repositorio Git, sincronización continua y una carpeta compartida en la nube.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-30-skills-sincronizar.svg" medium="image" type="image/svg+xml"><media:description>Dos ordenadores, cada uno con una carpeta de skills, unidos por tres caminos: arriba, «Git», una cadena de puntos que representa un repositorio; en medio, «Syncthing», dos flechas de ida y vuelta de la sincronización continua, y abajo, «Nube», una carpeta compartida.</media:description></media:content>
+  </item>
+  <item>
+    <title>EDUmind ofrece dictados en gallego y castellano con voces sintéticas de código abierto</title>
+    <link>https://diarioiaeducativa.github.io/2026-10-29/dictados-voz-gallego.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-10-29/dictados-voz-gallego.html</guid>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Una aplicación web gratuita, creada por Luis Vilela Acuña, reúne dictados en gallego y castellano para sexto de primaria, con voces sintéticas de licencia abierta.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-10-29-dictados-voz-gallego.svg" medium="image" type="image/svg+xml"><media:description>Esquema de un dictado: un texto en la pantalla del aula pasa a una voz sintética, representada por una onda de sonido con las etiquetas «Gallego» y «Castellano», y a una hoja de reglas imprimible; debajo, tres sellos de licencia abierta para textos, programa y modelos de voz.</media:description></media:content>
   </item>
 </channel>
 </rss>

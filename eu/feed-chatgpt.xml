@@ -9,15 +9,6 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
-    <title>Imajinatutako kasu batek galdetzen du nork sinatzen duen AArekin ilustratutako ipuin sarituaren egiletza</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-22/autoria-cuento-ilustrado-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-22/autoria-cuento-ilustrado-ia.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Eztabaidak</category>
-    <description>«Familias con inteligencia» seriearen kapitulu batek kasu bat imajinatzen du: ikasle batek AA erabili duela adierazi du, lehiaketa bat irabazi du eta ikaskide batek zalantzan jarri du. Chema Falcók ikastetxeei irizpide argiak eskatzen dizkie.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-22-autoria-cuento-ilustrado-ia.svg" medium="image" type="image/svg+xml"><media:description>«Testua», «Sormen-zuzendaritza» eta «Gauzatzea» errotuluak, giltza batez multzokatuak, «Ipuina» errotulua duen liburu batera begira; behean, domina bat eta «Lehiaketaren oinarriak» errotulua dituen kartel bat, ipuinerantz doan gezi eten gorri batekin.</media:description></media:content>
-  </item>
-  <item>
     <title>AAk gehiago laguntzen du ikasten ulertzeko erabiltzen denean, zeregina egiteko erabiltzen denean baino</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-21/ia-aprender-entender-o-entregar.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
@@ -447,6 +438,15 @@
     <category>Eztabaidak</category>
     <description>Ikastetxe batek mugatuta dauka AA sortzailea ikasleekin, familia batzuek ez dutelako baimendu; beste jarrera batzuen arabera, informatzea nahikoa da. Araudia argia da: familiei jakinarazi behar zaie, baina 14 eta 18 urte artean ez da haien adostasunik behar, tresnak eskatzen ez badu behintzat.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Bi paneleko infografia. Ezkerrean, «14 urtetik behera», arbel batekin eta «Katalunian, AA irakasleak erabiltzen du» errotuluarekin. Eskuinean, «14-18 urte», lau errenkadarekin: megafono bat, «Informatu: beti»; balantza bat, «Adostasuna: ez da behar»; egiaztapen-marka duen dokumentu bat, «Baimena: Kataluniak gomendatzen du»; eta arkatza duen dokumentu bat, «Derrigorrezkoa tresnak eskatzen badu». Behean, pertsona marratu bat duen zerrenda: «Familia bat aurka badago, bere seme-alabari bakarrik eragiten dio».</media:description></media:content>
+  </item>
+  <item>
+    <title>Anthropicek bere erabilera-politikan debekatu du bere ereduei etengabeko eta debaldeko tratu txarra ematea</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/anthropic-abuso-modelos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/anthropic-abuso-modelos.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Erakundeak eta enpresak</category>
+    <description>2026ko urriaren 8an argitaratutako eguneratzea azaroaren 12an jarriko da indarrean eta muturreko kasuetan soilik aplikatuko da.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>Marra gorri batek erdibitutako barra horizontal bat. Ezkerrean, «Baimenduta» errotuluarekin, hiru elkarrizketa-globo: bi «Frustrazioa» eta «Desadostasuna» errotuluekin. Marraren eskuinean, «Krudelkeria errepikatua» errotuluko globo urdin bat eta, azpian, «Azaroaren 12tik» errotuluko egutegi bat.</media:description></media:content>
   </item>
 </channel>
 </rss>

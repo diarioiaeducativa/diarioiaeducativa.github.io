@@ -9,33 +9,6 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
-    <title>Una aplicación convierte respuestas habladas en informes de evaluación para las familias</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-22/informes-a-viva-voz.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-22/informes-a-viva-voz.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Informes a viva voz», de Ernesto Boixader, pide al docente que responda a tres o a siete preguntas sobre cada estudiante, y con esas respuestas la IA redacta el informe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-22-informes-a-viva-voz.svg" medium="image" type="image/svg+xml"><media:description>Un micrófono rotulado «Voz», con el rótulo «3 o 7 preguntas», una flecha hacia un robot rotulado «IA redacta» y otra hacia un documento rotulado «Informe»; debajo, una persona con el rótulo «Docente revisa».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un editor que convierte la notación ABC en partitura y la reproduce en el navegador</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-22/editor-musical-interactivo-con-audio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-22/editor-musical-interactivo-con-audio.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>María Teresa González creó un editor musical sencillo: se escribe la melodía como texto, aparece la partitura y se puede escuchar, sin instalar nada.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-22-editor-musical-interactivo-con-audio.jpg" medium="image" type="image/png"><media:description>Editor con un cuadro de texto en notación ABC a la izquierda y, a la derecha, los controles de audio y la partitura de una escala de Do mayor.</media:description></media:content>
-  </item>
-  <item>
-    <title>Google ofrecía Opal para crear aplicaciones sin programar; un año después la ha cerrado</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-22/opal-google-cierre-skills-gemini.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-22/opal-google-cierre-skills-gemini.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Hace un año</category>
-    <description>En noviembre de 2025, Google ofrecía gratis Opal, una herramienta para crear aplicaciones con IA sin saber programar. La cerró el 17 de noviembre de 2026, y lo hecho con ella no pasa solo a Gemini.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-22-opal-google-cierre-skills-gemini.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, con el rótulo «Nov. 2025», una ventana de aplicación con el rótulo «Opal». A la derecha, con el rótulo «Hoy», la misma ventana tachada con una cruz roja y el rótulo «Cerrada», y una flecha azul hacia un icono de barra oblicua con el rótulo «Skills».</media:description></media:content>
-  </item>
-  <item>
     <title>Android permite compartir una aplicación propia con hasta 50 dispositivos sin Google Play</title>
     <link>https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/android-distribucion-limitada-50.html</guid>
@@ -448,6 +421,32 @@
     <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breves</category>
     <description>Luis Vilela Acuña publicó el código abierto de Liga de Valores, su aplicación de ligas escolares de Educación Física en la que también puntúan el juego limpio, el arbitraje y la grada, con un instalador para usarla en la red del centro sin servidor externo. La presenta en un artículo de la Revista Española de Educación Física y Deportes.</description>
+  </item>
+  <item>
+    <title>Antigravity, el entorno de programación con agentes de Google, ejecuta desde su versión 2.29 (3 de…</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-06/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-06/breve-2.html</guid>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Antigravity, el entorno de programación con agentes de Google, ejecuta desde su versión 2.29 (3 de noviembre) proyectos en la nube que se manejan desde el navegador, en lugar de hacerlo en el propio ordenador; según su registro de cambios, se está desplegando para suscriptores de Google AI Pro y Ultra.</description>
+  </item>
+  <item>
+    <title>MechSimulator reúne simuladores gratuitos de ingeniería mecánica que se usan en el navegador</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/mechsimulator.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/mechsimulator.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un miembro del grupo destacó esta web de simulaciones 2D y 3D como ejemplo de lo que puede lograr una sola persona.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-05-mechsimulator.svg" medium="image" type="image/svg+xml"><media:description>Una ventana de navegador con un engranaje, una regla y una llave, y una curva de flexión debajo, con el rótulo «En el navegador»; una flecha lleva a una cuadrícula de puntos, uno destacado en azul, con el rótulo «Más de 150».</media:description></media:content>
+  </item>
+  <item>
+    <title>Fil i compte permite preparar fichas imprimibles de problemas de matemáticas en catalán y en castellano, con solucionario</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-05/fil-i-compte.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-05/fil-i-compte.html</guid>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un banco de 252 problemas permite al profesorado de primaria y de los primeros cursos de ESO elegir enunciados, ordenarlos e imprimir la ficha o guardarla en PDF.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-05-fil-i-compte.jpg" medium="image" type="image/png"><media:description>Pantalla del banco de problemas con filtros de nivel, dificultad y contenidos a la izquierda y tarjetas de problemas en catalán a la derecha.</media:description></media:content>
   </item>
 </channel>
 </rss>

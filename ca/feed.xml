@@ -9,51 +9,6 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
-    <title>Un cas imaginat planteja qui signa un conte premiat i il·lustrat amb IA</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-22/autoria-cuento-ilustrado-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-22/autoria-cuento-ilustrado-ia.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>Un lliurament de la sèrie «Familias con inteligencia» imagina un cas: un alumne declara que ha fet servir la IA, guanya un concurs i una companya el qüestiona. Chema Falcó demana als centres criteris clars.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-22-autoria-cuento-ilustrado-ia.svg" medium="image" type="image/svg+xml"><media:description>Tres rètols, «Text», «Direcció creativa» i «Execució», agrupats per una clau que apunta a un llibre amb el rètol «Conte»; a sota, un cartell amb una medalla i el rètol «Bases del concurs», amb una fletxa discontínua vermella cap al conte.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una aplicació converteix respostes parlades en informes d&#x27;avaluació per a les famílies</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-22/informes-a-viva-voz.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-22/informes-a-viva-voz.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Informes a viva voz», d&#x27;Ernesto Boixader, demana al docent que respongui tres o set preguntes sobre cada estudiant, i amb aquestes respostes la IA redacta l&#x27;informe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-22-informes-a-viva-voz.svg" medium="image" type="image/svg+xml"><media:description>Un micròfon amb el rètol «Veu», amb el rètol «3 o 7 preguntes», una fletxa cap a un robot amb el rètol «La IA redacta» i una altra cap a un document amb el rètol «Informe»; a sota, una persona amb el rètol «El docent revisa».</media:description></media:content>
-  </item>
-  <item>
-    <title>Raül Torres publica el seu curtmetratge «Buzz» i explica pas a pas com el va fer</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-22/buzz-cortometraje-terminado.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-22/buzz-cortometraje-terminado.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>El director explica en una pàgina i en un vídeo com va rodar a mà en realitat virtual i va deixar a la IA només el revelatge de les imatges.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-22-buzz-cortometraje-terminado.svg" medium="image" type="image/svg+xml"><media:description>Una cadena de quatre passos amb fletxes: un cub amb el rètol «Decorat 3D», unes ulleres de realitat virtual amb el rètol «Rodatge a mà», un robot amb el rètol «La IA revela» i una claqueta amb el rètol «Buzz»; sota els dos passos centrals, un claudàtor vermell discontinu.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un editor que converteix la notació ABC en partitura i la reprodueix al navegador</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-22/editor-musical-interactivo-con-audio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-22/editor-musical-interactivo-con-audio.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>María Teresa González va crear un editor musical senzill: s&#x27;escriu la melodia com a text, apareix la partitura i es pot escoltar, sense instal·lar res.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-22-editor-musical-interactivo-con-audio.jpg" medium="image" type="image/png"><media:description>Editor amb un quadre de text en notació ABC a l&#x27;esquerra i, a la dreta, els controls d&#x27;àudio i la partitura d&#x27;una escala de Do major.</media:description></media:content>
-  </item>
-  <item>
-    <title>Google oferia Opal per crear aplicacions sense programar; un any després l&#x27;ha tancat</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-22/opal-google-cierre-skills-gemini.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-22/opal-google-cierre-skills-gemini.html</guid>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>Al novembre de 2025, Google oferia gratis Opal, una eina per crear aplicacions amb IA sense saber programar. La va tancar el 17 de novembre de 2026, i el que s&#x27;havia fet amb ella no passa sol a Gemini.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-22-opal-google-cierre-skills-gemini.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, amb el rètol «Nov. 2025», una finestra d&#x27;aplicació amb el rètol «Opal». A la dreta, amb el rètol «Avui», la mateixa finestra ratllada amb una creu vermella i el rètol «Tancada», i una fletxa blava cap a una icona de barra oblíqua amb el rètol «Skills».</media:description></media:content>
-  </item>
-  <item>
     <title>La IA ajuda més a aprendre quan serveix per entendre que quan fa la tasca</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-21/ia-aprender-entender-o-entregar.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
@@ -888,6 +843,50 @@
     <category>Institucions i empreses</category>
     <description>L&#x27;empresa anuncia dues versions d&#x27;un mateix model: Fable 5.2, amb salvaguardes i sense verificació prèvia, i Mythos 5.2, només per a organitzacions verificades.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;un tronc, «Claude 5.2», que es bifurca en dues branques: «Fable 5.2», que porta a un grup de persones amb el rètol «Sense verificació», i «Mythos 5.2», que porta a una porta tancada amb cadenat amb el rètol «Verificades».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un fil del grup usa agents de programació per controlar la domòtica de casa</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/domotica-agentes-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/domotica-agentes-ia.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Un fil del grup recull usos d&#x27;agents com Claude Code o Antigravity per manejar la televisió, la música i la configuració de Home Assistant, amb el control de la privadesa com a condició.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-domotica-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en què un requadre, «Agent», apunta a un document de codi amb el rètol «Configuració», que apunta a una casa amb el rètol «Home Assistant»; a baix, un cadenat vermell amb el rètol «Sense claus».</media:description></media:content>
+  </item>
+  <item>
+    <title>Dues aplicacions en català de David Cordones: un joc de lletres i xifres i una aula d&#x27;acollida</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/xifres-i-lletres-acollida.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/xifres-i-lletres-acollida.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Xifres i Lletres entrena lèxic i càlcul mental per edats; Aula d&#x27;Acollida Digital ofereix suport lingüístic inicial.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-xifres-i-lletres-acollida.svg" medium="image" type="image/svg+xml"><media:description>Dos panells: a l&#x27;esquerra, una calculadora i tres caselles amb el rètol «Xifres i Lletres»; a la dreta, una icona de traducció amb el rètol «Aula d&#x27;Acollida»; a sota, un requadre de traços discontinus amb el rètol «Codi obert».</media:description></media:content>
+  </item>
+  <item>
+    <title>Així es va rodar «Buzz»: Claude, Blender per MCP, ulleres de realitat virtual i Seedance</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/buzz-flujo-claude-blender.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/buzz-flujo-claude-blender.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>El seu director detalla el procés del curtmetratge que el diari va explicar ahir, i avisa que és car en crèdits.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-buzz-flujo-claude-blender.svg" medium="image" type="image/svg+xml"><media:description>Quatre passos en fila units per fletxes: un document de codi amb el rètol «App amb Claude», un cub 3D amb «Blender i MCP», unes ulleres amb «Rodatge en RV» i una claqueta amb «Seedance»; una fletxa vermella assenyala aquest últim amb el rètol «Car en crèdits».</media:description></media:content>
+  </item>
+  <item>
+    <title>Una web difon el belsetà, varietat aragonesa en perill, amb jocs i fitxes d&#x27;aula</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/belsetan-lengua-aragonesa.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/belsetan-lengua-aragonesa.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>«El aprendiz del pastor» reuneix història, textos, jocs i materials didàctics sobre la llengua de la vall de Bielsa.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-belsetan-lengua-aragonesa.svg" medium="image" type="image/svg+xml"><media:description>Una muntanya amb el rètol «Vall de Bielsa» porta a un llibre obert amb el rètol «Belsetán», del qual surten dues fletxes: una a uns daus amb el rètol «Jocs» i una altra a un document amb el rètol «Fitxes».</media:description></media:content>
+  </item>
+  <item>
+    <title>El model obert que posava «en escac» els gegants: un any després, Kimi és gairebé tres vegades més gran i encara va per darrere</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/kimi-modelo-abierto-gigantes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/kimi-modelo-abierto-gigantes.html</guid>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025 es compartia que un model xinès de pesos oberts, Kimi K2 Thinking, superava GPT-5 en algunes proves. Avui Kimi K3, de la mateixa família, és gairebé tres vegades més gran, però el fabricant admet que no arriba als millors models tancats.</description>
   </item>
 </channel>
 </rss>
