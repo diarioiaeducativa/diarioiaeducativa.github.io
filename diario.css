@@ -551,6 +551,9 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .opinion-anuncio .entradilla { font-size: 1.05rem; line-height: 1.5; margin: 0;
   display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 8; line-clamp: 8; overflow: hidden; }
 .opinion-anuncio .leer { margin: 0.9rem 0 0; font-weight: 600; }
+/* Los lunes, el mismo hueco anuncia el resumen de la semana (ADR 0100), con los colores del comentario de la semana */
+.semana-anuncio { background: var(--papel-2); border-left-color: var(--azul); }
+.semana-anuncio .seccion a { color: var(--azul); }
 .apertura.con-opinion { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.8rem; }
 @media (min-width: 64rem) {
   .apertura.con-opinion { grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: 2.4rem; align-items: stretch; }
