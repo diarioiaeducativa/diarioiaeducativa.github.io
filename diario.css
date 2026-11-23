@@ -904,7 +904,17 @@ a.llevar-op.llevar-mas { border-top: 1px solid var(--filete); margin-top: 0.2rem
 }
 .nb-play .ico { width: 3.2rem; height: 3.2rem; fill: none; stroke: currentColor; }
 .nb-play:hover .ico, .nb-play:focus-visible .ico { color: var(--rojo, #c8202c); }
-.nb-resumen { margin: 0 0 0.6rem; font-size: 0.98rem; line-height: 1.5; }
+/* El resumen del vídeo y el del pódcast (ADR 0101): cerrado, dos líneas cortadas con «…» y una flecha; al pulsarlo, entero */
+.nb-plegable { margin: 0.3rem 0 0.6rem; }
+.nb-plegable summary { list-style: none; cursor: pointer; display: flex; align-items: flex-end; gap: 0.35rem; }
+.nb-plegable summary::-webkit-details-marker { display: none; }
+.nb-plegable summary:focus-visible { outline: 2px solid var(--azul); outline-offset: 3px; }
+.nb-resumen { display: block; flex: 1; min-width: 0; font-size: 0.98rem; line-height: 1.5; }
+.nb-plegable:not([open]) .nb-resumen { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; }
+.nb-flecha { flex: none; width: 1.1em; height: 1.1em; margin-bottom: 0.2em; fill: none; stroke: var(--azul); stroke-width: 2.5;
+  stroke-linecap: round; stroke-linejoin: round; transition: transform 0.15s; }
+.nb-plegable[open] .nb-flecha { transform: rotate(180deg); }
+@media (hover: hover) { .nb-plegable summary:hover .nb-flecha { stroke: var(--rojo, #c8202c); } }
 .nb-idioma { margin: -0.3rem 0 0.6rem; font-size: 0.85rem; color: var(--tinta-2); }
 .nb-rotulo { margin: 0.4rem 0 0.2rem; font-size: 0.9rem; font-weight: 600; color: var(--azul); }
 .nb-grupo audio { width: 100%; }
