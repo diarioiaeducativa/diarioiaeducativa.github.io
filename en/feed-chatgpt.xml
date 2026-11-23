@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>An imagined case asks who signs a prize-winning story illustrated with AI</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-22/autoria-cuento-ilustrado-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-22/autoria-cuento-ilustrado-ia.html</guid>
+    <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Debates</category>
+    <description>An instalment of the series “Familias con inteligencia” imagines a case: a student declares that they used AI, wins a competition and a classmate challenges it. Chema Falcó asks schools for clear criteria.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-22-autoria-cuento-ilustrado-ia.svg" medium="image" type="image/svg+xml"><media:description>Three labels, “Text”, “Creative direction” and “Execution”, grouped by a brace that points to a book labelled “Story”; below, a notice with a medal and the label “Competition rules”, with a dashed red arrow towards the story.</media:description></media:content>
+  </item>
+  <item>
     <title>AI helps learning more when it is used to understand than when it does the task</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-21/ia-aprender-entender-o-entregar.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-21/ia-aprender-entender-o-entregar.html</guid>
@@ -438,15 +447,6 @@
     <category>Debates</category>
     <description>One school has limited generative AI with its students because some families did not authorise it; other views hold that simply informing them is enough. The rules are clear: families must be informed, but between 14 and 18 their consent is not needed unless the tool requires it.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Infographic in two panels. On the left, “Under 14”, with a whiteboard and the label “In Catalonia, the teacher operates the AI”. On the right, “14 to 18”, with four rows: a megaphone, “Inform: always”; a pair of scales, “Consent: not needed”; a document with a tick, “Authorisation: advised in Catalonia”; and a document with a pencil, “Compulsory if the tool requires it”. Below, a band with a crossed-out person: “If a family objects, it only affects their child”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Anthropic bans sustained, gratuitous abuse of its models in its usage policy</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-06/anthropic-abuso-modelos.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/anthropic-abuso-modelos.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institutions &amp; Industry</category>
-    <description>The update, published on 8 October 2026, takes effect on 12 November and will be enforced only in extreme cases.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-anthropic-abuso-modelos.svg" medium="image" type="image/svg+xml"><media:description>A horizontal bar divided by a red line. On the left, labelled “Allowed”, three speech bubbles: two labelled “Frustration” and “Disagreement”. To the right of the line, a blue speech bubble labelled “Repeated cruelty” and, below it, a calendar labelled “From 12 Nov”.</media:description></media:content>
   </item>
 </channel>
 </rss>
