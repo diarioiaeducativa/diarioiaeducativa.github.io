@@ -86,6 +86,11 @@ main:focus { outline: none; }
 .ilu .ft { fill: var(--ilu-tinta); stroke: none; }
 .ilu .fz { fill: var(--ilu-azul); stroke: none; }
 .ilu .lbl { fill: var(--ilu-tinta); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px; }
+/* Un rótulo con la clase de un trazo (class="a lbl") se destaca con su color, nunca con contorno: el grosor de 2,5
+   de los trazos emborrona las letras hasta no leerse (22-11-2026) */
+.ilu text.t, .ilu text.a, .ilu text.r { stroke: none; }
+.ilu text.a { fill: var(--ilu-azul); }
+.ilu text.r { fill: var(--ilu-rojo); }
 /* «Las comunidades» (La redacción): un círculo por grupo con el color de su sección; los cruces se oscurecen solos */
 .venn { stroke-width: 3; fill-opacity: .16; }
 .venn-chatgpt { stroke: var(--c-herramientas); fill: var(--c-herramientas); }
