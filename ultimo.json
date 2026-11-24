@@ -5,27 +5,27 @@
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Un buscador permite saber si una herramienta digital cumple las orientaciones del INTEF"
+   "titular": "Las orientaciones de privacidad del INTEF pasan del PDF a una web con buscador y filtros"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Un cercador permet saber si una eina digital compleix les orientacions de l'INTEF"
+   "titular": "Les orientacions de privacitat de l'INTEF passen del PDF a una web amb cercador i filtres"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Un buscador permite saber se unha ferramenta dixital cumpre as orientacións do INTEF"
+   "titular": "As orientacións de privacidade do INTEF pasan do PDF a unha web con buscador e filtros"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Bilatzaile batek tresna digital bat INTEFen gomendioetara egokitzen den jakiteko aukera ematen du"
+   "titular": "INTEFen pribatutasun-gomendioak PDFtik bilatzaile eta iragazkidun webgune batera doaz"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "A search tool shows whether a digital tool meets the INTEF’s guidelines"
+   "titular": "The INTEF’s privacy guidelines move from a PDF to a website with search and filters"
   }
  }
 }
