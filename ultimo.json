@@ -1,31 +1,31 @@
 {
- "numero": 22,
- "sale": "2026-11-23",
+ "numero": 23,
+ "sale": "2026-11-24",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Un caso imaginado plantea quién firma un cuento premiado e ilustrado con IA"
+   "titular": "Un buscador permite saber si una herramienta digital cumple las orientaciones del INTEF"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Un cas imaginat planteja qui signa un conte premiat i il·lustrat amb IA"
+   "titular": "Un cercador permet saber si una eina digital compleix les orientacions de l'INTEF"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Un caso imaxinado plantexa quen asina un conto premiado e ilustrado con IA"
+   "titular": "Un buscador permite saber se unha ferramenta dixital cumpre as orientacións do INTEF"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Imajinatutako kasu batek galdetzen du nork sinatzen duen AArekin ilustratutako ipuin sarituaren egiletza"
+   "titular": "Bilatzaile batek tresna digital bat INTEFen gomendioetara egokitzen den jakiteko aukera ematen du"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "An imagined case asks who signs a prize-winning story illustrated with AI"
+   "titular": "A search tool shows whether a digital tool meets the INTEF’s guidelines"
   }
  }
 }

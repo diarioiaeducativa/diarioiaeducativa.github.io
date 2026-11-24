@@ -48,16 +48,16 @@
 }
 .orejas .t, .orejas .a { fill: none; stroke-width: calc(2.5px * var(--k)); stroke-linecap: round; stroke-linejoin: round; }
 .orejas .t { stroke: var(--tinta); }
-.orejas .a { stroke: var(--azul); }
+.orejas .a { stroke: var(--algoritmo); }
 .orejas .discontinuo { stroke-dasharray: calc(4px * var(--k)) calc(5px * var(--k)); stroke-width: calc(2px * var(--k)); }
 .orejas .ft { fill: var(--tinta); stroke: none; }
-.orejas .fz { fill: var(--azul); stroke: none; }
+.orejas .fz { fill: var(--algoritmo); stroke: none; }
 .orejas .tz { fill: var(--tiza); stroke: var(--cara); stroke-width: calc(2.5px * var(--k)); stroke-linejoin: round; }
 .orejas .cara { fill: none; stroke: var(--cara); stroke-width: calc(2.2px * var(--k)); stroke-linecap: round; }
 .orejas .veta { stroke-width: calc(1.6px * var(--k)); }
 .orejas .fcara { fill: var(--cara); }
-.orejas .ojo { fill: var(--papel); }
-.orejas .fpupila { fill: var(--tinta); }
+.orejas .ojo { fill: var(--ojo); }
+.orejas .fpupila { fill: var(--cara); }
 .orejas .sp { fill: none; stroke: var(--papel); stroke-width: calc(2.4px * var(--k)); stroke-linecap: round; }
 .orejas .polvo { opacity: 0.5; }
 @media (max-width: 40rem) { .orejas { display: none; } }
@@ -440,8 +440,8 @@ main.portada :is(.pieza, .editorial) .ilu { cursor: pointer; }
 .promo-app .pa-cuerpo { fill: var(--azul); }
 .promo-app .pa-linea { fill: none; stroke: var(--azul); stroke-width: 5; stroke-linecap: round; }
 .promo-app .pa-disc { stroke-dasharray: 7 7; stroke-width: 3.5; }
-.promo-app .pa-ojo { fill: var(--papel); }
-.promo-app .pa-pupila { fill: var(--tinta); }
+.promo-app .pa-ojo { fill: var(--ojo); }
+.promo-app .pa-pupila { fill: var(--cara); }
 .promo-app .pa-boca { fill: none; stroke: var(--papel); stroke-width: 3.4; stroke-linecap: round; }
 .promo-app-txt { flex: 1; margin: 0; font-size: 1.08rem; line-height: 1.4; }
 .promo-app-txt strong { color: var(--azul); }

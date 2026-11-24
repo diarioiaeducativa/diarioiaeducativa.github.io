@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Un cercador permet saber si una eina digital compleix les orientacions de l&#x27;INTEF</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-23/guia-privacidad-herramientas-intef.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La guia classifica amb un semàfor 1.144 eines analitzades per l&#x27;INTEF i, com a afegit no oficial, 360 aplicacions del repositori de Vibe Coding Educativo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-23-guia-privacidad-herramientas-intef.svg" medium="image" type="image/svg+xml"><media:description>Un semàfor amb tres llums: la vermella, amb el rètol «No utilitzar»; l&#x27;ambre, amb «Amb permís del centre»; i la verda, amb «Es pot utilitzar». A la dreta, una llista amb una lupa i el rètol «1.144 eines».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un comparador permet triar quin bot de conversa gratuït convé segons el que es necessiti</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Juan José de Haro va crear una aplicació web en què es marca la importància de cada característica i s&#x27;obté una classificació personalitzada de bots de conversa gratuïts.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dues columnes: a l&#x27;esquerra, lliscadors d&#x27;importància de cada característica; a la dreta, la classificació de bots de conversa amb percentatges, encapçalada per Qwen amb el 91 %.</media:description></media:content>
+  </item>
+  <item>
     <title>Una aplicació converteix respostes parlades en informes d&#x27;avaluació per a les famílies</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-22/informes-a-viva-voz.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-22/informes-a-viva-voz.html</guid>
@@ -431,23 +449,6 @@
     <category>Vibe coding</category>
     <description>Des del 27 d&#x27;octubre, el Repositori de recursos de Vibe Coding Educativo suma setze recursos: deu ja han tingut el seu article al diari i sis es presenten aquí, dos de Juan José de Haro, un de Felip Sarroca, un de FiQuiPedia i dos de Samuel Soriano.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-06-subasta-de-frases.jpg" medium="image" type="image/png"><media:description>Pàgina d&#x27;inici de Subasta de frases, amb els botons «Crear una actividad» i «Unirse a una sesión» i tres targetes: Conocimiento, Valores y prioridades, Roles y conceptos.</media:description></media:content>
-  </item>
-  <item>
-    <title>EDUmind MiClase, un quadern del professorat de codi obert, desa les dades al dispositiu i sincronitza sense servidor propi</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/edumind-miclase-sincronizacion.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/edumind-miclase-sincronizacion.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>El seu autor va detallar al grup com sincronitza dos dispositius i quines funcions diu haver afegit per avaluar segons la LOMLOE.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-edumind-miclase-sincronizacion.svg" medium="image" type="image/svg+xml"><media:description>Un portàtil amb el rètol «Portàtil» i un mòbil amb el rètol «Mòbil», units per una fletxa de doble sentit amb un símbol wifi i el rètol «Mateixa wifi». A sota, un servidor dibuixat amb traç discontinu i ratllat amb una creu vermella, amb el rètol «Sense servidor».</media:description></media:content>
-  </item>
-  <item>
-    <title>Luis Vilela Acuña va publicar el codi obert de Liga de Valores, la seva aplicació de lligues escolars…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/breve-1.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Luis Vilela Acuña va publicar el codi obert de Liga de Valores, la seva aplicació de lligues escolars d&#x27;Educació Física en què també puntuen el joc net, l&#x27;arbitratge i la grada, amb un instal·lador per fer-la servir a la xarxa del centre sense servidor extern. La presenta en un article de la Revista Española de Educación Física y Deportes.</description>
   </item>
 </channel>
 </rss>

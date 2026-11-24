@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe coding</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Bilatzaile batek tresna digital bat INTEFen gomendioetara egokitzen den jakiteko aukera ematen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-23/guia-privacidad-herramientas-intef.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Gidak semaforo batekin sailkatzen ditu INTEFek aztertutako 1 144 tresnak eta, ofiziala ez den gehigarri gisa, Vibe Coding Educativo biltegiko 360 aplikazio.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-23-guia-privacidad-herramientas-intef.svg" medium="image" type="image/svg+xml"><media:description>Hiru argiko semaforo bat: gorria, «Ez erabili» etiketarekin; anbarra, «Ikastetxearen baimenarekin» etiketarekin; eta berdea, «Erabil daiteke» etiketarekin. Eskuinean, lupa bat duen zerrenda bat, «1 144 tresna» etiketarekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Konparatzaile batek behar duzunaren araberako txatbot doakoa aukeratzen laguntzen du</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Juan José de Harok web-aplikazio bat sortu du, non ezaugarri bakoitzaren garrantzia markatzen den eta txatbot doakoen sailkapen pertsonalizatua lortzen den.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Bi zutabe: ezkerrean, ezaugarri bakoitzaren garrantziaren graduatzaileak; eskuinean, txatbot-sailkapena ehunekoekin, Qwen buru duela, % 91rekin.</media:description></media:content>
+  </item>
+  <item>
     <title>Aplikazio batek ahoz emandako erantzunak familientzako ebaluazio-txosten bihurtzen ditu</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-22/informes-a-viva-voz.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-22/informes-a-viva-voz.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>Felip Sarrocak Escola Ramon Pontentzat sortutako «La teva veu» aplikazioak PDF txostenak sortzen ditu familientzat eta irakasleentzat.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Figura-talde bat, «Ikasleak», inbutu batetik pasatzen da, «15» zifrarekin eta «Gutxieneko erantzunak» lelo-azalarekin, eta barrak eta erreferentzia-lerro bat dituen txosten batera iristen da, «Irakasleen txostena».</media:description></media:content>
-  </item>
-  <item>
-    <title>Laborategi interaktibo batek potentzial grabitatorioa erakusten die Batxilergoko 2. mailako ikasleei</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/mapa-potencial-gravitatorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/mapa-potencial-gravitatorio.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Antonio González irakasleak partekatutako «Mapa de potencial gravitatorio» aplikazioak bederatzi urratseko gida didaktikoa dauka eta bi punturen arteko lana kalkulatzen du.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>Ezkerrean, masa baten inguruko potentzial bereko kurbak, A eta B bi punturekin, bi bide desberdinez lotuta; eskuinean, potentzial bera alboko ikuspegiko inbutu gisa, A eta B bi altueratan eta gezi gorri bat «Lan bera» testuarekin: lana berbera da edozein bidetatik.</media:description></media:content>
-  </item>
-  <item>
-    <title>Jarduera interaktibo batek gaztelaniazko teklatuko ikurrak idazten irakasten du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-10-31/teclado-espanol.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-10-31/teclado-espanol.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Toni Magranerrek partekatutako praktikak ikurrak, azentuak eta lasterbideak lantzen ditu, proba-modu batekin eta entrenamendu-modu batekin.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>Goian, teklatu baten bi lerro, 2ko tekla eta AltGr tekla urdinez nabarmenduta; azpian, AltGr gehi 2 konbinazioa, berdin-ikur gorri batekin, @ ikurra emaitza gisa.</media:description></media:content>
   </item>
 </channel>
 </rss>

@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Un buscador permite saber se unha ferramenta dixital cumpre as orientacións do INTEF</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/guia-privacidad-herramientas-intef.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A guía clasifica cun semáforo 1 144 ferramentas analizadas polo INTEF e, como engadido non oficial, 360 aplicacións do repositorio de Vibe Coding Educativo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-23-guia-privacidad-herramientas-intef.svg" medium="image" type="image/svg+xml"><media:description>Un semáforo con tres luces: a vermella, co rótulo «Non usar»; a ámbar, con «Con permiso do centro»; e a verde, con «Pódese usar». Á dereita, unha lista cunha lupa e o rótulo «1 144 ferramentas».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un comparador permite elixir que chatbot gratuíto convén segundo o que se necesite</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Juan José de Haro creou unha aplicación web na que se marca a importancia de cada característica e se obtén unha clasificación personalizada de chatbots gratuítos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dúas columnas: á esquerda, desprazadores de importancia de cada característica; á dereita, a clasificación de chatbots con porcentaxes, encabezada por Qwen co 91 %.</media:description></media:content>
+  </item>
+  <item>
     <title>Unha aplicación converte respostas faladas en informes de avaliación para as familias</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-22/informes-a-viva-voz.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-22/informes-a-viva-voz.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>«La teva veu», creada por Felip Sarroca para a Escola Ramon Pont, xera informes en PDF para familias e profesorado.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Un grupo de figuras, «Alumnado», pasa por un funil coa cifra «15» e o rótulo «Mínimo de respostas», e chega a un informe con barras e unha liña de referencia, «Informe docente».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un laboratorio interactivo guía o alumnado de 2.º de Bacharelato polo potencial gravitatorio</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/mapa-potencial-gravitatorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/mapa-potencial-gravitatorio.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>A aplicación «Mapa de potencial gravitatorio», compartida polo profesor Antonio González, inclúe unha guía didáctica de nove pasos e calcula o traballo entre dous puntos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-mapa-potencial-gravitatorio.svg" medium="image" type="image/svg+xml"><media:description>Á esquerda, curvas de igual potencial arredor dunha masa con dous puntos, A e B, unidos por dous camiños distintos; á dereita, o mesmo potencial como un funil visto de lado, con A e B a dúas alturas e unha frecha vermella co rótulo «Mesmo traballo»: o traballo é o mesmo por calquera camiño.</media:description></media:content>
-  </item>
-  <item>
-    <title>Unha actividade interactiva ensina a escribir os símbolos do teclado español</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-10-31/teclado-espanol.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-10-31/teclado-espanol.html</guid>
-    <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>A práctica, compartida por Toni Magraner, adestra símbolos, acentos e atallos cun modo de proba e outro de adestramento.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-10-31-teclado-espanol.svg" medium="image" type="image/svg+xml"><media:description>Arriba, dúas filas dun teclado coa tecla do 2 e a tecla AltGr resaltadas en azul; debaixo, a combinación AltGr máis 2, cun signo igual en vermello, que dá como resultado o símbolo @.</media:description></media:content>
   </item>
 </channel>
 </rss>

@@ -85,6 +85,11 @@ main:focus { outline: none; }
 .ilu .fa { fill: var(--ilu-relleno); stroke: none; }
 .ilu .ft { fill: var(--ilu-tinta); stroke: none; }
 .ilu .fz { fill: var(--ilu-azul); stroke: none; }
+/* Colores que en la realidad significan algo (las luces de un semáforo): los de verdad, iguales en los dos temas,
+   para que el rojo, el ámbar y el verde no salgan del color de la sección (24-11-2026) */
+.ilu .sr { fill: #e0403a; stroke: none; }
+.ilu .sa { fill: #f2a516; stroke: none; }
+.ilu .sv { fill: #2fa84f; stroke: none; }
 .ilu .lbl { fill: var(--ilu-tinta); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px; }
 /* Un rótulo con la clase de un trazo (class="a lbl") se destaca con su color, nunca con contorno: el grosor de 2,5
    de los trazos emborrona las letras hasta no leerse (22-11-2026) */
@@ -164,14 +169,14 @@ main:focus { outline: none; }
 }
 
 /* Viñeta: Tiza y Algoritmo. La tiza es blanca en los dos temas; el cursor, azul. */
-:root { --tiza: #ffffff; --cara: #16181d; }
+:root { --tiza: #ffffff; --cara: #16181d; --ojo: #fbfbf9; --algoritmo: var(--azul); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --tiza: #f1f1ec; } }
 :root[data-theme="dark"] { --tiza: #f1f1ec; }
 .vineta .tira svg { display: block; width: 100%; height: auto; }
 .vineta .marco { fill: var(--papel); stroke: var(--tinta); stroke-width: 2.5; }
 .vineta .t, .vineta .a { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
 .vineta .t { stroke: var(--tinta); }
-.vineta .a { stroke: var(--azul); }
+.vineta .a { stroke: var(--algoritmo); }
 /* El brazo de Algoritmo lleva debajo un borde del color del papel, para que se vea sobre su cuerpo azul */
 /* Bajo el brazo que cruza el cuerpo de un personaje (Algoritmo y Tiza): un borde del color del papel */
 .vineta .a-borde { fill: none; stroke: var(--papel); stroke-width: 7; stroke-linecap: round; stroke-linejoin: round; }
@@ -179,12 +184,13 @@ main:focus { outline: none; }
 .vineta .discontinuo { stroke-dasharray: 4 5; stroke-width: 2; }
 .vineta .fa { fill: var(--ilu-relleno); }
 .vineta .ft { fill: var(--tinta); stroke: none; }
-.vineta .fz { fill: var(--azul); stroke: none; }
+.vineta .fz { fill: var(--algoritmo); stroke: none; }
 .vineta .tz { fill: var(--tiza); stroke: var(--cara); stroke-width: 2.5; stroke-linejoin: round; }
 .vineta .cara { fill: none; stroke: var(--cara); stroke-width: 2.2; stroke-linecap: round; }
 .vineta .fcara { fill: var(--cara); }
-.vineta .ojo { fill: var(--papel); }
-.vineta .fpupila { fill: var(--tinta); }
+/* Los ojos de Algoritmo, iguales en los dos temas: blancos con la pupila oscura (24-11-2026) */
+.vineta .ojo { fill: var(--ojo); }
+.vineta .fpupila { fill: var(--cara); }
 .vineta .sp { fill: none; stroke: var(--papel); stroke-width: 2.4; stroke-linecap: round; }
 .vineta .fsp { fill: var(--papel); }
 .vineta .polvo { opacity: 0.5; }
@@ -316,4 +322,10 @@ main:focus { outline: none; }
     --c-hace-un-ano: #7a4f2a;  --t-hace-un-ano: #f6ede3;  --m-hace-un-ano: #e8d3bd;
     --c-opinion: #4a3f6b;      --t-opinion: #efedf5;      --m-opinion: #dcd7ea;
   }
+}
+/* Al imprimir, el azul del texto pasa a negro (enlaces), pero no el de los dibujos: Algoritmo, el azul de los dibujos
+   y el color del reportaje se imprimen con el azul del tema claro (24-11-2026, ADR 0054). Va al final para ganar a
+   los temas claro y oscuro. */
+@media print {
+  :root, :root[data-theme] { --algoritmo: #1c3faa; --ilu-azul: #1c3faa; --c-reportaje: #1c3faa; }
 }

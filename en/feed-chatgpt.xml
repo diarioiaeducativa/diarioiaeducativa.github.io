@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>South Korea’s education minister resigns over measures against AI cheating</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-23/corea-dimision-ministro-ia-examen.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-23/corea-dimision-ministro-ia-examen.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>Last-minute changes to prevent the use of AI in the national university entrance exam caused difficulties for students and teachers.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-23-corea-dimision-ministro-ia-examen.svg" medium="image" type="image/svg+xml"><media:description>Three steps from left to right: a pencil labelled “Pencil only”, a mobile phone crossed out with a red line and labelled “No phones”, and a person labelled “Resignation”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Opus 4.5 scored above 80% on a coding test that OpenAI no longer uses</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, a record on a coding benchmark was celebrated as a sign that AI had no ceiling. Three months later, OpenAI stopped publishing results on it, calling it flawed and contaminated.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-23-opus-4-5-swe-bench-verified-retirada.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: a code file with a verification seal and the labels “SWE-bench” and “Record”. On the right, “Today”: the same file with a blue prohibition symbol and the label “Withdrawn”.</media:description></media:content>
+  </item>
+  <item>
     <title>An imagined case asks who signs a prize-winning story illustrated with AI</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-22/autoria-cuento-ilustrado-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-22/autoria-cuento-ilustrado-ia.html</guid>
@@ -429,24 +447,6 @@
     <category>The Sunday feature</category>
     <description>Each service’s terms, data protection law and some education authorities set different ages for using artificial intelligence, and they are often confused. This report explains what each says as of 6 November 2026, why research asks us to swap the question of age for the question of purpose, and how a primary or secondary teacher can decide which tool to use, with which account, and who operates it.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infographic on an age ruler from 0 to 18, with marks at 13, 14 and 18, in three blocks. “Companies”: “OpenAI and Microsoft: from 13”, with a line from 13 to 18; “Anthropic: from 18”, with a dot at 18; and “Gemini with a school account: all ages”, with a bar from 0 to 18. “Data law”: “Own consent: from 14”, with a dashed line up to 14 and a solid one after it; and “At school, no consent needed: educational function”, with a bar from 0 to 18. “Some education authorities”: “Catalonia: the teacher operates the AI”, with a red line up to 14, and “From 14: inform, authorisation advisable”, with a line from 14; and “Basque Country: chatbots from 13”, with a cross before 13 and a line after it; and “Murcia: autonomous access from 3rd-year ESO”, with a dashed line up to 14 and a solid one after it. At the foot, “What for? Which account? Who operates it?”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Anthropic proposes organising AI agents&#x27; memory into four layers with a periodic review</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/memoria-agentes-ia.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Tools</category>
-    <description>An Anthropic research text describes how to give an agent memory between sessions, and a teacher in the group has adapted their own system to that idea and explains it in an article with instructions.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Four stacked layers, from top to bottom labelled “Profile”, “Notes”, “Wiki” and “Conversations”, and a curved blue arrow rising from the conversations to the profile, next to a moon labelled “Night review”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Teachers debate whether families’ authorisation is needed to use AI with students</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-06/autorizacion-familias-ia.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>One school has limited generative AI with its students because some families did not authorise it; other views hold that simply informing them is enough. The rules are clear: families must be informed, but between 14 and 18 their consent is not needed unless the tool requires it.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Infographic in two panels. On the left, “Under 14”, with a whiteboard and the label “In Catalonia, the teacher operates the AI”. On the right, “14 to 18”, with four rows: a megaphone, “Inform: always”; a pair of scales, “Consent: not needed”; a document with a tick, “Authorisation: advised in Catalonia”; and a document with a pencil, “Compulsory if the tool requires it”. Below, a band with a crossed-out person: “If a family objects, it only affects their child”.</media:description></media:content>
   </item>
 </channel>
 </rss>

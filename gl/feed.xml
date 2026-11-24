@@ -9,6 +9,59 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Un buscador permite saber se unha ferramenta dixital cumpre as orientacións do INTEF</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/guia-privacidad-herramientas-intef.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A guía clasifica cun semáforo 1 144 ferramentas analizadas polo INTEF e, como engadido non oficial, 360 aplicacións do repositorio de Vibe Coding Educativo.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-23-guia-privacidad-herramientas-intef.svg" medium="image" type="image/svg+xml"><media:description>Un semáforo con tres luces: a vermella, co rótulo «Non usar»; a ámbar, con «Con permiso do centro»; e a verde, con «Pódese usar». Á dereita, unha lista cunha lupa e o rótulo «1 144 ferramentas».</media:description></media:content>
+  </item>
+  <item>
+    <title>Dimite o ministro de Educación surcoreano polas medidas contra as trampas con IA</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/corea-dimision-ministro-ia-examen.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/corea-dimision-ministro-ia-examen.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucións e empresas</category>
+    <description>Os cambios de última hora para evitar o uso de IA no exame nacional de acceso á universidade provocaron dificultades a estudantes e profesorado.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-23-corea-dimision-ministro-ia-examen.svg" medium="image" type="image/svg+xml"><media:description>Tres pasos de esquerda a dereita: un lapis co rótulo «Só lapis», un móbil riscado cunha raia vermella e o rótulo «Sen móbiles», e unha persoa co rótulo «Dimisión».</media:description></media:content>
+  </item>
+  <item>
+    <title>Un comparador permite elixir que chatbot gratuíto convén segundo o que se necesite</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/comparador-interactivo-de-chatbots-gratu.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Juan José de Haro creou unha aplicación web na que se marca a importancia de cada característica e se obtén unha clasificación personalizada de chatbots gratuítos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dúas columnas: á esquerda, desprazadores de importancia de cada característica; á dereita, a clasificación de chatbots con porcentaxes, encabezada por Qwen co 91 %.</media:description></media:content>
+  </item>
+  <item>
+    <title>Affinity une edición de fotos, debuxo vectorial e maquetaxe, gratis para particulares</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/affinity-diseno-gratuito.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/affinity-diseno-gratuito.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>Serve para retocar e compoñer as imaxes que se xeran con IA. A web oficial preséntao como gratuíto para particulares; as súas funcións de IA, segundo a mesma web, só están nos plans de pagamento de Canva.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-23-affinity-diseno-gratuito.svg" medium="image" type="image/svg+xml"><media:description>Imaxes soltas e inclinadas, co rótulo «Soltas», pasan por tres ferramentas, un pincel («Foto»), unha pluma («Vectores») e unha reixa («Maquetaxe»), que conflúen nunha soa xanela onde queda unha páxina de cartaz con título, dúas imaxes e unha lenda, co rótulo «Cartaz».</media:description></media:content>
+  </item>
+  <item>
+    <title>Opus 4.5 superou o 80 % nunha proba de programación que OpenAI xa non usa</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>En novembro de 2025, un récord nunha proba de programación celebrábase como sinal de que a IA non tiña teito. Tres meses despois, OpenAI deixou de publicar resultados nesa proba, que consideraba defectuosa e contaminada.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-23-opus-4-5-swe-bench-verified-retirada.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por unha liña vertical. Á esquerda, «nov. 2025»: un arquivo de código cun selo de verificación e os rótulos «SWE-bench» e «Récord». Á dereita, «Hoxe»: o mesmo arquivo cun símbolo de prohibido en azul e o rótulo «Retirada».</media:description></media:content>
+  </item>
+  <item>
+    <title>Raül Torres saíu da lista de espera de Project Genie, o modelo de Google que crea mundos interactivos, e…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-23/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/breve-1.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Raül Torres saíu da lista de espera de Project Genie, o modelo de Google que crea mundos interactivos, e ten acceso coa súa subscrición a Google AI Pro, como recolleu o diario ao presentar Genie 4.</description>
+  </item>
+  <item>
     <title>Un caso imaxinado plantexa quen asina un conto premiado e ilustrado con IA</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-22/autoria-cuento-ilustrado-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-22/autoria-cuento-ilustrado-ia.html</guid>
@@ -837,57 +890,6 @@
     <category>Vibe coding</category>
     <description>Pentagrama Maestro, creada por Iñaki Fernández, soa nota a nota e ofrece tres niveis e partidas sen límite.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-pentagrama-maestro.svg" medium="image" type="image/svg+xml"><media:description>Un pentagrama con catro notas que ascenden, co rótulo «Pentagrama», e unha frecha que leva a un altofalante co rótulo «Escoitar»; abaixo, tres barras de altura crecente co rótulo «3 niveis».</media:description></media:content>
-  </item>
-  <item>
-    <title>Tribunator organiza tribunais, aulas e horarios das probas de acceso dun conservatorio</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/tribunator.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/tribunator.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>José Luis Miralles Bono creou, coa axuda de Claude, unha ferramenta que planifica quen forma cada tribunal, en que aula e a que hora examina, e comproba que non haxa conflitos antes de publicar.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-10-tribunator.jpg" medium="image" type="image/png"><media:description>Pantalla de benvida de Tribunator coas lapelas Inicio, Espacio, Tiempo, Plantillas, Tribunales e Verificación, e os botóns Empezar de cero, Importar datos e Cargar ejemplo.</media:description></media:content>
-  </item>
-  <item>
-    <title>As fórmulas de Gemini chegaban a Google Docs como código; un ano despois, Docs segue sen entender LaTeX</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/latex-gemini-google-docs.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/latex-gemini-google-docs.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Hai un ano</category>
-    <description>En novembro de 2025, Gemini xa escribía e editaba fórmulas en LaTeX, pero ao levalas a Google Docs chegaban como código. Un ano despois, o procesador de Google segue sen ler LaTeX e o remedio é o mesmo: un complemento ou un editor á parte.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por unha liña vertical. Á esquerda, «Nov. 2025»: unha páxina de Google Docs coa fórmula convertida en chaves de código, co rótulo «Código». Á dereita, «Hoxe»: a mesma páxina co mesmo «Código», e unha frecha azul cara a unha peza de crebacabezas azul co rótulo «Complemento», o remedio que segue sendo necesario.</media:description></media:content>
-  </item>
-  <item>
-    <title>Quen mantén un axente de Claude Code no NAS da casa conta que corre como servizo con permisos de…</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/breve-1.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Quen mantén un axente de Claude Code no NAS da casa conta que corre como servizo con permisos de administrador, e que antes de borrar datos, tocar discos ou abrir portos lle pregunta. Continúa o fío sobre domótica con axentes.</description>
-  </item>
-  <item>
-    <title>A web do Congreso Nacional de Dixitalización Educativa, celebrado en Albacete o 5 e 6 de novembro, ofrece…</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/breve-2.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>A web do Congreso Nacional de Dixitalización Educativa, celebrado en Albacete o 5 e 6 de novembro, ofrece o acceso á retransmisión das ponencias, segundo o grupo.</description>
-  </item>
-  <item>
-    <title>Anthropic dá aos plans que inclúen Fable entre un e tres reinicios do límite de uso, segundo a antigüidade…</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/breve-3.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/breve-3.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Anthropic dá aos plans que inclúen Fable entre un e tres reinicios do límite de uso, segundo a antigüidade da subscrición, que poden usarse ata o 8 de marzo de 2027; Pro ten un, só ata o 16 de novembro. O modelo é o de Fable 5.2.</description>
-  </item>
-  <item>
-    <title>Anthropic presenta Claude Fable 5.2 e Mythos 5.2, o segundo só para organizacións verificadas</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-09/fable-mythos-5-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-09/fable-mythos-5-2.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institucións e empresas</category>
-    <description>A empresa anuncia dúas versións dun mesmo modelo: Fable 5.2, con salvagardas e sen verificación previa, e Mythos 5.2, só para organizacións verificadas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema dun tronco, «Claude 5.2», que se bifurca en dúas ramas: «Fable 5.2», que leva a un grupo de persoas co rótulo «Sen verificación», e «Mythos 5.2», que leva a unha porta pechada con cadeado co rótulo «Verificadas».</media:description></media:content>
   </item>
 </channel>
 </rss>

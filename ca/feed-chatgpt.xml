@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Dimiteix el ministre d&#x27;Educació sud-coreà per les mesures contra les trampes amb IA</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-23/corea-dimision-ministro-ia-examen.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-23/corea-dimision-ministro-ia-examen.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>Els canvis d&#x27;última hora per evitar l&#x27;ús d&#x27;IA a l&#x27;examen nacional d&#x27;accés a la universitat van causar dificultats a estudiants i professorat.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-23-corea-dimision-ministro-ia-examen.svg" medium="image" type="image/svg+xml"><media:description>Tres passos d&#x27;esquerra a dreta: un llapis amb el rètol «Només llapis», un mòbil ratllat amb una ratlla vermella i el rètol «Sense mòbils», i una persona amb el rètol «Dimissió».</media:description></media:content>
+  </item>
+  <item>
+    <title>Opus 4.5 va superar el 80 % en una prova de programació que OpenAI ja no fa servir</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, un rècord en una prova de programació se celebrava com a senyal que la IA no tenia sostre. Tres mesos després, OpenAI va deixar de publicar-hi resultats, perquè la considerava defectuosa i contaminada.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-23-opus-4-5-swe-bench-verified-retirada.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: un fitxer de codi amb un segell de verificació i els rètols «SWE-bench» i «Rècord». A la dreta, «Avui»: el mateix fitxer amb un símbol de prohibit en blau i el rètol «Retirada».</media:description></media:content>
+  </item>
+  <item>
     <title>Un cas imaginat planteja qui signa un conte premiat i il·lustrat amb IA</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-22/autoria-cuento-ilustrado-ia.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-22/autoria-cuento-ilustrado-ia.html</guid>
@@ -429,24 +447,6 @@
     <category>El reportatge del diumenge</category>
     <description>Les condicions de cada servei, la llei de protecció de dades i algunes administracions educatives fixen edats diferents per usar intel·ligència artificial, i sovint es confonen. Aquest reportatge explica què diu cadascuna a 6 de novembre del 2026, per què la recerca demana canviar la pregunta de l&#x27;edat per la de la finalitat i com pot decidir un docent de primària o ESO quina eina fer servir, amb quin compte i qui la maneja.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infografia sobre un regle d&#x27;edats de 0 a 18 anys, amb marques a 13, 14 i 18, en tres blocs. «Empreses»: «OpenAI i Microsoft: des de 13», amb una línia de 13 a 18; «Anthropic: des de 18», amb un punt a 18; i «Gemini amb compte del centre: totes les edats», amb una barra de 0 a 18. «Llei de dades»: «Consentiment propi: des de 14», amb una línia discontínua fins als 14 i contínua a partir d&#x27;aquí; i «Al centre, sense consentiment: funció educativa», amb una barra de 0 a 18. «Algunes administracions educatives»: «Catalunya: el docent fa servir la IA», amb una línia vermella fins als 14, i «Des de 14: informar, autorització recomanable», amb una línia des dels 14; i «Euskadi: xatbots des de 13», amb una creu abans dels 13 i una línia a partir d&#x27;aquí; i «Múrcia: accés autònom des de 3r d&#x27;ESO», amb una línia discontínua fins als 14 i contínua a partir d&#x27;aquí. Al peu, «Per a què? Amb quin compte? Qui la maneja?».</media:description></media:content>
-  </item>
-  <item>
-    <title>Anthropic proposa organitzar la memòria dels agents d&#x27;IA en quatre capes amb una revisió periòdica</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-07/memoria-agentes-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-07/memoria-agentes-ia.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Eines</category>
-    <description>Un text de recerca d&#x27;Anthropic descriu com donar memòria a un agent entre sessions, i un docent del grup ha adaptat el seu sistema a aquesta idea i l&#x27;explica en un article amb instruccions.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-memoria-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Quatre capes apilades, de dalt a baix amb els rètols «Perfil», «Notes», «Wiki» i «Converses», i una fletxa blava corba que puja des de les converses fins al perfil, al costat d&#x27;una lluna amb el rètol «Revisió nocturna».</media:description></media:content>
-  </item>
-  <item>
-    <title>Docents debaten si cal l&#x27;autorització de les famílies per fer servir IA amb l&#x27;alumnat</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/autorizacion-familias-ia.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>Un centre té limitada la IA generativa amb l&#x27;alumnat perquè algunes famílies no la van autoritzar; altres postures sostenen que n&#x27;hi ha prou amb informar. La normativa ho aclareix: cal informar les famílies, però entre els 14 i els 18 anys no cal el seu consentiment, tret que l&#x27;eina l&#x27;exigeixi.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-autorizacion-familias-ia.svg" medium="image" type="image/svg+xml"><media:description>Infografia en dos panells. A l&#x27;esquerra, «Menys de 14», amb una pissarra i el rètol «A Catalunya, el docent fa servir la IA». A la dreta, «De 14 a 18», amb quatre files: un megàfon, «Informar: sempre»; una balança, «Consentiment: no cal»; un document amb una marca de verificació, «Autorització: la recomana Catalunya»; i un document amb un llapis, «Obligatòria si l&#x27;eina la demana». A sota, una franja amb una persona ratllada: «Si una família s&#x27;hi oposa, només afecta el seu fill o filla».</media:description></media:content>
   </item>
 </channel>
 </rss>
