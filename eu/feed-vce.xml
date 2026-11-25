@@ -9,6 +9,23 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>«Mis Gastos»-ek gastuak kategoriaka jasotzen ditu eta grafikoetan erakusten ditu; Historian erabiltzen da</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Villanueva Aizcorbek «Mis Gastos» sortu du, gastuak kategoriaka jasotzeko eta eguneko, hilabeteko eta urteko guztizkoak ikusteko gaztelaniazko web-aplikazioa. Egilearen arabera, Historia-klaseetan erabiltzen du.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-24-gestor-personal-de-gastos-mensuales.jpg" medium="image" type="image/png"><media:description>«Mis Gastos» aplikazioa: goiburu urdin eta berdea, «Controla tu dinero y vivirás mejor» leloarekin, zero euroko lau guztizko eta formularioa data, kategoria, zenbateko eta deskribapen eremuekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Vibe Coding Educativo taldean azaldu zenez, INTEFek (Irakasleen Prestakuntzarako eta Teknologia…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-24/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-24/breve-2.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Vibe Coding Educativo taldean azaldu zenez, INTEFek (Irakasleen Prestakuntzarako eta Teknologia Hezitzaileetarako Institutu Nazionala) aztertutako tresnak semaforo batekin sailkatzen dituen pribatutasun-gidak ez ditu jada erakusten taldearen biltegiko aplikazioak, informazio hori orain biltegian bertan dagoelako. Aurrekaria: gida, bilatzaileduna den web gisa argitaratua.</description>
+  </item>
+  <item>
     <title>INTEFen pribatutasun-gomendioak PDFtik bilatzaile eta iragazkidun webgune batera doaz</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-23/guia-privacidad-herramientas-intef.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
@@ -431,24 +448,6 @@
     <category>Vibe coding</category>
     <description>AA laguntzaile batek ikastetxe arruntetarako pentsatutako orientabide batzuk musika-irakaskuntzara egokitzen ditu, bere oinarri dokumentala argitaratuta, berrikusi ahal izateko.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>«Txostena» errotulua duen dokumentu bat, gezi bat «Laguntzailea» errotulua duen txat-burbuila batera eta beste gezi bat «Kontserbatorioa» errotulua duen piano batera.</media:description></media:content>
-  </item>
-  <item>
-    <title>Irakasle batek ikastetxeko sirena kalkulu-orri batetik kudeatzen den txirrin musikal batekin ordezkatu du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/timbre-musical-escolar.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/timbre-musical-escolar.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>David Cordonesek kontatu du, AA sortzailearen laguntzarekin, Raspberry Pi batekin eskola-txirrina muntatu zuela eta klaustroak Google Sheets-etik aldatzen duela.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-06-timbre-musical-escolar.svg" medium="image" type="image/svg+xml"><media:description>Ezkerretik eskuinera doan eskema: «Kalkulu-orria» errotuluko kalkulu-orri bat, «Raspberry Pi» errotuluko txip baterako gezi bat eta «Megafonia» errotuluko bozgorailu baterako beste gezi bat. Txiparen azpian, «MP3 karpeta» errotuluko musika-fitxategi bat eta Raspberry Pirantz gora doan gezi bat.</media:description></media:content>
-  </item>
-  <item>
-    <title>Esaldien enkante bat, vibe coding arduratsuaren gida bat, kimika, musika eta liburu ilustratuak, berriak biltegian</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-06/semana-del-repositorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-06/semana-del-repositorio.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Urriaren 27tik, Vibe Coding Educativoren Baliabideen biltegiak hamasei baliabide berri ditu: hamarrek dagoeneko izan dute beren artikulua egunkarian, eta sei hemen aurkezten dira: bi Juan José de Harorenak, bat Felip Sarrocarena, bat FiQuiPediarena eta bi Samuel Sorianorenak.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-06-subasta-de-frases.jpg" medium="image" type="image/png"><media:description>Subasta de frasesen hasierako orria, «Crear una actividad» eta «Unirse a una sesión» botoiekin eta hiru txartelekin: Conocimiento, Valores y prioridades, Roles y conceptos.</media:description></media:content>
   </item>
 </channel>
 </rss>

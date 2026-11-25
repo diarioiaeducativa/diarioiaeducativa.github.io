@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Mis Gastos anota gastos por categorías e móstraos en gráficas; úsase en Historia</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Villanueva Aizcorbe creou «Mis Gastos», unha aplicación web en español para anotar gastos por categorías e ver totais diarios, mensuais e anuais. Segundo o seu autor, úsaa nas súas clases de Historia.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-24-gestor-personal-de-gastos-mensuales.jpg" medium="image" type="image/png"><media:description>Aplicación «Mis Gastos»: cabeceira azul e verde co lema «Controla tu dinero y vivirás mejor», catro totais a cero euros e o formulario con data, categoría, cantidade e descrición.</media:description></media:content>
+  </item>
+  <item>
     <title>As orientacións de privacidade do INTEF pasan do PDF a unha web con buscador e filtros</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-23/guia-privacidad-herramientas-intef.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
@@ -447,15 +456,6 @@
     <category>Vibe coding</category>
     <description>Un docente con experiencia explicou que pode facer un axente de IA con control completo dun equipo e que información convén manter fóra do seu alcance.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Unha xanela de terminal, o axente, ten unha frecha cara a un cartafol de traballo dentro dun equipo, mentres o seu camiño cara ao cartafol de datos do alumnado, cun cadeado, queda cortado por unha cruz vermella.</media:description></media:content>
-  </item>
-  <item>
-    <title>Unha escola de Cataluña comparte unha aplicación para a autoavaliación do alumnado e a valoración docente</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-01/la-teva-veu.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«La teva veu», creada por Felip Sarroca para a Escola Ramon Pont, xera informes en PDF para familias e profesorado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Un grupo de figuras, «Alumnado», pasa por un funil coa cifra «15» e o rótulo «Mínimo de respostas», e chega a un informe con barras e unha liña de referencia, «Informe docente».</media:description></media:content>
   </item>
 </channel>
 </rss>

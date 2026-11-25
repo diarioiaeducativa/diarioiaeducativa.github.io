@@ -1,0 +1,16 @@
+<svg class="ilu-d" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><style>svg.ilu-d{background:var(--sec-tinte,#fae4f0)}.ilu-d .t{stroke: var(--ilu-tinta,#16181d); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .a{stroke: var(--ilu-azul,#a8206f); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .r{stroke: var(--ilu-rojo,#c8202c); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .fa{fill: var(--ilu-relleno,#f2bedb); stroke: none;}.ilu-d .ft{fill: var(--ilu-tinta,#16181d); stroke: none;}.ilu-d .fz{fill: var(--ilu-azul,#a8206f); stroke: none;}.ilu-d .sr{fill: #e0403a; stroke: none;}.ilu-d .sa{fill: #f2a516; stroke: none;}.ilu-d .sv{fill: #2fa84f; stroke: none;}.ilu-d .lbl{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px;}.ilu-d .num{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 34px; font-weight: 600;}.ilu-d .num-tres{font-size: 38px; font-weight: 700;}.ilu-d .nom-chatgpt{fill: var(--c-herramientas,#1c3faa);}.ilu-d .nom-vce{fill: var(--c-comunidad,#1d7547);}.ilu-d .nom-edumedia{fill: var(--c-multimedia,#a8206f);}.ilu-d .total{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 60px; font-weight: 700;}.ilu-d g.li2{stroke-width: 1.25;}.ilu-d g.li3{stroke-width: 0.8333;}.ilu-d g.li4{stroke-width: 0.625;}</style>
+<g class="a li4" transform="translate(40 110) scale(4)"><!-- Lucide: terminal (ISC) --><path d="M12 19h8"/><path d="m4 17 6-6-6-6"/></g>
+<text class="lbl" x="88" y="250" text-anchor="middle">Agent</text>
+<path class="a" d="M150 150 C185 150 185 86 215 86 M203 77 L215 86 L201 93"/>
+<path class="a" d="M150 170 C185 170 185 226 215 226 M201 219 L215 226 L203 235"/>
+<g class="t li3" transform="translate(230 50) scale(3)"><!-- Lucide: box (ISC) --><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7 8.7 5 8.7-5"/><path d="M12 22V12"/></g>
+<text class="lbl" x="266" y="150" text-anchor="middle">3D program</text>
+<g class="t li3" transform="translate(230 190) scale(3)"><!-- Lucide: film (ISC) --><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M7 3v18"/><path d="M3 7.5h4"/><path d="M3 12h18"/><path d="M3 16.5h4"/><path d="M17 3v18"/><path d="M17 7.5h4"/><path d="M17 16.5h4"/></g>
+<text class="lbl" x="266" y="290" text-anchor="middle">Video</text>
+<path class="a" d="M320 86 C370 86 380 100 420 105 M408 96 L420 105 L406 112"/>
+<path class="a" d="M320 226 C370 226 380 140 420 128 M409 126 L420 128 L412 138"/>
+<g class="r li4" transform="translate(440 60) scale(4)"><!-- Lucide: battery-low (ISC) --><path d="M22 14v-4"/><path d="M6 14v-4"/><rect x="2" y="6" width="16" height="12" rx="2"/></g>
+<text class="r lbl" x="488" y="190" text-anchor="middle">Quota used up</text>
+<g class="t li3" transform="translate(452 220) scale(3)"><!-- Lucide: book-open (ISC) --><path d="M12 5v16"/><path d="M20.001 19A2 2 0 0022 17V5a2 2 0 00-1.999-2L16 3.002A5 5 0 0012 5a5 5 0 00-4-2H4a2 2 0 00-2 2v12a2 2 0 001.999 2H8a5 5 0 014 2 5 5 0 014-2z"/></g>
+<text class="lbl" x="488" y="324" text-anchor="middle">Learning costs more</text>
+</svg>

@@ -9,6 +9,23 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Mis Gastos anota despeses per categories i les mostra en gràfiques; s&#x27;usa a història</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Villanueva Aizcorbe va crear «Mis Gastos», una aplicació web en castellà per anotar despeses per categories i veure&#x27;n els totals diaris, mensuals i anuals. Segons el seu autor, la fa servir a les classes d&#x27;història.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-24-gestor-personal-de-gastos-mensuales.jpg" medium="image" type="image/png"><media:description>Aplicació «Mis Gastos»: capçalera blava i verda amb el lema «Controla tu dinero y vivirás mejor», quatre totals a zero euros i el formulari amb data, categoria, quantitat i descripció.</media:description></media:content>
+  </item>
+  <item>
+    <title>Segons es va explicar al grup Vibe Coding Educativo, la guia de privadesa que classifica amb un semàfor…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/breve-2.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Segons es va explicar al grup Vibe Coding Educativo, la guia de privadesa que classifica amb un semàfor les eines analitzades per l&#x27;INTEF (Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado) ja no mostra les aplicacions del repositori del grup, perquè aquesta informació és ara al mateix repositori. Antecedent: la guia, publicada com a web amb cercador.</description>
+  </item>
+  <item>
     <title>Les orientacions de privacitat de l&#x27;INTEF passen del PDF a una web amb cercador i filtres</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-23/guia-privacidad-herramientas-intef.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
@@ -431,24 +448,6 @@
     <category>Vibe coding</category>
     <description>Un assistent d&#x27;IA adapta a l&#x27;ensenyament musical unes orientacions pensades per a centres ordinaris, amb la seva base documental publicada per poder revisar-lo.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>Un document amb el rètol «Informe», una fletxa cap a una bombolla de xat amb el rètol «Assistent» i una altra fletxa cap a un piano amb el rètol «Conservatori».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un docent substitueix la sirena del centre per un timbre musical que es gestiona des d&#x27;un full de càlcul</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/timbre-musical-escolar.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/timbre-musical-escolar.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>David Cordones explica que, amb ajuda d&#x27;IA generativa, va muntar amb una Raspberry Pi un timbre escolar que el claustre canvia des de Google Sheets.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-06-timbre-musical-escolar.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;esquerra a dreta: un full de càlcul amb el rètol «Full de càlcul», una fletxa cap a un xip amb el rètol «Raspberry Pi» i una altra fletxa cap a un altaveu amb el rètol «Megafonia». Sota el xip, un fitxer de música amb el rètol «Carpeta MP3» i una fletxa que puja cap a la Raspberry Pi.</media:description></media:content>
-  </item>
-  <item>
-    <title>Una subhasta de frases, una guia de vibe coding responsable, química, música i llibres il·lustrats, nous al repositori</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-06/semana-del-repositorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-06/semana-del-repositorio.html</guid>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Des del 27 d&#x27;octubre, el Repositori de recursos de Vibe Coding Educativo suma setze recursos: deu ja han tingut el seu article al diari i sis es presenten aquí, dos de Juan José de Haro, un de Felip Sarroca, un de FiQuiPedia i dos de Samuel Soriano.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-06-subasta-de-frases.jpg" medium="image" type="image/png"><media:description>Pàgina d&#x27;inici de Subasta de frases, amb els botons «Crear una actividad» i «Unirse a una sesión» i tres targetes: Conocimiento, Valores y prioridades, Roles y conceptos.</media:description></media:content>
   </item>
 </channel>
 </rss>

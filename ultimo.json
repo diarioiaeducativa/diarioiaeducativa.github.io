@@ -1,31 +1,31 @@
 {
- "numero": 23,
- "sale": "2026-11-24",
+ "numero": 24,
+ "sale": "2026-11-25",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Las orientaciones de privacidad del INTEF pasan del PDF a una web con buscador y filtros"
+   "titular": "Microsoft lleva a España Elevate for Educators, formación en IA para docentes"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Les orientacions de privacitat de l'INTEF passen del PDF a una web amb cercador i filtres"
+   "titular": "Microsoft porta a Espanya Elevate for Educators, formació en IA per a docents"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "As orientacións de privacidade do INTEF pasan do PDF a unha web con buscador e filtros"
+   "titular": "Microsoft leva a España Elevate for Educators, formación en IA para docentes"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "INTEFen pribatutasun-gomendioak PDFtik bilatzaile eta iragazkidun webgune batera doaz"
+   "titular": "Microsoftek Espainiara ekarri du Elevate for Educators, irakasleentzako AA prestakuntza"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "The INTEF’s privacy guidelines move from a PDF to a website with search and filters"
+   "titular": "Microsoft brings Elevate for Educators, AI training for teachers, to Spain"
   }
  }
 }

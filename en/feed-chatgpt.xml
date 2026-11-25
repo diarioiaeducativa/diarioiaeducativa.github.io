@@ -9,6 +9,49 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Microsoft brings Elevate for Educators, AI training for teachers, to Spain</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-24/microsoft-elevate-educators.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-24/microsoft-elevate-educators.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The platform brings together courses, live seminars and a community of teachers, with three levels of recognition for teachers and another three for schools.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-24-microsoft-elevate-educators.svg" medium="image" type="image/svg+xml"><media:description>Two staircases of three steps, one labelled “Teachers” and the other “Schools”, whose arrows lead to a group of people labelled “Teacher community”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Navarre plans to use AI in school inspection without saying which programs or what data</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-24/navarra-inspeccion-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-24/navarra-inspeccion-ia.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The inspectorate’s action plan for the 2026-2027 school year includes AI as a support tool but does not specify tools or data safeguards, according to OKDIARIO.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-24-navarra-inspeccion-ia.svg" medium="image" type="image/svg+xml"><media:description>A document with a magnifying glass labelled “Inspection” points to a closed box with a question mark, labelled “AI as support” and “Unspecified”, and from it an arrow leads to a magnifying glass with a tick, labelled “Human review”.</media:description></media:content>
+  </item>
+  <item>
+    <title>FLUX.2 only made images; a year on, its successor also generates video with sound</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-24/flux-2-flux-3-video-sonido.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-24/flux-2-flux-3-video-sonido.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, Black Forest Labs launched FLUX.2, an image model that could be downloaded. In July 2026 it unveiled FLUX 3, which learns from images, video and audio at the same time.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-24-flux-2-flux-3-video-sonido.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, labelled “Nov. 2025”, an image icon labelled “Image”. On the right, labelled “Today”, the same image icon and, highlighted in blue, a video camera icon labelled “Video” and a speaker icon labelled “Sound”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Gemini now shows one user the option to switch off the use of their conversations to train Google’s…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-24/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-24/breve-3.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Gemini now shows one user the option to switch off the use of their conversations to train Google’s models, according to a screenshot shared in ChatGPT-IA-edu. Background: the announced change.</description>
+  </item>
+  <item>
+    <title>According to the poster shared in ChatGPT-IA-edu, the INTEF is keeping enrolment open until 27 November…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-24/breve-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-24/breve-4.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>According to the poster shared in ChatGPT-IA-edu, the INTEF is keeping enrolment open until 27 November for the NOOC (a very short open online course) “IA en las aulas: normativa, riesgos y oportunidades” (AI in the classroom: regulation, risks and opportunities).</description>
+  </item>
+  <item>
     <title>South Korea’s education minister resigns over measures against AI cheating</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-23/corea-dimision-ministro-ia-examen.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-23/corea-dimision-ministro-ia-examen.html</guid>
@@ -405,48 +448,6 @@
     <category>Vibe coding</category>
     <description>A thread in the group collects uses of agents such as Claude Code or Antigravity to run the television, music and the Home Assistant configuration, with control of privacy as a condition.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-09-domotica-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram in which a box, “Agent”, points to a code document labelled “Configuration”, which points to a house labelled “Home Assistant”; below, a red padlock labelled “No passwords”.</media:description></media:content>
-  </item>
-  <item>
-    <title>The open model that was “checkmating” the giants: a year on, Kimi is almost three times bigger and still behind</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-09/kimi-modelo-abierto-gigantes.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-09/kimi-modelo-abierto-gigantes.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>A year ago</category>
-    <description>In November 2025, people were sharing that a Chinese open-weights model, Kimi K2 Thinking, beat GPT-5 on some tests. Today Kimi K3, from the same family, is almost three times bigger, but its maker admits it does not match the best closed models.</description>
-  </item>
-  <item>
-    <title>An AI detector&#x27;s percentage opens a conversation with the student, but does not prove they copied</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-08/detector-ia-no-es-prueba.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/detector-ia-no-es-prueba.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>A post on the blog “Familias con inteligencia” asks what to do when a detector flags the work of a student who says they wrote it themselves, and suggests backing the percentage up with evidence of the process.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-08-detector-ia-no-es-prueba.svg" medium="image" type="image/svg+xml"><media:description>A set of scales tipped to the right: on the lighter left pan, a card labelled “Detector 87%”; on the heavier right pan, another labelled “Drafts”, “Versions” and “Oral explanation”. Between the two pans, a magnifying glass and the label “A person decides”.</media:description></media:content>
-  </item>
-  <item>
-    <title>The BBC tested AI toys for young children: one of the soft toys replied “I can&#x27;t help with killing you”…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-08/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/breve-1.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>The BBC tested AI toys for young children: one of the soft toys replied “I can&#x27;t help with killing you” after misunderstanding a question. British MPs are asking retailers to withdraw these toys before Black Friday.</description>
-  </item>
-  <item>
-    <title>Juan José de Haro has expanded his article with the idea that different agents (Claude Code, Codex,…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-08/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-08/breve-2.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>Juan José de Haro has expanded his article with the idea that different agents (Claude Code, Codex, Antigravity) can share a common body of knowledge that all of them can add to, as the paper reported on four-layer memory. It only works with agents installed on the computer, not with web versions.</description>
-  </item>
-  <item>
-    <title>The age for using AI in class depends on three different rules: those of the companies, the law and the education authorities</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/edad-ia-aula-tres-reglas.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>The Sunday feature</category>
-    <description>Each service’s terms, data protection law and some education authorities set different ages for using artificial intelligence, and they are often confused. This report explains what each says as of 6 November 2026, why research asks us to swap the question of age for the question of purpose, and how a primary or secondary teacher can decide which tool to use, with which account, and who operates it.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-edad-ia-aula-tres-reglas.svg" medium="image" type="image/svg+xml"><media:description>Infographic on an age ruler from 0 to 18, with marks at 13, 14 and 18, in three blocks. “Companies”: “OpenAI and Microsoft: from 13”, with a line from 13 to 18; “Anthropic: from 18”, with a dot at 18; and “Gemini with a school account: all ages”, with a bar from 0 to 18. “Data law”: “Own consent: from 14”, with a dashed line up to 14 and a solid one after it; and “At school, no consent needed: educational function”, with a bar from 0 to 18. “Some education authorities”: “Catalonia: the teacher operates the AI”, with a red line up to 14, and “From 14: inform, authorisation advisable”, with a line from 14; and “Basque Country: chatbots from 13”, with a cross before 13 and a line after it; and “Murcia: autonomous access from 3rd-year ESO”, with a dashed line up to 14 and a solid one after it. At the foot, “What for? Which account? Who operates it?”.</media:description></media:content>
   </item>
 </channel>
 </rss>

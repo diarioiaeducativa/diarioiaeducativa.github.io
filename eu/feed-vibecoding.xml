@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe coding</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>«Mis Gastos»-ek gastuak kategoriaka jasotzen ditu eta grafikoetan erakusten ditu; Historian erabiltzen da</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Villanueva Aizcorbek «Mis Gastos» sortu du, gastuak kategoriaka jasotzeko eta eguneko, hilabeteko eta urteko guztizkoak ikusteko gaztelaniazko web-aplikazioa. Egilearen arabera, Historia-klaseetan erabiltzen du.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-24-gestor-personal-de-gastos-mensuales.jpg" medium="image" type="image/png"><media:description>«Mis Gastos» aplikazioa: goiburu urdin eta berdea, «Controla tu dinero y vivirás mejor» leloarekin, zero euroko lau guztizko eta formularioa data, kategoria, zenbateko eta deskribapen eremuekin.</media:description></media:content>
+  </item>
+  <item>
     <title>INTEFen pribatutasun-gomendioak PDFtik bilatzaile eta iragazkidun webgune batera doaz</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-23/guia-privacidad-herramientas-intef.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
@@ -447,15 +456,6 @@
     <category>Vibe coding</category>
     <description>Esperientzia duen irakasle batek azaldu zuen zer egin dezakeen AA agente batek ekipo baten kontrol osoarekin eta zer informazio komeni den bere eskumenetik kanpo uztea.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Terminal-leiho batek, agenteak, gezi bat du ekipo baten barruko lan-karpeta batera, eta ikasleen datuen karpetarako bidea, giltzarrapo batekin, gurutze gorri batek mozten du.</media:description></media:content>
-  </item>
-  <item>
-    <title>Kataluniako eskola batek ikasleen autoebaluaziorako eta irakasleen balorazioa egiteko aplikazio bat partekatu du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-01/la-teva-veu.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-01/la-teva-veu.html</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Felip Sarrocak Escola Ramon Pontentzat sortutako «La teva veu» aplikazioak PDF txostenak sortzen ditu familientzat eta irakasleentzat.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-01-la-teva-veu.svg" medium="image" type="image/svg+xml"><media:description>Figura-talde bat, «Ikasleak», inbutu batetik pasatzen da, «15» zifrarekin eta «Gutxieneko erantzunak» lelo-azalarekin, eta barrak eta erreferentzia-lerro bat dituen txosten batera iristen da, «Irakasleen txostena».</media:description></media:content>
   </item>
 </channel>
 </rss>

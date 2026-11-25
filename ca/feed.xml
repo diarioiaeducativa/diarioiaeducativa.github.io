@@ -9,6 +9,91 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Microsoft porta a Espanya Elevate for Educators, formació en IA per a docents</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/microsoft-elevate-educators.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/microsoft-elevate-educators.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>La plataforma reuneix cursos, seminaris en directe i una comunitat de docents, amb tres nivells de reconeixement per al professorat i tres més per als centres.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-24-microsoft-elevate-educators.svg" medium="image" type="image/svg+xml"><media:description>Dues escales de tres graons, una amb el rètol «Professorat» i l&#x27;altra «Centres», les fletxes de les quals porten a un grup de persones amb el rètol «Comunitat docent».</media:description></media:content>
+  </item>
+  <item>
+    <title>Navarra preveu fer servir IA a la inspecció educativa sense precisar quins programes ni quines dades</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/navarra-inspeccion-ia.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/navarra-inspeccion-ia.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>El pla d&#x27;actuació de la inspecció per al curs 2026-2027 inclou la IA com a suport, però no concreta eines ni garanties sobre les dades, segons OKDIARIO.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-24-navarra-inspeccion-ia.svg" medium="image" type="image/svg+xml"><media:description>Un document amb una lupa amb el rètol «Inspecció» apunta a una caixa tancada amb un interrogant, amb els rètols «IA com a suport» i «Sense precisar», i d&#x27;aquesta surt una fletxa cap a una lupa amb una marca de verificació, amb el rètol «Revisió humana».</media:description></media:content>
+  </item>
+  <item>
+    <title>Connectar la IA a Blender o Unreal esgota molt de pressa el límit d&#x27;ús, segons EduMedia-IAG</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/agentes-coste-cuota.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/agentes-coste-cuota.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>Segons es va comentar al grup, connectar assistents de programació a programes de creació en 3D i vídeo dispara el consum, tot i que surt més barat que formar-se en aquests programes.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-24-agentes-coste-cuota.svg" medium="image" type="image/svg+xml"><media:description>Un terminal amb el rètol «Agent» es connecta amb un cub amb el rètol «Programa 3D» i amb una pel·lícula amb el rètol «Vídeo», que porten a una bateria gairebé buida amb el rètol «Quota esgotada»; a sota, un llibre obert amb el rètol «Formar-se costa més».</media:description></media:content>
+  </item>
+  <item>
+    <title>Mis Gastos anota despeses per categories i les mostra en gràfiques; s&#x27;usa a història</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Luis Villanueva Aizcorbe va crear «Mis Gastos», una aplicació web en castellà per anotar despeses per categories i veure&#x27;n els totals diaris, mensuals i anuals. Segons el seu autor, la fa servir a les classes d&#x27;història.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-24-gestor-personal-de-gastos-mensuales.jpg" medium="image" type="image/png"><media:description>Aplicació «Mis Gastos»: capçalera blava i verda amb el lema «Controla tu dinero y vivirás mejor», quatre totals a zero euros i el formulari amb data, categoria, quantitat i descripció.</media:description></media:content>
+  </item>
+  <item>
+    <title>Reservem les ulleres de realitat virtual per a les tasques en què importa des d&#x27;on es mira</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/gafas-realidad-virtual-punto-de-vista.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/gafas-realidad-virtual-punto-de-vista.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Opinió</category>
+    <description>Per dibuixar una cala pot bastar un mapa. Per esbrinar en quin revolt del sender es perd de vista el far, sí que té sentit entrar al paisatge.</description>
+  </item>
+  <item>
+    <title>FLUX.2 només feia imatges; un any després, el seu successor genera també vídeo amb so</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/flux-2-flux-3-video-sonido.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/flux-2-flux-3-video-sonido.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, Black Forest Labs estrenava FLUX.2, un model d&#x27;imatges que es podia descarregar. Al juliol de 2026 va presentar FLUX 3, que aprèn alhora d&#x27;imatges, vídeo i àudio.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-24-flux-2-flux-3-video-sonido.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, amb el rètol «Nov. 2025», una icona d&#x27;imatge amb el rètol «Imatge». A la dreta, amb el rètol «Avui», la mateixa icona d&#x27;imatge i, destacades en blau, una icona de càmera de vídeo amb el rètol «Vídeo» i una icona d&#x27;altaveu amb el rètol «So».</media:description></media:content>
+  </item>
+  <item>
+    <title>A EduMedia-IAG s&#x27;ha compartit una primera prova de Project Genie, l&#x27;eina de Google que crea móns…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/breve-1.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>A EduMedia-IAG s&#x27;ha compartit una primera prova de Project Genie, l&#x27;eina de Google que crea móns interactius: va costar fer-se amb els controls. El diari ja va publicar un article sobre Genie 4 a Project Genie.</description>
+  </item>
+  <item>
+    <title>Segons es va explicar al grup Vibe Coding Educativo, la guia de privadesa que classifica amb un semàfor…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/breve-2.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Segons es va explicar al grup Vibe Coding Educativo, la guia de privadesa que classifica amb un semàfor les eines analitzades per l&#x27;INTEF (Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado) ja no mostra les aplicacions del repositori del grup, perquè aquesta informació és ara al mateix repositori. Antecedent: la guia, publicada com a web amb cercador.</description>
+  </item>
+  <item>
+    <title>Gemini ja mostra a un usuari l&#x27;opció per desactivar l&#x27;ús de les seves converses per entrenar els models de…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/breve-3.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Gemini ja mostra a un usuari l&#x27;opció per desactivar l&#x27;ús de les seves converses per entrenar els models de Google, segons una captura compartida a ChatGPT-IA-edu. Context: el canvi anunciat.</description>
+  </item>
+  <item>
+    <title>Segons el cartell compartit a ChatGPT-IA-edu, l&#x27;INTEF manté oberta fins al 27 de novembre la inscripció al…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-24/breve-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-24/breve-4.html</guid>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Segons el cartell compartit a ChatGPT-IA-edu, l&#x27;INTEF manté oberta fins al 27 de novembre la inscripció al NOOC (un curs en línia obert i molt breu) «IA en las aulas: normativa, riesgos y oportunidades».</description>
+  </item>
+  <item>
     <title>Les orientacions de privacitat de l&#x27;INTEF passen del PDF a una web amb cercador i filtres</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-23/guia-privacidad-herramientas-intef.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-23/guia-privacidad-herramientas-intef.html</guid>
@@ -801,95 +886,6 @@
     <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
     <category>Breus</category>
     <description>Claude Whiteboards i Sheets, en beta, i Claude Data, que substitueix Dashboards, es van anunciar el 10 de novembre i estan disponibles en tots els plans de pagament.</description>
-  </item>
-  <item>
-    <title>L&#x27;autor del timbre musical escolar ha publicat el seu projecte a GitHub: guia d&#x27;instal·lació, manual per…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/breve-3.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/breve-3.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>L&#x27;autor del timbre musical escolar ha publicat el seu projecte a GitHub: guia d&#x27;instal·lació, manual per al claustre i codi, amb llicència AGPL per al codi i CC BY-SA 4.0 per a la documentació.</description>
-  </item>
-  <item>
-    <title>Tres models dibuixen en SVG una làmina de la cèl·lula animal sense errors de contingut</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/svg-celula-tres-modelos.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/svg-celula-tres-modelos.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Un docent va demanar a tres models avançats una làmina de la cèl·lula animal. Cap va cometre errors de contingut, i n&#x27;atribueix la fiabilitat al format vectorial.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-svg-celula-tres-modelos.svg" medium="image" type="image/svg+xml"><media:description>Esquema de dos camins que parteixen de «Model»: un passa per «Codi SVG» i arriba a una cèl·lula animal amb una marca de verificació; l&#x27;altre passa per «Generador» i arriba a una altra cèl·lula sense marca.</media:description></media:content>
-  </item>
-  <item>
-    <title>Anthropic recomana dir a Fable 5.2 que el codi és seu si es vol que el reorganitzi</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/prompt-propiedad-codigo-fable.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/prompt-propiedad-codigo-fable.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>La guia d&#x27;Anthropic per a Fable 5.2 explica que el model es comporta de manera diferent segons qui figuri com a propietari del codi, amb un cost en tokens.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dues columnes: a l&#x27;esquerra, dos blocs de codi idèntics i els rètols «Afegeix» i «Menys del 10 %»; a la dreta, una icona de fusió sobre un sol bloc de codi i els rètols «Unifica» i «75 %».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un segon vídeo amb Fable 5.2 afegeix un agent que revisa el contingut científic abans de generar-lo</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/respiracion-celular-revisor.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/respiracion-celular-revisor.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Després de l&#x27;animació de la fotosíntesi, el mateix docent n&#x27;ha fet una sobre la respiració cel·lular amb un agent revisor, i ha traduït la primera al català.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-respiracion-celular-revisor.svg" medium="image" type="image/svg+xml"><media:description>Cadena de cinc passos amb fletxes, amb els rètols «Text», «Revisor», «Imatges», «Revisor» i «Vídeo», i una lupa en cada pas de revisió.</media:description></media:content>
-  </item>
-  <item>
-    <title>«Polvo eres», un curt d&#x27;animació stop-motion fet amb IA generativa</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/polvo-eres-corto.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/polvo-eres-corto.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Un membre del grup ha compartit el seu primer curtmetratge, una paròdia de terror simpàtic feta amb IA generativa.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-polvo-eres-corto.svg" medium="image" type="image/svg+xml"><media:description>Tres fotogrames seguits d&#x27;un curt stop-motion en què un monstret de pols avança d&#x27;esquerra a dreta; rètols: «Stop-motion», «Monstrets de pols» i «Generat amb IA».</media:description></media:content>
-  </item>
-  <item>
-    <title>Eduvers reuneix simulacions interactives de Física i Química i prepara laboratoris virtuals en 3D</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/eduvers-simulaciones.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/eduvers-simulaciones.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>El seu autor va afegint simulacions a la web i anuncia que enllaçarà laboratoris en 3D en les properes setmanes.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-eduvers-simulaciones.svg" medium="image" type="image/svg+xml"><media:description>Tres targetes sota el rètol «Simulacions i laboratoris»: la trajectòria parabòlica d&#x27;una bola, «Física»; un matràs, «Química»; i un cub en 3D, «Laboratori 3D».</media:description></media:content>
-  </item>
-  <item>
-    <title>GPT-5.1 va arribar a ChatGPT entre l&#x27;astorament per la seva rapidesa i no hi va complir quatre mesos</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/gpt-5-1-llegada-retirada.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/gpt-5-1-llegada-retirada.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>Al novembre de 2025 sorprenia com d&#x27;hora arribava GPT-5.1, el model «més conversacional» d&#x27;OpenAI. L&#x27;11 de març de 2026 ja havia desaparegut de ChatGPT.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-gpt-5-1-llegada-retirada.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, amb el rètol «Nov. 2025», una bafarada de xat amb línies de text i el rètol «GPT-5.1». A la dreta, amb el rètol «Avui», la mateixa bafarada però discontínua i en blau, amb el rètol «GPT-5.1» ratllat i a sota «Retirat».</media:description></media:content>
-  </item>
-  <item>
-    <title>N&#x27;hi ha prou amb un sol prompt perquè Fable 5.2 prepari una animació de la fotosíntesi per a batxillerat</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-10/fable-animacion-fotosintesis.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-10/fable-animacion-fotosintesis.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Amb un sol prompt, el model va preparar un vídeo quadrat amb veu natural pensat per a batxillerat. L&#x27;autor el considera acceptable per a classe i parla d&#x27;una nova via per crear materials.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-10-fable-animacion-fotosintesis.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;esquerra a dreta: una bafarada de missatge amb el rètol «Un prompt» porta a un requadre amb el símbol de la consola i el rètol «Consola», que porta a una pantalla quadrada amb una fulla i el rètol «Vídeo quadrat»; a dalt, un rellotge vermell amb el rètol «45 min».</media:description></media:content>
-  </item>
-  <item>
-    <title>EduGems passa a dir-se EduPrompts perquè Google substitueix els Gems per Skills</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-10/edugems-eduprompts.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-10/edugems-eduprompts.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Eines</category>
-    <description>El lloc amb 174 prompts per a centres educatius canvia de nom i d&#x27;adreça. Els prompts es podran seguir copiant en qualsevol altra eina d&#x27;IA.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-10-edugems-eduprompts.svg" medium="image" type="image/svg+xml"><media:description>A dalt, un requadre amb el rètol «EduGems» apunta a un altre amb el rètol «EduPrompts»; a baix, un requadre «Gems» porta amb una fletxa vermella a un altre amb el rètol «Skills», i a la dreta una icona de copiar amb el rètol «Copiar».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una aplicació per a classe de música proposa col·locar al pentagrama les notes d&#x27;una partitura</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-10/pentagrama-maestro.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-10/pentagrama-maestro.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Pentagrama Maestro, creada per Iñaki Fernández, sona nota a nota i ofereix tres nivells i partides sense límit.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-10-pentagrama-maestro.svg" medium="image" type="image/svg+xml"><media:description>Un pentagrama amb quatre notes que pugen, amb el rètol «Pentagrama», i una fletxa que porta a un altaveu amb el rètol «Escoltar»; a baix, tres barres d&#x27;alçada creixent amb el rètol «3 nivells».</media:description></media:content>
   </item>
 </channel>
 </rss>
