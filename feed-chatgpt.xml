@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>OCDE y UE fijan cuatro ámbitos de alfabetización en IA para primaria y secundaria</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-25/ailit-ocde-ue-marco.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-25/ailit-ocde-ue-marco.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>El marco AILit, no vinculante, describe en 19 competencias, con tres niveles de progresión y ejemplos de aula, qué deberían saber, hacer y valorar los alumnos ante la inteligencia artificial.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-25-ailit-ocde-ue-marco.svg" medium="image" type="image/svg+xml"><media:description>Escalera de cuatro peldaños ascendentes con los rótulos «Interactuar», «Crear», «Gestionar» y «Moldear»; sobre cada peldaño hay un punto por competencia: siete en el primero y cuatro en cada uno de los otros. A la derecha, una ficha con tres líneas de longitud creciente y el rótulo «3 niveles».</media:description></media:content>
+  </item>
+  <item>
+    <title>Ocho criterios de la UE para elegir y evaluar contenidos educativos digitales en el aula</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-25/ue-contenidos-educativos-digitales.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-25/ue-contenidos-educativos-digitales.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Biblioteca</category>
+    <description>Una guía de la Comisión Europea, no vinculante, acompaña al profesorado y a los equipos directivos desde la selección de un recurso hasta la evaluación de su efecto.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-25-ue-contenidos-educativos-digitales.svg" medium="image" type="image/svg+xml"><media:description>Un octógono con ocho vértices y radios desde el centro, rotulado «Ocho criterios». Dentro, una línea azul irregular une puntos más o menos cercanos a cada vértice, para marcar los puntos fuertes y débiles de un recurso. Una lupa roja señala uno de los vértices, con el rótulo «Cumplimiento legal».</media:description></media:content>
+  </item>
+  <item>
+    <title>Quitar la marca visible de Gemini era cosa de pago; un año después basta un ajuste</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-25/gemini-marca-agua-visible-ajuste.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-25/gemini-marca-agua-visible-ajuste.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hace un año</category>
+    <description>En noviembre de 2025 sorprendía que Google dejara quitar a algunos suscriptores la marca que señala sus imágenes como generadas con IA. Desde agosto de 2026, casi cualquier usuario puede apagarla; la marca invisible se queda.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-25-gemini-marca-agua-visible-ajuste.svg" medium="image" type="image/svg+xml"><media:description>Díptico de dos imágenes iguales. A la izquierda, «Nov. 2025»: una imagen con una estrella visible en la esquina y un candado, con el rótulo «Solo Ultra». A la derecha, «Hoy»: la misma imagen con la estrella tachada en azul y un interruptor activado, con el rótulo «Un ajuste».</media:description></media:content>
+  </item>
+  <item>
     <title>Microsoft lleva a España Elevate for Educators, formación en IA para docentes</title>
     <link>https://diarioiaeducativa.github.io/2026-11-24/microsoft-elevate-educators.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-24/microsoft-elevate-educators.html</guid>
@@ -423,31 +450,6 @@
     <category>Hace un año</category>
     <description>En noviembre de 2025, Gemini ya escribía y editaba fórmulas en LaTeX, pero al llevarlas a Google Docs llegaban como código. Un año después, el procesador de Google sigue sin leer LaTeX y el remedio es el mismo: un complemento o un editor aparte.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por una línea vertical. A la izquierda, «Nov. 2025»: una página de Google Docs con la fórmula convertida en llaves de código, rotulada «Código». A la derecha, «Hoy»: la misma página con el mismo «Código», y una flecha azul hacia una pieza de puzle azul rotulada «Complemento», el remedio que sigue siendo necesario.</media:description></media:content>
-  </item>
-  <item>
-    <title>Quien mantiene un agente de Claude Code en el NAS de casa cuenta que corre como servicio con permisos de…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-10/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/breve-1.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Quien mantiene un agente de Claude Code en el NAS de casa cuenta que corre como servicio con permisos de administrador, y que antes de borrar datos, tocar discos o abrir puertos le pregunta. Continúa el hilo sobre domótica con agentes.</description>
-  </item>
-  <item>
-    <title>La web del Congreso Nacional de Digitalización Educativa, celebrado en Albacete el 5 y 6 de noviembre,…</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-10/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-10/breve-2.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>La web del Congreso Nacional de Digitalización Educativa, celebrado en Albacete el 5 y 6 de noviembre, ofrece el acceso a la retransmisión de las ponencias, según el grupo.</description>
-  </item>
-  <item>
-    <title>Un hilo del grupo usa agentes de programación para controlar la domótica de casa</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-09/domotica-agentes-ia.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un hilo del grupo recoge usos de agentes como Claude Code o Antigravity para manejar televisión, música y la configuración de Home Assistant, con el control de la privacidad como condición.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-09-domotica-agentes-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en el que un recuadro, «Agente», apunta a un documento de código con el rótulo «Configuración», que apunta a una casa con el rótulo «Home Assistant»; abajo, un candado rojo con el rótulo «Sin claves».</media:description></media:content>
   </item>
 </channel>
 </rss>

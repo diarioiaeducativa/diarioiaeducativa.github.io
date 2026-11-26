@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe coding</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Vibe Coding Responsable 4.0: anything published openly must be reusable</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-25/vibe-responsable-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-25/vibe-responsable-4.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Version 4.0 of Juan José de Haro’s guide explains that the educational exception in copyright law does not cover what is published on an open website.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-25-vibe-responsable-4.svg" medium="image" type="image/svg+xml"><media:description>Two shelves of images. On the left, a closed shelf with a padlock labelled “Closed classroom”. On the right, an open shelf with a verification badge labelled “Known licence”. Between them, an arrow labelled “Open”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Transcribe audio and video and create subtitles without the file leaving your computer</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-25/transcribe-herramienta-local-de-transcri.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-25/transcribe-herramienta-local-de-transcri.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Transcribe turns recordings into text and subtitles with the Whisper model, inside the browser and without sending anything to third parties. It was created by Juan José de Haro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-25-transcribe-herramienta-local-de-transcri.jpg" medium="image" type="image/png"><media:description>The Transcribe page with buttons to select audio or video and to import SRT or VTT files, the Whisper model selector, the transcription status and the box for the extracted text.</media:description></media:content>
+  </item>
+  <item>
     <title>Mis Gastos logs spending by category and charts it; it is used in History</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>FiQuiPedia’s app lets users practise organic chemistry nomenclature with configurable tests and a tool that goes from formula to name.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Start screen titled “Formulación Química” with the Tests, F → N and Panel buttons, IUPAC and CAS logos, links to libraries and a row of functional groups.</media:description></media:content>
-  </item>
-  <item>
-    <title>A Geography teacher uses Gemini to build a counter of births and deaths around the world</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-03/pulso-demografico.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>“Pulso Demográfico Mundial en Tiempo Real”, by Ricardo Chao Prieto, simulates in real time the births and deaths in each country, based on the UN’s population projections for 2026.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>A globe in the centre with a births counter on the left, marked with a blue plus, and a deaths counter on the right, with a minus, and a red arrow pointing up to indicate net growth.</media:description></media:content>
-  </item>
-  <item>
-    <title>Giving a command-line agent full access means protecting students’ data</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>An experienced teacher explained what an AI agent with full control of a computer can do and what information should be kept out of its reach.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>A terminal window, the agent, has an arrow towards a working folder inside a computer, while its path to the students’ data folder, marked with a padlock, is cut off by a red cross.</media:description></media:content>
   </item>
 </channel>
 </rss>

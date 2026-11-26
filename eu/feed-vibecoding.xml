@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe coding</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Vibe Coding Responsable 4.0: irekian argitaratutakoa berrerabiltzeko modukoa izan behar da</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-25/vibe-responsable-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-25/vibe-responsable-4.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Juan José de Haroren gidaren 4.0 bertsioak azaltzen du egile-eskubideen salbuespen hezitzaileak ez duela babesten web ireki batean argitaratzen dena.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-25-vibe-responsable-4.svg" medium="image" type="image/svg+xml"><media:description>Irudiz betetako bi apal. Ezkerrean, apal itxi bat kandado batekin eta «Ikasgela itxia» etiketarekin. Eskuinean, apal ireki bat egiaztapen-intsignia batekin eta «Lizentzia ezaguna» etiketarekin. Biren artean, gezi bat «Irekia» etiketarekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Audioa eta bideoa transkribatu, azpitituluak sortu, fitxategia ordenagailutik atera gabe</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-25/transcribe-herramienta-local-de-transcri.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-25/transcribe-herramienta-local-de-transcri.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Transcribe-k grabazioak testu eta azpititulu bihurtzen ditu Whisper ereduarekin, nabigatzailearen barruan eta hirugarrenei ezer bidali gabe. Juan José de Harok sortu du.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-25-transcribe-herramienta-local-de-transcri.jpg" medium="image" type="image/png"><media:description>Transcribe orria: audioa edo bideoa hautatzeko eta SRT edo VTT inportatzeko botoiak, Whisper ereduaren hautatzailea, transkripzioaren egoera eta ateratako testuaren koadroa.</media:description></media:content>
+  </item>
+  <item>
     <title>«Mis Gastos»-ek gastuak kategoriaka jasotzen ditu eta grafikoetan erakusten ditu; Historian erabiltzen da</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>FiQuiPediaren aplikazioak kimika organikoaren nomenklatura praktikatzeko aukera ematen du, test konfiguragarriekin eta formulatik izenera pasatzen den tresna batekin.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>«Formulación Química» izeneko hasierako pantaila, Tests, F → N eta Panel botoiekin, IUPAC eta CASen logotipoekin, liburutegietarako estekekin eta talde funtzionalen errenkada batekin.</media:description></media:content>
-  </item>
-  <item>
-    <title>Geografia irakasle batek Geminirekin munduko jaiotza eta heriotzen kontagailu bat sortu du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/pulso-demografico.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/pulso-demografico.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Ricardo Chao Prietoren «Pulso Demográfico Mundial en Tiempo Real» aplikazioak, benetako erritmoan, herrialde bakoitzeko jaiotzak eta heriotzak simulatzen ditu, NBEk 2026rako egindako biztanleria-proiekzioetan oinarrituta.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>Lurreko globo bat erdian, jaiotzen kontagailu bat ezkerrean, plus urdin batekin markatua, eta heriotzen beste bat eskuinean, minus batekin, eta gezi gorri bat gorantz, hazkunde garbia adierazten duena.</media:description></media:content>
-  </item>
-  <item>
-    <title>Kontsola-agente bati sarbide osoa emateak ikasleen datuak babestea eskatzen du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Esperientzia duen irakasle batek azaldu zuen zer egin dezakeen AA agente batek ekipo baten kontrol osoarekin eta zer informazio komeni den bere eskumenetik kanpo uztea.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Terminal-leiho batek, agenteak, gezi bat du ekipo baten barruko lan-karpeta batera, eta ikasleen datuen karpetarako bidea, giltzarrapo batekin, gurutze gorri batek mozten du.</media:description></media:content>
   </item>
 </channel>
 </rss>

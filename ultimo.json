@@ -1,31 +1,31 @@
 {
- "numero": 24,
- "sale": "2026-11-25",
+ "numero": 25,
+ "sale": "2026-11-26",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Microsoft lleva a España Elevate for Educators, formación en IA para docentes"
+   "titular": "Vibe Coding Responsable 4.0: lo publicado en abierto debe poder reutilizarse"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Microsoft porta a Espanya Elevate for Educators, formació en IA per a docents"
+   "titular": "Vibe Coding Responsable 4.0: el que es publica en obert ha de poder reutilitzar-se"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Microsoft leva a España Elevate for Educators, formación en IA para docentes"
+   "titular": "Vibe Coding Responsable 4.0: o publicado en aberto debe poder reutilizarse"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Microsoftek Espainiara ekarri du Elevate for Educators, irakasleentzako AA prestakuntza"
+   "titular": "Vibe Coding Responsable 4.0: irekian argitaratutakoa berrerabiltzeko modukoa izan behar da"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "Microsoft brings Elevate for Educators, AI training for teachers, to Spain"
+   "titular": "Vibe Coding Responsable 4.0: anything published openly must be reusable"
   }
  }
 }

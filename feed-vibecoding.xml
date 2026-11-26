@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Vibe Coding Responsable 4.0: lo publicado en abierto debe poder reutilizarse</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-25/vibe-responsable-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-25/vibe-responsable-4.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>La versión 4.0 de la guía de Juan José de Haro explica que la excepción educativa de los derechos de autor no ampara lo que se publica en una web abierta.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-25-vibe-responsable-4.svg" medium="image" type="image/svg+xml"><media:description>Dos estanterías con imágenes. A la izquierda, una estantería cerrada con un candado y el rótulo «Aula cerrada». A la derecha, una estantería abierta con una insignia de verificación y el rótulo «Licencia conocida». Entre ambas, una flecha con el rótulo «Abierta».</media:description></media:content>
+  </item>
+  <item>
+    <title>Transcribir audio y vídeo y crear subtítulos sin que el archivo salga del ordenador</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-25/transcribe-herramienta-local-de-transcri.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-25/transcribe-herramienta-local-de-transcri.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Transcribe convierte grabaciones en texto y en subtítulos con el modelo Whisper, dentro del navegador y sin enviar nada a terceros. Lo creó Juan José de Haro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-25-transcribe-herramienta-local-de-transcri.jpg" medium="image" type="image/png"><media:description>Página de Transcribe con los botones para seleccionar audio o vídeo e importar SRT o VTT, el selector de modelo Whisper, el estado de la transcripción y el cuadro del texto extraído.</media:description></media:content>
+  </item>
+  <item>
     <title>Mis Gastos anota gastos por categorías y los muestra en gráficas; se usa en Historia</title>
     <link>https://diarioiaeducativa.github.io/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>La aplicación de FiQuiPedia permite practicar la nomenclatura de química orgánica con tests configurables y una herramienta que pasa de la fórmula al nombre.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>Pantalla de inicio titulada «Formulación Química» con los botones Tests, F → N y Panel, logotipos de IUPAC y CAS, enlaces a bibliotecas y una fila de grupos funcionales.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un profesor de Geografía crea con Gemini un contador de nacimientos y muertes en el mundo</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-03/pulso-demografico.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-03/pulso-demografico.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Pulso Demográfico Mundial en Tiempo Real», de Ricardo Chao Prieto, simula al ritmo real los nacimientos y las defunciones de cada país a partir de las proyecciones de población de la ONU para 2026.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-pulso-demografico.svg" medium="image" type="image/svg+xml"><media:description>Un globo terráqueo en el centro con un contador de nacimientos a la izquierda, marcado con un más azul, y otro de defunciones a la derecha, con un menos, y una flecha roja hacia arriba que indica el crecimiento neto.</media:description></media:content>
-  </item>
-  <item>
-    <title>Dar acceso total a un agente de consola exige proteger los datos del alumnado</title>
-    <link>https://diarioiaeducativa.github.io/2026-11-02/agentes-consola-acceso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-02/agentes-consola-acceso.html</guid>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un docente con experiencia explicó qué puede hacer un agente de IA con control completo de un equipo y qué información conviene mantener fuera de su alcance.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-02-agentes-consola-acceso.svg" medium="image" type="image/svg+xml"><media:description>Una ventana de terminal, el agente, tiene una flecha hacia una carpeta de trabajo dentro de un equipo, mientras su camino hacia la carpeta de datos del alumnado, con un candado, queda cortado por una cruz roja.</media:description></media:content>
   </item>
 </channel>
 </rss>

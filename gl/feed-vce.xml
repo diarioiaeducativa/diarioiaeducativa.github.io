@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Vibe Coding Responsable 4.0: o publicado en aberto debe poder reutilizarse</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-25/vibe-responsable-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-25/vibe-responsable-4.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>A versión 4.0 da guía de Juan José de Haro explica que a excepción educativa dos dereitos de autoría non ampara o que se publica nunha web aberta.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-25-vibe-responsable-4.svg" medium="image" type="image/svg+xml"><media:description>Dúas estantarías con imaxes. Á esquerda, unha estantaría pechada cun cadeado e o rótulo «Aula pechada». Á dereita, unha estantaría aberta cunha insignia de verificación e o rótulo «Licenza coñecida». Entre ambas, unha frecha co rótulo «Aberta».</media:description></media:content>
+  </item>
+  <item>
+    <title>Transcribir audio e vídeo e crear subtítulos sen que o ficheiro saia do ordenador</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-25/transcribe-herramienta-local-de-transcri.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-25/transcribe-herramienta-local-de-transcri.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Transcribe converte gravacións en texto e en subtítulos co modelo Whisper, dentro do navegador e sen enviar nada a terceiros. Creouno Juan José de Haro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-25-transcribe-herramienta-local-de-transcri.jpg" medium="image" type="image/png"><media:description>Páxina de Transcribe cos botóns para seleccionar audio ou vídeo e importar SRT ou VTT, o selector de modelo Whisper, o estado da transcrición e o cadro do texto extraído.</media:description></media:content>
+  </item>
+  <item>
+    <title>O acurtador de ligazóns ja.cat non cargaba o mércores 25 pola mañá e, segundo se comentou no grupo, a…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-25/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-25/breve-1.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>O acurtador de ligazóns ja.cat non cargaba o mércores 25 pola mañá e, segundo se comentou no grupo, a causa era unha incidencia do seu provedor de DNS, Dinahosting. No grupo propúxose unha solución provisional que só vale para o ordenador no que se aplica.</description>
+  </item>
+  <item>
     <title>Mis Gastos anota gastos por categorías e móstraos en gráficas; úsase en Historia</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
@@ -421,33 +447,6 @@
     <category>Hai un ano</category>
     <description>En novembro de 2025, unha nube de palabras feita con Claude gardaba os votos de todos cun só prompt. Hoxe os artefactos novos gardan datos sen necesidade de publicalos.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptico. Á esquerda, «Nov. 2025»: unha aplicación con barras de votos, unha base de datos cun cadeado e o rótulo «Só publicado». Á dereita, «Hoxe»: a mesma aplicación, coa base de datos marcada cun sinal de visto e o rótulo «Sen publicar».</media:description></media:content>
-  </item>
-  <item>
-    <title>Holmio converte a táboa periódica nun xogo diario de detectives</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/holmio-juego-quimica.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/holmio-juego-quimica.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Cada día hai un caso novo con 118 sospeitosos, os elementos químicos, e seis acusacións para dar co culpable; segundo o seu autor, non require rexistro.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>Unha cuadrícula de caselas que imita a táboa periódica, co rótulo «Caso do día» enriba e «Un caso por elemento» debaixo; unha lupa azul sinala unha casela. Á dereita, seis círculos, un cunha cruz vermella, co rótulo «6 acusacións».</media:description></media:content>
-  </item>
-  <item>
-    <title>Unha calculadora reparte a xornada do profesorado itinerante entre varios centros da Generalitat Valenciana</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/itinerancias.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/itinerancias.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Itinerancias, creada por José Luis Miralles Bono, calcula como se reparten as horas complementarias entre os centros dun docente que comparte destino, segundo as horas lectivas que imparte en cada un. Ábrese no navegador, en castelán e en valenciano, e ofrece tamén unha folla de Excel co mesmo cálculo.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-07-itinerancias.jpg" medium="image" type="image/png"><media:description>Lapela «Tablas» de Itinerancias, con selector de horas complementarias e apartados despregables sobre o reparto proporcional e por bloques.</media:description></media:content>
-  </item>
-  <item>
-    <title>Incluxat leva ao conservatorio as orientacións dos informes psicopedagóxicos</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-07/incluxat-conservatorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-07/incluxat-conservatorio.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un asistente de IA adapta ao ensino musical unhas orientacións pensadas para centros ordinarios, coa súa base documental publicada para poder revisalo.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>Un documento co rótulo «Informe», unha frecha cara a unha burbulla de chat co rótulo «Asistente» e outra frecha cara a un piano co rótulo «Conservatorio».</media:description></media:content>
   </item>
 </channel>
 </rss>

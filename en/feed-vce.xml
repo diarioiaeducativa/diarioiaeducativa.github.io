@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Vibe Coding Responsable 4.0: anything published openly must be reusable</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-25/vibe-responsable-4.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-25/vibe-responsable-4.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Version 4.0 of Juan José de Haro’s guide explains that the educational exception in copyright law does not cover what is published on an open website.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-25-vibe-responsable-4.svg" medium="image" type="image/svg+xml"><media:description>Two shelves of images. On the left, a closed shelf with a padlock labelled “Closed classroom”. On the right, an open shelf with a verification badge labelled “Known licence”. Between them, an arrow labelled “Open”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Transcribe audio and video and create subtitles without the file leaving your computer</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-25/transcribe-herramienta-local-de-transcri.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-25/transcribe-herramienta-local-de-transcri.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Transcribe turns recordings into text and subtitles with the Whisper model, inside the browser and without sending anything to third parties. It was created by Juan José de Haro.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-25-transcribe-herramienta-local-de-transcri.jpg" medium="image" type="image/png"><media:description>The Transcribe page with buttons to select audio or video and to import SRT or VTT files, the Whisper model selector, the transcription status and the box for the extracted text.</media:description></media:content>
+  </item>
+  <item>
+    <title>The ja.cat link shortener failed to load on the morning of Wednesday 25th and, according to a comment in…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-25/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-25/breve-1.html</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>The ja.cat link shortener failed to load on the morning of Wednesday 25th and, according to a comment in the group, the cause was an incident at its DNS provider, Dinahosting. A temporary workaround was suggested in the group, but it only works on the computer where it is applied.</description>
+  </item>
+  <item>
     <title>Mis Gastos logs spending by category and charts it; it is used in History</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-24/gestor-personal-de-gastos-mensuales.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-24/gestor-personal-de-gastos-mensuales.html</guid>
@@ -421,33 +447,6 @@
     <category>A year ago</category>
     <description>In November 2025, a word cloud built with Claude stored everyone’s votes from a single prompt. Today the new artifacts save data without needing to be published.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>A word cloud with a “backend” in a single prompt: today Claude’s new artifacts save data without being published</media:description></media:content>
-  </item>
-  <item>
-    <title>Holmio turns the periodic table into a daily detective game</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-07/holmio-juego-quimica.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/holmio-juego-quimica.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Each day brings a new case with 118 suspects, the chemical elements, and six accusations to find the culprit; according to its author, no registration is required.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-holmio-juego-quimica.svg" medium="image" type="image/svg+xml"><media:description>A grid of squares imitating the periodic table, with the label “Case of the day” above and “One case per element” below; a blue magnifying glass points at one square. On the right, six circles, one with a red cross, labelled “6 accusations”.</media:description></media:content>
-  </item>
-  <item>
-    <title>A calculator splits the working week of peripatetic teachers across several schools in the Valencian Community</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-07/itinerancias.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/itinerancias.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Itinerancias, created by José Luis Miralles Bono, calculates how the non-teaching hours are divided among the schools of a teacher who is shared between them, according to the teaching hours they give in each one. It opens in the browser, in Spanish and Valencian, and also offers an Excel spreadsheet with the same calculation.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-07-itinerancias.jpg" medium="image" type="image/png"><media:description>The “Tablas” tab of Itinerancias, with a selector for non-teaching hours and expandable sections on proportional and block allocation.</media:description></media:content>
-  </item>
-  <item>
-    <title>Incluxat brings the guidance from educational psychology reports to the conservatoire</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-07/incluxat-conservatorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-07/incluxat-conservatorio.html</guid>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>An AI assistant adapts to music education guidance designed for mainstream schools, with its supporting documentation published so it can be reviewed.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-07-incluxat-conservatorio.svg" medium="image" type="image/svg+xml"><media:description>A document labelled “Report”, an arrow to a chat bubble labelled “Assistant” and another arrow to a piano labelled “Conservatoire”.</media:description></media:content>
   </item>
 </channel>
 </rss>
