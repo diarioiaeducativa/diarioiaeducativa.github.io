@@ -195,7 +195,8 @@ main:focus { outline: none; }
 .vineta .fsp { fill: var(--papel); }
 .vineta .polvo { opacity: 0.5; }
 .vineta .globo { fill: var(--papel); stroke: var(--tinta); stroke-width: 2; }
-.vineta .globo-cola { fill: var(--papel); stroke: var(--tinta); stroke-width: 2; stroke-linejoin: round; }
+.vineta .globo-cola-fondo { fill: var(--papel); stroke: none; }
+.vineta .globo-cola { fill: none; stroke: var(--tinta); stroke-width: 2; stroke-linejoin: round; }
 .vineta .bocadillo-texto { fill: var(--tinta); font-family: 'Newsreader', Georgia, serif; font-size: 17px; }
 .vineta .cartela { fill: var(--papel-2); stroke: var(--tinta); stroke-width: 2; }
 .vineta .cartela-texto { fill: var(--tinta); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 16px; }
