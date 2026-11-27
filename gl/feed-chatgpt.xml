@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Os proxectos de Claude pasan de cartafol a conversa que reparte o traballo en fíos</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-26/claude-proyectos-hilos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-26/claude-proyectos-hilos.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Ferramentas</category>
+    <description>En setembro Anthropic anunciou o redeseño dos proxectos de Claude, en fase de proba (beta) e para Claude Code: a persoa usuaria describe o que necesita e Claude divídeo en tarefas que se executan na nube.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-26-claude-proyectos-hilos.svg" medium="image" type="image/svg+xml"><media:description>Esquema: á esquerda, unha conversa chamada «Coordinador» reparte o traballo en tres fíos, cada un coa súa rama, dentro dun recadro «Na nube»; os fíos devolven os seus resultados a unha «Memoria» común. Rótulos: Coordinador, Na nube, Fíos, Memoria.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un informe de Coursera mide a demanda de cursos de IA e de destrezas humanas</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-26/coursera-udemy-habilidades-2026.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-26/coursera-udemy-habilidades-2026.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucións e empresas</category>
+    <description>O Global Skills Report 2026, publicado en setembro, usa datos das plataformas Coursera e Udemy e presenta un índice que combina a actividade de aprendizaxe coa preparación de cada país para a IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-26-coursera-udemy-habilidades-2026.svg" medium="image" type="image/svg+xml"><media:description>Dous círculos que se solapan, «Cursos de IA» e «Destrezas humanas»; a zona común é o «Índice novo». Un globo terráqueo acompaña o rótulo «98 países». Rótulos: Cursos de IA, Destrezas humanas, Índice novo, 98 países.</media:description></media:content>
+  </item>
+  <item>
+    <title>Chegou DigComp 3.0 e agardábase o marco docente; un ano despois aínda é un borrador</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-26/digcomp-digcompedu-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-26/digcomp-digcompedu-espera.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>En novembro de 2025, a Comisión Europea poñía a IA no marco de competencia dixital da cidadanía e o profesorado preguntaba cando chegaría ao seu. A versión definitiva non se espera ata a primavera de 2027.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-26-digcomp-digcompedu-espera.svg" medium="image" type="image/svg+xml"><media:description>Díptico. Á esquerda, «Nov. 2025»: o documento «DigComp» cunha marca de feito e o documento «DigCompEdu» cun signo de interrogación. Á dereita, «Hoxe»: o primeiro segue coa súa marca e o segundo, «Borrador», é un documento de bordo descontinuo cun lapis.</media:description></media:content>
+  </item>
+  <item>
     <title>A OCDE e a UE fixan catro ámbitos de alfabetización en IA para primaria e secundaria</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-25/ailit-ocde-ue-marco.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-25/ailit-ocde-ue-marco.html</guid>
@@ -423,33 +450,6 @@
     <category>Multimedia</category>
     <description>Tras a animación da fotosíntese, o mesmo docente fixo unha sobre a respiración celular cun axente revisor, e traduciu a primeira ao catalán.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-11-respiracion-celular-revisor.svg" medium="image" type="image/svg+xml"><media:description>Cadea de cinco pasos con frechas, cos rótulos «Texto», «Revisor», «Imaxes», «Revisor» e «Vídeo», e unha lupa en cada paso de revisión.</media:description></media:content>
-  </item>
-  <item>
-    <title>GPT-5.1 chegou a ChatGPT entre asombro pola súa rapidez e non cumpriu catro meses nel</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-11/gpt-5-1-llegada-retirada.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-11/gpt-5-1-llegada-retirada.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Hai un ano</category>
-    <description>En novembro de 2025 sorprendía o axiña que chegaba GPT-5.1, o modelo «máis conversacional» de OpenAI. O 11 de marzo de 2026 xa desaparecera de ChatGPT.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-11-gpt-5-1-llegada-retirada.svg" medium="image" type="image/svg+xml"><media:description>Díptico dividido por unha liña vertical. Á esquerda, co rótulo «Nov. 2025», unha burbulla de chat con liñas de texto e o rótulo «GPT-5.1». Á dereita, co rótulo «Hoxe», a mesma burbulla pero descontinua e en azul, co rótulo «GPT-5.1» riscado e debaixo «Retirado».</media:description></media:content>
-  </item>
-  <item>
-    <title>EduGems pasa a chamarse EduPrompts porque Google substitúe os Gems polas Skills</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/edugems-eduprompts.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/edugems-eduprompts.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Ferramentas</category>
-    <description>O sitio con 174 prompts para centros educativos cambia de nome e de enderezo. Os prompts poderanse seguir copiando en calquera outra ferramenta de IA.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-edugems-eduprompts.svg" medium="image" type="image/svg+xml"><media:description>Arriba, un recadro co rótulo «EduGems» apunta a outro co rótulo «EduPrompts»; abaixo, un recadro «Gems» leva cunha frecha vermella a outro co rótulo «Skills», e á dereita unha icona de copiar co rótulo «Copiar».</media:description></media:content>
-  </item>
-  <item>
-    <title>As fórmulas de Gemini chegaban a Google Docs como código; un ano despois, Docs segue sen entender LaTeX</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/latex-gemini-google-docs.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/latex-gemini-google-docs.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Hai un ano</category>
-    <description>En novembro de 2025, Gemini xa escribía e editaba fórmulas en LaTeX, pero ao levalas a Google Docs chegaban como código. Un ano despois, o procesador de Google segue sen ler LaTeX e o remedio é o mesmo: un complemento ou un editor á parte.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Díptico partido por unha liña vertical. Á esquerda, «Nov. 2025»: unha páxina de Google Docs coa fórmula convertida en chaves de código, co rótulo «Código». Á dereita, «Hoxe»: a mesma páxina co mesmo «Código», e unha frecha azul cara a unha peza de crebacabezas azul co rótulo «Complemento», o remedio que segue sendo necesario.</media:description></media:content>
   </item>
 </channel>
 </rss>

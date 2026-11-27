@@ -9,6 +9,33 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Els projectes de Claude passen de carpeta a conversa que reparteix la feina en fils</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/claude-proyectos-hilos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/claude-proyectos-hilos.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Al setembre Anthropic va anunciar el redisseny dels projectes de Claude, en fase de prova (beta) i per a Claude Code: la persona usuària descriu el que necessita i Claude ho divideix en tasques que s&#x27;executen al núvol.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-claude-proyectos-hilos.svg" medium="image" type="image/svg+xml"><media:description>Esquema: a l&#x27;esquerra, una conversa anomenada «Coordinador» reparteix la feina en tres fils, cadascun amb la seva branca, dins d&#x27;un requadre «Al núvol»; els fils retornen els resultats a una «Memòria» comuna. Rètols: Coordinador, Al núvol, Fils, Memòria.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un informe de Coursera mesura la demanda de cursos d&#x27;IA i d&#x27;habilitats humanes</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/coursera-udemy-habilidades-2026.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/coursera-udemy-habilidades-2026.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>El Global Skills Report 2026, publicat al setembre, fa servir dades de les plataformes Coursera i Udemy i presenta un índex que combina l&#x27;activitat d&#x27;aprenentatge amb la preparació de cada país per a la IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-coursera-udemy-habilidades-2026.svg" medium="image" type="image/svg+xml"><media:description>Dos cercles que se superposen, «Cursos d&#x27;IA» i «Habilitats humanes»; la zona comuna és l&#x27;«Índex nou». Un globus terraqüi acompanya el rètol «98 països». Rètols: Cursos d&#x27;IA, Habilitats humanes, Índex nou, 98 països.</media:description></media:content>
+  </item>
+  <item>
+    <title>Va arribar DigComp 3.0 i s&#x27;esperava el marc docent; un any després encara és un esborrany</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/digcomp-digcompedu-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/digcomp-digcompedu-espera.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, la Comissió Europea posava la IA en el marc de competència digital de la ciutadania i el professorat preguntava quan arribaria al seu. La versió definitiva no s&#x27;espera fins a la primavera de 2027.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-digcomp-digcompedu-espera.svg" medium="image" type="image/svg+xml"><media:description>Díptic. A l&#x27;esquerra, «Nov. 2025»: el document «DigComp» amb una marca de fet i el document «DigCompEdu» amb un signe d&#x27;interrogació. A la dreta, «Avui»: el primer continua amb la seva marca i el segon, «Esborrany», és un document de vora discontínua amb un llapis.</media:description></media:content>
+  </item>
+  <item>
     <title>L&#x27;OCDE i la UE fixen quatre àmbits d&#x27;alfabetització en IA per a primària i secundària</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-25/ailit-ocde-ue-marco.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-25/ailit-ocde-ue-marco.html</guid>
@@ -423,33 +450,6 @@
     <category>Multimèdia</category>
     <description>Després de l&#x27;animació de la fotosíntesi, el mateix docent n&#x27;ha fet una sobre la respiració cel·lular amb un agent revisor, i ha traduït la primera al català.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-respiracion-celular-revisor.svg" medium="image" type="image/svg+xml"><media:description>Cadena de cinc passos amb fletxes, amb els rètols «Text», «Revisor», «Imatges», «Revisor» i «Vídeo», i una lupa en cada pas de revisió.</media:description></media:content>
-  </item>
-  <item>
-    <title>GPT-5.1 va arribar a ChatGPT entre l&#x27;astorament per la seva rapidesa i no hi va complir quatre mesos</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/gpt-5-1-llegada-retirada.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/gpt-5-1-llegada-retirada.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>Al novembre de 2025 sorprenia com d&#x27;hora arribava GPT-5.1, el model «més conversacional» d&#x27;OpenAI. L&#x27;11 de març de 2026 ja havia desaparegut de ChatGPT.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-gpt-5-1-llegada-retirada.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, amb el rètol «Nov. 2025», una bafarada de xat amb línies de text i el rètol «GPT-5.1». A la dreta, amb el rètol «Avui», la mateixa bafarada però discontínua i en blau, amb el rètol «GPT-5.1» ratllat i a sota «Retirat».</media:description></media:content>
-  </item>
-  <item>
-    <title>EduGems passa a dir-se EduPrompts perquè Google substitueix els Gems per Skills</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-10/edugems-eduprompts.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-10/edugems-eduprompts.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Eines</category>
-    <description>El lloc amb 174 prompts per a centres educatius canvia de nom i d&#x27;adreça. Els prompts es podran seguir copiant en qualsevol altra eina d&#x27;IA.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-10-edugems-eduprompts.svg" medium="image" type="image/svg+xml"><media:description>A dalt, un requadre amb el rètol «EduGems» apunta a un altre amb el rètol «EduPrompts»; a baix, un requadre «Gems» porta amb una fletxa vermella a un altre amb el rètol «Skills», i a la dreta una icona de copiar amb el rètol «Copiar».</media:description></media:content>
-  </item>
-  <item>
-    <title>Les fórmules de Gemini arribaven a Google Docs com a codi; un any després, Docs continua sense entendre LaTeX</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-10/latex-gemini-google-docs.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-10/latex-gemini-google-docs.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>Al novembre de 2025, Gemini ja escrivia i editava fórmules en LaTeX, però en dur-les a Google Docs arribaven com a codi. Un any després, el processador de Google continua sense llegir LaTeX i el remei és el mateix: un complement o un editor a part.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-10-latex-gemini-google-docs.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: una pàgina de Google Docs amb la fórmula convertida en claus de codi, rotulada «Codi». A la dreta, «Avui»: la mateixa pàgina amb el mateix «Codi», i una fletxa blava cap a una peça de trencaclosques blava rotulada «Complement», el remei que continua sent necessari.</media:description></media:content>
   </item>
 </channel>
 </rss>

@@ -9,6 +9,68 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>Claude’s projects go from folder to conversation that splits the work into threads</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-26/claude-proyectos-hilos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/claude-proyectos-hilos.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Tools</category>
+    <description>In September Anthropic announced a redesign of Claude’s projects, in beta and for Claude Code: users describe what they need and Claude divides it into tasks that run in the cloud.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-26-claude-proyectos-hilos.svg" medium="image" type="image/svg+xml"><media:description>Diagram: on the left, a conversation called “Coordinator” splits the work into three threads, each with its own branch, inside a box labelled “In the cloud”; the threads return their results to a shared “Memory”. Labels: Coordinator, In the cloud, Threads, Memory.</media:description></media:content>
+  </item>
+  <item>
+    <title>A train travel agency is used to practise basic maths in secondary school</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-26/estacion-tren-agencia-viajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/estacion-tren-agencia-viajes.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca has used Claude Code to create a game-style activity for mixed-ability groups in secondary school (ESO) and shares the code and a guide for adapting it.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-26-estacion-tren-agencia-viajes.svg" medium="image" type="image/svg+xml"><media:description>A train follows a track; a ticket points to “Timetables and prices”. The track is closed (“Track closed”, marked with a red cross) and a blue detour, “Another route”, leads to the “Destination”. Labels: Timetables and prices, Another route, Track closed, Destination.</media:description></media:content>
+  </item>
+  <item>
+    <title>Elemental Cómics presents the periodic table with a comic for each element, according to its author</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>An interactive periodic table that, according to its author, opens each element as a comic followed by comprehension activities. It was created by Ernest Boixader and is shared under an open licence.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-26-comic-elements-v-2-aprendiendo-la-estruc.jpg" medium="image" type="image/png"><media:description>A colourful periodic table on a dark background, with the title “Elemental Cómics”, filter buttons for the families and the first rows of elements.</media:description></media:content>
+  </item>
+  <item>
+    <title>A Coursera report measures demand for AI and human-skills courses</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-26/coursera-udemy-habilidades-2026.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/coursera-udemy-habilidades-2026.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>The Global Skills Report 2026, published in September, uses data from the Coursera and Udemy platforms and presents an index combining learning activity with each country’s readiness for AI.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-26-coursera-udemy-habilidades-2026.svg" medium="image" type="image/svg+xml"><media:description>Two overlapping circles, “AI courses” and “Human skills”; the shared area is the “New index”. A globe accompanies the label “98 countries”. Labels: AI courses, Human skills, New index, 98 countries.</media:description></media:content>
+  </item>
+  <item>
+    <title>HeyGen clones a voice for avatar videos, and its free plan allows three a month</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-26/heygen-clonar-voz-avatar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/heygen-clonar-voz-avatar.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>The tool turns a text into audio or into a video with a presenter, using a voice cloned from a short recording. Only an adult can use it, and only with the consent of the person whose voice it is.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-26-heygen-clonar-voz-avatar.svg" medium="image" type="image/svg+xml"><media:description>A microphone with a sound wave, labelled “Own voice”, leads by an arrow to a simply drawn presenter with sound waves coming from the mouth, labelled “Avatar”; on the right, a paper script, labelled “Script”, with an arrow towards the presenter; below, in red, “With consent”.</media:description></media:content>
+  </item>
+  <item>
+    <title>DigComp 3.0 arrived and the teachers’ framework was expected; a year later it is still a draft</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-26/digcomp-digcompedu-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/digcomp-digcompedu-espera.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, the European Commission put AI into the digital competence framework for citizens, and teachers asked when theirs would follow. The final version is not expected until spring 2027.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-26-digcomp-digcompedu-espera.svg" medium="image" type="image/svg+xml"><media:description>Diptych. On the left, “Nov. 2025”: the “DigComp” document with a tick and the “DigCompEdu” document with a question mark. On the right, “Today”: the first still has its tick and the second, “Draft”, is a document with a dashed border and a pencil.</media:description></media:content>
+  </item>
+  <item>
+    <title>The conversation continued in Vibe Coding Educativo about whether it is better to program with AI agents…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-26/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/breve-1.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>The conversation continued in Vibe Coding Educativo about whether it is better to program with AI agents from the console or from the desktop app. One view held that the power is the same and the difference lies in autonomy: tasks that run on their own, without anyone requesting them; another replied that you can also automate from the app, in the cloud or with a computer left on, although it was admitted that for more advanced use of agents the console seems the better option. It was covered in the article Console or app: teachers compare how to work with a programming agent.</description>
+  </item>
+  <item>
     <title>Vibe Coding Responsable 4.0: anything published openly must be reusable</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-25/vibe-responsable-4.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-25/vibe-responsable-4.html</guid>
@@ -825,69 +887,6 @@
     <category>Vibe coding</category>
     <description>A new interactive geography app in Galician has been shared in Vibe Coding Educativo. A full description of its game modes could not be checked.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-13-atlas-en-xogo.svg" medium="image" type="image/svg+xml"><media:description>A browser window with a map and the label “Atlas en xogo”; to its left, a magnifying glass with a plus sign, labelled “Zoom”; to its right, a globe labelled “3D view”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Disney was going to open its characters to AI; Sora shut down before the money arrived</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-13/disney-personajes-sora-cierre.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/disney-personajes-sora-cierre.html</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-    <category>A year ago</category>
-    <description>In November 2025 it was being said that Disney would allow content to be created with its characters, and the end of generative AI’s “free-for-all” was being predicted. The deal came in December, with Sora; in March, OpenAI shut Sora down and the deal fell apart.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-13-disney-personajes-sora-cierre.svg" medium="image" type="image/svg+xml"><media:description>Diptych in two halves. On the left, “Nov. 2025”: a film clapperboard and a coin with a dollar sign, under the label “Licence”. On the right, “Today”: the same clapperboard and the same coin crossed out with blue lines, under the label “Closed”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Microsoft unveils Classroom, a dedicated space to centre classwork on Microsoft 365</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-12/microsoft-classroom.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/microsoft-classroom.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institutions &amp; Industry</category>
-    <description>Microsoft Classroom brings assignments, grades and AI tools together on a single screen for primary, secondary and higher education. It arrives in 2027 at no extra cost for schools on certain plans.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-12-microsoft-classroom.svg" medium="image" type="image/svg+xml"><media:description>A panel labelled “Classroom” with four arrows leading to four boxes labelled “Tasks”, “Grades”, “Notebook” and “AI”.</media:description></media:content>
-  </item>
-  <item>
-    <title>England&#x27;s university regulator calls for more assessment without AI and reopens the debate on how to verify authorship</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-12/ofs-evaluacion-sin-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/ofs-evaluacion-sin-ia.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debates</category>
-    <description>The Office for Students recommends secure formats such as in-person or oral exams. In the group, members debated what can and cannot be detected.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-12-ofs-evaluacion-sin-ia.svg" medium="image" type="image/svg+xml"><media:description>A diagram in two halves: on the left, under the label “Secure formats”, three icons labelled “Oral” (a microphone), “Presentation” (a whiteboard) and “Practical” (a pencil); on the right, a magnifying glass crossed out in red with the label “Detector”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Relleu Obert turns a piece of real map into a 3D model that can be printed for the classroom</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-12/relleu-obert.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/relleu-obert.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>A free, open-source project lets you pick a place, generate its relief in the browser and export it for 3D printing.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-12-relleu-obert.svg" medium="image" type="image/svg+xml"><media:description>Three steps joined by arrows: a map labelled “Map”, a mountain labelled “Relief” and a printer labelled “Model”.</media:description></media:content>
-  </item>
-  <item>
-    <title>UNESCO proposes five units for students aged 13 to 15 to question AI’s answers and decide for themselves</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-12/unesco-ia-decides.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/unesco-ia-decides.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>“AI answers. You decide” is a companion guide to UNESCO’s media and information literacy curriculum, with classroom discussions and activities that can be used separately.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-12-unesco-ia-decides.svg" medium="image" type="image/svg+xml"><media:description>A diagram of three concentric circles: “You” in the centre, “AI systems” around it and “People and institutions” in the outer ring; two curved arrows link the first two and a red arrow points from outside to the question “Where can I have a say?”. Below, the label “Five questions” and five boxes, one for each question in the guide.</media:description></media:content>
-  </item>
-  <item>
-    <title>England&#x27;s university regulator clarifies which AI practices fit its quality conditions and publishes the study behind them</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-12/ofs-ia-educacion-superior.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/ofs-ia-educacion-superior.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Library</category>
-    <description>The Office for Students and Advance HE have put out a 48-page report, based on more than 300 students and staff, and a guide that translates its findings into registration conditions B1, B2 and B4.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-12-ofs-ia-educacion-superior.svg" medium="image" type="image/svg+xml"><media:description>Diagram from left to right: a document labelled “Report” leads to an open book labelled “Guide B1 B2 B4”, which forks into two assessment lanes: a closed padlock labelled “Closed” and an open padlock labelled “Open”.</media:description></media:content>
-  </item>
-  <item>
-    <title>A tool helps apply the order of priority in admissions to Valencian conservatoires</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-12/prelacion-admision-conservatorios-cv.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-12/prelacion-admision-conservatorios-cv.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>José Luis Miralles Bono has created a website with diagrams, an age calculator and Excel templates for applying Order 8/2026 in music and dance schools in the Valencian Community.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-12-prelacion-admision-conservatorios-cv.jpg" medium="image" type="image/png"><media:description>Page titled “Prelación de acceso a conservatorio”, with a tab bar (Outline, Timeline, Step-by-step guide, Age, Reorientation, Definitions, Templates) and four collapsible blocks of allocations.</media:description></media:content>
   </item>
 </channel>
 </rss>

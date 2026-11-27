@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Una agència de viatges en tren serveix per practicar matemàtiques bàsiques a l&#x27;ESO</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/estacion-tren-agencia-viajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/estacion-tren-agencia-viajes.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca ha creat amb Claude Code una activitat en forma de joc per a grups barrejats d&#x27;ESO i comparteix el codi i una guia per adaptar-la.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-estacion-tren-agencia-viajes.svg" medium="image" type="image/svg+xml"><media:description>Un tren segueix una via; un bitllet assenyala els «Horaris i preus». La via queda tallada («Via tallada», marcada amb una creu vermella) i un desviament blau, «Una altra ruta», porta al «Destí». Rètols: Horaris i preus, Una altra ruta, Via tallada, Destí.</media:description></media:content>
+  </item>
+  <item>
+    <title>Elemental Cómics presenta la taula periòdica amb un còmic per element, segons el seu autor</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Una taula periòdica interactiva que, segons el seu autor, obre cada element com un còmic seguit d&#x27;activitats de comprensió. La va crear Ernest Boixader i es comparteix amb llicència oberta.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-26-comic-elements-v-2-aprendiendo-la-estruc.jpg" medium="image" type="image/png"><media:description>Taula periòdica de colors sobre fons fosc, amb el títol «Elemental Cómics», botons de filtre per famílies i les primeres files d&#x27;elements.</media:description></media:content>
+  </item>
+  <item>
+    <title>Va continuar a Vibe Coding Educativo la conversa sobre si és millor programar amb agents d&#x27;IA des de la…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/breve-1.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Va continuar a Vibe Coding Educativo la conversa sobre si és millor programar amb agents d&#x27;IA des de la consola o des de l&#x27;aplicació d&#x27;escriptori. Una postura va sostenir que la potència és la mateixa i que la diferència és l&#x27;autonomia: tasques que s&#x27;executen soles, sense que ningú les demani; una altra va respondre que també es pot automatitzar des de l&#x27;aplicació, al núvol o amb un ordinador encès, tot i que es va admetre que per a un ús més avançat dels agents la consola sembla millor opció. Es va tractar a l&#x27;article Consola o aplicació: docents comparen com treballar amb un agent de programació.</description>
+  </item>
+  <item>
     <title>Vibe Coding Responsable 4.0: el que es publica en obert ha de poder reutilitzar-se</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-25/vibe-responsable-4.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-25/vibe-responsable-4.html</guid>
@@ -421,32 +447,6 @@
     <category>Vibe coding</category>
     <description>«El aprendiz del pastor» reuneix història, textos, jocs i materials didàctics sobre la llengua de la vall de Bielsa.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-09-belsetan-lengua-aragonesa.svg" medium="image" type="image/svg+xml"><media:description>Una muntanya amb el rètol «Vall de Bielsa» porta a un llibre obert amb el rètol «Belsetán», del qual surten dues fletxes: una a uns daus amb el rètol «Jocs» i una altra a un document amb el rètol «Fitxes».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un connector gratuït per a Windows envia dades de sensors d&#x27;una placa micro:bit, per USB, a la plataforma…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-09/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-09/breve-1.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Un connector gratuït per a Windows envia dades de sensors d&#x27;una placa micro:bit, per USB, a la plataforma ThingSpeak, útil per a estacions meteorològiques o horts amb gràfiques.</description>
-  </item>
-  <item>
-    <title>Un planificador permet muntar el calendari del curs a partir de l&#x27;oficial de la Comunitat Valenciana o des de zero</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/calendari-planificador-de-curso.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Calendari, creat per José Luis Miralles Bono amb ajuda de Claude, permet muntar el calendari escolar d&#x27;un centre des del navegador, partint de l&#x27;oficial valencià o des de zero.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici de Calendari amb quatre targetes: calendari oficial de la Comunitat Valenciana, crear calendari nou, importar des d&#x27;arxiu i veure calendaris publicats.</media:description></media:content>
-  </item>
-  <item>
-    <title>Un núvol de vots amb «backend» en un sol prompt: avui els artefactes nous de Claude desen dades sense publicar-se</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-08/artefactos-claude-almacenamiento.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>El novembre de 2025, un núvol de paraules fet amb Claude desava els vots de tothom amb un sol prompt. Avui els artefactes nous desen dades sense necessitat de publicar-los.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Díptic. A l&#x27;esquerra, «Nov. 2025»: una aplicació amb barres de vots, una base de dades amb un cadenat i el rètol «Només publicat». A la dreta, «Avui»: la mateixa aplicació, amb la base de dades marcada amb un senyal de visat i el rètol «Sense publicar».</media:description></media:content>
   </item>
 </channel>
 </rss>

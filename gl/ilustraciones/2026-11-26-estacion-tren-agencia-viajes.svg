@@ -1,0 +1,13 @@
+<svg class="ilu-d" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340"><style>svg.ilu-d{background:var(--sec-tinte,#e2f1e8)}.ilu-d .t{stroke: var(--ilu-tinta,#16181d); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .a{stroke: var(--ilu-azul,#1d7547); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .r{stroke: var(--ilu-rojo,#c8202c); fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round;}.ilu-d .fa{fill: var(--ilu-relleno,#bfe0cc); stroke: none;}.ilu-d .ft{fill: var(--ilu-tinta,#16181d); stroke: none;}.ilu-d .fz{fill: var(--ilu-azul,#1d7547); stroke: none;}.ilu-d .sr{fill: #e0403a; stroke: none;}.ilu-d .sa{fill: #f2a516; stroke: none;}.ilu-d .sv{fill: #2fa84f; stroke: none;}.ilu-d .lbl{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 18px;}.ilu-d .num{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 34px; font-weight: 600;}.ilu-d .num-tres{font-size: 38px; font-weight: 700;}.ilu-d .nom-chatgpt{fill: var(--c-herramientas,#1c3faa);}.ilu-d .nom-vce{fill: var(--c-comunidad,#1d7547);}.ilu-d .nom-edumedia{fill: var(--c-multimedia,#a8206f);}.ilu-d .total{fill: var(--ilu-tinta,#16181d); font-family: 'Newsreader', Georgia, serif; font-size: 60px; font-weight: 700;}.ilu-d g.li2{stroke-width: 1.25;}.ilu-d g.li3{stroke-width: 0.8333;}.ilu-d g.li4{stroke-width: 0.625;}</style>
+<g class="t li4" transform="translate(30 122) scale(4)"><!-- Lucide: train-front (ISC) --><path d="M8 3.1V7a4 4 0 0 0 8 0V3.1"/><path d="m9 15-1-1"/><path d="m15 15 1-1"/><path d="M9 19c-2.8 0-5-2.2-5-5v-4a8 8 0 0 1 16 0v4c0 2.8-2.2 5-5 5Z"/><path d="m8 19-2 3"/><path d="m16 19 2 3"/></g>
+<path class="t" d="M140 170 H300 M410 170 H570"/>
+<path class="t" d="M160 158 V182 M200 158 V182 M240 158 V182 M280 158 V182 M430 158 V182 M470 158 V182 M510 158 V182 M550 158 V182"/>
+<path class="r" d="M342 150 L368 190 M368 150 L342 190"/>
+<path class="a" d="M300 170 C320 80 390 80 410 170"/>
+<g class="t li3" transform="translate(164 84) scale(3)"><!-- Lucide: ticket (ISC) --><path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M13 5v2"/><path d="M13 17v2"/><path d="M13 11v2"/></g>
+<circle class="ft" cx="570" cy="170" r="7"/>
+<text class="lbl" x="200" y="64" text-anchor="middle">Horarios e prezos</text>
+<text class="a lbl" x="355" y="76" text-anchor="middle">Outra ruta</text>
+<text class="r lbl" x="355" y="228" text-anchor="middle">Vía cortada</text>
+<text class="lbl" x="520" y="228" text-anchor="middle">Destino</text>
+</svg>

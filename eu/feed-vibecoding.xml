@@ -9,6 +9,24 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe coding</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Trenezko bidaia-agentzia bat DBHko oinarrizko matematikak praktikatzeko erabil daiteke</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-26/estacion-tren-agencia-viajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-26/estacion-tren-agencia-viajes.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarrocak Claude Code-rekin jolas moduko jarduera bat sortu du DBHko talde mistoentzat, eta kodea eta egokitzeko gida partekatu ditu.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-26-estacion-tren-agencia-viajes.svg" medium="image" type="image/svg+xml"><media:description>Tren bat trenbide bati jarraitzen dio; billete batek «Ordutegiak eta prezioak» adierazten ditu. Trenbidea moztuta dago («Trenbide mozketa», gurutze gorriz markatuta), eta ibilbide urdin batek, «Beste ibilbidea», «Helmugara» eramaten du. Errotuluak: Ordutegiak eta prezioak, Beste ibilbidea, Trenbide mozketa, Helmuga.</media:description></media:content>
+  </item>
+  <item>
+    <title>Elemental Cómics-ek taula periodikoa aurkezten du, elementu bakoitzeko komiki batekin, egilearen arabera</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Taula periodiko interaktiboa, egilearen arabera, elementu bakoitza komiki gisa irekitzen duena, ulermen-jarduerekin jarraituta. Ernest Boixaderrek sortu du, eta lizentzia irekiarekin partekatzen da.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-26-comic-elements-v-2-aprendiendo-la-estruc.jpg" medium="image" type="image/png"><media:description>Koloretako taula periodikoa atzealde ilunean, «Elemental Cómics» izenburuarekin, familien araberako iragazki-botoiekin eta elementuen lehen errenkadekin.</media:description></media:content>
+  </item>
+  <item>
     <title>Vibe Coding Responsable 4.0: irekian argitaratutakoa berrerabiltzeko modukoa izan behar da</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-25/vibe-responsable-4.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-25/vibe-responsable-4.html</guid>
@@ -438,24 +456,6 @@
     <category>Vibe coding</category>
     <description>El profe de la bata-ren «Misiones orbitales» jarduerak ikasleei astronauta bat sortzea eta bederatzi misio ebaztea proposatzen die, simulagailu interaktiboekin. Praktika-bertsioak nabigatzailean funtzionatzen du, konturik gabe.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Planeta bat, bederatzi puntu dituen elipse orbital urdin batez inguratua, misio bakoitzeko bat («9 misio»), eta eskuinean, % 5 baino errore txikiagoarekin lortzen diren hiru izar, «Izar guztiak» errotuluarekin («Errorea &lt; % 5»).</media:description></media:content>
-  </item>
-  <item>
-    <title>Katalanezko laborategi batek formulazio ez-organikoa praktikatzeko aukera ematen du, galderekin, aztarnekin eta erronkekin</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/laboratori-de-formulacio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/laboratori-de-formulacio.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Felip Sarroca i Gilek sortutako «Laboratori de formulació» tresnak nomenklatura ez-organikoko ariketak eskaintzen ditu Derrigorrezko Bigarren Hezkuntzarako eta Batxilergorako, hiru lan-modurekin eta aurrerapen-markagailuarekin.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-laboratori-de-formulacio.jpg" medium="image" type="image/png"><media:description>Practica moduaren pantaila, «Quina és la fórmula de: sulfur de bari» galderarekin eta lau aukerarekin (BaS, Ba2S2, BaCl2, PbCl2), aztarna- eta ebazpen-botoiekin, eta eskuinean jarduera moten zerrenda.</media:description></media:content>
-  </item>
-  <item>
-    <title>FoQok formulazio organikoko testak sortzen ditu eta marraztutako egitura baten izena ematen du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/foqo-formulacion-quimica-organica.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/foqo-formulacion-quimica-organica.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>FiQuiPediaren aplikazioak kimika organikoaren nomenklatura praktikatzeko aukera ematen du, test konfiguragarriekin eta formulatik izenera pasatzen den tresna batekin.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-03-foqo-formulacion-quimica-organica.jpg" medium="image" type="image/png"><media:description>«Formulación Química» izeneko hasierako pantaila, Tests, F → N eta Panel botoiekin, IUPAC eta CASen logotipoekin, liburutegietarako estekekin eta talde funtzionalen errenkada batekin.</media:description></media:content>
   </item>
 </channel>
 </rss>

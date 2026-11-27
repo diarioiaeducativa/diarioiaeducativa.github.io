@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Trenezko bidaia-agentzia bat DBHko oinarrizko matematikak praktikatzeko erabil daiteke</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-26/estacion-tren-agencia-viajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-26/estacion-tren-agencia-viajes.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarrocak Claude Code-rekin jolas moduko jarduera bat sortu du DBHko talde mistoentzat, eta kodea eta egokitzeko gida partekatu ditu.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-26-estacion-tren-agencia-viajes.svg" medium="image" type="image/svg+xml"><media:description>Tren bat trenbide bati jarraitzen dio; billete batek «Ordutegiak eta prezioak» adierazten ditu. Trenbidea moztuta dago («Trenbide mozketa», gurutze gorriz markatuta), eta ibilbide urdin batek, «Beste ibilbidea», «Helmugara» eramaten du. Errotuluak: Ordutegiak eta prezioak, Beste ibilbidea, Trenbide mozketa, Helmuga.</media:description></media:content>
+  </item>
+  <item>
+    <title>Elemental Cómics-ek taula periodikoa aurkezten du, elementu bakoitzeko komiki batekin, egilearen arabera</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Taula periodiko interaktiboa, egilearen arabera, elementu bakoitza komiki gisa irekitzen duena, ulermen-jarduerekin jarraituta. Ernest Boixaderrek sortu du, eta lizentzia irekiarekin partekatzen da.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-26-comic-elements-v-2-aprendiendo-la-estruc.jpg" medium="image" type="image/png"><media:description>Koloretako taula periodikoa atzealde ilunean, «Elemental Cómics» izenburuarekin, familien araberako iragazki-botoiekin eta elementuen lehen errenkadekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Vibe Coding Educativo taldean jarraitu zuen AA agenteekin kontsolatik ala mahaigaineko aplikaziotik…</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-26/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-26/breve-1.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Laburrak</category>
+    <description>Vibe Coding Educativo taldean jarraitu zuen AA agenteekin kontsolatik ala mahaigaineko aplikaziotik programatzea hobe den ala ez eztabaidatzeak. Jarrera batek defendatu zuen potentzia berbera dela eta aldea autonomian dagoela: inork eskatu gabe beren kabuz exekutatzen diren zereginetan; beste batek erantzun zuen aplikaziotik ere automatiza daitekeela, hodeian edo ordenagailua piztuta utzita, nahiz eta onartu zen agenteen erabilera aurreratuago baterako kontsola aukera hobea dela dirudiela. Honetan landu zen: Kontsola ala aplikazioa: irakasleek programazio-agente batekin lan egiteko moduak alderatzen dituzte.</description>
+  </item>
+  <item>
     <title>Vibe Coding Responsable 4.0: irekian argitaratutakoa berrerabiltzeko modukoa izan behar da</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-25/vibe-responsable-4.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-25/vibe-responsable-4.html</guid>
@@ -421,32 +447,6 @@
     <category>Vibe coding</category>
     <description>«El aprendiz del pastor»-ek Bielsako haraneko hizkuntzari buruzko historia, testuak, jokoak eta material didaktikoak biltzen ditu.</description>
     <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-09-belsetan-lengua-aragonesa.svg" medium="image" type="image/svg+xml"><media:description>«Bielsako harana» errotulua duen mendi batek «Belsetán» errotulua duen liburu ireki batera darama, eta honetatik bi gezi irteten dira: bat «Jokoak» errotulua duten dado batzuetara eta bestea «Fitxak» errotulua duen dokumentu batera.</media:description></media:content>
-  </item>
-  <item>
-    <title>Windowserako konektore doako batek micro:bit plaka baten sentsoreen datuak USB bidez ThingSpeak…</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-09/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-09/breve-1.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Laburrak</category>
-    <description>Windowserako konektore doako batek micro:bit plaka baten sentsoreen datuak USB bidez ThingSpeak plataformara bidaltzen ditu; erabilgarria da eguraldi-estazioetarako edo grafikoak dituzten baratzetarako.</description>
-  </item>
-  <item>
-    <title>Planifikatzaile batek ikasturteko egutegia muntatzeko aukera ematen du, Valentziako Erkidegoko egutegi ofizialetik abiatuta edo hutsetik</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-08/calendari-planificador-de-curso.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-08/calendari-planificador-de-curso.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>José Luis Miralles Bonok Clauderen laguntzarekin sortutako Calendari-k ikastetxe baten eskola-egutegia nabigatzailetik muntatzeko aukera ematen du, Valentziako egutegi ofizialetik abiatuta edo hutsetik.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-08-calendari-planificador-de-curso.jpg" medium="image" type="image/png"><media:description>Calendari-ren hasierako pantaila, lau txartelekin: Valentziako Erkidegoko egutegi ofiziala, egutegi berri bat sortzea, fitxategi batetik inportatzea eta argitaratutako egutegiak ikustea.</media:description></media:content>
-  </item>
-  <item>
-    <title>Botoen hodei bat «backend»-arekin prompt bakarrean: gaur Claude-ren artefaktu berriek datuak gordetzen dituzte argitaratu gabe</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-08/artefactos-claude-almacenamiento.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-08/artefactos-claude-almacenamiento.html</guid>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Duela urtebete</category>
-    <description>2025eko azaroan, Claude-rekin egindako hitz-hodei batek guztien botoak gordetzen zituen prompt bakar batekin. Gaur, artefaktu berriek datuak gordetzen dituzte argitaratu beharrik gabe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-08-artefactos-claude-almacenamiento.svg" medium="image" type="image/svg+xml"><media:description>Diptikoa. Ezkerrean, «2025 aza.»: boto-barrak dituen aplikazio bat, kandado bat duen datu-base bat eta «Argitaratuta soilik» errotulua. Eskuinean, «Gaur»: aplikazio bera, datu-basea ikusi-ikur batekin markatuta eta «Argitaratu gabe» errotulua.</media:description></media:content>
   </item>
 </channel>
 </rss>

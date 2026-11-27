@@ -1,31 +1,31 @@
 {
- "numero": 25,
- "sale": "2026-11-26",
+ "numero": 26,
+ "sale": "2026-11-27",
  "idiomas": {
   "es": {
    "url": "https://diarioiaeducativa.github.io/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Vibe Coding Responsable 4.0: lo publicado en abierto debe poder reutilizarse"
+   "titular": "Los proyectos de Claude pasan de carpeta a conversación que reparte el trabajo en hilos"
   },
   "ca": {
    "url": "https://diarioiaeducativa.github.io/ca/",
    "titulo": "Diari d'IA Educativa",
-   "titular": "Vibe Coding Responsable 4.0: el que es publica en obert ha de poder reutilitzar-se"
+   "titular": "Els projectes de Claude passen de carpeta a conversa que reparteix la feina en fils"
   },
   "gl": {
    "url": "https://diarioiaeducativa.github.io/gl/",
    "titulo": "Diario de IA Educativa",
-   "titular": "Vibe Coding Responsable 4.0: o publicado en aberto debe poder reutilizarse"
+   "titular": "Os proxectos de Claude pasan de cartafol a conversa que reparte o traballo en fíos"
   },
   "eu": {
    "url": "https://diarioiaeducativa.github.io/eu/",
    "titulo": "Hezkuntzako AA Egunkaria",
-   "titular": "Vibe Coding Responsable 4.0: irekian argitaratutakoa berrerabiltzeko modukoa izan behar da"
+   "titular": "Claude-ren proiektuak karpeta izatetik lana hariotan banatzen duen elkarrizketa izatera igaro dira"
   },
   "en": {
    "url": "https://diarioiaeducativa.github.io/en/",
    "titulo": "Educational AI Daily",
-   "titular": "Vibe Coding Responsable 4.0: anything published openly must be reusable"
+   "titular": "Claude’s projects go from folder to conversation that splits the work into threads"
   }
  }
 }

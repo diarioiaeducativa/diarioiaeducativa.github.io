@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Herramientas</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Los proyectos de Claude pasan de carpeta a conversación que reparte el trabajo en hilos</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-26/claude-proyectos-hilos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-26/claude-proyectos-hilos.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Herramientas</category>
+    <description>En septiembre Anthropic anunció el rediseño de los proyectos de Claude, en fase de prueba (beta) y para Claude Code: la persona usuaria describe lo que necesita y Claude lo divide en tareas que se ejecutan en la nube.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-26-claude-proyectos-hilos.svg" medium="image" type="image/svg+xml"><media:description>Esquema: a la izquierda, una conversación llamada «Coordinador» reparte el trabajo en tres hilos, cada uno con su rama, dentro de un recuadro «En la nube»; los hilos devuelven sus resultados a una «Memoria» común. Rótulos: Coordinador, En la nube, Hilos, Memoria.</media:description></media:content>
+  </item>
+  <item>
     <title>Gemini Notebook ya tiene API oficial, aunque limitada y en versión preliminar</title>
     <link>https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-21/gemini-notebook-api-oficial.html</guid>

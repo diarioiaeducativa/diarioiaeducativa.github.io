@@ -9,6 +9,68 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Els projectes de Claude passen de carpeta a conversa que reparteix la feina en fils</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/claude-proyectos-hilos.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/claude-proyectos-hilos.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Eines</category>
+    <description>Al setembre Anthropic va anunciar el redisseny dels projectes de Claude, en fase de prova (beta) i per a Claude Code: la persona usuària descriu el que necessita i Claude ho divideix en tasques que s&#x27;executen al núvol.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-claude-proyectos-hilos.svg" medium="image" type="image/svg+xml"><media:description>Esquema: a l&#x27;esquerra, una conversa anomenada «Coordinador» reparteix la feina en tres fils, cadascun amb la seva branca, dins d&#x27;un requadre «Al núvol»; els fils retornen els resultats a una «Memòria» comuna. Rètols: Coordinador, Al núvol, Fils, Memòria.</media:description></media:content>
+  </item>
+  <item>
+    <title>Una agència de viatges en tren serveix per practicar matemàtiques bàsiques a l&#x27;ESO</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/estacion-tren-agencia-viajes.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/estacion-tren-agencia-viajes.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Felip Sarroca ha creat amb Claude Code una activitat en forma de joc per a grups barrejats d&#x27;ESO i comparteix el codi i una guia per adaptar-la.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-estacion-tren-agencia-viajes.svg" medium="image" type="image/svg+xml"><media:description>Un tren segueix una via; un bitllet assenyala els «Horaris i preus». La via queda tallada («Via tallada», marcada amb una creu vermella) i un desviament blau, «Una altra ruta», porta al «Destí». Rètols: Horaris i preus, Una altra ruta, Via tallada, Destí.</media:description></media:content>
+  </item>
+  <item>
+    <title>Elemental Cómics presenta la taula periòdica amb un còmic per element, segons el seu autor</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/comic-elements-v-2-aprendiendo-la-estruc.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Una taula periòdica interactiva que, segons el seu autor, obre cada element com un còmic seguit d&#x27;activitats de comprensió. La va crear Ernest Boixader i es comparteix amb llicència oberta.</description>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-26-comic-elements-v-2-aprendiendo-la-estruc.jpg" medium="image" type="image/png"><media:description>Taula periòdica de colors sobre fons fosc, amb el títol «Elemental Cómics», botons de filtre per famílies i les primeres files d&#x27;elements.</media:description></media:content>
+  </item>
+  <item>
+    <title>Un informe de Coursera mesura la demanda de cursos d&#x27;IA i d&#x27;habilitats humanes</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/coursera-udemy-habilidades-2026.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/coursera-udemy-habilidades-2026.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>El Global Skills Report 2026, publicat al setembre, fa servir dades de les plataformes Coursera i Udemy i presenta un índex que combina l&#x27;activitat d&#x27;aprenentatge amb la preparació de cada país per a la IA.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-coursera-udemy-habilidades-2026.svg" medium="image" type="image/svg+xml"><media:description>Dos cercles que se superposen, «Cursos d&#x27;IA» i «Habilitats humanes»; la zona comuna és l&#x27;«Índex nou». Un globus terraqüi acompanya el rètol «98 països». Rètols: Cursos d&#x27;IA, Habilitats humanes, Índex nou, 98 països.</media:description></media:content>
+  </item>
+  <item>
+    <title>HeyGen clona una veu per a vídeos amb avatar i el seu pla gratuït en permet tres al mes</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/heygen-clonar-voz-avatar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/heygen-clonar-voz-avatar.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimèdia</category>
+    <description>L&#x27;eina converteix un text en àudio o en un vídeo amb presentador, amb una veu clonada a partir d&#x27;un enregistrament breu. Només la pot fer servir una persona adulta i amb consentiment de qui és la veu.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-heygen-clonar-voz-avatar.svg" medium="image" type="image/svg+xml"><media:description>Un micròfon amb una ona de so, retolat «Veu pròpia», porta per una fletxa a un presentador de dibuix senzill amb ones de so que li surten de la boca, retolat «Avatar»; a la dreta, un guió en paper, retolat «Guió», amb una fletxa cap al presentador; a baix, en vermell, «Amb permís».</media:description></media:content>
+  </item>
+  <item>
+    <title>Va arribar DigComp 3.0 i s&#x27;esperava el marc docent; un any després encara és un esborrany</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/digcomp-digcompedu-espera.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/digcomp-digcompedu-espera.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Fa un any</category>
+    <description>Al novembre de 2025, la Comissió Europea posava la IA en el marc de competència digital de la ciutadania i el professorat preguntava quan arribaria al seu. La versió definitiva no s&#x27;espera fins a la primavera de 2027.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-26-digcomp-digcompedu-espera.svg" medium="image" type="image/svg+xml"><media:description>Díptic. A l&#x27;esquerra, «Nov. 2025»: el document «DigComp» amb una marca de fet i el document «DigCompEdu» amb un signe d&#x27;interrogació. A la dreta, «Avui»: el primer continua amb la seva marca i el segon, «Esborrany», és un document de vora discontínua amb un llapis.</media:description></media:content>
+  </item>
+  <item>
+    <title>Va continuar a Vibe Coding Educativo la conversa sobre si és millor programar amb agents d&#x27;IA des de la…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-26/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/breve-1.html</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Va continuar a Vibe Coding Educativo la conversa sobre si és millor programar amb agents d&#x27;IA des de la consola o des de l&#x27;aplicació d&#x27;escriptori. Una postura va sostenir que la potència és la mateixa i que la diferència és l&#x27;autonomia: tasques que s&#x27;executen soles, sense que ningú les demani; una altra va respondre que també es pot automatitzar des de l&#x27;aplicació, al núvol o amb un ordinador encès, tot i que es va admetre que per a un ús més avançat dels agents la consola sembla millor opció. Es va tractar a l&#x27;article Consola o aplicació: docents comparen com treballar amb un agent de programació.</description>
+  </item>
+  <item>
     <title>Vibe Coding Responsable 4.0: el que es publica en obert ha de poder reutilitzar-se</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-25/vibe-responsable-4.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-25/vibe-responsable-4.html</guid>
@@ -825,69 +887,6 @@
     <category>Vibe coding</category>
     <description>Una nova aplicació de geografia interactiva en gallec s&#x27;ha compartit a Vibe Coding Educativo. La descripció completa dels seus modes de joc no s&#x27;ha pogut comprovar.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-13-atlas-en-xogo.svg" medium="image" type="image/svg+xml"><media:description>Una finestra de navegador amb un mapa i el rètol «Atlas en xogo»; a l&#x27;esquerra, una lupa amb un més, rotulada «Zoom»; a la dreta, un globus terraqüi amb el rètol «Vista 3D».</media:description></media:content>
-  </item>
-  <item>
-    <title>Disney anava a obrir els seus personatges a la IA; Sora va tancar abans que arribessin els diners</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-13/disney-personajes-sora-cierre.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-13/disney-personajes-sora-cierre.html</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>Al novembre de 2025 es comentava que Disney deixaria crear contingut amb els seus personatges i es vaticinava la fi de la «barra lliure» de la IA generativa. L&#x27;acord va arribar al desembre, amb Sora; al març, OpenAI va tancar Sora i l&#x27;acord es va desfer.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-13-disney-personajes-sora-cierre.svg" medium="image" type="image/svg+xml"><media:description>Díptic en dues meitats. A l&#x27;esquerra, «Nov. 2025»: una claqueta de cinema i una moneda amb el signe del dòlar, sota el rètol «Llicència». A la dreta, «Avui»: la mateixa claqueta i la mateixa moneda ratllades amb línies blaves, sota el rètol «Tancat».</media:description></media:content>
-  </item>
-  <item>
-    <title>Microsoft presenta Classroom, un espai propi per centrar la feina de classe en Microsoft 365</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/microsoft-classroom.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/microsoft-classroom.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institucions i empreses</category>
-    <description>Microsoft Classroom reuneix tasques, qualificacions i eines d&#x27;IA en una sola pantalla per a primària, secundària i educació superior. Arribarà el 2027 sense cost addicional per als centres amb determinats plans.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-microsoft-classroom.svg" medium="image" type="image/svg+xml"><media:description>Un panell rotulat «Classroom» del qual surten quatre fletxes cap a quatre requadres rotulats «Tasques», «Notes», «Quadern» i «IA».</media:description></media:content>
-  </item>
-  <item>
-    <title>El regulador universitari anglès demana més avaluació sense IA i reobre la discussió sobre com comprovar l&#x27;autoria</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/ofs-evaluacion-sin-ia.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/ofs-evaluacion-sin-ia.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Debats</category>
-    <description>L&#x27;Office for Students recomana formats segurs com exàmens presencials o orals. Al grup es va debatre què es pot detectar i què no.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-ofs-evaluacion-sin-ia.svg" medium="image" type="image/svg+xml"><media:description>Esquema en dues meitats: a l&#x27;esquerra, sota el rètol «Formats segurs», tres icones rotulades «Oral» (un micròfon), «Presentació» (una pissarra) i «Pràctica» (un llapis); a la dreta, una lupa ratllada en vermell amb el rètol «Detector».</media:description></media:content>
-  </item>
-  <item>
-    <title>Relleu Obert converteix un tros de mapa real en una maqueta 3D imprimible per a l&#x27;aula</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/relleu-obert.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/relleu-obert.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Un projecte gratuït i de codi obert permet triar un lloc, generar-ne el relleu al navegador i exportar-lo per imprimir-lo en 3D.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-relleu-obert.svg" medium="image" type="image/svg+xml"><media:description>Tres passos units per fletxes: un mapa rotulat «Mapa», una muntanya rotulada «Relleu» i una impressora rotulada «Maqueta».</media:description></media:content>
-  </item>
-  <item>
-    <title>La UNESCO proposa cinc unitats perquè l&#x27;alumnat de 13 a 15 anys qüestioni les respostes de la IA i decideixi per ell mateix</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/unesco-ia-decides.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/unesco-ia-decides.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>«AI answers. You decide» és una guia complementària del currículum d&#x27;alfabetització mediàtica i informacional de la UNESCO, amb debats i activitats per a l&#x27;aula que es poden usar per separat.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-unesco-ia-decides.svg" medium="image" type="image/svg+xml"><media:description>Esquema de tres cercles concèntrics: al centre «Tu», al voltant «Sistemes d&#x27;IA» i a l&#x27;anell exterior «Persones i institucions»; dues fletxes corbes uneixen els dos primers i una fletxa vermella assenyala des de fora la pregunta «On puc opinar?». A sota, el rètol «Cinc preguntes» i cinc caselles, una per cada pregunta de la guia.</media:description></media:content>
-  </item>
-  <item>
-    <title>El regulador universitari anglès aclareix quines pràctiques amb IA encaixen en les seves condicions de qualitat i publica l&#x27;estudi en què es basa</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/ofs-ia-educacion-superior.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/ofs-ia-educacion-superior.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Biblioteca</category>
-    <description>L&#x27;Office for Students i Advance HE reuneixen un informe de 48 pàgines, basat en més de 300 estudiants i docents, i una guia que tradueix les seves troballes a les condicions B1, B2 i B4 de registre.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-ofs-ia-educacion-superior.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;esquerra a dreta: un document rotulat «Informe» porta a un llibre obert rotulat «Guia B1 B2 B4», que es bifurca en dos carrils d&#x27;avaluació: un cadenat tancat rotulat «Tancat» i un cadenat obert rotulat «Obert».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una eina ajuda a aplicar l&#x27;ordre de prelació en l&#x27;admissió als conservatoris valencians</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/prelacion-admision-conservatorios-cv.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/prelacion-admision-conservatorios-cv.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>José Luis Miralles Bono ha creat una web amb esquemes, calculador d&#x27;edat i models d&#x27;Excel per aplicar l&#x27;Ordre 8/2026 als centres de música i dansa de la Comunitat Valenciana.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-12-prelacion-admision-conservatorios-cv.jpg" medium="image" type="image/png"><media:description>Pàgina amb el títol «Prelación de acceso a conservatorio», una barra de pestanyes (Esquema, Timeline, Guía paso a paso, Edad, Reorientación, Definiciones, Modelos) i quatre blocs desplegables d&#x27;adjudicacions.</media:description></media:content>
   </item>
 </channel>
 </rss>
