@@ -69,7 +69,7 @@
     <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Juan José de Haro va crear una aplicació web en què es marca la importància de cada característica i s&#x27;obté una classificació personalitzada de bots de conversa gratuïts.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dues columnes: a l&#x27;esquerra, lliscadors d&#x27;importància de cada característica; a la dreta, la classificació de bots de conversa amb percentatges, encapçalada per Qwen amb el 91 %.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dues columnes: a l&#x27;esquerra, lliscadors d&#x27;importància de cada característica; a la dreta, la classificació de bots de conversa amb percentatges, encapçalada per Qwen amb el 91 %.</media:description></media:content>
   </item>
   <item>
     <title>Una aplicació converteix respostes parlades en informes d&#x27;avaluació per a les famílies</title>
@@ -159,7 +159,7 @@
     <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>L&#x27;aplicació llegeix els registres de sensors i els compara amb els límits de la norma sobre llocs de treball.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un document amb el rètol «CSV» passa a una finestra de navegador, amb el rètol «Al navegador», que conté un termòmetre amb el rètol «17–27 °C» i gotes d&#x27;aigua amb el rètol «30–70 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un document amb el rètol «CSV» passa a una finestra de navegador, amb el rètol «Al navegador», que conté un termòmetre amb el rètol «17–27 °C» i gotes d&#x27;aigua amb el rètol «30–70 %».</media:description></media:content>
   </item>
   <item>
     <title>Una cel·la robotitzada de paletització se simula al navegador i exporta l&#x27;escena en .glb</title>
@@ -284,7 +284,7 @@
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>La guia d&#x27;Anthropic per a Fable 5.2 explica que el model es comporta de manera diferent segons qui figuri com a propietari del codi, amb un cost en tokens.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dues columnes: a l&#x27;esquerra, dos blocs de codi idèntics i els rètols «Afegeix» i «Menys del 10 %»; a la dreta, una icona de fusió sobre un sol bloc de codi i els rètols «Unifica» i «75 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dues columnes: a l&#x27;esquerra, dos blocs de codi idèntics i els rètols «Afegeix» i «Menys del 10 %»; a la dreta, una icona de fusió sobre un sol bloc de codi i els rètols «Unifica» i «75 %».</media:description></media:content>
   </item>
   <item>
     <title>Eduvers reuneix simulacions interactives de Física i Química i prepara laboratoris virtuals en 3D</title>
@@ -455,7 +455,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«Misiones orbitales», d&#x27;El profe de la bata, proposa a l&#x27;alumnat crear un astronauta i resoldre nou missions amb simuladors interactius. La versió de pràctica funciona al navegador, sense comptes.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta envoltat per una òrbita el·líptica blava amb nou punts, un per missió («9 missions»), i a la dreta tres estrelles retolades «Totes les estrelles», que s&#x27;obtenen amb un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta envoltat per una òrbita el·líptica blava amb nou punts, un per missió («9 missions»), i a la dreta tres estrelles retolades «Totes les estrelles», que s&#x27;obtenen amb un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
   </item>
 </channel>
 </rss>

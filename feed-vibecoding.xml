@@ -69,7 +69,7 @@
     <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Juan José de Haro creó una aplicación web en la que se marca la importancia de cada característica y se obtiene una clasificación personalizada de chatbots gratuitos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dos columnas: a la izquierda, deslizadores de importancia de cada característica; a la derecha, la clasificación de chatbots con porcentajes, encabezada por Qwen con el 91 %.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dos columnas: a la izquierda, deslizadores de importancia de cada característica; a la derecha, la clasificación de chatbots con porcentajes, encabezada por Qwen con el 91 %.</media:description></media:content>
   </item>
   <item>
     <title>Una aplicación convierte respuestas habladas en informes de evaluación para las familias</title>
@@ -159,7 +159,7 @@
     <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>La aplicación lee los registros de sensores y los compara con los límites de la norma sobre lugares de trabajo.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a una ventana de navegador, rotulada «En el navegador», que contiene un termómetro con el rótulo «17–27 °C» y gotas de agua con el rótulo «30–70 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a una ventana de navegador, rotulada «En el navegador», que contiene un termómetro con el rótulo «17–27 °C» y gotas de agua con el rótulo «30–70 %».</media:description></media:content>
   </item>
   <item>
     <title>Una celda robotizada de paletizado se simula en el navegador y exporta la escena en .glb</title>
@@ -284,7 +284,7 @@
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>La guía de Anthropic para Fable 5.2 explica que el modelo se comporta distinto según quién figure como dueño del código, con un coste en tokens.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dos columnas: a la izquierda, dos bloques de código idénticos y los rótulos «Añade» y «Menos del 10 %»; a la derecha, un icono de fusión sobre un solo bloque de código y los rótulos «Unifica» y «75 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dos columnas: a la izquierda, dos bloques de código idénticos y los rótulos «Añade» y «Menos del 10 %»; a la derecha, un icono de fusión sobre un solo bloque de código y los rótulos «Unifica» y «75 %».</media:description></media:content>
   </item>
   <item>
     <title>Eduvers reúne simulaciones interactivas de Física y Química y prepara laboratorios virtuales en 3D</title>
@@ -455,7 +455,7 @@
     <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>«Misiones orbitales», de El profe de la bata, propone al alumnado crear un astronauta y resolver nueve misiones con simuladores interactivos. La versión de práctica funciona en el navegador, sin cuentas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta rodeado por una órbita elíptica azul con nueve puntos, uno por misión («9 misiones»), y a la derecha tres estrellas rotuladas «Todas las estrellas», que se obtienen con un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta rodeado por una órbita elíptica azul con nueve puntos, uno por misión («9 misiones»), y a la derecha tres estrellas rotuladas «Todas las estrellas», que se obtienen con un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
   </item>
 </channel>
 </rss>

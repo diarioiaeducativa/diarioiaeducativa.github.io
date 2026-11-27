@@ -115,7 +115,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-23-corea-dimision-ministro-ia-examen.svg" medium="image" type="image/svg+xml"><media:description>Tres passos d&#x27;esquerra a dreta: un llapis amb el rètol «Només llapis», un mòbil ratllat amb una ratlla vermella i el rètol «Sense mòbils», i una persona amb el rètol «Dimissió».</media:description></media:content>
   </item>
   <item>
-    <title>Opus 4.5 va superar el 80 % en una prova de programació que OpenAI ja no fa servir</title>
+    <title>Opus 4.5 va superar el 80 % en una prova de programació que OpenAI ja no fa servir</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</guid>
     <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
@@ -139,7 +139,7 @@
     <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
     <category>El reportatge del diumenge</category>
     <description>Una revisió de la Universitat de Stanford reuneix ja 52 estudis que mesuren l&#x27;efecte de la IA en l&#x27;aprenentatge: fer-la servir per entendre material nou surt més ben parat que fer-la servir per produir el treball, encara que cap ús no millora els resultats de manera constant. Aquest reportatge explica com llegir aquests estudis, per què un tutor que pregunta no n&#x27;hi ha prou per si sol i què pot fer un docent perquè la IA no faci el treball de l&#x27;alumnat.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografia: un estudiant davant d&#x27;un assistent d&#x27;IA amb dos camins. A dalt, «Lliurar»: la IA fa el treball i, sense l&#x27;eina, el resultat cau: «Sense l&#x27;eina: −17 %». A baix, «Entendre»: l&#x27;assistent pregunta i l&#x27;estudiant corregeix els seus errors: «64 % corregits sols». A sota, quatre recomanacions: «Intent propi», «Tutor pregunta», «Separar tasques» i «Comprovar sense IA».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografia: un estudiant davant d&#x27;un assistent d&#x27;IA amb dos camins. A dalt, «Lliurar»: la IA fa el treball i, sense l&#x27;eina, el resultat cau: «Sense l&#x27;eina: −17 %». A baix, «Entendre»: l&#x27;assistent pregunta i l&#x27;estudiant corregeix els seus errors: «64 % corregits sols». A sota, quatre recomanacions: «Intent propi», «Tutor pregunta», «Separar tasques» i «Comprovar sense IA».</media:description></media:content>
   </item>
   <item>
     <title>Gemini Notebook ja té una API oficial, tot i que limitada i en versió preliminar</title>
@@ -166,7 +166,7 @@
     <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
     <category>Fa un any</category>
     <description>Al novembre de 2025, el nou model d&#x27;imatges de Google encertava alguns polígons i en fallava d&#x27;altres. Al febrer de 2026 Nano Banana 2 el va substituir a Gemini, i per als desenvolupadors n&#x27;hi ha un altre que costa la quarta part per imatge d&#x27;1K.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptic amb una línia vertical al centre. A l&#x27;esquerra, «Nov. 2025»: quatre bitllets de tinta i a sota «0,134 $». A la dreta, «Avui»: un sol bitllet blau, la quarta part, i a sota «0,0336 $».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptic amb una línia vertical al centre. A l&#x27;esquerra, «Nov. 2025»: quatre bitllets de tinta i a sota «0,134 $». A la dreta, «Avui»: un sol bitllet blau, la quarta part, i a sota «0,0336 $».</media:description></media:content>
   </item>
   <item>
     <title>Google DeepMind ofereix, en anglès, una guia interactiva que explica amb el seu model Gemma 4 com un model…</title>
@@ -195,12 +195,12 @@
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-20-google-distritos-ia-buscador.svg" medium="image" type="image/svg+xml"><media:description>Un edifici, «Districte», amb una fletxa rotulada «Rebutja la IA» que apunta a una lupa travessada per un cercle vermell, «Cercador», i a sota la pregunta «Sense accés?».</media:description></media:content>
   </item>
   <item>
-    <title>Del 9 % al 36 % en física de recerca: la IA encara falla gairebé dues de cada tres</title>
+    <title>Del 9 % al 36 % en física de recerca: la IA encara falla gairebé dues de cada tres</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-20/critpt-fisica-investigacion-modelos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-20/critpt-fisica-investigacion-modelos.html</guid>
     <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
     <category>Fa un any</category>
-    <description>Al novembre de 2025 s&#x27;estrenava una avaluació amb problemes inèdits de física en què cap model d&#x27;IA arribava al 10 %. Un any després, el millor resultat voreja el 36 %.</description>
+    <description>Al novembre de 2025 s&#x27;estrenava una avaluació amb problemes inèdits de física en què cap model d&#x27;IA arribava al 10 %. Un any després, el millor resultat voreja el 36 %.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-20-critpt-fisica-investigacion-modelos.svg" medium="image" type="image/svg+xml"><media:description>Díptic en dues meitats. A l&#x27;esquerra, amb el rètol «Nov. 2025», un full de tres reptes de física amb els tres marcats amb una creu i el rètol «Falla gairebé tot». A la dreta, amb el rètol «Avui», el mateix full amb el primer repte resolt, amb una marca blava, i els altres dos encara amb creu, amb el rètol «Encara falla molt».</media:description></media:content>
   </item>
   <item>
@@ -282,7 +282,7 @@
     <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>Investigadors de Carnegie Mellon comparen quatre maneres de donar retroacció després d&#x27;un error i suggereixen que el que funciona és tornar l&#x27;alumne a la tasca fins que l&#x27;encerti.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dos camins després d&#x27;un error, marcat amb una creu vermella. A dalt, l&#x27;error porta a un requadre «Explicació» i d&#x27;allà als problemes següents. A baix, l&#x27;error porta a «Pregunta», després a «Reintent», amb una fletxa que torna de «Reintent» a «Pregunta» mentre no s&#x27;encerta, i finalment a una marca de verificació sota el rètol «Encert». A sobre, el rètol «64 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dos camins després d&#x27;un error, marcat amb una creu vermella. A dalt, l&#x27;error porta a un requadre «Explicació» i d&#x27;allà als problemes següents. A baix, l&#x27;error porta a «Pregunta», després a «Reintent», amb una fletxa que torna de «Reintent» a «Pregunta» mentre no s&#x27;encerta, i finalment a una marca de verificació sota el rètol «Encert». A sobre, el rètol «64 %».</media:description></media:content>
   </item>
   <item>
     <title>Google desplega fils temporals al Mode IA del seu cercador: les preguntes d&#x27;aquestes converses no es…</title>

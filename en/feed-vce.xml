@@ -217,7 +217,7 @@
     <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>The app reads sensor logs and compares them with the limits set by the regulation on workplaces.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>A document labelled “CSV” passes into a browser window, labelled “In the browser”, containing a thermometer with the label “17–27 °C” and water drops with the label “30–70%”.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>A document labelled “CSV” passes into a browser window, labelled “In the browser”, containing a thermometer with the label “17–27 °C” and water drops with the label “30–70%”.</media:description></media:content>
   </item>
   <item>
     <title>A robotic palletising cell is simulated in the browser and exports the scene as .glb</title>

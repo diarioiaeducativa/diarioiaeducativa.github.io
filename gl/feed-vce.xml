@@ -93,7 +93,7 @@
     <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Juan José de Haro creou unha aplicación web na que se marca a importancia de cada característica e se obtén unha clasificación personalizada de chatbots gratuítos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dúas columnas: á esquerda, desprazadores de importancia de cada característica; á dereita, a clasificación de chatbots con porcentaxes, encabezada por Qwen co 91 %.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dúas columnas: á esquerda, desprazadores de importancia de cada característica; á dereita, a clasificación de chatbots con porcentaxes, encabezada por Qwen co 91 %.</media:description></media:content>
   </item>
   <item>
     <title>Unha aplicación converte respostas faladas en informes de avaliación para as familias</title>
@@ -217,7 +217,7 @@
     <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>A aplicación le os rexistros de sensores e compáraos cos límites da norma sobre lugares de traballo.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a unha xanela de navegador, rotulada «No navegador», que contén un termómetro co rótulo «17–27 °C» e pingas de auga co rótulo «30–70 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a unha xanela de navegador, rotulada «No navegador», que contén un termómetro co rótulo «17–27 °C» e pingas de auga co rótulo «30–70 %».</media:description></media:content>
   </item>
   <item>
     <title>Unha cela robotizada de paletizado simúlase no navegador e exporta a escena en .glb</title>
@@ -384,7 +384,7 @@
     <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>A guía de Anthropic para Fable 5.2 explica que o modelo compórtase distinto segundo quen figure como dono do código, cun custo en tokens.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dúas columnas: á esquerda, dous bloques de código idénticos e os rótulos «Engade» e «Menos do 10 %»; á dereita, unha icona de fusión sobre un só bloque de código e os rótulos «Unifica» e «75 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-11-prompt-propiedad-codigo-fable.svg" medium="image" type="image/svg+xml"><media:description>Dúas columnas: á esquerda, dous bloques de código idénticos e os rótulos «Engade» e «Menos do 10 %»; á dereita, unha icona de fusión sobre un só bloque de código e os rótulos «Unifica» e «75 %».</media:description></media:content>
   </item>
   <item>
     <title>Eduvers reúne simulacións interactivas de Física e Química e prepara laboratorios virtuais en 3D</title>

@@ -242,7 +242,7 @@
     <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>Juan José de Haro creó una aplicación web en la que se marca la importancia de cada característica y se obtiene una clasificación personalizada de chatbots gratuitos.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dos columnas: a la izquierda, deslizadores de importancia de cada característica; a la derecha, la clasificación de chatbots con porcentajes, encabezada por Qwen con el 91 %.</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-23-comparador-interactivo-de-chatbots-gratu.jpg" medium="image" type="image/png"><media:description>Dos columnas: a la izquierda, deslizadores de importancia de cada característica; a la derecha, la clasificación de chatbots con porcentajes, encabezada por Qwen con el 91 %.</media:description></media:content>
   </item>
   <item>
     <title>Affinity une edición de fotos, dibujo vectorial y maquetación, gratis para particulares</title>
@@ -254,7 +254,7 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-23-affinity-diseno-gratuito.svg" medium="image" type="image/svg+xml"><media:description>Imágenes sueltas e inclinadas, con el rótulo «Sueltas», pasan por tres herramientas, un pincel («Foto»), una pluma («Vectores») y una rejilla («Maqueta»), que confluyen en una sola ventana donde queda una página de cartel con título, dos imágenes y un pie, con el rótulo «Cartel».</media:description></media:content>
   </item>
   <item>
-    <title>Opus 4.5 superó el 80 % en una prueba de programación que OpenAI ya no usa</title>
+    <title>Opus 4.5 superó el 80 % en una prueba de programación que OpenAI ya no usa</title>
     <link>https://diarioiaeducativa.github.io/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</guid>
     <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
@@ -322,7 +322,7 @@
     <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
     <category>El reportaje del domingo</category>
     <description>Una revisión de la Universidad de Stanford reúne ya 52 estudios que miden el efecto de la IA en el aprendizaje: usarla para entender material nuevo sale mejor parado que usarla para producir el trabajo, aunque ningún uso mejora los resultados de forma constante. Este reportaje explica cómo leer esos estudios, por qué un tutor que pregunta no basta por sí solo y qué puede hacer un docente para que la IA no haga el trabajo del alumnado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografía: un estudiante ante un asistente de IA con dos caminos. Arriba, «Entregar»: la IA hace el trabajo y, sin la herramienta, el resultado cae: «Sin la herramienta: −17 %». Abajo, «Entender»: el asistente pregunta y el estudiante corrige sus errores: «64 % corregidos solos». Debajo, cuatro recomendaciones: «Intento propio», «Tutor pregunta», «Separar tareas» y «Comprobar sin IA».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografía: un estudiante ante un asistente de IA con dos caminos. Arriba, «Entregar»: la IA hace el trabajo y, sin la herramienta, el resultado cae: «Sin la herramienta: −17 %». Abajo, «Entender»: el asistente pregunta y el estudiante corrige sus errores: «64 % corregidos solos». Debajo, cuatro recomendaciones: «Intento propio», «Tutor pregunta», «Separar tareas» y «Comprobar sin IA».</media:description></media:content>
   </item>
   <item>
     <title>Gemini Notebook ya tiene API oficial, aunque limitada y en versión preliminar</title>
@@ -376,7 +376,7 @@
     <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
     <category>Hace un año</category>
     <description>En noviembre de 2025, el nuevo modelo de imágenes de Google acertaba unos polígonos y fallaba otros. En febrero de 2026 Nano Banana 2 lo sustituyó en Gemini, y para los desarrolladores hay otro que cuesta la cuarta parte por imagen de 1K.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptico con una línea vertical en el centro. A la izquierda, «Nov. 2025»: cuatro billetes de tinta y debajo «0,134 $». A la derecha, «Hoy»: un solo billete azul, la cuarta parte, y debajo «0,0336 $».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptico con una línea vertical en el centro. A la izquierda, «Nov. 2025»: cuatro billetes de tinta y debajo «0,134 $». A la derecha, «Hoy»: un solo billete azul, la cuarta parte, y debajo «0,0336 $».</media:description></media:content>
   </item>
   <item>
     <title>Google DeepMind ofrece, en inglés, una guía interactiva que explica con su modelo Gemma 4 cómo un modelo…</title>
@@ -432,12 +432,12 @@
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-20-trama-universos-variantes.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, tres libros abiertos dentro de un círculo punteado, «Universo»; a la derecha, tres hojas apiladas con líneas de texto de distinta longitud, «Variantes».</media:description></media:content>
   </item>
   <item>
-    <title>Del 9 % al 36 % en física de investigación: la IA aún falla casi dos de cada tres</title>
+    <title>Del 9 % al 36 % en física de investigación: la IA aún falla casi dos de cada tres</title>
     <link>https://diarioiaeducativa.github.io/2026-11-20/critpt-fisica-investigacion-modelos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-20/critpt-fisica-investigacion-modelos.html</guid>
     <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
     <category>Hace un año</category>
-    <description>En noviembre de 2025 se estrenaba una evaluación con problemas inéditos de física en la que ningún modelo de IA llegaba al 10 %. Un año después, el mejor resultado roza el 36 %.</description>
+    <description>En noviembre de 2025 se estrenaba una evaluación con problemas inéditos de física en la que ningún modelo de IA llegaba al 10 %. Un año después, el mejor resultado roza el 36 %.</description>
     <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-20-critpt-fisica-investigacion-modelos.svg" medium="image" type="image/svg+xml"><media:description>Díptico en dos mitades. A la izquierda, rotulada «Nov. 2025», una hoja de tres retos de física con los tres marcados con una cruz y el rótulo «Falla casi todo». A la derecha, rotulada «Hoy», la misma hoja con el primer reto resuelto, con una marca azul, y los otros dos aún con cruz, con el rótulo «Aún falla mucho».</media:description></media:content>
   </item>
   <item>
@@ -545,7 +545,7 @@
     <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>Investigadores de Carnegie Mellon comparan cuatro formas de dar retroalimentación tras un fallo y sugieren que lo que funciona es devolver al alumno a la tarea hasta que acierte.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dos caminos tras un error, marcado con una cruz roja. Arriba, el error lleva a un recuadro «Explicación» y de ahí a los siguientes problemas. Abajo, el error lleva a «Pregunta», luego a «Reintento», con una flecha que vuelve de «Reintento» a «Pregunta» mientras no se acierta, y por fin a una marca de verificación bajo el rótulo «Acierto». Encima, el rótulo «64 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dos caminos tras un error, marcado con una cruz roja. Arriba, el error lleva a un recuadro «Explicación» y de ahí a los siguientes problemas. Abajo, el error lleva a «Pregunta», luego a «Reintento», con una flecha que vuelve de «Reintento» a «Pregunta» mientras no se acierta, y por fin a una marca de verificación bajo el rótulo «Acierto». Encima, el rótulo «64 %».</media:description></media:content>
   </item>
   <item>
     <title>Suno lanza Visuals para crear vídeos con letra y portadas a partir de sus canciones</title>
@@ -631,7 +631,7 @@
     <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
     <category>Vibe coding</category>
     <description>La aplicación lee los registros de sensores y los compara con los límites de la norma sobre lugares de trabajo.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a una ventana de navegador, rotulada «En el navegador», que contiene un termómetro con el rótulo «17–27 °C» y gotas de agua con el rótulo «30–70 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-17-agente-clima-ies.svg" medium="image" type="image/svg+xml"><media:description>Un documento rotulado «CSV» pasa a una ventana de navegador, rotulada «En el navegador», que contiene un termómetro con el rótulo «17–27 °C» y gotas de agua con el rótulo «30–70 %».</media:description></media:content>
   </item>
   <item>
     <title>Google Flow retirará el 5 de diciembre Veo 3.1 Fast, Veo 3.1 Quality y Omni Flash 1.1</title>
@@ -871,13 +871,13 @@
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-13-legis-cpmdem.jpg" medium="image" type="image/png"><media:description>Portada del catálogo Legis CPMDEM con un buscador, filtros de vigencia y categorías de normativa, y las primeras fichas de decretos y órdenes.</media:description></media:content>
   </item>
   <item>
-    <title>Scribe v3 de ElevenLabs reduce, según la empresa, un 35 % los errores en español</title>
+    <title>Scribe v3 de ElevenLabs reduce, según la empresa, un 35 % los errores en español</title>
     <link>https://diarioiaeducativa.github.io/2026-11-13/elevenlabs-scribe-v3.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-13/elevenlabs-scribe-v3.html</guid>
     <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
     <category>Multimedia</category>
     <description>Los nuevos modelos de voz a texto de ElevenLabs reducen los errores de palabras respecto a Scribe v2. Las cifras son de la propia empresa.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-elevenlabs-scribe-v3.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, una onda de sonido rotulada «Voz» se convierte en una hoja con líneas de texto rotulada «Texto»; a la derecha, dos columnas rotuladas «Scribe v2» y «Scribe v3», la segunda más baja, con una flecha roja hacia abajo y el rótulo «−35 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-13-elevenlabs-scribe-v3.svg" medium="image" type="image/svg+xml"><media:description>A la izquierda, una onda de sonido rotulada «Voz» se convierte en una hoja con líneas de texto rotulada «Texto»; a la derecha, dos columnas rotuladas «Scribe v2» y «Scribe v3», la segunda más baja, con una flecha roja hacia abajo y el rótulo «−35 %».</media:description></media:content>
   </item>
   <item>
     <title>Atlas en xogo, un juego de mapas en gallego, se suma a las aplicaciones de EDUmind</title>

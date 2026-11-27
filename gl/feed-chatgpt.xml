@@ -115,7 +115,7 @@
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-23-corea-dimision-ministro-ia-examen.svg" medium="image" type="image/svg+xml"><media:description>Tres pasos de esquerda a dereita: un lapis co rótulo «Só lapis», un móbil riscado cunha raia vermella e o rótulo «Sen móbiles», e unha persoa co rótulo «Dimisión».</media:description></media:content>
   </item>
   <item>
-    <title>Opus 4.5 superou o 80 % nunha proba de programación que OpenAI xa non usa</title>
+    <title>Opus 4.5 superou o 80 % nunha proba de programación que OpenAI xa non usa</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-23/opus-4-5-swe-bench-verified-retirada.html</guid>
     <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
@@ -139,7 +139,7 @@
     <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
     <category>A reportaxe do domingo</category>
     <description>Unha revisión da Universidade de Stanford reúne xa 52 estudos que miden o efecto da IA na aprendizaxe: usala para entender material novo sae mellor parado que usala para producir o traballo, aínda que ningún uso mellora os resultados de forma constante. Este reportaxe explica como ler eses estudos, por que un titor que pregunta non abonda por si só e que pode facer o profesorado para que a IA non faga o traballo do alumnado.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografía: un estudante ante un asistente de IA con dous camiños. Arriba, «Entregar»: a IA fai o traballo e, sen a ferramenta, o resultado cae: «Sen a ferramenta: −17 %». Abaixo, «Entender»: o asistente pregunta e o estudante corrixe os seus erros: «64 % corrixidos sós». Debaixo, catro recomendacións: «Intento propio», «Titor pregunta», «Separar tarefas» e «Comprobar sen IA».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-21-ia-aprender-entender-o-entregar.svg" medium="image" type="image/svg+xml"><media:description>Infografía: un estudante ante un asistente de IA con dous camiños. Arriba, «Entregar»: a IA fai o traballo e, sen a ferramenta, o resultado cae: «Sen a ferramenta: −17 %». Abaixo, «Entender»: o asistente pregunta e o estudante corrixe os seus erros: «64 % corrixidos sós». Debaixo, catro recomendacións: «Intento propio», «Titor pregunta», «Separar tarefas» e «Comprobar sen IA».</media:description></media:content>
   </item>
   <item>
     <title>Gemini Notebook xa ten API oficial, aínda que limitada e en versión preliminar</title>
@@ -166,7 +166,7 @@
     <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
     <category>Hai un ano</category>
     <description>En novembro de 2025, o novo modelo de imaxes de Google acertaba uns polígonos e fallaba outros. En febreiro de 2026 Nano Banana 2 substituíuno en Gemini e, para as persoas desenvolvedoras hai outro que custa a cuarta parte por imaxe de 1K.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptico cunha liña vertical no centro. Á esquerda, «nov. 2025»: catro billetes de tinta e debaixo «0,134 $». Á dereita, «Hoxe»: un só billete azul, a cuarta parte, e debaixo «0,0336 $».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-21-nano-banana-pro-poligonos-precio.svg" medium="image" type="image/svg+xml"><media:description>Díptico cunha liña vertical no centro. Á esquerda, «nov. 2025»: catro billetes de tinta e debaixo «0,134 $». Á dereita, «Hoxe»: un só billete azul, a cuarta parte, e debaixo «0,0336 $».</media:description></media:content>
   </item>
   <item>
     <title>Google DeepMind ofrece, en inglés, unha guía interactiva que explica co seu modelo Gemma 4 como un modelo…</title>
@@ -195,12 +195,12 @@
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-20-google-distritos-ia-buscador.svg" medium="image" type="image/svg+xml"><media:description>Un edificio, «Distrito», cunha frecha rotulada «Rexeita a IA» que apunta a unha lupa tachada cun círculo vermello, «Buscador», e debaixo a pregunta «Sen acceso?».</media:description></media:content>
   </item>
   <item>
-    <title>Do 9 % ao 36 % en física de investigación: a IA aínda falla case dous de cada tres</title>
+    <title>Do 9 % ao 36 % en física de investigación: a IA aínda falla case dous de cada tres</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-20/critpt-fisica-investigacion-modelos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-20/critpt-fisica-investigacion-modelos.html</guid>
     <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
     <category>Hai un ano</category>
-    <description>En novembro de 2025 estreábase unha avaliación con problemas inéditos de física na que ningún modelo de IA chegaba ao 10 %. Un ano despois, o mellor resultado roza o 36 %.</description>
+    <description>En novembro de 2025 estreábase unha avaliación con problemas inéditos de física na que ningún modelo de IA chegaba ao 10 %. Un ano despois, o mellor resultado roza o 36 %.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-20-critpt-fisica-investigacion-modelos.svg" medium="image" type="image/svg+xml"><media:description>Díptico en dúas metades. Á esquerda, co rótulo «Nov. 2025», unha folla con tres retos de física, os tres marcados cunha cruz e o rótulo «Falla case todo». Á dereita, co rótulo «Hoxe», a mesma folla co primeiro reto resolto, cunha marca azul, e os outros dous aínda con cruz, co rótulo «Aínda falla moito».</media:description></media:content>
   </item>
   <item>
@@ -282,7 +282,7 @@
     <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
     <category>Biblioteca</category>
     <description>Investigadores de Carnegie Mellon comparan catro formas de dar retroalimentación tras un fallo e suxiren que o que funciona é devolver o alumno á tarefa ata que acerte.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dous camiños tras un erro, marcado cunha cruz vermella. Arriba, o erro leva a un recadro «Explicación» e de aí aos seguintes problemas. Abaixo, o erro leva a «Pregunta», logo a «Reintento», cunha frecha que volve de «Reintento» a «Pregunta» mentres non se acerta, e por fin a unha marca de verificación baixo o rótulo «Acerto». Enriba, o rótulo «64 %».</media:description></media:content>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-18-cmu-tutoria-socratica-errores.svg" medium="image" type="image/svg+xml"><media:description>Dous camiños tras un erro, marcado cunha cruz vermella. Arriba, o erro leva a un recadro «Explicación» e de aí aos seguintes problemas. Abaixo, o erro leva a «Pregunta», logo a «Reintento», cunha frecha que volve de «Reintento» a «Pregunta» mentres non se acerta, e por fin a unha marca de verificación baixo o rótulo «Acerto». Enriba, o rótulo «64 %».</media:description></media:content>
   </item>
   <item>
     <title>Google pon en marcha fíos temporais no Modo IA do seu buscador: as preguntas desas conversas non se gardan…</title>
