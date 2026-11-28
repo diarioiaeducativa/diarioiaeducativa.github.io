@@ -9,6 +9,23 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · Vibe coding</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Sentit reuneix comprensions orals en català amb veus sintètiques i fitxes per imprimir</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-27/sentit-comprension-oral-catalan.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-27/sentit-comprension-oral-catalan.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Aarón Fortuño ha creat, amb Codex, un repositori obert d&#x27;activitats d&#x27;escolta que l&#x27;alumnat respon en paper.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-27-sentit-comprension-oral-catalan.svg" medium="image" type="image/svg+xml"><media:description>Sota el rètol «Comprensió oral en català», tres passos units per fletxes: ones de so amb el rètol «Veu sintètica», un codi amb el rètol «Codi QR» i un full de paper amb el rètol «Fitxa en paper».</media:description></media:content>
+  </item>
+  <item>
+    <title>Màquines simples, privadesa, viatges en tren i comprensió oral, nous al repositori</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-27/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-27/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>El Repositori de recursos de Vibe Coding Educativo suma a la setmana que acaba el 27 de novembre quatre recursos: cap no queda per presentar aquí, perquè els quatre ja van tenir el seu article.</description>
+  </item>
+  <item>
     <title>Una agència de viatges en tren serveix per practicar matemàtiques bàsiques a l&#x27;ESO</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-26/estacion-tren-agencia-viajes.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/estacion-tren-agencia-viajes.html</guid>
@@ -438,24 +455,6 @@
     <category>Vibe coding</category>
     <description>«Rompecabezas – Técnica Jigsaw» rep la llista de l&#x27;alumnat i els subtemes i reparteix els grups de manera equilibrada. S&#x27;obre al navegador i està disponible en cinc llengües.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Pantalla d&#x27;inici amb un quadre per escriure els noms de l&#x27;alumnat, quatre subtemes amb colors, un camp de tema general i el botó «Formar grupos».</media:description></media:content>
-  </item>
-  <item>
-    <title>Un editor de programació per blocs, basat en TurboWarp i compatible amb Scratch, per aprendre a programar</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-04/edutictac-blocs.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-04/edutictac-blocs.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>EduTicTac Blocs és un entorn de programació visual compatible amb projectes de Scratch i amb plantilles per a l&#x27;aula; segons la seva web, sense publicitat ni rastrejadors.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Projecte d&#x27;exemple amb el botó «Ver dentro» i l&#x27;escenari i els seus controls de bandera, pausa i parada, un avís verd d&#x27;inici i els botons «Empieza con una plantilla» i «Explora la galería».</media:description></media:content>
-  </item>
-  <item>
-    <title>Una activitat gamificada porta el camp gravitatori de 2n de Batxillerat a nou missions orbitals</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-03/misiones-orbitales.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-03/misiones-orbitales.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«Misiones orbitales», d&#x27;El profe de la bata, proposa a l&#x27;alumnat crear un astronauta i resoldre nou missions amb simuladors interactius. La versió de pràctica funciona al navegador, sense comptes.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Un planeta envoltat per una òrbita el·líptica blava amb nou punts, un per missió («9 missions»), i a la dreta tres estrelles retolades «Totes les estrelles», que s&#x27;obtenen amb un error inferior al 5 % («Error &lt; 5 %»).</media:description></media:content>
   </item>
 </channel>
 </rss>

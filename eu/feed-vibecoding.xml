@@ -9,6 +9,23 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Hezkuntzako AA Egunkaria · Vibe coding</title><link>https://diarioiaeducativa.github.io/eu/</link></image>
   <item>
+    <title>Sentit-ek katalanezko entzumen-ulermenak biltzen ditu ahots sintetikoekin eta inprimatzeko fitxekin</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-27/sentit-comprension-oral-catalan.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-27/sentit-comprension-oral-catalan.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Aarón Fortuñok, Codex-ekin, ikasleek paperean erantzuten dituzten entzute-jardueren biltegi ireki bat sortu du.</description>
+    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-27-sentit-comprension-oral-catalan.svg" medium="image" type="image/svg+xml"><media:description>«Katalanezko entzumen-ulermena» errotuluaren azpian, geziz lotutako hiru urrats: soinu-uhinak, «Ahots sintetikoa» errotuluarekin; kode bat, «QR kodea» errotuluarekin, eta paper-orri bat, «Paperezko fitxa» errotuluarekin.</media:description></media:content>
+  </item>
+  <item>
+    <title>Makina sinpleak, pribatutasuna, tren-bidaiak eta ahozko ulermena, berriak biltegian</title>
+    <link>https://diarioiaeducativa.github.io/eu/2026-11-27/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-27/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Vibe Coding Educativoren Baliabideen biltegiak lau baliabide gehitu ditu azaroaren 27an amaitzen den astean: bat ere ez dago hemen aurkezteko, lauek jada izan baitzuten euren artikulua.</description>
+  </item>
+  <item>
     <title>Trenezko bidaia-agentzia bat DBHko oinarrizko matematikak praktikatzeko erabil daiteke</title>
     <link>https://diarioiaeducativa.github.io/eu/2026-11-26/estacion-tren-agencia-viajes.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-26/estacion-tren-agencia-viajes.html</guid>
@@ -438,24 +455,6 @@
     <category>Vibe coding</category>
     <description>«Rompecabezas – Técnica Jigsaw» tresnak ikasleen zerrenda eta azpigaiak jasotzen ditu, eta taldeak modu orekatuan banatzen ditu. Nabigatzailean irekitzen da eta bost hizkuntzatan dago eskuragarri.</description>
     <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-rompecabezas-tecnica-jigsaw.jpg" medium="image" type="image/png"><media:description>Hasierako pantaila: ikasleen izenak idazteko koadro bat, koloredun lau azpigai, gai orokorrerako eremu bat eta «Formar grupos» botoia.</media:description></media:content>
-  </item>
-  <item>
-    <title>TurboWarp-en oinarritutako eta Scratch-ekin bateragarria den bloke bidezko programazio-editore bat, programatzen ikasteko</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-04/edutictac-blocs.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-04/edutictac-blocs.html</guid>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>EduTicTac Blocs Scratch proiektuekin eta ikasgelarako txantiloiekin bateragarria den programazio bisualeko ingurune bat da; bere webgunearen arabera, publizitaterik eta aztarnaririk gabea.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-04-edutictac-blocs.jpg" medium="image" type="image/png"><media:description>Adibide-proiektu bat, «Ver dentro» botoiarekin, eszenatokia eta bandera, pausa eta geldiketa kontrolak, hasierako ohar berde bat eta «Empieza con una plantilla» eta «Explora la galería» botoiak.</media:description></media:content>
-  </item>
-  <item>
-    <title>Jarduera gamifikatu batek Batxilergoko 2. mailako eremu grabitatorioa bederatzi misio orbitaletara eramaten du</title>
-    <link>https://diarioiaeducativa.github.io/eu/2026-11-03/misiones-orbitales.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/eu/2026-11-03/misiones-orbitales.html</guid>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>El profe de la bata-ren «Misiones orbitales» jarduerak ikasleei astronauta bat sortzea eta bederatzi misio ebaztea proposatzen die, simulagailu interaktiboekin. Praktika-bertsioak nabigatzailean funtzionatzen du, konturik gabe.</description>
-    <media:content url="https://diarioiaeducativa.github.io/eu/ilustraciones/2026-11-03-misiones-orbitales.svg" medium="image" type="image/svg+xml"><media:description>Planeta bat, bederatzi puntu dituen elipse orbital urdin batez inguratua, misio bakoitzeko bat («9 misio»), eta eskuinean, % 5 baino errore txikiagoarekin lortzen diren hiru izar, «Izar guztiak» errotuluarekin («Errorea &lt; % 5»).</media:description></media:content>
   </item>
 </channel>
 </rss>

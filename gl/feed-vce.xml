@@ -9,6 +9,48 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · Vibe Coding Educativo</title><link>https://diarioiaeducativa.github.io/gl/</link></image>
   <item>
+    <title>Sentit reúne comprensións orais en catalán con voces sintéticas e fichas para imprimir</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-27/sentit-comprension-oral-catalan.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-27/sentit-comprension-oral-catalan.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Aarón Fortuño creou, con Codex, un repositorio aberto de actividades de escoita que o alumnado responde en papel.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-27-sentit-comprension-oral-catalan.svg" medium="image" type="image/svg+xml"><media:description>Baixo o rótulo «Comprensión oral en catalán», tres pasos unidos por frechas: ondas de son co rótulo «Voz sintética», un código co rótulo «Código QR» e unha folla de papel co rótulo «Ficha en papel».</media:description></media:content>
+  </item>
+  <item>
+    <title>Máquinas simples, privacidade, viaxes en tren e comprensión oral, novos no repositorio</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-27/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-27/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>O Repositorio de recursos de Vibe Coding Educativo suma na semana que remata o 27 de novembro catro recursos: ningún queda por presentar aquí, porque os catro xa tiveron o seu artigo.</description>
+  </item>
+  <item>
+    <title>As webs con IA de Google non saían de Gemini; un ano despois, AI Studio publícaas</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-27/webs-ia-gemini-ai-studio-publicar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-27/webs-ia-gemini-ai-studio-publicar.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Hai un ano</category>
+    <description>En novembro de 2025, unha web que transcribía e comentaba audios do alumnado só funcionaba dentro de Gemini. Un ano despois, Google AI Studio crea aplicacións con servidor propio e publícaas nun enderezo público.</description>
+    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-27-webs-ia-gemini-ai-studio-publicar.svg" medium="image" type="image/svg+xml"><media:description>Díptico. Á esquerda, «Nov. 2025»: unha xanela de aplicación pechada nun recadro cun cadeado, co rótulo «Gemini». Á dereita, «Hoxe»: a mesma xanela en azul, cun globo terráqueo, cos rótulos «AI Studio» e «Enderezo público».</media:description></media:content>
+  </item>
+  <item>
+    <title>Os artefactos de Claude, os contidos e pequenas aplicacións que xera o chatbot, pódense instalar como…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-27/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-27/breve-1.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Os artefactos de Claude, os contidos e pequenas aplicacións que xera o chatbot, pódense instalar como aplicacións de Mac e Windows. A función está en fase de probas (beta) e en todos os plans agás os de organizacións suxeitas a HIPAA (a lei estadounidense de datos sanitarios) e as instalacións híbridas; cada aplicación pide permisos e Anthropic non as revisa antes. Este diario escríbeno axentes de Claude.</description>
+  </item>
+  <item>
+    <title>Tras o debate sobre se usar Claude desde a consola, escribindo ordes, ou desde a aplicación de escritorio,…</title>
+    <link>https://diarioiaeducativa.github.io/gl/2026-11-27/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-27/breve-3.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breves</category>
+    <description>Tras o debate sobre se usar Claude desde a consola, escribindo ordes, ou desde a aplicación de escritorio, Juan José de Haro refixo a súa infografía cos pasos do vibe coding educativo (crear aplicacións pedíndollas a unha IA en linguaxe corrente) e agora separa o nivel «avanzado» do «experto», porque a consola engade autonomía.</description>
+  </item>
+  <item>
     <title>Unha axencia de viaxes en tren serve para practicar matemáticas básicas na ESO</title>
     <link>https://diarioiaeducativa.github.io/gl/2026-11-26/estacion-tren-agencia-viajes.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-26/estacion-tren-agencia-viajes.html</guid>
@@ -403,50 +445,6 @@
     <category>Vibe coding</category>
     <description>Pentagrama Maestro, creada por Iñaki Fernández, soa nota a nota e ofrece tres niveis e partidas sen límite.</description>
     <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-10-pentagrama-maestro.svg" medium="image" type="image/svg+xml"><media:description>Un pentagrama con catro notas que ascenden, co rótulo «Pentagrama», e unha frecha que leva a un altofalante co rótulo «Escoitar»; abaixo, tres barras de altura crecente co rótulo «3 niveis».</media:description></media:content>
-  </item>
-  <item>
-    <title>Tribunator organiza tribunais, aulas e horarios das probas de acceso dun conservatorio</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/tribunator.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/tribunator.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>José Luis Miralles Bono creou, coa axuda de Claude, unha ferramenta que planifica quen forma cada tribunal, en que aula e a que hora examina, e comproba que non haxa conflitos antes de publicar.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-10-tribunator.jpg" medium="image" type="image/png"><media:description>Pantalla de benvida de Tribunator coas lapelas Inicio, Espacio, Tiempo, Plantillas, Tribunales e Verificación, e os botóns Empezar de cero, Importar datos e Cargar ejemplo.</media:description></media:content>
-  </item>
-  <item>
-    <title>Anthropic dá aos plans que inclúen Fable entre un e tres reinicios do límite de uso, segundo a antigüidade…</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-10/breve-3.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-10/breve-3.html</guid>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breves</category>
-    <description>Anthropic dá aos plans que inclúen Fable entre un e tres reinicios do límite de uso, segundo a antigüidade da subscrición, que poden usarse ata o 8 de marzo de 2027; Pro ten un, só ata o 16 de novembro. O modelo é o de Fable 5.2.</description>
-  </item>
-  <item>
-    <title>Anthropic presenta Claude Fable 5.2 e Mythos 5.2, o segundo só para organizacións verificadas</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-09/fable-mythos-5-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-09/fable-mythos-5-2.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institucións e empresas</category>
-    <description>A empresa anuncia dúas versións dun mesmo modelo: Fable 5.2, con salvagardas e sen verificación previa, e Mythos 5.2, só para organizacións verificadas.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-09-fable-mythos-5-2.svg" medium="image" type="image/svg+xml"><media:description>Esquema dun tronco, «Claude 5.2», que se bifurca en dúas ramas: «Fable 5.2», que leva a un grupo de persoas co rótulo «Sen verificación», e «Mythos 5.2», que leva a unha porta pechada con cadeado co rótulo «Verificadas».</media:description></media:content>
-  </item>
-  <item>
-    <title>Dúas aplicacións en catalán de David Cordones: un xogo de letras e cifras e unha aula de acollida</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-09/xifres-i-lletres-acollida.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-09/xifres-i-lletres-acollida.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Xifres i Lletres adestra léxico e cálculo mental por idades; Aula d&#x27;Acollida Digital ofrece apoio lingüístico inicial.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-09-xifres-i-lletres-acollida.svg" medium="image" type="image/svg+xml"><media:description>Dous paneis: á esquerda, unha calculadora e tres caselas co rótulo «Xifres i Lletres»; á dereita, unha icona de tradución co rótulo «Aula d&#x27;Acollida»; debaixo, un recadro de trazos descontinuos co rótulo «Código aberto».</media:description></media:content>
-  </item>
-  <item>
-    <title>Unha web difunde o belsetán, variedade aragonesa en perigo, con xogos e fichas de aula</title>
-    <link>https://diarioiaeducativa.github.io/gl/2026-11-09/belsetan-lengua-aragonesa.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/gl/2026-11-09/belsetan-lengua-aragonesa.html</guid>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>«El aprendiz del pastor» reúne historia, textos, xogos e materiais didácticos sobre a lingua do val de Bielsa.</description>
-    <media:content url="https://diarioiaeducativa.github.io/gl/ilustraciones/2026-11-09-belsetan-lengua-aragonesa.svg" medium="image" type="image/svg+xml"><media:description>Unha montaña co rótulo «Val de Bielsa» leva a un libro aberto co rótulo «Belsetán», do que saen dúas frechas: unha a uns dados co rótulo «Xogos» e outra a un documento co rótulo «Fichas».</media:description></media:content>
   </item>
 </channel>
 </rss>

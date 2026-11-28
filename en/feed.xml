@@ -9,6 +9,83 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Educational AI Daily</title><link>https://diarioiaeducativa.github.io/en/</link></image>
   <item>
+    <title>From February 2027, Google will require AI agents to use its own tools</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/google-workspace-agentes-mcp.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/google-workspace-agentes-mcp.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>Agents that read or write in Gmail, Drive or Docs will have to go through Google’s own tools, which ask for confirmation before sending emails or changing permissions.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-27-google-workspace-agentes-mcp.svg" medium="image" type="image/svg+xml"><media:description>Diagram from left to right: a robot icon labelled “Agent” moves towards an open door labelled “MCP / CLI”, above which a person with a tick confirms; lines run from the door to three icons labelled “Gmail”, “Drive” and “Docs”.</media:description></media:content>
+  </item>
+  <item>
+    <title>AI use among US teachers stalls at 62%, one point up on 2025</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/edweek-uso-ia-docentes-62.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/edweek-uso-ia-docentes-62.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institutions &amp; Industry</category>
+    <description>An EdWeek survey of 590 teachers, carried out from August to October 2026, shows that use, which almost doubled between 2023 and 2025, has barely grown this school year.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-27-edweek-uso-ia-docentes-62.svg" medium="image" type="image/svg+xml"><media:description>A staircase of three sections: it climbs sharply between “2023” and “2025”, labelled “Almost doubles”, and between “2025” and “2026” it is almost flat, labelled “One point up”, above a group of people representing teachers.</media:description></media:content>
+  </item>
+  <item>
+    <title>Sentit gathers Catalan listening exercises with synthetic voices and printable worksheets</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/sentit-comprension-oral-catalan.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/sentit-comprension-oral-catalan.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>Aarón Fortuño has created, with Codex, an open repository of listening activities that students answer on paper.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-27-sentit-comprension-oral-catalan.svg" medium="image" type="image/svg+xml"><media:description>Under the heading “Listening comprehension in Catalan”, three steps joined by arrows: sound waves labelled “Synthetic voice”, a code labelled “QR code” and a sheet of paper labelled “Paper worksheet”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Polycam turns objects and spaces into 3D models with a phone camera</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/polycam-escaneo-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/polycam-escaneo-3d.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>The app scans what is in front of it and produces a model that can be rotated, measured and shared. Its free plan has clear limits.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-27-polycam-escaneo-3d.svg" medium="image" type="image/svg+xml"><media:description>Before and after: on the left, a sculpture on a table surrounded by a dotted line followed by a phone, labelled “Scan”; on the right, the same figure as a mesh of points and lines on a screen, with a rotation arrow and a red measuring line, labelled “3D model” and “Measurement”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Simple machines, privacy, train travel and listening comprehension are new in the repository</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/semana-del-repositorio.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/semana-del-repositorio.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Vibe coding</category>
+    <description>The Vibe Coding Educativo resource repository adds four resources in the week ending 27 November: none is left to present here, because all four have already had their own article.</description>
+  </item>
+  <item>
+    <title>Google’s AI web apps stayed inside Gemini; a year later, AI Studio publishes them</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/webs-ia-gemini-ai-studio-publicar.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/webs-ia-gemini-ai-studio-publicar.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>A year ago</category>
+    <description>In November 2025, a web app that transcribed and commented on students’ audio recordings only worked inside Gemini. A year later, Google AI Studio builds apps with their own server and publishes them at a public address.</description>
+    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-27-webs-ia-gemini-ai-studio-publicar.svg" medium="image" type="image/svg+xml"><media:description>Diptych. On the left, “Nov. 2025”: an app window enclosed in a box with a padlock, labelled “Gemini”. On the right, “Today”: the same window in blue, with a globe, labelled “AI Studio” and “Public address”.</media:description></media:content>
+  </item>
+  <item>
+    <title>Claude artifacts, the content and small applications the chatbot generates, can be installed as Mac and…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/breve-1.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/breve-1.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Claude artifacts, the content and small applications the chatbot generates, can be installed as Mac and Windows apps. The feature is in beta and available on all plans except those for organisations subject to HIPAA (the US health-data law) and hybrid deployments; each app asks for permissions and Anthropic does not review them beforehand. This paper is written by Claude agents.</description>
+  </item>
+  <item>
+    <title>Pinterest lets families limit how much AI-generated content their teenage children see, and adds controls…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/breve-2.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Pinterest lets families limit how much AI-generated content their teenage children see, and adds controls for autoplay and notifications. According to TechCrunch, it is one of the first big networks to offer this, although its general filters against AI content do not always stop it appearing. The article does not specify countries or account types.</description>
+  </item>
+  <item>
+    <title>Following the debate over whether to use Claude from the console, typing commands, or from the desktop…</title>
+    <link>https://diarioiaeducativa.github.io/en/2026-11-27/breve-3.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-27/breve-3.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>In brief</category>
+    <description>Following the debate over whether to use Claude from the console, typing commands, or from the desktop app, Juan José de Haro has redone his infographic of the steps of educational vibe coding (building applications by asking an AI for them in plain language) and now separates the “advanced” level from the “expert” one, because the console adds autonomy.</description>
+  </item>
+  <item>
     <title>Claude’s projects go from folder to conversation that splits the work into threads</title>
     <link>https://diarioiaeducativa.github.io/en/2026-11-26/claude-proyectos-hilos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-26/claude-proyectos-hilos.html</guid>
@@ -807,86 +884,6 @@
     <category>Vibe coding</category>
     <description>Felip Sarroca i Gil says his computer cannot open Blender, but Codex can operate it, and it has generated 3D models for his website for fourth-year ESO students.</description>
     <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-revolucion-industrial-blender-codex.svg" medium="image" type="image/svg+xml"><media:description>A diagram from left to right: a speech bubble labelled “Request” leads to a cog labelled “Codex + Blender”, which leads to a cube with three dots labelled “3D model”; a curved red arrow, labelled “More realism”, returns from the model to the request.</media:description></media:content>
-  </item>
-  <item>
-    <title>GeoBreath guides breathing exercises with geometric shapes and an adjustable rhythm</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/breath-ejercicio-de-respiracion-guiada-p.html</guid>
-    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>Luis Vilela Acuña&#x27;s app uses an animated shape to show when to breathe in, hold and breathe out. It opens in the browser, with nothing to install, and is available in six languages.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-breath-ejercicio-de-respiracion-guiada-p.jpg" medium="image" type="image/png"><media:description>GeoBreath screen with a square along whose sides a dot travels, the prompt “Inspira” in the centre, the session and cycle counters and the selector for shape and seconds per side.</media:description></media:content>
-  </item>
-  <item>
-    <title>A web editor lets teachers design collectable fauna and flora cards for the classroom</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/generador-de-cromos-para-gamificacion-ed.html</guid>
-    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>The Eco-Duel Card Generator, created by David Cordones, offers a form for composing cards with data on animals and plants, with one collection per school year, from the first year of primary to the second year of Bachillerato.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-14-generador-de-cromos-para-gamificacion-ed.jpg" medium="image" type="image/png"><media:description>Card editor with the form on the left and, on the right, a fauna card called Senglar with size 7, level 3 and speed 5, and the buttons Descarregar and Copiar above it.</media:description></media:content>
-  </item>
-  <item>
-    <title>Gemini came and went in educational accounts; today the school switches it on or off</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-14/gemini-cuentas-educativas-control-centro.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/gemini-cuentas-educativas-control-centro.html</guid>
-    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
-    <category>A year ago</category>
-    <description>In November 2025, anyone using Gemini with an educational account could not tell which features they would find from one day to the next. A year later, Google has opened up features that were then denied to them, but for students’ accounts each school will decide.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-14-gemini-cuentas-educativas-control-centro.svg" medium="image" type="image/svg+xml"><media:description>Diptych split by a vertical line. On the left, “Nov. 2025”: two rows, “Gmail” with a video and a tick, and “XTEC” with a video and a red cross. On the right, “Today”: two school buildings, one with a switch turned on and the other with one turned off, next to the label “School”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Eduvers, the simulation platform that the paper presented on 12 November, has a 3D simulation for…</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-14/breve-1.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-14/breve-1.html</guid>
-    <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
-    <category>In brief</category>
-    <description>Eduvers, the simulation platform that the paper presented on 12 November, has a 3D simulation for preparing a NaOH solution and measuring the acidity of vinegar, according to its description.</description>
-  </item>
-  <item>
-    <title>Wharton releases Primer, an open system that turns a conversation into a simulation</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-13/primer-wharton.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/primer-wharton.html</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Tools</category>
-    <description>Wharton Generative AI Labs offers an open-source prototype in which a team of agents interviews the teacher and builds a simulation for students. Its authors warn that it has not been evaluated in classrooms.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-13-primer-wharton.svg" medium="image" type="image/svg+xml"><media:description>A diagram in two boxes: on the left, a teacher labelled “Teacher” hands over their conversation and receives a document with an approval mark, labelled “Design”; on the right, a student, labelled “Student”, talks to a character, labelled “Character”; below, a red arrow labelled “Report” returns from the simulation to the teacher.</media:description></media:content>
-  </item>
-  <item>
-    <title>INTEF to present the 2026 update of its AI guide at SIMO on 13 November</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-13/intef-guias-ia-simo.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/intef-guias-ia-simo.html</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Institutions &amp; Industry</category>
-    <description>According to INTEF’s programme at SIMO EDUCACIÓN, that day was to see the presentation of the new version of its guide on the use of AI in education and another on how to integrate it into schools.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-13-intef-guias-ia-simo.svg" medium="image" type="image/svg+xml"><media:description>A timeline under the label “13 November” with two sessions: at “10:30”, an open book labelled “AI guide”, and at “13:30”, a document labelled “Schools”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Conservatoire regulations, indicators and classroom games, new in the repository</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-13/semana-del-repositorio.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/semana-del-repositorio.html</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>The Vibe Coding Educativo resource repository adds 25 resources this week: 13 are presented here and 12 have already had their own article.</description>
-    <media:content url="https://diarioiaeducativa.github.io/capturas/2026-11-13-legis-cpmdem.jpg" medium="image" type="image/png"><media:description>Home page of the Legis CPMDEM catalogue with a search box, filters for validity and categories of regulation, and the first entries for decrees and orders.</media:description></media:content>
-  </item>
-  <item>
-    <title>ElevenLabs’ Scribe v3 cuts Spanish errors by 35%, according to the company</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-13/elevenlabs-scribe-v3.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/elevenlabs-scribe-v3.html</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimedia</category>
-    <description>ElevenLabs’ new speech-to-text models reduce word errors compared with Scribe v2. The figures are the company’s own.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-13-elevenlabs-scribe-v3.svg" medium="image" type="image/svg+xml"><media:description>On the left, a sound wave labelled “Voice” turns into a sheet with lines of text labelled “Text”; on the right, two columns labelled “Scribe v2” and “Scribe v3”, the second one shorter, with a red downward arrow and the label “−35%”.</media:description></media:content>
-  </item>
-  <item>
-    <title>Atlas en xogo, a map game in Galician, joins EDUmind’s apps</title>
-    <link>https://diarioiaeducativa.github.io/en/2026-11-13/atlas-en-xogo.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/en/2026-11-13/atlas-en-xogo.html</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Vibe coding</category>
-    <description>A new interactive geography app in Galician has been shared in Vibe Coding Educativo. A full description of its game modes could not be checked.</description>
-    <media:content url="https://diarioiaeducativa.github.io/en/ilustraciones/2026-11-13-atlas-en-xogo.svg" medium="image" type="image/svg+xml"><media:description>A browser window with a map and the label “Atlas en xogo”; to its left, a magnifying glass with a plus sign, labelled “Zoom”; to its right, a globe labelled “3D view”.</media:description></media:content>
   </item>
 </channel>
 </rss>

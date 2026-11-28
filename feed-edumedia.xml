@@ -9,6 +9,15 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diario de IA Educativa · EduMedia-IAG</title><link>https://diarioiaeducativa.github.io/</link></image>
   <item>
+    <title>Polycam convierte objetos y espacios en modelos 3D con la cámara del móvil</title>
+    <link>https://diarioiaeducativa.github.io/2026-11-27/polycam-escaneo-3d.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-27/polycam-escaneo-3d.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Multimedia</category>
+    <description>La aplicación escanea lo que hay delante y genera un modelo que se puede girar, medir y compartir. Su plan gratuito tiene límites claros.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ilustraciones/2026-11-27-polycam-escaneo-3d.svg" medium="image" type="image/svg+xml"><media:description>Antes y después: a la izquierda, una escultura sobre una mesa rodeada por una línea de puntos que recorre un móvil, con el rótulo «Escaneo»; a la derecha, la misma figura como malla de puntos y líneas en una pantalla, con una flecha de giro y una línea de medida en rojo, con los rótulos «Modelo 3D» y «Medida».</media:description></media:content>
+  </item>
+  <item>
     <title>HeyGen clona una voz para vídeos con avatar; el plan gratuito da tres vídeos al mes</title>
     <link>https://diarioiaeducativa.github.io/2026-11-26/heygen-clonar-voz-avatar.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/2026-11-26/heygen-clonar-voz-avatar.html</guid>

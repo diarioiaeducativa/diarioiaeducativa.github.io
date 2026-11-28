@@ -9,6 +9,32 @@
   <copyright>© 2026 Juan José de Haro, Raül Torres. CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
   <image><url>https://diarioiaeducativa.github.io/icono-192.png</url><title>Diari d&#x27;IA Educativa · ChatGPT-IA-edu</title><link>https://diarioiaeducativa.github.io/ca/</link></image>
   <item>
+    <title>Google exigirà a partir del febrer del 2027 que els agents d&#x27;IA facin servir les seves eines pròpies</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-27/google-workspace-agentes-mcp.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-27/google-workspace-agentes-mcp.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>Els agents que llegeixin o escriguin a Gmail, Drive o Docs hauran de passar per eines pròpies de Google, que demanen confirmació abans d&#x27;enviar correus o canviar permisos.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-27-google-workspace-agentes-mcp.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;esquerra a dreta: una icona de robot amb el rètol «Agent» avança cap a una porta oberta amb el rètol «MCP / CLI», sobre la qual hi ha una persona amb una marca de verificació que confirma; de la porta surten línies cap a tres icones amb els rètols «Gmail», «Drive» i «Docs».</media:description></media:content>
+  </item>
+  <item>
+    <title>L&#x27;ús d&#x27;IA entre els docents dels EUA s&#x27;estanca en el 62 %, un punt més que el 2025</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-27/edweek-uso-ia-docentes-62.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-27/edweek-uso-ia-docentes-62.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Institucions i empreses</category>
+    <description>Una enquesta d&#x27;EdWeek a 590 docents, feta d&#x27;agost a octubre del 2026, mostra que l&#x27;ús, que gairebé es va duplicar entre el 2023 i el 2025, amb prou feines ha crescut aquest curs.</description>
+    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-27-edweek-uso-ia-docentes-62.svg" medium="image" type="image/svg+xml"><media:description>Una escala de tres trams: puja amb força entre «2023» i «2025», amb el rètol «Gairebé es duplica», i entre «2025» i «2026» queda gairebé plana, amb el rètol «Un punt més», sobre un grup de persones que representa el professorat.</media:description></media:content>
+  </item>
+  <item>
+    <title>Pinterest permet a les famílies limitar quant de contingut generat amb IA veuen els seus fills…</title>
+    <link>https://diarioiaeducativa.github.io/ca/2026-11-27/breve-2.html</link>
+    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-27/breve-2.html</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+    <category>Breus</category>
+    <description>Pinterest permet a les famílies limitar quant de contingut generat amb IA veuen els seus fills adolescents, i afegeix controls de reproducció automàtica i de notificacions. Segons TechCrunch, és una de les primeres grans xarxes a oferir-ho, tot i que els seus filtres generals contra el contingut d&#x27;IA no sempre impedeixen que aparegui. L&#x27;article no precisa països ni tipus de compte.</description>
+  </item>
+  <item>
     <title>Els projectes de Claude passen de carpeta a conversa que reparteix la feina en fils</title>
     <link>https://diarioiaeducativa.github.io/ca/2026-11-26/claude-proyectos-hilos.html</link>
     <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-26/claude-proyectos-hilos.html</guid>
@@ -424,32 +450,6 @@
     <category>Biblioteca</category>
     <description>L&#x27;Office for Students i Advance HE reuneixen un informe de 48 pàgines, basat en més de 300 estudiants i docents, i una guia que tradueix les seves troballes a les condicions B1, B2 i B4 de registre.</description>
     <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-ofs-ia-educacion-superior.svg" medium="image" type="image/svg+xml"><media:description>Esquema d&#x27;esquerra a dreta: un document rotulat «Informe» porta a un llibre obert rotulat «Guia B1 B2 B4», que es bifurca en dos carrils d&#x27;avaluació: un cadenat tancat rotulat «Tancat» i un cadenat obert rotulat «Obert».</media:description></media:content>
-  </item>
-  <item>
-    <title>El marc europeu d&#x27;alfabetització en IA que s&#x27;esperava per al desembre va arribar al juny, amb l&#x27;avaluació de PISA 2029 de fons</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/marco-alfabetizacion-ia-ocde-comision.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/marco-alfabetizacion-ia-ocde-comision.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Fa un any</category>
-    <description>Al novembre de 2025, a qui buscava com treballar el pensament crític amb intel·ligència artificial se li recomanava un marc encara en esborrany, amb la versió definitiva anunciada per al desembre. Va arribar sis mesos més tard.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-12-marco-alfabetizacion-ia-ocde-comision.svg" medium="image" type="image/svg+xml"><media:description>Díptic partit per una línia vertical. A l&#x27;esquerra, «Nov. 2025»: un document de text, «Esborrany», i a sota un requadre puntejat i buit. A la dreta, «Avui»: el mateix document, ja amb una marca de verificació, «Versió 1.0», i a sota un requadre ple que diu «PISA 2029».</media:description></media:content>
-  </item>
-  <item>
-    <title>Claude Whiteboards i Sheets, en beta, i Claude Data, que substitueix Dashboards, es van anunciar el 10 de…</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-12/breve-2.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-12/breve-2.html</guid>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Breus</category>
-    <description>Claude Whiteboards i Sheets, en beta, i Claude Data, que substitueix Dashboards, es van anunciar el 10 de novembre i estan disponibles en tots els plans de pagament.</description>
-  </item>
-  <item>
-    <title>Un segon vídeo amb Fable 5.2 afegeix un agent que revisa el contingut científic abans de generar-lo</title>
-    <link>https://diarioiaeducativa.github.io/ca/2026-11-11/respiracion-celular-revisor.html</link>
-    <guid isPermaLink="true">https://diarioiaeducativa.github.io/ca/2026-11-11/respiracion-celular-revisor.html</guid>
-    <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-    <category>Multimèdia</category>
-    <description>Després de l&#x27;animació de la fotosíntesi, el mateix docent n&#x27;ha fet una sobre la respiració cel·lular amb un agent revisor, i ha traduït la primera al català.</description>
-    <media:content url="https://diarioiaeducativa.github.io/ca/ilustraciones/2026-11-11-respiracion-celular-revisor.svg" medium="image" type="image/svg+xml"><media:description>Cadena de cinc passos amb fletxes, amb els rètols «Text», «Revisor», «Imatges», «Revisor» i «Vídeo», i una lupa en cada pas de revisió.</media:description></media:content>
   </item>
 </channel>
 </rss>
